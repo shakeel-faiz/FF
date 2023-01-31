@@ -45,3 +45,5 @@ To open an ELF file, you need a program that is capable of executing or viewing 
 4. Install required dependencies: If the ELF file is a game or application, make sure that you have the necessary dependencies and libraries installed on your computer before attempting to run the file.
 5. Load the file: Load the ELF file into the emulator or debugger and run or view it as required.
 
+## References
+* [Executable and Linkable Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
