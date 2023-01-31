@@ -43,3 +43,31 @@ Additionally, some .run files may require root privileges to run and install, so
 ```bash
 sudo ./filename.run
 ```
+
+## How to open RUN file?
+
+To open a .run file, you need to make it executable, which can be done with the "chmod" command:
+
+```bash
+chmod +x filename.run 
+```
+
+Once the file is made executable, you can run it by typing:
+
+```bash
+./filename.run
+```
+
+Running a .run file is not the same as opening it in a text editor. Running a .run file will execute its instructions, which could be anything from installing a program to running a script. To view the contents of a .run file, you need to open it in a text editor, such as nano or vim:
+
+```
+nano filename.run
+```
+or
+```
+vim filename.run
+```
+
+## References
+* [How to Execute .bin and .run Files in Ubuntu](https://vitux.com/how-to-execute-bin-and-run-files-in-ubuntu/)
+
