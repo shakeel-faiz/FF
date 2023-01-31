@@ -37,3 +37,16 @@ The .air and .exe are both file formats used to distribute and install applicati
 3. Application development: .exe files are usually created using programming languages specific to Windows, such as C++ or .NET, while .air files can be built using a variety of technologies including HTML, JavaScript, Flex, and ActionScript.
 4. Deployment process: Deployment of .exe files is typically a straightforward process, where users just need to double-click the file and follow the installation process. Deployment of .air files requires the Adobe AIR runtime to be installed on the user's system, but the installation process is still relatively simple, as the user only needs to double-click the .air file to launch the Adobe AIR Installer.
 5. Security: .exe files can be potentially dangerous, as they can contain malware or viruses. To reduce the risk of infection, it is important to only download and install .exe files from trusted sources. Adobe AIR applications, on the other hand, are considered to be relatively secure, as the Adobe AIR runtime has built-in security features that help to prevent malicious code from executing.
+
+## Difference between AIR and DMG
+
+The .air and .dmg are both file formats used to distribute and install applications, but they have some key differences:
+
+1. Platform support: .air files can be used to distribute applications for Windows, macOS, and Linux, while .dmg files are used exclusively for macOS systems.
+2. Required runtime environment: To run a .air file, you need to have the Adobe AIR runtime installed, while .dmg files do not require any special runtime environment.
+3. Application development: .air files can be built using a variety of technologies including HTML, JavaScript, Flex, and ActionScript, while .dmg files can be created using development tools and programming languages specific to macOS.
+4. Deployment process: Deployment of .air files requires the Adobe AIR runtime to be installed on the user's system, but the installation process is still relatively simple, as the user only needs to double-click the .air file to launch the Adobe AIR Installer. On the other hand, .dmg files are typically used to distribute macOS applications and are usually opened by double-clicking the file, which mounts the disk image and presents the user with an installer or an application package to be installed.
+5. File format: .air files are binary files, while .dmg files are disk image files. Disk image files are a type of archive file that contain a complete copy of a data structure, such as a file system or a disk partition, in a single file.
+
+## References
+* [Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR)
