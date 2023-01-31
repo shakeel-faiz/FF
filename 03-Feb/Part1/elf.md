@@ -35,3 +35,13 @@ ELF (Executable and Linkable Format) and DOL (Dolphin) are both file formats use
 
 In general, if you are looking to run an executable file on a Wii or Wii emulator, it is usually recommended to use the DOL format, as it is more compatible with the Wii platform and more efficient in terms of file size and loading. However, if you are developing software for the Wii platform, you may choose to use the ELF format for the development process, and then convert the file to a DOL format for use on the Wii hardware.
 
+## How to open ELF file?
+
+To open an ELF file, you need a program that is capable of executing or viewing the contents of the file. Here are the steps to open an ELF file:
+
+1. Determine the type of file: ELF files can be either executables, libraries, or object files. Determine what type of file you have and what type of program you need to open it.
+2. Use an emulator: If the ELF file is a game or application meant to be run on a Nintendo Wii, you can use a Wii emulator to run the file. Some popular Wii emulators include Dolphin, Cemu, and WiiU Emulator.
+3. Use a debugger: If the ELF file is a library or object file, you may need to use a debugger or disassembler to view the contents of the file. GDB or objdump are popular tools for this purpose.
+4. Install required dependencies: If the ELF file is a game or application, make sure that you have the necessary dependencies and libraries installed on your computer before attempting to run the file.
+5. Load the file: Load the ELF file into the emulator or debugger and run or view it as required.
+
