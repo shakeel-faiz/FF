@@ -13,8 +13,8 @@
   },
   "draft": "false",
   "toc": true,
-  "description": "Learn about PIV file format and APIs that can create and open PIV files.",
   "title": "PIV File Format - Pivot Animator Animation",
+  "description": "Learn about PIV file format and APIs that can create and open PIV files.",
   "linktitle": "PIV",
   "menu": {
     "docs": {
