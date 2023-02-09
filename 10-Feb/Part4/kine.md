@@ -40,3 +40,16 @@ The KINE file is related to KineMaster, which is a powerful video editing softwa
 5. Apply effects: You can enhance your video with various visual effects, such as color correction, filters, and animation layers.
 6. Add audio tracks: You can add audio tracks to your video by selecting audio files from the library or recording new audio using the built-in microphone.
 7. Preview and export: Once you are satisfied with your video, you can preview it to make sure it looks the way you want. Finally, you can export your video to a variety of formats and resolutions, including HD and 4K.
+
+## How to open KINE file?
+
+KINE files can be opened using the KineMaster video editing software. Here are the steps to open a KINE file:
+
+1. Download and install KineMaster on your device, if you haven't already.
+2. Open the KineMaster app on your device.
+3. Tap on the "Projects" tab in the bottom right corner of the screen.
+4. Tap on the "Import" button in the top right corner.
+5. Select the KINE file you want to open from your device's file manager or from a cloud storage service such as Google Drive or Dropbox.
+6. Once the KINE file is imported, you can edit it just like any other project in KineMaster.
+
+Please note that KINE files can only be opened in KineMaster and cannot be opened or edited in other video editing software. If you need to share the project with someone who does not have KineMaster installed, you can export the project as a video file and share it with them.
