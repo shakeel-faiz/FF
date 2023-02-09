@@ -53,3 +53,6 @@ KINE files can be opened using the KineMaster video editing software. Here are t
 6. Once the KINE file is imported, you can edit it just like any other project in KineMaster.
 
 Please note that KINE files can only be opened in KineMaster and cannot be opened or edited in other video editing software. If you need to share the project with someone who does not have KineMaster installed, you can export the project as a video file and share it with them.
+
+## References
+* [KineMaster](https://www.kinemaster.com/)
