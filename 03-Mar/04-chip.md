@@ -44,3 +44,6 @@ However, it is important to note that a CHIP file has a specific format and stru
 ## How to open CHIP file?
 
 Since, CHIP file contains tab-delimited data, so if you want to view the spreadsheet data, you can open it in Microsoft Excel.
+
+## References
+* [GSEA](https://en.wikipedia.org/wiki/Gene_set_enrichment_analysis)
