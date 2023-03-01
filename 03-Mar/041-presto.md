@@ -48,3 +48,6 @@ If you are trying to open a PRESTO project management spreadsheet file, which ha
 3. Navigate to the location where the PRESTO file is saved.
 4. Select the file and click on the "Open" button.
 5. The PRESTO file should now open in Excel, and you can edit and manipulate the data as needed.
+
+## References
+* [Presto](https://www.rib-software.es/)
