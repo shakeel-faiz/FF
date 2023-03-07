@@ -63,6 +63,7 @@ Windows Registry Editor Version 5.00
 ```
 
 This creates a new key called "Example" under the "Software" key in the current user's registry hive, and sets the "Setting1" value to "Value1".
+
 3. Save the file with a .reg file extension.
 4. Double-click on the .reg file to add the new registry entry to the Windows Registry.
 
