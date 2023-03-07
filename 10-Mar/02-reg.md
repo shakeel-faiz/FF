@@ -30,7 +30,7 @@ A REG file is a file format used to import or export Windows Registry data. The 
 
 A REG file typically has a ".reg" file extension and is a plain text file that contains a series of registry entries and values in a specific format. The format consists of a header section that identifies the file as a registry file, followed by a series of key and value pairs that represent registry entries.
 
-## More Information
+## REG File Format - More Information
 
 Here is an example of a reg file format:
 
