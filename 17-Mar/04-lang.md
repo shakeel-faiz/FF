@@ -37,7 +37,7 @@ Language localization is an essential feature of Minecraft as it allows players 
 
 A Minecraft .lang file is a text file, and you can open it using any text editor that supports UTF-8 encoding. Here are the steps to open a .lang file:
 
-1. Navigate to the folder where the .lang file is located. The default location for Minecraft language files is "minecraft/resourcepacks/<resource-pack>/assets/minecraft/lang/", where "<resource-pack>" is the name of the resource pack you are using.
+1. Navigate to the folder where the .lang file is located. The default location for Minecraft language files is `minecraft/resourcepacks/<resource-pack>/assets/minecraft/lang/`, where `<resource-pack>` is the name of the resource pack you are using.
   2. Right-click on the .lang file and select "Open With" from the context menu.
   3. Choose a text editor from the list of programs or select "Choose another app" to browse for a different text editor.
   4. If the text editor you want to use is not listed, click "More apps" and select "Look for another app on this PC" to browse for the program you want to use.
