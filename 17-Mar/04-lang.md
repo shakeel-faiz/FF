@@ -45,4 +45,5 @@ A Minecraft .lang file is a text file, and you can open it using any text editor
 
 Alternatively, you can also drag and drop the .lang file onto your text editor's icon or into an open text editor window to open it.
 
-  
+## References
+* [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
