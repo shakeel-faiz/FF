@@ -46,3 +46,17 @@ Some of the key features of the Unity editor include:
 - Animation window: A tool for creating and editing animations.
 - Audio mixer: A tool for mixing and controlling audio in the game.
 
+## How to open Unity3D file?
+
+To open a Unity3D file, you need to have the Unity game engine installed on your computer. Once you have installed Unity, you can open Unity3D files by following these steps:
+
+1. Launch Unity on your computer.
+2. In the Unity editor, click on the "Open" button in the start screen, or go to "File" > "Open Project" in the menu bar.
+3. Navigate to the folder where your Unity3D file is saved.
+4. Select the Unity3D file you want to open and click "Open".
+5. Unity will then load the project and display the scene and assets contained within the Unity3D file.
+
+If you want to open a specific scene file within the Unity3D project, you can do so by double-clicking on the scene file in the Project view within Unity. It is important to note that Unity3D files can only be opened and edited within the Unity editor. You cannot open Unity3D files in other applications or software, as they are specific to the Unity game engine.
+
+## References
+* [Unity (game engine)](https://en.wikipedia.org/wiki/Unity_(game_engine))
