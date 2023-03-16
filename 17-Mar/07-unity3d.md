@@ -30,3 +30,19 @@
 A Unity3D file is a file format used by the Unity game engine to save a scene, game object, or asset. The file extension for Unity3D files is usually .unity or .unity3d. Unity3D files can contain a variety of information, such as 3D models, textures, scripts, audio files, and more. These files can be opened and edited using the Unity editor, which allows developers to create, modify, and test game content.
 
 Unity3D files can also be exported and imported into other software applications, such as 3D modeling programs or game engines. This allows developers to collaborate on projects and share assets with other team members. Overall, Unity3D files play a critical role in the development of games and interactive experiences using the Unity engine.
+
+## Edit Unity3D file using Unity Editor
+
+The Unity editor is a graphical user interface that allows developers to create, modify, and test game content using the Unity game engine. The Unity editor provides a range of tools and features for designing levels, creating game objects, writing scripts, and much more.
+
+Developers can use the Unity editor to create 3D and 2D games, virtual reality experiences, and other interactive applications. The editor includes a visual scripting system called Unity Visual Scripting (previously known as Unity PlayMaker), which allows developers to create logic and interactions without writing code.
+
+Some of the key features of the Unity editor include:
+
+- Scene view: A real-time view of the game world, allowing developers to move and manipulate objects in the scene.
+- Inspector: A window that displays the properties of the currently selected game object or asset.
+- Hierarchy view: A list of all game objects in the scene, organized in a tree structure.
+- Project view: A list of all assets used in the project, including scripts, textures, models, and audio files.
+- Animation window: A tool for creating and editing animations.
+- Audio mixer: A tool for mixing and controlling audio in the game.
+
