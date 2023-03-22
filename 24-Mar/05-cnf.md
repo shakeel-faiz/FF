@@ -54,4 +54,17 @@ password=password123
 
 Make sure to test any changes made to the CNF file in a non-production environment before implementing them in a production environment.
 
+## How to open CNF file?
 
+To open the MySQL CNF file, you can follow these steps:
+
+1. Locate the MySQL configuration file on your system. The file name is typically my.cnf or mysql.cnf, and it is usually located in the /etc/mysql/ directory.
+2. Open the file using a text editor of your choice. You can do this by right-clicking on the file and selecting "Open With" or by using the command line to open the file.
+3. Once the file is open, you can edit the configuration settings as needed. The CNF file contains various settings that affect the behavior of the MySQL server, such as the port number, buffer sizes, and logging options.
+4. When you have finished editing the file, save the changes and exit the text editor.
+5. Restart the MySQL server for the changes to take effect. You can do this by using the command line or by using a tool like systemctl or service to restart the MySQL service.
+
+Note that it is important to be careful when editing the MySQL configuration file, as incorrect settings can cause the server to behave unpredictably or not start at all. It is recommended to make a backup of the original file before making any changes, so you can restore it if necessary.
+
+## References
+* [MySQL](https://en.wikipedia.org/wiki/MySQL)
