@@ -12,8 +12,8 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "Settings File Format - Visual Studio Settings File",
-  "description": "Learn about Settings format and APIs that can create and open Settings files.",
+  "title": "SETTINGS File Format - Visual Studio Settings File",
+  "description": "Learn about SETTINGS format and APIs that can create and open SETTINGS files.",
   "linktitle": "Settings",
   "menu": {
     "docs": {
@@ -30,7 +30,7 @@ In Visual Studio, the .settings file is a file that contains application setting
 
 Developers can also create custom .settings files for their projects and solutions, which can be used to store additional configuration data that is specific to their application. These custom .settings files can be accessed and modified using the Visual Studio IDE or through code using the ConfigurationManager class in .NET. The .settings file in Visual Studio is an important part of the IDE's configuration system and provides a way for developers to store and manage application settings and preferences within their projects.
 
-## Settings File Format - More Information
+## SETTINGS File Format - More Information
 
 The .settings file consists of several sections, each containing one or more settings. Each setting is defined by a name and a value, and may also include other attributes, such as a description or a default value. 
 
