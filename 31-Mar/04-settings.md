@@ -14,7 +14,7 @@
   "toc": true,
   "title": "SETTINGS File Format - Visual Studio Settings File",
   "description": "Learn about SETTINGS format and APIs that can create and open SETTINGS files.",
-  "linktitle": "Settings",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",
