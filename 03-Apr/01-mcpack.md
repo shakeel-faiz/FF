@@ -1,5 +1,5 @@
 {
-  "date": "2023-03-04",
+  "date": "2023-04-04",
   "keywords": [
     "mcpack file",
     "what is a mcpack file",
@@ -23,7 +23,7 @@
       "parent": "game"
     }
   },
-  "lastmod": "2023-03-04"
+  "lastmod": "2023-04-04"
 }
 
 ## What is a MCPACK file?
