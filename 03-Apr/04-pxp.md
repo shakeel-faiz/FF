@@ -24,7 +24,7 @@
   "lastmod": "2023-04-05"
 }
 
-# What is a PXP file?
+## What is a PXP file?
 
 A PXP file is a game configuration file used by PODBot, a bot plugin for the popular first-person shooter game, Counter-Strike. PODBot allows players to add computer-controlled bots to their Counter-Strike games, providing an additional challenge and allowing them to play even when other players are not available. The PXP file contains the settings and configuration information for the bots, including their skill level, behavior, and other attributes. These files can be customized by players to create their own custom bots, or downloaded from online sources to add pre-made bots to their games.
 
