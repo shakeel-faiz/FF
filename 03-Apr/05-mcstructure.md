@@ -53,4 +53,4 @@ To import an MCSTRUCTURE file in Minecraft, follow these steps:
 5. Once the file is loaded, select "Import" to place the structure in the game world.
 
 ## References
-* [MCSTRUCTURE file](https://wiki.bedrock.dev/nbt/mcstructure.html)
+* [Mcstructure file](https://wiki.bedrock.dev/nbt/mcstructure.html)
