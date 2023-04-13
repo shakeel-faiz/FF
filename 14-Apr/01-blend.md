@@ -6,7 +6,7 @@
     "how to open blend file",
     "file",
     "blend file extension",
-    "extension",
+    "extension"
   ],
   "author": {
     "display_name": "Shakeel Faiz"
