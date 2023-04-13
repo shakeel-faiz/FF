@@ -14,9 +14,9 @@ Editing a DSD file in AutoCAD is a relatively simple process. To begin, open Aut
 
 Locate the DSD file you want to edit in the Sheet Set Manager panel, then right-click on it. The context menu that displays lets you choose "Edit Sheet Set Properties."
 
-This will launch the "Sheet Set Properties" dialogue box, which has a number of tabs with various DSD file editing options. You can add or remove certain drawings from the set using the "Sheet List" tab, for instance, and you can customize various options for printing, publishing, or exporting the drawings in the set using the "Publish Options" tab.
+This will launch "Sheet Set Properties" dialogue box, which has a number of tabs with various DSD file editing options. You can add or remove certain drawings from set using the "Sheet List" tab, for instance, and you can customize various options for printing, publishing, or exporting the drawings in the set using the "Publish Options" tab.
 
-Make the necessary changes to the DSD file using the various tabs in the "Sheet Set Properties" dialog box, and click "OK" to save your changes. Your DSD file should now reflect the updated settings and configurations that you specified.
+Make necessary changes to DSD file using the various tabs in "Sheet Set Properties" dialog box, and click "OK" to save your changes. Your DSD file should now reflect the updated settings and configurations that you specified.
 
 ## References
 * [AutoCad](https://en.wikipedia.org/wiki/AutoCAD)
