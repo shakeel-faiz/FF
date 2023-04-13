@@ -15,13 +15,13 @@ When working with blend files in Blender, users have the ability to password-pro
 A blend file stores all the information pertaining to a 3D scene, encompassing:
 
 - 3D models: The blend file stores all the 3D models created in Blender. This includes mesh geometry, surface textures, and other associated data.
-- Materials: The materials associated with the 3D models in the scene are stored in the blend file. These materials describe how light interacts with the surfaces of the objects in the scene.
-- Textures: Textures that are applied to the surfaces of the 3D models are also stored in the blend file.
+- Materials: The materials associated with 3D models in scene are stored in blend file. These materials describe how light interacts with the surfaces of the objects in the scene.
+- Textures: Textures that are applied to the surfaces of 3D models are also stored in blend file.
 - Python scripts: Python scripts that were utilized in the creation of the scene can also be stored within the blend file.
-- Animations: Any animations that are created within Blender are stored in the blend file. This includes keyframes, timing information, and other animation-related data.
-- Lighting: Information about the lighting in the scene, including the type, position, and color of lights, is stored in the blend file.
-- Camera information: Information about the camera used to capture the 3D scene, such as its position, orientation, and field of view, is also stored in the blend file.
-- Scene settings: Other scene settings, such as the render resolution, render settings, and more, are also stored in the blend file.
+- Animations: Any animations that are created within Blender are stored in blend file. This includes keyframes, timing information, and other animation-related data.
+- Lighting: Information about the lighting in scene, including type, position, and color of lights, is stored in the blend file.
+- Camera information: Information about camera used to capture the 3D scene, such as its position, orientation, and field of view, is also stored in the blend file.
+- Scene settings: Other scene settings, such as render resolution, render settings, and more, are also stored in the blend file.
 
 ## How to open BLEND file?
 You can open BLEND file by launching Blender and then clicking on the "File" menu and selecting "Open" from dropdown menu. Alternatively, you can simply drag and drop the blend file into Blender software and it will open the blend file.
