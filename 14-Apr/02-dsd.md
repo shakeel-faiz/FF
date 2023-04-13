@@ -1,3 +1,30 @@
+{
+  "date": "2023-04-13",
+  "keywords": [
+    "dsd file",
+    "what is a dsd file",
+    "file",
+    "dsd file extension",
+    "how to open dsd file",
+    "how to edit a dsd file in AutoCAD",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DSD File Format - AutoCAD Drawing Set Description File",
+  "description": "Learn about DSD format and APIs that can create and open DSD files.",
+  "linktitle": "DSD",
+  "menu": {
+    "docs": {
+      "identifier": "settings-dsd",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-04-13"
+}
 
 ## What is a DSD file?
 The AutoCAD Drawing Set Description (DSD) file is a text file format utilized by Autodesk's AutoCAD software that includes information regarding a set of drawings. This information includes the names and paths of individual drawings, along with various settings and metadata.
