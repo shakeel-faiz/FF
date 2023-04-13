@@ -1,3 +1,30 @@
+{
+  "date": "2023-04-13",
+  "keywords": [
+    "blend file",
+    "what is a blend file",
+    "how to open blend file",
+    "file",
+    "blend file extension",
+    "extension",
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BLEND File Format - Blender 3D File",
+  "description": "Learn about BLEND format and APIs that can create and open BLEND files.",
+  "linktitle": "BLEND",
+  "menu": {
+    "docs": {
+      "identifier": "3d-blend",
+      "parent": "3d"
+    }
+  },
+  "lastmod": "2023-04-13"
+}
+
 ## What is a BLEND file?
 
 A blend file is a file format utilized by Blender, a widely-used 3D modeling and animation software. It is the default file format used by Blender to save and store all the data related to a 3D scene, including 3D models, materials, textures, animations, and more.
