@@ -1,3 +1,31 @@
+{
+  "date": "2023-04-18",
+  "keywords": [
+    "epk file",
+    "what is an epk file",
+    "How can I create an EPK file for Eaglercraft game world",
+    "Is Eaglercraft real Minecraft?",
+    "file",
+    "epk file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EPK File Format - Eaglercraft Asset Package",
+  "description": "Learn about EPK format and APIs that can create and open EPK files.",
+  "linktitle": "EPK",
+  "menu": {
+    "docs": {
+      "identifier": "game-epk",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-04-18"
+}
+
 ## What is an EPK file?
 
 In the context of Eaglercraft, an EPK file would refer to asset package or world backup used by this fan-made version of Minecraft. These files would contain data related to custom textures, sounds and other assets used in Eaglercraft, as well as information about game world itself e.g. terrain, buildings, and other structures.
