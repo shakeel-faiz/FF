@@ -1,3 +1,29 @@
+{
+  "date": "2023-04-17",
+  "keywords": [
+    "ipsw file",
+    "what is an ipsw file",
+    "Is it possible to downgrade iOS using IPSW file",
+    "file",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "IPSW File Format - iPhone Software Update File",
+  "description": "Learn about IPSW format and APIs that can create and open IPSW files.",
+  "linktitle": "IPSW",
+  "menu": {
+    "docs": {
+      "identifier": "misc-ipsw",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-04-17"
+}
+
 ## What is an IPSW file?
 
 An IPSW file, which stands for iPhone/iPad Software, is firmware package designed for Apple devices like iPhones, iPads, and iPods. It comprises essential software such as operating system and device drivers required to operate device. IPSW files are typically used for upgrading or restoring iOS devices using iTunes or Finder on a Mac, or using built-in Software Update feature on iOS device. They can also be used to install beta versions of iOS for testing purposes.
