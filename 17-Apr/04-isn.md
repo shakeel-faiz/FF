@@ -1,3 +1,29 @@
+{
+  "date": "2023-04-20",
+  "keywords": [
+    "isn file",
+    "what is an isn file",
+    "Installation Process of ISN file",
+    "file",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ISN File Format - Installer Source File",
+  "description": "Learn about ISN format and APIs that can create and open ISN files.",
+  "linktitle": "ISN",
+  "menu": {
+    "docs": {
+      "identifier": "misc-isn",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-04-20"
+}
+
 ## What is an ISN file?
 
 ISN refers to "Installer Source File" and it is a file format commonly used for software installation packages on Windows operating systems. An ISN file contains all the necessary files and instructions needed to install a program or application on computer. Developers create ISN files with software development tools and can share them with users via different channels including physical media, network shares or the internet. Upon running ISN file, a wizard appears that assists users in installing software by offering various options, such as selecting installation preferences, specifying installation directories and configuring necessary settings.
