@@ -1,3 +1,29 @@
+{
+  "date": "2023-04-27",
+  "keywords": [
+    "pdm file",
+    "what is a pdm file",
+    "file",
+    "pdm file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDM File Format - PowerDesigner Database File",
+  "description": "Learn about PDM format and APIs that can create and open PDM files.",
+  "linktitle": "PDM",
+  "menu": {
+    "docs": {
+      "identifier": "database-pdm",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-04-27"
+}
+
 ## What is a PDM file?
 
 A PowerDesigner Database File, also known as .pdm file, is a file format used by PowerDesigner software from SAP. PowerDesigner is a data modeling and design tool that is used to create and manage database models, business process models and other types of models.
