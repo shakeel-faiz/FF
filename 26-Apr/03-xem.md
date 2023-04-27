@@ -1,3 +1,31 @@
+{
+  "date": "2023-04-27",
+  "keywords": [
+    "xem file",
+    "what is a xem file",
+    "what is the format of xem file",
+    "what does xem file contain",
+    "file",
+    "xem file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XEM File Format - PowerDesigner Model definition File",
+  "description": "Learn about XEM format and APIs that can create and open XEM files.",
+  "linktitle": "XEM",
+  "menu": {
+    "docs": {
+      "identifier": "database-xem",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-04-27"
+}
+
 ## What is a XEM file?
 
 XEM file is XML metadata interchange file that can be used to export metadata information about PowerDesigner model to external file. XEM file includes information about the model including entities, relationships, keys, diagrams and other relevant metadata. The file can be used to transfer or share model with other users or systems or to create a backup of the model for safekeeping.
