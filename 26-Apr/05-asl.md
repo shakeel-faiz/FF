@@ -1,3 +1,29 @@
+{
+  "date": "2023-04-28",
+  "keywords": [
+    "asl file",
+    "what is an asl file",
+    "file",
+    "asl file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASL File Format - Photoshop Layer Style",
+  "description": "Learn about ASL format and APIs that can create and open ASL files.",
+  "linktitle": "ASL",
+  "menu": {
+    "docs": {
+      "identifier": "settings-asl",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-04-28"
+}
+
 ## What is an ASL file?
 
 An ASL file is a file format used by Adobe Photoshop to store and share sets of layer styles. A layer style is a combination of effects and settings that can be applied to layer in Photoshop such as drop shadows, glows and strokes.
