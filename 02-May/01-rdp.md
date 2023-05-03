@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-02",
+  "keywords": [
+    "rdp file",
+    "what is a rdp file",
+    "what does rdp file contain",
+    "what is the format of rdp file",
+    "file",
+    "rdp file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RDP File Format - Remote Desktop Configuration File",
+  "description": "Learn about RDP format and APIs that can create and open RDP files.",
+  "linktitle": "RDP",
+  "menu": {
+    "docs": {
+      "identifier": "settings-rdp",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-05-02"
+}
+
 ## What is a RDP file?
 
 The .rdp file extension is used for Remote Desktop Protocol (RDP) files. RDP is a proprietary protocol developed by Microsoft that allows users to connect to remote computer over network connection. RDP files contain configuration settings that are used to establish remote desktop session with specific computer.
