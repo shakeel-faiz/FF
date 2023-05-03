@@ -1,3 +1,30 @@
+{
+  "date": "2023-05-02",
+  "keywords": [
+    "obi file",
+    "what is an obi file",
+    "what is the format of obi file",
+    "file",
+    "obi file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBI File Format - Outlook RSS Subscription File",
+  "description": "Learn about OBI format and APIs that can create and open OBI files.",
+  "linktitle": "OBI",
+  "menu": {
+    "docs": {
+      "identifier": "settings-obi",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-05-02"
+}
+
 ## What is an OBI file?
 
 OBI file is Outlook RSS Subscription File that allows users to subscribe to an RSS feed in Microsoft Outlook. RSS stands for Really Simple Syndication which is a web feed format used to publish frequently updated content such as blog posts, news headlines, or podcasts.
