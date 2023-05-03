@@ -24,3 +24,6 @@ A TXD file contains texture data used by Grand Theft Auto (GTA) series of video 
 - **Mipmaps:** In addition to the primary texture images, a TXD file may also contain pre-rendered smaller versions of the textures called mipmaps. These mipmaps are used by the game engine to improve performance by displaying lower-resolution versions of textures when the object being rendered is farther away.
 - **Palette data:** For indexed color textures, a TXD file may also contain a palette that maps the color indices in the texture to specific RGB color values.
 - **Other data:** Finally, a TXD file may contain other data such as configuration information for the game engine or information about the specific version of the game.
+
+## References
+* [TXD](https://gta.fandom.com/wiki/TXD)
