@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-04",
+  "keywords": [
+    "apm file",
+    "what is an apm file",
+    "what does apm file contain",
+    "possible apm conversions",
+    "file",
+    "apm file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APM File Format - Aldus Placeable Metafile Image",
+  "description": "Learn about APM format and APIs that can create and open APM files.",
+  "linktitle": "APM",
+  "menu": {
+    "docs": {
+      "identifier": "image-apm",
+      "parent": "image"
+    }
+  },
+  "lastmod": "2023-05-04"
+}
+
 ## What is an APM file?
 
 An APM file is a vector image file format saved in Aldus Placeable Metafile format. It was developed by Aldus Corporation which is now part of Adobe Systems.
