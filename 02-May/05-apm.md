@@ -13,11 +13,8 @@ If you have an APM file that you need to open, you may need to use older version
 The Aldus Placeable Metafile (APM) format is a vector graphics file format that stores image data using set of commands and structures. Here is brief overview of the file structure of APM file:
 
 - **File Header:** The APM file begins with file header that contains information about the file format such as the version number and size of the file.
-
 - **Metafile Header:** The metafile header contains information about the structure and content of image data such as the dimensions of image, the number of objects in the image and the resolution.
-
 - **Object Records:** The APM file contains set of object records that define individual objects in the image such as lines, curves and shapes. Each object record contains set of commands that describe how to draw the object on screen.
-
 - **End of Metafile Record:** The end of metafile record marks the end of APM file and contains information about any resources used in the file such as fonts and patterns.
 
 The file structure of APM file is hierarchical with each object record containing a set of commands that describe how to draw the object on screen. This structure allows for efficient storage and editing of vector graphics data.
@@ -29,11 +26,8 @@ Since Aldus Placeable Metafile (APM) format is an older format that is no longer
 Here are some file formats to which APM file can be converted:
 
 - **Enhanced Metafile Format (EMF):** EMF is a vector graphics file format that is widely supported by Windows-based software applications.
-
 - **Windows Metafile Format (WMF):** WMF is another vector graphics file format that is widely supported by Windows-based software applications.
-
 - **Scalable Vector Graphics (SVG):** SVG is a vector graphics file format that is supported by many modern web browsers and software applications.
-
 - **Encapsulated PostScript (EPS):** EPS is a vector graphics file format that is supported by many graphics software applications and is commonly used in the printing industry.
 
 To convert APM file to one of these formats, you will need to use file conversion tool or graphics software application that supports APM format and can export to the desired format.
