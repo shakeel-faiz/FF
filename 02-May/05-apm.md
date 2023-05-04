@@ -31,3 +31,6 @@ Here are some file formats to which APM file can be converted:
 - **Encapsulated PostScript (EPS):** EPS is a vector graphics file format that is supported by many graphics software applications and is commonly used in the printing industry.
 
 To convert APM file to one of these formats, you will need to use file conversion tool or graphics software application that supports APM format and can export to the desired format.
+
+## References
+[Aldus Placeable Metafile format](https://ftp.zx.net.nz/pub/archive/ftp.microsoft.com/MISC/KB/en-us/129/658.HTM)
