@@ -1,3 +1,30 @@
+{
+  "date": "2023-05-03",
+  "keywords": [
+    "txd file",
+    "what is a txd file",
+    "What does txd file contain",
+    "file",
+    "txd file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TXD File Format - Game Texture Dictionary",
+  "description": "Learn about TXD format and APIs that can create and open TXD files.",
+  "linktitle": "TXD",
+  "menu": {
+    "docs": {
+      "identifier": "game-txd",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-05-03"
+}
+
 ## What is a TXD file?
 
 A TXD file is a texture dictionary file used by Grand Theft Auto (GTA) series of video games. It contains game's textures which are applied to 3D objects in the game world to create a realistic environment.
