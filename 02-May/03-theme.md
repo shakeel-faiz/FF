@@ -57,3 +57,6 @@ When a .theme file is opened, it is read by the Windows operating system, which 
 - Cursor or mouse pointer style
 
 Overall, a Microsoft Plus! Desktop Theme file allows users to easily customize the visual and audio elements of their Windows desktop with a single click.
+
+## References
+* [Desktop Themes](https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
