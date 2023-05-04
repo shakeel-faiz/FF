@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-03",
+  "keywords": [
+    "theme file",
+    "what is a theme file",
+    "what does theme file contain",
+    "theme information",
+    "file",
+    "theme file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "THEME File Format - Microsoft Plus! Desktop Theme",
+  "description": "Learn about THEME format and APIs that can create and open THEME files.",
+  "linktitle": "THEME",
+  "menu": {
+    "docs": {
+      "identifier": "settings-theme",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-05-03"
+}
+
 ## What is a THEME file?
 
 A theme file is a file that contains design elements for graphical user interface (GUI) such as colors, fonts, images and other visual elements. It is used to customize the appearance of application, website or operating system.
