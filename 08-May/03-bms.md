@@ -1,3 +1,32 @@
+{
+  "date": "2023-05-08",
+  "keywords": [
+    "bms file",
+    "what is a bms file",
+    "what is the format of bms file",
+    "what does bms file contain",
+    "how to open bms file",
+    "file",
+    "bms file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BMS File Format - QuickBMS Script",
+  "description": "Learn about BMS format and APIs that can create and open BMS files.",
+  "linktitle": "BMS",
+  "menu": {
+    "docs": {
+      "identifier": "executable-bms",
+      "parent": "executable"
+    }
+  },
+  "lastmod": "2023-05-08"
+}
+
 ## What is a BMS file?
 
 A .bms file is a script file used by the QuickBMS tool. QuickBMS uses these script files to define how it should extract or decompress data from specific file or archive format. QuickBMS is a file extraction and conversion tool that can handle wide variety of file formats including archives, disk images, game data and more.
