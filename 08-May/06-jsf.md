@@ -31,4 +31,5 @@ The specifications of JSF file format are not publicly available, as it is propr
 The JSF file format also includes metadata about recorded actions, such as the name of command, the time it was recorded and version of Fireworks that was used to create the file.
 
 **Note:**
+
 Adobe Fireworks has been discontinued and is no longer being updated by Adobe, so JSF file format is becoming increasingly outdated. However, Fireworks is still used by many designers and developers and JSF file format remains a useful tool for automating repetitive tasks in application.
