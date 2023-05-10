@@ -1,3 +1,33 @@
+{
+  "date": "2023-05-09",
+  "keywords": [
+    "mlx file",
+    "what is a mlx file",
+    "what is the format of mlx file",
+    "what does mlx file contain",
+    "how to create mlx file with MATLAB",
+    "how to open mlx file",
+    "file",
+    "mlx file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MLX File Format - MATLAB Live Code File",
+  "description": "Learn about MLX format and APIs that can create and open MLX files.",
+  "linktitle": "MLX",
+  "menu": {
+    "docs": {
+      "identifier": "executable-mlx",
+      "parent": "executable"
+    }
+  },
+  "lastmod": "2023-05-09"
+}
+
 ## What is a MLX file?
 
 MLX file is a type of file format used in MATLAB, a programming language and computing environment for numerical computation and data analysis. The MLX file format is used for MATLAB Live Scripts, which combine text, code and visualizations in single interactive document.
