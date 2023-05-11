@@ -28,7 +28,7 @@
 
 ## What is a DXB file?
 
-DXB stands for Drawing Exchange Binary, which is a file format used in computer-aided design (CAD) software. DXB files contain binary data that represent 2D vector graphics and are used to exchange drawings between different CAD programs. They are typically created by exporting drawing from CAD program in DXB format and then importing it into another CAD program.
+DXB stands for Drawing Exchange Binary, which is a file format used in computer-aided design (CAD) software. DXB files contain binary data that represent 2D vector graphics and are used to exchange drawings between different CAD programs. They are typically created by exporting drawing from CAD program in DXB format and then importing it into another CAD program. 
 
 DXB format is less commonly used today than other CAD file formats like DXF or DWG. However, some older CAD programs may still use DXB as file format for exporting or importing drawings.
 
