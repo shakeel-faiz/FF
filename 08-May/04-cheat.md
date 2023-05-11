@@ -28,6 +28,7 @@
 }
 
 ## What is a CHEAT file?
+
 In the context of Navi, cheat file is a text file that contains list of terminal commands or shell scripts that can be accessed through Navi interface. When you search for specific command or topic in Navi, it will display relevant cheat files that you can browse and search through to find the information you need.
 
 Navi is a command-line interface tool that provides a way to quickly search and access documentation for variety of programming languages, tools, and frameworks.
