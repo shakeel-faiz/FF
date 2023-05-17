@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-16",
+  "keywords": [
+    "ddt file",
+    "what is a ddt file",
+    "what does ddt file contain",
+    "what is the format of ddt file",
+    "file",
+    "ddt file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DDT File Format - Football Manager Game Data File",
+  "description": "Learn about DDT format and APIs that can create and open DDT files.",
+  "linktitle": "DDT",
+  "menu": {
+    "docs": {
+      "identifier": "game-ddt",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-05-16"
+}
+
 ## What is a DDT file?
 
 A DDT file, in the context of Football Manager, is a data file used by the game to store various information related to player attributes, team data, match statistics, and other game-related data. These files are specific to the Football Manager game and are not commonly used outside of the game's ecosystem.
