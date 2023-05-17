@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-16",
+  "keywords": [
+    "kodu file",
+    "what is a kodu file",
+    "what does kodu file contain",
+    "what is the format of kodu file",
+    "file",
+    "kodu file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "KODU File Format - Kodu Game File",
+  "description": "Learn about KODU format and APIs that can create and open KODU files.",
+  "linktitle": "KODU",
+  "menu": {
+    "docs": {
+      "identifier": "game-kodu",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-05-16"
+}
+
 ## What is a KODU file?
 
 A .kodu file is a file format used by Kodu Game Lab to save and store Kodu game projects. It contains all the necessary information about game, including terrain, objects, characters and programming logic.
