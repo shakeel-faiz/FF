@@ -1,3 +1,30 @@
+{
+  "date": "2023-05-16",
+  "keywords": [
+    "sami file",
+    "what is a sami file",
+    "example of sami file",
+    "file",
+    "sami file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SAMI File Format - Subtitles And Metadata Interchange File",
+  "description": "Learn about SAMI format and APIs that can create and open SAMI files.",
+  "linktitle": "SAMI",
+  "menu": {
+    "docs": {
+      "identifier": "video-sami",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-05-16"
+}
+
 ## What is a SAMI file?
 
 A file with the extension ".sami" typically refers to a Subtitles And Metadata Interchange (SAMI) file. SAMI is a captioning format used for displaying subtitles or closed captions in videos. It was originally developed by Microsoft for their Windows Media Player.
