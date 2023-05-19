@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-18",
+  "keywords": [
+    "scworld file",
+    "what is a scworld file",
+    "what does scworld file contain",
+    "what is the format of scworld file",
+    "file",
+    "scworld file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SCWORLD File Format - Survivalcraft World File",
+  "description": "Learn about SCWORLD format and APIs that can create and open SCWORLD files.",
+  "linktitle": "SCWORLD",
+  "menu": {
+    "docs": {
+      "identifier": "game-scworld",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-05-18"
+}
+
 ## What is a SCWORLD file?
 
 A ".scworld" is related to Survivalcraft which is a sandbox video game available on various platforms, including mobile devices and Windows. In Survivalcraft, players can explore and build in a virtual world.
