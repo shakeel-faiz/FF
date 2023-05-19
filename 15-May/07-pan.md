@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-18",
+  "keywords": [
+    "pan file",
+    "what is a pan file",
+    "what does pan file contain",
+    "what is the format of pan file",
+    "file",
+    "pan file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PAN File Format - Kodu Game File",
+  "description": "Learn about PAN format and APIs that can create and open PAN files.",
+  "linktitle": "PAN",
+  "menu": {
+    "docs": {
+      "identifier": "database-pan",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-05-18"
+}
+
 ## What is a PAN file?
 
 A PAN file, in the context of Panorama, refers to a database file created by Panorama database software. Panorama is a database management system developed by ProVUE Development for macOS.
