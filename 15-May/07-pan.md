@@ -28,7 +28,7 @@
 
 ## What is a PAN file?
 
-A PAN file, in the context of Panorama, refers to a database file created by Panorama database software. Panorama is a database management system developed by ProVUE Development for macOS.
+A PAN file, in the context of Panorama, refers to a database file created by Panorama database software. Panorama is a database management system developed by ProVUE Development for macOS..
 
 The PAN file extension is used to represent a Panorama database file, which stores structured data in a tabular format. These files can contain tables, records, fields, and data entries. Panorama provides tools for managing and manipulating data within these databases.
 
