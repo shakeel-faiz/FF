@@ -14,7 +14,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "PAN File Format - Kodu Game File",
+  "title": "PAN File Format - Panorama Database File",
   "description": "Learn about PAN format and APIs that can create and open PAN files.",
   "linktitle": "PAN",
   "menu": {
