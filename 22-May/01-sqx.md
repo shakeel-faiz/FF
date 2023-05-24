@@ -1,3 +1,30 @@
+{
+  "date": "2023-05-22",
+  "keywords": [
+    "sqx file",
+    "what is a sqx file",
+    "what is the format of sqx file",
+    "file",
+    "sqx file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SQX File Format - SQX Archive",
+  "description": "Learn about SQX format and APIs that can create and open SQX files.",
+  "linktitle": "SQX",
+  "menu": {
+    "docs": {
+      "identifier": "compression-sqx",
+      "parent": "compression"
+    }
+  },
+  "lastmod": "2023-05-22"
+}
+
 ## What is a SQX file?
 
 SQX file is typically associated with SQX Archiver which is file compression and archiving utility. SQX Archiver is alternative to other popular compression formats like ZIP or RAR.
