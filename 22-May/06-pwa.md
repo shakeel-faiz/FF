@@ -1,6 +1,33 @@
+{
+  "date": "2023-05-24",
+  "keywords": [
+    "pwa file",
+    "what is a pwa file",
+    "Password Agent Software",
+    "file",
+    "pwa file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PWA File Format - Password Agent File",
+  "description": "Learn about PWA format and APIs that can create and open PWA files.",
+  "linktitle": "PWA",
+  "menu": {
+    "docs": {
+      "identifier": "compression-pwa",
+      "parent": "compression"
+    }
+  },
+  "lastmod": "2023-05-24"
+}
+
 ## What is a PWA file?
 
-PWA file is related to Password Agent. The Password Agent software uses secure encrypted database file format to store password and other sensitive information. The specific file format used by Password Agent is proprietary and may not be publicly documented.
+PWA file is related to Password Agent. The Password Agent software uses compressed and secure encrypted database file format to store password and other sensitive information. The specific file format used by Password Agent is proprietary and may not be publicly documented.
 
 Password Agent typically saves its encrypted database as a single file with ".pwa" extension. This file contains all the password entries and other data securely encrypted to protect information from unauthorized access.
 
