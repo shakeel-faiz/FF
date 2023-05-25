@@ -1,3 +1,31 @@
+{
+  "date": "2023-05-24",
+  "keywords": [
+    "smpf file",
+    "what is a smpf file",
+    "Sprite Monkey Application",
+    "What are Sprite Images",
+    "file",
+    "smpf file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SMPF File Format - Sprite Monkey Project",
+  "description": "Learn about SMPF format and APIs that can create and open SMPF files.",
+  "linktitle": "SMPF",
+  "menu": {
+    "docs": {
+      "identifier": "compression-smpf",
+      "parent": "compression"
+    }
+  },
+  "lastmod": "2023-05-24"
+}
+
 ## What is a SMPF file?
 
 SMPF file is a compressed project file format utilized by Sprite Monkey, a lightweight application designed for efficient editing of sprite images. These files store both the sprite images themselves and the corresponding coordinate information specified within the user's project.
