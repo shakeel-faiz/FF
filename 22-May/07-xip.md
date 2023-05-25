@@ -1,3 +1,32 @@
+{
+  "date": "2023-05-24",
+  "keywords": [
+    "xip file",
+    "what is a xip file",
+    "how to open xip fie",
+    "what does xip file contain",
+    "what is the format of xip file",
+    "file",
+    "xip file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XIP File Format - MacOS Signed Archive",
+  "description": "Learn about XIP format and APIs that can create and open XIP files.",
+  "linktitle": "XIP",
+  "menu": {
+    "docs": {
+      "identifier": "compression-xip",
+      "parent": "compression"
+    }
+  },
+  "lastmod": "2023-05-24"
+}
+
 ## What is a XIP file?
 
 A .xip file is a compressed archive format commonly used on macOS. It stands for "Xcode Archive" and it is primarily associated with Apple's Xcode development environment.
