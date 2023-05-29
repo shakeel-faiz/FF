@@ -54,3 +54,6 @@ The AIF (Audio Interchange File Format) has a specific file format that determin
 ## What is MIME type of AIF file?
 
 - `audio/aiff`
+
+## References
+* [Audio Interchange File Format](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
