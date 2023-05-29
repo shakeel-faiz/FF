@@ -17,3 +17,14 @@ There are several software programs that can open and work with AIF files. Here 
 - **Avid Pro Tools:** Pro Tools is widely used DAW in professional audio industry. It supports AIFF files and provides comprehensive recording, editing and mixing capabilities.
 - **Steinberg Cubase:** Cubase is popular DAW developed by Steinberg. It supports AIFF files and offers range of features for music production including recording, editing and mixing.
 - **Audacity:** Audacity is free and open-source audio editing software available for Windows, macOS and Linux. It can import and export AIF files and provides basic editing and effects tools.
+
+## What is the file structure of AIF file?
+
+Here is a brief overview of AIF file structure:
+
+- **FORM chunk:** The file starts with a FORM chunk, which serves as main container for all other chunks in file. It identifies the file as AIF file.
+- **COMM chunk:** This chunk contains information about audio data such as the sample rate, bit depth, number of channels and duration of the audio.
+- **SSND chunk:** The audio data itself is stored in SSND (Sound Data) chunk. It contains actual audio samples in PCM format. This chunk also includes information like the offset, block size and data size.
+- **Optional chunks:** AIF files can include additional chunks for storing metadata or other types of information. Some common optional chunks include NAME (file name), AUTH (author), ANNO (annotation) and INST (instrumentation).
+
+Each chunk has a specific identifier, size and data associated with it. The file structure is typically sequential, with chunks appearing one after another within the file. AIF files can be both uncompressed and lossless, meaning they retain the original audio quality. However, due to lack of compression, AIF files tend to be larger in size compared to compressed audio formats like MP3.
