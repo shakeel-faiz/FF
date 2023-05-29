@@ -13,9 +13,9 @@ There are several software programs that can open and work with AIF files. Here 
 - **Apple iTunes:** The default media player for Apple devices, iTunes supports AIF files and allows to play, organize and manage audio library.
 - **Apple GarageBand:** GarageBand is music production software developed by Apple. It supports AIF files and offers various tools for recording, editing and mixing audio.
 - **Apple Logic Pro:** Logic Pro is professional digital audio workstation (DAW) developed by Apple. It fully supports AIF files and provides advanced audio editing, mixing and production capabilities.
-- **Adobe Audition:** Adobe Audition is powerful audio editing software that supports wide range of file formats including AIFF. It offers advanced editing features, effects, and multitrack capabilities.
-- **Avid Pro Tools:** Pro Tools is widely used DAW in professional audio industry. It supports AIFF files and provides comprehensive recording, editing and mixing capabilities.
-- **Steinberg Cubase:** Cubase is popular DAW developed by Steinberg. It supports AIFF files and offers range of features for music production including recording, editing and mixing.
+- **Adobe Audition:** Adobe Audition is powerful audio editing software that supports wide range of file formats including AIF. It offers advanced editing features, effects, and multitrack capabilities.
+- **Avid Pro Tools:** Pro Tools is widely used DAW in professional audio industry. It supports AIF files and provides comprehensive recording, editing and mixing capabilities.
+- **Steinberg Cubase:** Cubase is popular DAW developed by Steinberg. It supports AIF files and offers range of features for music production including recording, editing and mixing.
 - **Audacity:** Audacity is free and open-source audio editing software available for Windows, macOS and Linux. It can import and export AIF files and provides basic editing and effects tools.
 
 ## What is the file structure of AIF file?
@@ -35,7 +35,7 @@ An AIF (Audio Interchange File Format) file contains audio data, metadata and ot
 
 - **Audio Data:** The main component of an AIF file is the audio data itself. It stores the actual waveform samples that represent the audio content. 
 - **Audio Format Information:** The AIF file includes information about the audio format, such as the sample rate, bit depth, and number of channels. 
-- **Chunk Structure:** The AIFF file is organized into chunks, which are sections of data that store specific information. The chunks include the FORM chunk (identifying the file as AIF), the COMM chunk (containing audio format information), and the SSND chunk (holding the audio data). Optional chunks like NAME, AUTH, ANNO, and INST can also be present, providing additional metadata.
+- **Chunk Structure:** The AIF file is organized into chunks, which are sections of data that store specific information. The chunks include the FORM chunk (identifying the file as AIF), the COMM chunk (containing audio format information), and the SSND chunk (holding the audio data). Optional chunks like NAME, AUTH, ANNO, and INST can also be present, providing additional metadata.
 - **Metadata:** AIF files can store various metadata about the audio, such as the title, artist, album, genre, track number and duration. 
 - **Instrumentation Information:** Some AIF files may include specific chunks, such as the INST chunk, which can contain details about the instruments used in the recording or information related to MIDI (Musical Instrument Digital Interface).
 
