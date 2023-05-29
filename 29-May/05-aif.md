@@ -51,3 +51,6 @@ The AIF (Audio Interchange File Format) has a specific file format that determin
   - Optional Chunks:
 - **Padding:**
 
+## What is MIME type of AIF file?
+
+- `audio/aiff`
