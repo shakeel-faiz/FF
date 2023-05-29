@@ -43,11 +43,11 @@ An AIF (Audio Interchange File Format) file contains audio data, metadata and ot
 
 The AIF (Audio Interchange File Format) has a specific file format that determines how the data is structured and stored within the file. Here is general overview of AIF file format.
 
-- File Header:
-- Chunks:
+- **File Header:**
+- **Chunks:**
   - FORM Chunk:
   - COMM Chunk:
   - SSND Chunk:
   - Optional Chunks:
-- Padding:
+- **Padding:**
 
