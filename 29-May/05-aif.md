@@ -28,3 +28,13 @@ Here is a brief overview of AIF file structure:
 - **Optional chunks:** AIF files can include additional chunks for storing metadata or other types of information. Some common optional chunks include NAME (file name), AUTH (author), ANNO (annotation) and INST (instrumentation).
 
 Each chunk has a specific identifier, size and data associated with it. The file structure is typically sequential, with chunks appearing one after another within the file. AIF files can be both uncompressed and lossless, meaning they retain the original audio quality. However, due to lack of compression, AIF files tend to be larger in size compared to compressed audio formats like MP3.
+
+## What does AIF file contain?
+
+An AIF (Audio Interchange File Format) file contains audio data, metadata and other information related to audio. Here is a breakdown of what you can typically find within an AIF file:
+
+- **Audio Data:** The main component of an AIFF file is the audio data itself. It stores the actual waveform samples that represent the audio content. 
+- **Audio Format Information:** The AIFF file includes information about the audio format, such as the sample rate, bit depth, and number of channels. 
+- **Chunk Structure:** The AIFF file is organized into chunks, which are sections of data that store specific information. The chunks include the FORM chunk (identifying the file as AIFF), the COMM chunk (containing audio format information), and the SSND chunk (holding the audio data). Optional chunks like NAME, AUTH, ANNO, and INST can also be present, providing additional metadata.
+- **Metadata:** AIF files can store various metadata about the audio, such as the title, artist, album, genre, track number and duration. 
+- **Instrumentation Information:** Some AIFF files may include specific chunks, such as the INST chunk, which can contain details about the instruments used in the recording or information related to MIDI (Musical Instrument Digital Interface).
