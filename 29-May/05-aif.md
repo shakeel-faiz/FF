@@ -33,8 +33,21 @@ Each chunk has a specific identifier, size and data associated with it. The file
 
 An AIF (Audio Interchange File Format) file contains audio data, metadata and other information related to audio. Here is a breakdown of what you can typically find within an AIF file:
 
-- **Audio Data:** The main component of an AIFF file is the audio data itself. It stores the actual waveform samples that represent the audio content. 
-- **Audio Format Information:** The AIFF file includes information about the audio format, such as the sample rate, bit depth, and number of channels. 
-- **Chunk Structure:** The AIFF file is organized into chunks, which are sections of data that store specific information. The chunks include the FORM chunk (identifying the file as AIFF), the COMM chunk (containing audio format information), and the SSND chunk (holding the audio data). Optional chunks like NAME, AUTH, ANNO, and INST can also be present, providing additional metadata.
+- **Audio Data:** The main component of an AIF file is the audio data itself. It stores the actual waveform samples that represent the audio content. 
+- **Audio Format Information:** The AIF file includes information about the audio format, such as the sample rate, bit depth, and number of channels. 
+- **Chunk Structure:** The AIFF file is organized into chunks, which are sections of data that store specific information. The chunks include the FORM chunk (identifying the file as AIF), the COMM chunk (containing audio format information), and the SSND chunk (holding the audio data). Optional chunks like NAME, AUTH, ANNO, and INST can also be present, providing additional metadata.
 - **Metadata:** AIF files can store various metadata about the audio, such as the title, artist, album, genre, track number and duration. 
-- **Instrumentation Information:** Some AIFF files may include specific chunks, such as the INST chunk, which can contain details about the instruments used in the recording or information related to MIDI (Musical Instrument Digital Interface).
+- **Instrumentation Information:** Some AIF files may include specific chunks, such as the INST chunk, which can contain details about the instruments used in the recording or information related to MIDI (Musical Instrument Digital Interface).
+
+## What is the format of AIF file?
+
+The AIF (Audio Interchange File Format) has a specific file format that determines how the data is structured and stored within the file. Here is general overview of AIF file format.
+
+- File Header:
+- Chunks:
+  - FORM Chunk:
+  - COMM Chunk:
+  - SSND Chunk:
+  - Optional Chunks:
+- Padding:
+
