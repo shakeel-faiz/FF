@@ -1,10 +1,38 @@
+{
+  "date": "2023-05-29",
+  "keywords": [
+    "nes file",
+    "what is a nes file",
+    "what does nes file contain",
+    "what is the format of nes file",
+    "file",
+    "nes file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NES File Format - Nintendo Entertainment System ROM File",
+  "description": "Learn about NES format and APIs that can create and open NES files.",
+  "linktitle": "NES",
+  "menu": {
+    "docs": {
+      "identifier": "game-nes",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-05-29"
+}
+
 ## What is a NES file?
 
 A .nes file is a file format used for Nintendo Entertainment System (NES) ROM images. NES ROMs contain the game data for original NES games, allowing them to be played on emulators or NES console clones.
 
 The .nes file format typically stores program code, graphics and sound data of the game. It is a binary format that represents the data in a way that NES hardware can understand and execute.
 
-## What does NFS file contain?
+## What does NES file contain?
 
 A .nes file contains ROM image of Nintendo Entertainment System (NES) game. The ROM image is a complete snapshot of game's data and code, allowing it to be loaded and played on an NES emulator or compatible hardware.
 
