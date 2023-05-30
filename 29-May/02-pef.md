@@ -1,3 +1,32 @@
+{
+  "date": "2023-05-29",
+  "keywords": [
+    "pef file",
+    "what is a pef file",
+    "how to open pef file",
+    "what does pef file contain",
+    "what is the format of pef file",
+    "file",
+    "pef file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PEF File Format - Pentax Electronic File",
+  "description": "Learn about PEF format and APIs that can create and open PEF files.",
+  "linktitle": "PEF",
+  "menu": {
+    "docs": {
+      "identifier": "image-pef",
+      "parent": "image"
+    }
+  },
+  "lastmod": "2023-05-29"
+}
+
 ## What is a PEF file?
 
 A PEF file is a file format commonly associated with digital photography and is used by Pentax cameras. PEF stands for Pentax Electronic File and is a raw image file format, meaning it contains minimally processed data directly from the camera's image sensor.
