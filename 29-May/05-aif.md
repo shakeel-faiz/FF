@@ -1,3 +1,33 @@
+{
+  "date": "2023-05-30",
+  "keywords": [
+    "aif file",
+    "what is a aif file",
+    "how to open aif file",
+    "what is the file structure of aif file",
+    "what does aif file contain",
+    "what is the format of aif file",
+    "file",
+    "aif file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AIF File Format - Audio Interchange File Format",
+  "description": "Learn about AIF format and APIs that can create and open AIF files.",
+  "linktitle": "AIF",
+  "menu": {
+    "docs": {
+      "identifier": "audio-aif",
+      "parent": "audio"
+    }
+  },
+  "lastmod": "2023-05-30"
+}
+
 ## What is an AIF file?
 
 The Audio Interchange File Format (AIF) is a widely used audio file format developed by Apple Inc. It is commonly used for storing high-quality, uncompressed audio data. AIF files are often used in professional audio applications and are supported by various software and hardware platforms.
