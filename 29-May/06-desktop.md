@@ -70,3 +70,6 @@ The .desktop file format follows specific structure and format. It is a plain te
 - **Key-Value Pairs:** Within each section, you define properties using key-value pairs. The format is "Key=Value". The key identifies property and value provides corresponding data.
 - **Property Syntax:** The property values can be of different types including strings, boolean values, file paths or lists. The format for each property value depends on its type.
 - **Comments:** You can include comments in .desktop file using '#' symbol. Anything following '#' on line is considered a comment and is ignored.
+
+## References
+* [Desktop Entry Files](https://www.baeldung.com/linux/desktop-entry-files)
