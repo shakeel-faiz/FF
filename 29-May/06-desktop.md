@@ -47,3 +47,17 @@ Exec=mytexteditor %U
 In this example, the .desktop file defines application "MyTextEditor" with its associated properties. It also includes two additional actions, "Open New Window" and "Open Existing File," which can be accessed from context menu of application launcher.
 
 By placing a .desktop file in specific directories such as `/usr/share/applications` or `~/.local/share/applications`, the desktop environment will recognize it and display application accordingly in menus or allow it to be launched from desktop.
+
+## How to open DESKTOP file?
+
+Several software programs can open and handle .desktop files. These programs are typically file managers or desktop environments on Linux-based systems. Here are some examples:
+
+- **Nautilus (Files):** The default file manager for GNOME desktop environment.
+- **Nemo:** The file manager for Cinnamon desktop environment.
+- **Dolphin:** The default file manager for KDE Plasma desktop environment.
+- **Thunar:** The default file manager for Xfce desktop environment.
+- **KDE Menu Editor:** A tool specific to KDE Plasma desktop environment that allows you to view and edit .desktop files.
+
+These file managers and desktop environments provide graphical interface for managing .desktop files. They allow you to view and edit properties of .desktop files, create application launchers and organize shortcuts in application menus or on the desktop.
+
+The .desktop files are plain text files, so you can also open and edit them with a text editor of your choice. Simply right-click on the .desktop file and select "Open with" or "Open with another application" to choose a text editor from the list of installed programs.
