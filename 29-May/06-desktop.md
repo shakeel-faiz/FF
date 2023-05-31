@@ -61,3 +61,12 @@ Several software programs can open and handle .desktop files. These programs are
 These file managers and desktop environments provide graphical interface for managing .desktop files. They allow you to view and edit properties of .desktop files, create application launchers and organize shortcuts in application menus or on the desktop.
 
 The .desktop files are plain text files, so you can also open and edit them with a text editor of your choice. Simply right-click on the .desktop file and select "Open with" or "Open with another application" to choose a text editor from the list of installed programs.
+
+## What is the format of DESKTOP file?
+
+The .desktop file format follows specific structure and format. It is a plain text file with a set of key-value pairs organized into sections. Here is an overview of the format:
+
+- **Section Headers:** Each section begins with a header enclosed in square brackets ([]). The primary section is typically named [Desktop Entry], which contains the main metadata for application or launcher.
+- **Key-Value Pairs:** Within each section, you define properties using key-value pairs. The format is "Key=Value". The key identifies property and value provides corresponding data.
+- **Property Syntax:** The property values can be of different types including strings, boolean values, file paths or lists. The format for each property value depends on its type.
+- **Comments:** You can include comments in .desktop file using '#' symbol. Anything following '#' on line is considered a comment and is ignored.
