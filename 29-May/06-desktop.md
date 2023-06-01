@@ -1,3 +1,33 @@
+{
+  "date": "2023-05-31",
+  "keywords": [
+    "desktop file",
+    "what is a desktop file",
+    "what does desktop file contain",
+    "example desktop file",
+    "how to open desktop file",
+    "what is the format of desktop file",
+    "file",
+    "desktop file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DESKTOP File Format - Desktop Entry File",
+  "description": "Learn about DESKTOP format and APIs that can create and open DESKTOP files.",
+  "linktitle": "DESKTOP",
+  "menu": {
+    "docs": {
+      "identifier": "settings-desktop",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-05-31"
+}
+
 ## What is a DESKTOP file?
 
 A .desktop file is a configuration file used by Linux desktop environments to define application shortcuts and launchers. It provides metadata about an application such as its name, icon, command to execute and other properties. These files are typically used to create shortcuts in application menus, desktop launchers or panels in Linux-based systems.
