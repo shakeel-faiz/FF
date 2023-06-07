@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-05",
+  "keywords": [
+    "nsp file",
+    "what is a nsp file",
+    "how to open nsp file",
+    "what does nsp file contain",
+    "what is the format of nsp file",
+    "file",
+    "nsp file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NSP File Format - Nintendo Submission Package",
+  "description": "Learn about NSP format and APIs that can create and open NSP files.",
+  "linktitle": "NSP",
+  "menu": {
+    "docs": {
+      "identifier": "game-nsp",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-06-05"
+}
+
 ## What is a NSP file?
 
 NSP file format is primarily associated with Nintendo Switch console. NSP stands for "Nintendo Submission Package." It is file format used by Nintendo for distributing and installing games, updates and DLC (Downloadable Content) on Nintendo Switch system.
