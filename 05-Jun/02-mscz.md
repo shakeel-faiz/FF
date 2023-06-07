@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-05",
+  "keywords": [
+    "mscz file",
+    "what is a mscz file",
+    "how to open mscz file",
+    "what does mscz file contain",
+    "what is the format of mscz file",
+    "file",
+    "mscz file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MSCZ File Format - MuseScore Compressed Score File",
+  "description": "Learn about MSCZ format and APIs that can create and open MSCZ files.",
+  "linktitle": "MSCZ",
+  "menu": {
+    "docs": {
+      "identifier": "audio-mscz",
+      "parent": "audio"
+    }
+  },
+  "lastmod": "2023-06-05"
+}
+
 ## What is a MSCZ file?
 
 The .mscz file format is primarily associated with MuseScore, a popular open-source music notation software. MuseScore is used for composing, arranging and sharing sheet music.
