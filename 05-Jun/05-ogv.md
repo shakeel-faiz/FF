@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-07",
+  "keywords": [
+    "ogv file",
+    "what is a ogv file",
+    "how to open ogv file",
+    "how to convert ogv file",
+    "what does ogv file contain",
+    "what is the format of ogv file",
+    "file",
+    "ogv file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OGV File Format - Ogg Video File",
+  "description": "Learn about OGV format and APIs that can create and open OGV files.",
+  "linktitle": "OGV",
+  "menu": {
+    "docs": {
+      "identifier": "video-ogv",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-06-07"
+}
+
 ## What is an OGV file?
 
 The OGV file format, also known as Ogg Video, is a container format designed to hold video and audio data. It is part of Ogg multimedia framework, which was developed by Xiph.Org Foundation. The OGV format is based on open-source Ogg container and typically uses Theora video codec and Vorbis audio codec.
