@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-05",
+  "keywords": [
+    "fla file",
+    "what is a fla file",
+    "how to open fla file",
+    "what does fla file contain",
+    "what is the format of fla file",
+    "file",
+    "fla file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FLA File Format - Adobe Animate Animation",
+  "description": "Learn about FLA format and APIs that can create and open FLA files.",
+  "linktitle": "FLA",
+  "menu": {
+    "docs": {
+      "identifier": "misc-fla",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-06-05"
+}
+
 ## What is a FLA file?
 
 The .fla file format is associated with Adobe Animate, formerly known as Adobe Flash Professional. It is the primary file format used by the software to store and organize multimedia projects such as animations, interactive applications and games.
