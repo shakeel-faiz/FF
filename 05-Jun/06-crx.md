@@ -33,8 +33,7 @@ The CRX file format is essentially a compressed package that contains all these 
 
 The CRX file format is specific format for packaging and distributing Google Chrome extensions. It is essentially a compressed ZIP archive with different file extension. The basic structure of CRX file is as follows:
 
-- File signature: The first 4 bytes of file contain magic number "Cr24" (hexadecimal: 43 72 32 34) that serves as signature to identify the file as CRX file.
-
+- **File signature:** The first 4 bytes of file contain magic number "Cr24" (hexadecimal: 43 72 32 34) that serves as signature to identify the file as CRX file.
 - **Version number:** The next 4 bytes represent version number of CRX format.
 - **Public key length:** The following 4 bytes indicate the length of encoded public key used for extension signature verification.
 - **Signature length:** The subsequent 4 bytes specify length of signature of the extension.
