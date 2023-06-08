@@ -44,3 +44,13 @@ public:
 #endif
 
 ```
+
+## What is the format of HPP file?
+
+HPP is a plain text file but follows the general rules and syntax of C++ programming language. Here is a breakdown of general format and structure of ".hpp" file:
+
+- **Header guards:** Typically, a ".hpp" file begins with header guards to prevent multiple inclusions of same file. This is achieved using preprocessor directives like #ifndef, #define and #endif. The header guard ensures that contents of file are included only once during the compilation process.
+- **Include statements:** After header guards, you can include other necessary header files using #include directive. These may include standard library headers or other custom headers required by your code.
+- **Declarations and Definitions:** The primary content of ".hpp" file is the declarations and, in some cases, definitions of classes, functions, constants, type aliases and other elements. For example, you may declare classes using class keyword, functions using their return type, name, and parameter list, and constants using const keyword followed by their type and name.
+- **Inline Function Definitions:** In certain cases, you may include inline function definitions directly in ".hpp" file. Inline functions are usually defined inside class body, meaning the function definition is included alongside its declaration. This can be done by prefixing function definition with inline keyword.
+- **Namespace Declarations:** If you're using namespaces in your code, you can declare them within ".hpp" file. This is done using namespace keyword followed by namespace name and enclosing the relevant code within namespace block.
