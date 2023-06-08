@@ -62,3 +62,28 @@ A VMX file contains various configuration settings for virtual machine (VM). Her
 - `uuid.bios:` Specifies the BIOS UUID of the VM.
 - `uuid.location:` Specifies the location UUID of the VM.
 
+## How to open VMX file?
+
+Opening a VMX file manually is not recommended. When you run a virtual machine using VMware Fusion, the software automatically loads the information from the VMX file.
+
+However, if you want to manually edit VMX file, you can do so using any text editor e.g. Notepad (Windows) or TextEdit (Mac).
+
+## What is the format of VMX file?
+
+A VMX file is a plain text file with specific format. The format follows a key-value pair structure where each line represents separate configuration option.
+
+The general format of VMX file is as follows:
+
+```
+key1 = value1
+key2 = value2
+key3 = value3
+```
+
+Each line consists of key followed by equal sign (=) and corresponding value. The key represents a specific configuration setting and the value represents the value assigned to that setting.
+
+The format of VMX file may also include comments, denoted by a pound sign (#) at the beginning of the line, which are ignored by VMware software when parsing the file. Comments are often used to provide additional information or explanations for specific settings.
+
+
+
+
