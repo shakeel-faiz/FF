@@ -84,6 +84,8 @@ Each line consists of key followed by equal sign (=) and corresponding value. Th
 
 The format of VMX file may also include comments, denoted by a pound sign (#) at the beginning of the line, which are ignored by VMware software when parsing the file. Comments are often used to provide additional information or explanations for specific settings.
 
+## References
+* [Sample VMX File](https://www.vmware.com/pdf/vsp_4_vmdirectpath_host.pdf)
 
 
 
