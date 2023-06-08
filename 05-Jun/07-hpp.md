@@ -56,4 +56,4 @@ HPP is a plain text file but follows the general rules and syntax of C++ program
 - **Namespace Declarations:** If you're using namespaces in your code, you can declare them within ".hpp" file. This is done using namespace keyword followed by namespace name and enclosing the relevant code within namespace block.
 
 ## References
-** [Header files (C++)](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Header files (C++)](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
