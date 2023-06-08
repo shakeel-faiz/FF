@@ -17,3 +17,30 @@ Here are some common contents you may find in ".hpp" file:
 - **Constant declarations:** Header files can define constants, such as global variables or enum values that are meant to be shared across multiple source code files. These constants can be accessed by including header file in other source files, allowing them to use the defined constants.
 - **Type definitions:** Header files may contain type definitions using "typedef" keyword or type aliases using "using" keyword. These definitions create new names for existing types, making code more readable and maintainable.
 - **Inline function definitions:** In some cases, header files may contain inline function definitions. Inline functions are small functions that are expanded at call site rather than being called as separate function. Including inline function definition in header file allows compiler to replace function call with function body directly, potentially improving performance.
+
+## HPP File Example
+
+```
+#ifndef PERSON_HPP
+#define PERSON_HPP
+
+#include <string>
+
+class Person {
+private:
+    std::string name;
+    int age;
+
+public:
+    Person();
+    Person(const std::string& name, int age);
+    void setName(const std::string& newName);
+    void setAge(int newAge);
+    std::string getName() const;
+    int getAge() const;
+    void printInfo() const;
+};
+
+#endif
+
+```
