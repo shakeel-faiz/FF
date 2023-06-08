@@ -82,7 +82,7 @@ key3 = value3
 
 Each line consists of key followed by equal sign (=) and corresponding value. The key represents a specific configuration setting and the value represents the value assigned to that setting.
 
-For example, 'memSize = "8192"' in VMX file specifies that Virtual Machine memory limit is 8192MB of RAM.
+For example, `memSize = "8192"` in VMX file specifies that Virtual Machine memory limit is 8192MB of RAM.
 
 The format of VMX file may also include comments, denoted by a pound sign (#) at the beginning of the line, which are ignored by VMware software when parsing the file. Comments are often used to provide additional information or explanations for specific settings.
 
