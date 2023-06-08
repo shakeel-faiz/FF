@@ -7,23 +7,35 @@ A VMX file, also known as virtual machine configuration file, is a plain text fi
 Here is an example of what VMX file might look like:
 
 ```
-.encoding = "UTF-8"
+# version for configuration
 config.version = "8"
-virtualHW.version = "18"
-guestOS = "windows11_64guest"
-memSize = "8192"
-displayName = "My Virtual Machine"
-powerType.powerOff = "soft"
-powerType.powerOn = "soft"
-powerType.reset = "soft"
-powerType.suspend = "soft"
-floppy0.present = "FALSE"
-numvcpus = "2"
+# version for virtual machine (Regular version is 4)
+virtualHW.version = "7"
+# enable vnc
+RemoteDisplay.vnc.enabled = "TRUE"
+RemoteDisplay.vnc.port = "5900"
+VMware, Inc. 3
+
+# type of guest os
+guestOS = "linux"
+# display name for the VI Client/WebCenter
+displayName = "RHEL3"
+# scsi controller 0
+scsi0.present = "true"
 scsi0.virtualDev = "lsilogic"
-scsi0:0.present = "TRUE"
-scsi0:0.fileName = "MyVirtualMachine.vmdk"
-ethernet0.virtualDev = "e1000"
-ethernet0.networkName = "VM Network"
-ethernet0.addressType = "generated"
-ethernet0.present = "TRUE"
+# scsi hard drive
+scsi0:0.present = "true"
+scsi0:0.fileName = "/volumes/your-path/passthru.vmdk"
+scsi0:0.deviceType = "scsi-hardDisk"
+scsi0:0.redo = ""
+# IDE CD drive
+ide0:0.present ="true"
+ide0:0.startConnected = "TRUE"
+ide0:0.fileName = "/volumes/your-path/your-iso-image"
+ide0:0.deviceType = "cdrom-image"
+memsize = "512"
+sched.mem.max = "512"
+sched.mem.minsize = "512"
+sched.swap.derivedName = "/volumes/your-path/passthru-12345.vswp"
+svga.vramSize = "16777216"
 ```
