@@ -2,7 +2,9 @@
 
 A VMX file, also known as virtual machine configuration file, is a plain text file used by VMware virtualization software to define settings and configuration of virtual machine (VM). VMX files contain information such as VM's hardware configuration, virtual disk mappings, network settings and other parameters.
 
-Here is an example of what a VMX file might look like:
+## VMX File Example
+
+Here is an example of what VMX file might look like:
 
 ```
 .encoding = "UTF-8"
