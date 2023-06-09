@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-08",
+  "keywords": [
+    "crx file",
+    "what is a crx file",
+    "how to install crx file in google chrome",
+    "how to open crx file",
+    "what does crx file contain",
+    "what is the format of crx file",
+    "file",
+    "crx file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CRX File Format - Google Chrome Extension",
+  "description": "Learn about CRX format and APIs that can create and open CRX files.",
+  "linktitle": "CRX",
+  "menu": {
+    "docs": {
+      "identifier": "misc-crx",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-06-08"
+}
+
 ## What is a CRX file?
 
 CRX file format is associated with Google Chrome browser extensions. A CRX file is essentially a compressed package containing necessary files and metadata for an extension to be installed and run in Google Chrome. It enhances the functionality or appearance of a web browser by providing an extra feature or theme. 
