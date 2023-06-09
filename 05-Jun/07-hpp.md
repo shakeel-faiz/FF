@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-08",
+  "keywords": [
+    "hpp file",
+    "what is a hpp file",
+    "what does hpp file contain",
+    "hpp file example",
+    "what is the format of hpp file",
+    "file",
+    "hpp file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HPP File Format - C++ Header File",
+  "description": "Learn about HPP format and APIs that can create and open HPP files.",
+  "linktitle": "HPP",
+  "menu": {
+    "docs": {
+      "identifier": "programming-hpp",
+      "parent": "programming"
+    }
+  },
+  "lastmod": "2023-06-08"
+}
+
 ## What is a HPP file?
 
 The ".hpp" file format is commonly used for header files in C++ programming language. Header files typically contain declarations and definitions of functions, classes, variables and constants that are used by other source code files in C++ project.
