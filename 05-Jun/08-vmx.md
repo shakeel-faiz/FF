@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-08",
+  "keywords": [
+    "vmx file",
+    "what is a vmx file",
+    "vmx file example",
+    "how to open vmx file",
+    "what does vmx file contain",
+    "what is the format of vmx file",
+    "file",
+    "vmx file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VMX File Format - VMware Virtual Machine Configuration File",
+  "description": "Learn about VMX format and APIs that can create and open VMX files.",
+  "linktitle": "VMX",
+  "menu": {
+    "docs": {
+      "identifier": "settings-vmx",
+      "parent": "settings"
+    }
+  },
+  "lastmod": "2023-06-08"
+}
+
 ## What is a VMX file?
 
 A VMX file, also known as virtual machine configuration file, is a plain text file used by VMware virtualization software to define settings and configuration of virtual machine (VM). VMX files contain information such as VM's hardware configuration, virtual disk mappings, network settings and other parameters.
