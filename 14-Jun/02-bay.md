@@ -14,7 +14,7 @@ You can open BAY file using various image editing software applications e.g.
 
 ## How to convert a BAY file?
 
-You can use Adobe Photoshop using a plugin Adobe Camera Raw (ACR) to convert BAY files to other formats.
+You can use Adobe Photoshop using a plugin **Adobe Camera Raw (ACR)** to convert BAY files to other formats.
 
 - [PNG](/image/png/) - Portable Network Graphic
 - [JPEG](/image/jpeg/) - JPEG Image
