@@ -24,11 +24,11 @@ You can open RAW file using various image editing software applications e.g.
 
 Several image editing softwares can convert RAW file into different formats. Adobe Photoshop can convert your RAW files into image formats like
 
-- .PNG - Portable Network Graphic
-- .JPEG - JPEG Image
-- .GIF - Graphical Interchange Format
-- .PSD - Adobe Photoshop Document
-- .BMP - Bitmap Image
+- [PNG](/image/png/) - Portable Network Graphic
+- [JPEG](/image/jpeg/) - JPEG Image
+- [GIF](/image/gif/) - Graphical Interchange Format
+- [PSD](/image/psd/) - Adobe Photoshop Document
+- [BMP](/image/bmp/) - Bitmap Image
 
 ## What is the format of RAW file?
 
