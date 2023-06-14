@@ -22,9 +22,9 @@ You can use Adobe Photoshop using a plugin Adobe Camera Raw (ACR) to convert BAY
 - [PSD](/image/psd/) - Adobe Photoshop Document
 - [BMP](/image/bmp/) - Bitmap Image
 
-## What is the format of RAW file?
+## What is the format of BAY file?
 
-The format of RAW file is binary format.
+The format of BAY file is binary format.
 
 ## References
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
