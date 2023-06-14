@@ -6,7 +6,6 @@ A .bay file format is a raw image format taken from Casio digital cameras. It is
 
 You can open BAY file using various image editing software applications e.g.
 
-- Casio Software
 - Adobe Camera Raw
 - Capture One
 - Silkypix Developer Studio
