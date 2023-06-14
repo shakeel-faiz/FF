@@ -15,3 +15,30 @@ ARW file can be opened using various image editing applications. Some of them ar
 - Corel PaintShop Pro
 - Google Photos
 
+## How to convert an ARW file?
+
+You can use the following softwares to convert an ARW file into various other formats.
+
+- Adobe Photoshop
+- Adobe Lightroom
+- Capture One
+- Sony Imaging Edge
+- XnConvert
+- RawTherapee
+- IrfanView
+
+Using the above softwares, ARW file can be converted to 
+
+- [PNG](/image/png/) - Portable Network Graphic
+- [JPEG](/image/jpeg/) - JPEG Image
+- [GIF](/image/gif/) - Graphical Interchange Format
+- [PSD](/image/psd/) - Adobe Photoshop Document
+- [BMP](/image/bmp/) - Bitmap Image
+- [TIFF](/image/tiff/) - Tagged Image File Format
+
+## What is the format of ARW file?
+
+The format of ARW file is binary format.
+
+## References
+* [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
