@@ -25,3 +25,20 @@ To open a RAF file, you will need image editing or processing software that supp
 - Microsoft Photos with Raw Image Extension
 - Apple Preview and Apple Photos
 
+## How to convert a RAF file?
+
+Among many other applications, Adobe Photoshop with its Camera Raw utility can be used to convert RAF files to many other formats e.g. 
+
+- [PNG](/image/png/) - Portable Network Graphic
+- [JPEG](/image/jpeg/) - JPEG Image
+- [GIF](/image/gif/) - Graphical Interchange Format
+- [PSD](/image/psd/) - Adobe Photoshop Document
+- [BMP](/image/bmp/) - Bitmap Image
+- [TIFF](/image/tiff/) - Tagged Image File Format
+
+## What is the format of RAF file?
+
+The format of RAF file is binary format.
+
+## References
+* [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
