@@ -7,3 +7,7 @@ RAF files contain minimally processed image data directly from camera's image se
 Fujifilm consistently enhances the RAF format to incorporate features found in newer cameras. For instance, while most RAF files store uncompressed image data, the latest Fujifilm X-T3 and X-Pro2 cameras introduce the ability to compress RAF files, reducing their size and conserving storage space.
 
 Moreover, recent Fujifilm models like the X100V offer the capability to capture images in the HDR RAF format. When the HDR setting is enabled in RAW mode, the camera captures three images with varying exposure levels and stores them together in a single RAF file.
+
+## Common Users of RAF files
+
+RAF files are primarily encountered by photographers who use FujiFilm cameras. These photographers shoot in camera's RAW mode to preserve all the original data captured by image sensor. RAF files are then typically imported into software applications, such as Adobe Lightroom, Capture One, or FujiFilm's own RAW file converter, for further editing, processing, and conversion into other file formats like JPEG or TIFF.
