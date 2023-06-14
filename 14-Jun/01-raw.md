@@ -9,3 +9,14 @@ Raw files are often specific to particular camera manufacturer and model as they
 Because raw files are unprocessed, they provide greater flexibility for post-processing adjustments and offer more control over final image. Photographers and professionals prefer working with raw files because they can make precise adjustments to aspects such as exposure, white balance, color grading and noise reduction during editing process.
 
 However, raw files are typically larger in size compared to compressed formats like JPEG. Additionally, raw files require specialized software or dedicated image editors that support specific raw format to open, view and process them.
+
+## How to open RAW file?
+
+You can open RAW file using various Image Editing software applications e.g.
+
+- Adobe Photoshop
+- Adobe Photoshop Elements
+- Corel PaintShop Pro
+- ACD Systems ACDSee
+- RawTherapee
+
