@@ -12,7 +12,7 @@ However, raw files are typically larger in size compared to compressed formats l
 
 ## How to open RAW file?
 
-You can open RAW file using various Image Editing software applications e.g.
+You can open RAW file using various image editing software applications e.g.
 
 - Adobe Photoshop
 - Adobe Photoshop Elements
