@@ -15,3 +15,6 @@ You can use the following softwares to open STY files.
 - Style Fixer (Yamaha styles)
 - GNIStyle (Korg styles)
 - WAVE Xtractor
+
+## References
+* [Yamaha Keyboard Styles](https://psrtutorial.com/sty/yamaha/index.html)
