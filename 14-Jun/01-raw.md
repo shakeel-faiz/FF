@@ -20,3 +20,13 @@ You can open RAW file using various Image Editing software applications e.g.
 - ACD Systems ACDSee
 - RawTherapee
 
+## How to convert a RAW file?
+
+Several image editing softwares can convert RAW file into different formats. Adobe Photoshop can convert your RAW files into image formats like
+
+- .PNG - Portable Network Graphic
+- .JPEG - JPEG Image
+- .GIF - Graphical Interchange Format
+- .PSD - Adobe Photoshop Document
+- .BMP - Bitmap Image
+
