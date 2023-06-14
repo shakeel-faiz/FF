@@ -10,7 +10,7 @@ Moreover, recent Fujifilm models like the X100V offer the capability to capture 
 
 ## Common Users of RAF files
 
-RAF files are primarily encountered by photographers who use FujiFilm cameras. These photographers shoot in camera's RAW mode to preserve all the original data captured by image sensor. RAF files are then typically imported into software applications, such as Adobe Lightroom, Capture One, or FujiFilm's own RAW file converter, for further editing, processing, and conversion into other file formats like JPEG or TIFF.
+RAF files are primarily encountered by photographers utilizing FujiFilm cameras. These photographers shoot in camera's RAW mode to preserve all the original data captured by image sensor. RAF files are then typically imported into software applications, such as Adobe Lightroom, Capture One, or FujiFilm's own RAW file converter, for further editing, processing, and conversion into other file formats like JPEG or TIFF.
 
 ## How to open RAF file?
 
