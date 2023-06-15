@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-15",
+  "keywords": [
+    "raw file",
+    "what is a raw file",
+    "how to open raw file",
+    "how to convert raw file",
+    "what is the format of raw file",
+    "file",
+    "raw file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RAW File Format - Raw Image Data",
+  "description": "Learn about RAW format and APIs that can create and open RAW files.",
+  "linktitle": "RAW",
+  "menu": {
+    "docs": {
+      "identifier": "image-raw",
+      "parent": "image"
+    }
+  },
+  "lastmod": "2023-06-15"
+}
+
 ## What is a RAW file?
 
 A raw file format refers to file format that stores unprocessed and uncompressed data directly from digital image sensor or other sources. It is commonly used in digital photography and imaging.
