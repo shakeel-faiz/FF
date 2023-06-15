@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-15",
+  "keywords": [
+    "bay file",
+    "what is a bay file",
+    "how to open bay file",
+    "how to convert bay file",
+    "what is the format of bay file",
+    "file",
+    "bay file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BAY File Format - Casio RAW Image",
+  "description": "Learn about BAY format and APIs that can create and open BAY files.",
+  "linktitle": "BAY",
+  "menu": {
+    "docs": {
+      "identifier": "image-bay",
+      "parent": "image"
+    }
+  },
+  "lastmod": "2023-06-15"
+}
+
 ## What is a BAY file?
 
 A .bay file format is a raw image format taken from Casio digital cameras. It is a proprietary raw image format and contains unprocessed data directly from camera's image sesors.  The data contained by it is also uncompressed. They typically store a higher level of image data and provide more flexibility for post-processing and editing compared to compressed image formats like JPEG.
