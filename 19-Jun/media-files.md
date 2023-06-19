@@ -1,3 +1,30 @@
+{
+  "date": "2023-06-19",
+  "keywords": [
+    "media files",
+    "what are media files",
+    "types of media files",
+    "images media files",
+    "audio media files",
+    "video media files"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "What are Media Files?",
+  "description": "Learn about Media Files, their Types, Formats and Impact on Digital Communication.",
+  "linktitle": "Media Files",
+  "menu": {
+    "docs": {
+      "identifier": "misc-media-files",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-06-19"
+}
+
 ## What are Media Files? Types, Formats, and their Impact on Digital Communication
 
 ## Introduction
