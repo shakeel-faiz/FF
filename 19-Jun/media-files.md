@@ -1,4 +1,4 @@
-## What are Media Files: Types, Formats, and their Impact on Digital Communication
+## What are Media Files? Types, Formats, and their Impact on Digital Communication
 
 ## Introduction
 
