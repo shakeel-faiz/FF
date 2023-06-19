@@ -15,7 +15,7 @@
   "toc": true,
   "title": "What are Media Files?",
   "description": "Learn about Media Files, their Types, Formats and Impact on Digital Communication.",
-  "linktitle": "Media Files",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",
@@ -26,8 +26,6 @@
 }
 
 ## What are Media Files? Types, Formats, and their Impact on Digital Communication
-
-## Introduction
 
 In the digital age, media files play an integral role in our daily lives. Whether it's a captivating image, a compelling video, or an enchanting audio clip, media files have the power to engage, inform, and entertain us. Understanding the different types and formats of media files is essential for effective communication in today's media-driven world. In this article, we will delve into the fascinating world of media files, exploring their significance, types, formats, and the impact they have on various forms of digital communication.
 
