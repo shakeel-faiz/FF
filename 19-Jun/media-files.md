@@ -4,7 +4,7 @@
     "media files",
     "what are media files",
     "types of media files",
-    "images media files",
+    "image media files",
     "audio media files",
     "video media files"
   ],
