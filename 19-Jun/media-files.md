@@ -66,7 +66,7 @@ Image files are digital representations of visual content. Different image file 
 
 - **SVG (Scalable Vector Graphics):** SVG is a vector-based image format that uses XML to describe 2D graphics. Unlike raster images, SVGs are resolution-independent and can be scaled without loss of quality. They are ideal for logos, icons, and illustrations used on websites and mobile applications.
 
-## Audio Files:
+### Audio Files:
 
 Audio files contain recorded sound or music and come in different formats depending on factors such as audio quality, compression, and compatibility.
 
@@ -78,7 +78,7 @@ Audio files contain recorded sound or music and come in different formats depend
 
 - **AAC (Advanced Audio Coding):** AAC is an audio format designed to provide improved compression efficiency compared to MP3. It offers better audio quality at lower bit rates, making it suitable for streaming services, mobile devices, and digital audio broadcasting.
 
-## Video Files:
+### Video Files:
 
 Video files contain moving images, accompanied by synchronized audio, and come in various formats suited for different purposes.
 
