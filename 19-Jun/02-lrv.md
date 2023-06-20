@@ -22,11 +22,11 @@ To open and view LRV (Low-Resolution Video) files, you can follow these steps:
 
 - **Rename to MP4:** To open and play an LRV file, you can easily do so by renaming the file extension to [.MP4](/video/mp4/) and using any application capable of playing .MPEG4 video files.
 
-- **Video Editing Software:** The most common way to open and work with LRV files is by using video editing software. Most professional video editing software, such as _Adobe Premiere Pro_, _Final Cut Pro_, or _Davinci Resolve_, are capable of recognizing and importing LRV files. Simply import the LRV files into your project, and you'll be able to preview and edit the footage.
+- **Video Editing Software:** The most common way to open and work with LRV files is by using video editing software. Most professional video editing software, such as `Adobe Premiere Pro`, `Final Cut Pro`, or `Davinci Resolve`, are capable of recognizing and importing LRV files. Simply import the LRV files into your project, and you'll be able to preview and edit the footage.
 
-- **GoPro Software:** GoPro provides its own software called **GoPro Quik**, which is designed specifically for working with GoPro footage. You can download and install GoPro Quik from the official GoPro website. Once installed, open the software, import your LRV files, and you'll be able to view and edit them within the application.
+- **GoPro Software:** GoPro provides its own software called `GoPro Quik`, which is designed specifically for working with GoPro footage. You can download and install GoPro Quik from the official GoPro website. Once installed, open the software, import your LRV files, and you'll be able to view and edit them within the application.
 
-- **Media Players:** While LRV files are not typically meant for direct playback, you can use certain media players capable of playing these files. **VLC** media player is a popular choice that supports various video formats and codecs. You can download and install VLC, then open the LRV file directly through the media player.
+- **Media Players:** While LRV files are not typically meant for direct playback, you can use certain media players capable of playing these files. `VLC` media player is a popular choice that supports various video formats and codecs. You can download and install VLC, then open the LRV file directly through the media player.
 
 - **File Conversion:** If you prefer to convert LRV files to a more widely supported video format, you can use video conversion software. Tools like **Handbrake** or **Freemake Video Converter** allow you to convert LRV files to formats like [MP4](/video/mp4/), which can be opened by a wide range of media players or video editing software.
 
