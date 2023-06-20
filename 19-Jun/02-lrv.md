@@ -40,3 +40,5 @@ To open and view LRV (Low-Resolution Video) files, you can follow these steps:
 
 - **File Conversion:** If you prefer to convert LRV files to a more widely supported video format, you can use video conversion software. Tools like _Handbrake_ or _Freemake Video Converter_ allow you to convert LRV files to formats like [MP4](/video/mp4/), which can be opened by a wide range of media players or video editing software.
 
+## References
+* [GoPro LRV and THM Files](https://shotkit.com/lrv-thm-file/)
