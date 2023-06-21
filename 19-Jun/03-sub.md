@@ -44,7 +44,7 @@ Subtitle files come in various formats, each with its own file type or extension
 
 - **WebVTT (.vtt):** WebVTT is a subtitle format used for web videos. It is commonly used with HTML5 video players and supports basic formatting options.
 
-- **MPL2 Subtitle Format (.mpl):** MPL2 files are used with MPlayer, a media player for Unix-like systems. They contain subtitle entries with timestamps and text.
+- **MPL2 Subtitle Format (.mpl):** MPL2 files are used with MPlayer, a media player for Unix-like systems, contain subtitle entries with timestamps and text.
 
 - **iTunes Timed Text (.itt):** iTunes Timed Text files are used for subtitles in Apple's iTunes and other Apple platforms. They support features like text styling and positioning.
 
