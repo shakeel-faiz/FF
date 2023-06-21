@@ -16,3 +16,6 @@ The following programs can open META files related to game utilizing Exient XGS 
 
 - Rovio Angry Birds Transformers
 - Rovio Angry Birds Go!
+
+## References
+* [Exient Entertainment](https://en.wikipedia.org/wiki/Exient_Entertainment)
