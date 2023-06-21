@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-21",
+  "keywords": [
+    "meta",
+    "meta file",
+    "what is a meta file",
+    "how to open meta file",
+    "Exient XGS Engine",
+    "file",
+    "meta file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "META File Format - Exient Metadata File",
+  "description": "Learn about META format and APIs that can create and open META files.",
+  "linktitle": "META",
+  "menu": {
+    "docs": {
+      "identifier": "game-meta",
+      "parent": "game"
+    }
+  },
+  "lastmod": "2023-06-21"
+}
+
 ## What is a META file?
 
 META file contains game’s data by various games utilizing Exient XGS Engine such as Angry Birds Go! or Angry Birds Transformers. The META file captures and retains information about to particular aspects of the game such as crash logs or item logs.
