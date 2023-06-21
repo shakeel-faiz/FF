@@ -13,21 +13,6 @@ Here is an example of MicroDVD subtitle file:
 ...
 ```
 
-## How to open SUB file?
-
-The following media players can open SUB file as a subtitles track.
-
-- VideoLAN VLC media player
-- MPlayer
-
-To open SUB file in VLC player follow these steps
-
-- Open VLC player and play your video
-- From the VLC Media Player menu bar, select **Subtitles > Add Subtitle File ....**
-- Navigate to SUB file and open it
-
-If you need to edit SUB file, you can open it with any text editor e.g. Microsoft Notepad (Windows) or Apple TextEdit (Mac).
-
 ## Subtitle Extensions
 
 Subtitles can have various file extensions depending on format they are in. Some common subtitle file extensions include:
@@ -64,3 +49,18 @@ Subtitle files come in various formats, each with its own file type or extension
 - **iTunes Timed Text (.itt):** iTunes Timed Text files are used for subtitles in Apple's iTunes and other Apple platforms. They support features like text styling and positioning.
 
 - **Teletext Subtitle Format (.srt or .txt):** Teletext subtitles are commonly used in broadcast television. They are usually saved as plain text files with .srt or .txt extensions.
+
+## How to open SUB file?
+
+The following media players can open SUB file as a subtitles track.
+
+- VideoLAN VLC media player
+- MPlayer
+
+To open SUB file in VLC player follow these steps
+
+- Open VLC player and play your video
+- From the VLC Media Player menu bar, select **Subtitles > Add Subtitle File ....**
+- Navigate to SUB file and open it
+
+If you need to edit SUB file, you can open it with any text editor e.g. Microsoft Notepad (Windows) or Apple TextEdit (Mac).
