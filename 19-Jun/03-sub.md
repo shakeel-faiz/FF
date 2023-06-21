@@ -42,7 +42,7 @@ Subtitle files come in various formats, each with its own file type or extension
 
 - **DVD Subtitles (.sub and .idx):** DVD subtitles typically consist of two files: the .sub file, which contains subtitle text, and .idx file, which contains timing and formatting information.
 
-- **WebVTT (.vtt):** WebVTT is a subtitle format used for web videos. It is commonly used with HTML5 video players and supports basic formatting options.
+- **WebVTT (.vtt):** WebVTT is a subtitle format used for web videos, commonly used with HTML5 video players and supports basic formatting options.
 
 - **MPL2 Subtitle Format (.mpl):** MPL2 files are used with MPlayer, a media player for Unix-like systems, contain subtitle entries with timestamps and text.
 
