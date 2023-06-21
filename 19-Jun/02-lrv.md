@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-21",
+  "keywords": [
+    "lrv file",
+    "what is an lrv file",
+    "GoPro LRV File",
+    "THM File GoPro",
+    "how to open LRV files",
+    "file",
+    "lrv file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LRV File Format - Low Resolution Video File by GoPro",
+  "description": "Learn about LRV format and APIs that can create and open LRV files.",
+  "linktitle": "LRV",
+  "menu": {
+    "docs": {
+      "identifier": "video-lrv",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-06-21"
+}
+
 ## What is an LRV file?
 
 An LRV file, also known as Low-Resolution Video file, is a video file format that contains lower resolution version of video, commonly used in video editing workflows and video production to create low-resolution copies of high-resolution video files, are used to facilitate faster and smoother editing processes, especially when working with large video files or on systems with limited processing power.
