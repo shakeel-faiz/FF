@@ -64,3 +64,6 @@ To open SUB file in VLC player follow these steps
 - Navigate to SUB file and open it
 
 If you need to edit SUB file, you can open it with any text editor e.g. Microsoft Notepad (Windows) or Apple TextEdit (Mac).
+
+## References
+* [MicroDVD](https://en.wikipedia.org/wiki/MicroDVD)
