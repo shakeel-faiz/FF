@@ -1,3 +1,34 @@
+{
+  "date": "2023-06-21",
+  "keywords": [
+    "sub file",
+    "what is a sub file",
+    "example of MicroDVD subtitle file",
+    "Subtitle Extensions",
+    "Open Sub",
+    "Subtitle File Types",
+    "how to open SUB file",
+    "file",
+    "SUB file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SUB File Format - MicroDVD Subtitle File",
+  "description": "Learn about SUB format and APIs that can create and open SUB files.",
+  "linktitle": "SUB",
+  "menu": {
+    "docs": {
+      "identifier": "video-sub",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-06-21"
+}
+
 ## What is a SUB file?
 
 A SUB file is a MicroDVD subtitle file format used to display subtitles in videos, typically have .sub file extension. These files contain timing information and text for each subtitle entry.
