@@ -34,7 +34,7 @@ Subtitle files come in various formats, each with its own file type or extension
 
 - **SubRip Subtitle Format (.srt):** This is one of most widely used subtitle formats. SRT files are plain text files that contain subtitle entries with timestamps and corresponding text.
 
-- **SubViewer Subtitle Format (.sub):** SubViewer files are similar to SRT files and contain subtitle entries with timestamps and text. However, they may support additional features such as text formatting and colors.
+- **SubViewer Subtitle Format (.sub):** SubViewer files are similar to SRT files, contain subtitle entries with timestamps and text, may support additional features such as text formatting and colors.
 
 - **SubStation Alpha (.ssa) and Advanced SubStation Alpha (.ass):** These formats support advanced features like text formatting, styling, positioning and animation effects. SSA and ASS files are commonly used for anime subtitles.
 
