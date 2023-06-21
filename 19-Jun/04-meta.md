@@ -10,3 +10,9 @@ Exient Entertainment created the Exient XGS Engine, a game engine. It is a softw
 
 A variety of features and abilities provided by the Exient XGS Engine make it easier to create games on a variety of platforms, including PCs, consoles, and mobile devices. These functions frequently consist of producing visuals, simulating physics, managing audio, handling input, having networking capabilities, and other things.
 
+## How to open META file?
+
+The following programs can open META files related to game utilizing Exient XGS Engine 
+
+- Rovio Angry Birds Transformers
+- Rovio Angry Birds Go!
