@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-21",
+  "keywords": [
+    "scc",
+    "scc file",
+    "screenflow",
+    "what is a scc file",
+    "what is screenflow",
+    "how to open scc file",
+    "file",
+    "scc file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SCC File Format - ScreenFlow Screen Recording",
+  "description": "Learn about SCC format and APIs that can create and open SCC files.",
+  "linktitle": "SCC",
+  "menu": {
+    "docs": {
+      "identifier": "video-scc",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-06-21"
+}
+
 ## What is a SCC file?
 
 SCC files are video files created by ScreenFlow, a Mac OS X desktop screen recording application. It stores the captured video in a proprietary format and may also include audio captured from a computer microphone or from computer's sound card.
