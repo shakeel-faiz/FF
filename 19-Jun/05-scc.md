@@ -6,7 +6,7 @@ SCC files are used by ScreenFlow as temporary files to store unrendered video da
 
 Once you have completed the editing process and are ready to export your video, ScreenFlow renders the SCC files into desired output format, such as MP4 or MOV. The rendering process involves applying all the edits and effects to generate the final video file.
 
-After rendering process is complete, temporary SCC files are typically deleted and final video file is saved with chosen output forma which can share, upload or use as needed.
+After rendering process is complete, temporary SCC files are typically deleted and final video file is saved with chosen output format which can be shared, upload or use as needed.
 
 ## How to open SCC file?
 
