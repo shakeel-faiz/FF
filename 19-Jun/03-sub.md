@@ -24,5 +24,28 @@ Subtitles can have various file extensions depending on format they are in. Some
 - **.idx/.sub:** Format used by DVD subtitles. The .idx file contains timing and formatting information, while .sub file contains the actual subtitle text.
 - **.smi or .sami:** Synchronized Accessible Media Interchange format. It is commonly used for closed captions and subtitles in Windows Media Player.
 
+## What is meant by Open Sub?
 
+Open Sub typically means OpenSubtitles which is a popular online platform that provides subtitles for movies and TV shows in multiple languages. It offer vast collection of subtitle files contributed by its community of users. You can visit the OpenSubtitles website (www.opensubtitles.org) to search for and download subtitles for your desired movies or TV series.
 
+## Subtitle File Types
+
+Subtitle files come in various formats, each with its own file type or extension. Here are some common subtitle file types:
+
+- **SubRip Subtitle Format (.srt):** This is one of most widely used subtitle formats. SRT files are plain text files that contain subtitle entries with timestamps and corresponding text.
+
+- **SubViewer Subtitle Format (.sub):** SubViewer files are similar to SRT files and contain subtitle entries with timestamps and text. However, they may support additional features such as text formatting and colors.
+
+- **SubStation Alpha (.ssa) and Advanced SubStation Alpha (.ass):** These formats support advanced features like text formatting, styling, positioning and animation effects. SSA and ASS files are commonly used for anime subtitles.
+
+- **MicroDVD Subtitle Format (.sub):** MicroDVD format uses .sub files and includes timing information and text for each subtitle entry. It is often used with media players and video editing software.
+
+- **DVD Subtitles (.sub and .idx):** DVD subtitles typically consist of two files: the .sub file, which contains subtitle text, and .idx file, which contains timing and formatting information.
+
+- **WebVTT (.vtt):** WebVTT is a subtitle format used for web videos. It is commonly used with HTML5 video players and supports basic formatting options.
+
+- **MPL2 Subtitle Format (.mpl):** MPL2 files are used with MPlayer, a media player for Unix-like systems. They contain subtitle entries with timestamps and text.
+
+- **iTunes Timed Text (.itt):** iTunes Timed Text files are used for subtitles in Apple's iTunes and other Apple platforms. They support features like text styling and positioning.
+
+- **Teletext Subtitle Format (.srt or .txt):** Teletext subtitles are commonly used in broadcast television. They are usually saved as plain text files with .srt or .txt extensions.
