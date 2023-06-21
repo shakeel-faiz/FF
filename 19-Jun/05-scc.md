@@ -8,6 +8,10 @@ Once you have completed the editing process and are ready to export your video, 
 
 After rendering process is complete, temporary SCC files are typically deleted and final video file is saved with chosen output format which can be share, upload or use as needed.
 
+## What is ScreenFlow?
+
+ScreenFlow from Telestream, Inc. is a screencasting and video editing software for the macOS operating system. It can capture the audio and video from the computer, edit the captured video, add highlights or annotation, and output a number of different file types such as AIFF, GIF, M4V, MOV, and MP4.
+
 ## How to open SCC file?
 
 Below are the programs that open or reference SCC files
