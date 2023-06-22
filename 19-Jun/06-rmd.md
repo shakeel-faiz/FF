@@ -1,3 +1,32 @@
+{
+  "date": "2023-06-22",
+  "keywords": [
+    "rmd",
+    "rmd file",
+    "what is an rmd file",
+    "how to create an rmd file",
+    "how to open an rmd file",
+    "file",
+    "rmd file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RMD File Format - R Markdown File",
+  "description": "Learn about RMD format and APIs that can create and open RMD files.",
+  "linktitle": "RMD",
+  "menu": {
+    "docs": {
+      "identifier": "word-processing-rmd",
+      "parent": "word-processing"
+    }
+  },
+  "lastmod": "2023-06-22"
+}
+
 ## What is an RMD file?
 
 An R Markdown (RMD) file is a text file with extension ".rmd" that combine Markdown text with embedded R code chunks. It is powerful tool for reproducible research and data analysis, as it allow you to write narrative text, including code and generate dynamic reports or documents. It contains YAML metadata, Markdown-formatted plain text and chunks of R code that, when rendered using RStudio, combine to form a sophisticated data analysis document.
