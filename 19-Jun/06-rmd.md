@@ -11,3 +11,9 @@ To create RMD file, you can utilize any text editor of your choice. Begin by ope
 One of the key advantages of R Markdown is the ability to include R code chunks directly within your document. These code chunks, enclosed within three backticks `(```)` and the letter `"r"` within curly braces `({ })`, enable you to write and execute R code seamlessly. You can perform data analysis, generate visualizations, calculate statistics and even include interactive elements. When you render RMD file, the code chunks are executed and resulting output is automatically inserted into final document, ensuring that your analysis and narrative are fully integrated.
 
 Once your RMD file is complete, you can easily render it into various formats, such as HTML, PDF or Word. Integrated development environments (IDEs) like RStudio provide a seamless experience with a "Knit" button that renders the document based on your specifications. Alternatively, you can use the `rmarkdown::render()` function in R to programmatically render the RMD file.
+
+## How to open an RMD file?
+
+Typically, you should open an RMD file in RStudio, as it supports RMD syntax and can actually execute the code contained within an RMD file. By opening an RMD file in a compatible text editor or IDE, you can conveniently work with the file, modify its contents, execute the R code chunks, and generate desired output or reports based on embedded code and Markdown text.
+
+If your intention is solely to view the contents of an RMD file, you can open it using any text editor.
