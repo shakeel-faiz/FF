@@ -1,3 +1,31 @@
+{
+  "date": "2023-06-22",
+  "keywords": [
+    "FLH",
+    "FLH file",
+    "what is an FLH file",
+    "how to open FLH file",
+    "file",
+    "FLH file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FLH File Format - FLIC Animation File",
+  "description": "Learn about FLH format and APIs that can create and open FLH files.",
+  "linktitle": "FLH",
+  "menu": {
+    "docs": {
+      "identifier": "video-flh",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-06-22"
+}
+
 ## What is an FLH file?
 
 An FLH file is a video file format that follows the FLIC animation format, which is specifically designed for animation sequences, it makes use or utilize a compression algorithm that is optimized to efficiently store video and audio data e.g. in the context of Lego Rock Raiders, FLH files are utilized to hold both video and audio information. Most FLIC animations use the .FLC file extension.
