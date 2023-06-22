@@ -17,3 +17,6 @@ Once your RMD file is complete, you can easily render it into various formats, s
 Generally you should open RMD file in RStudio, as it supports RMD syntax and can actually execute code contained within RMD file. By opening RMD file in compatible text editor or IDE, you can easily work with file, modify its contents, execute R code chunks and generate desired output or reports based on embedded code and Markdown text.
 
 If your intention is solely to view contents of RMD file, you can open it using any text editor.
+
+## References
+* [Introduction to R Markdown](https://rmarkdown.rstudio.com/articles_intro.html)
