@@ -4,3 +4,10 @@ An R Markdown (RMD) file is a text file with extension ".rmd" that combine Markd
 
 R Markdown files are commonly used in RStudio IDE, but you can also work with them in any text editor. When you render RMD file, code chunks are executed, and output (such as tables, plots or text) is inserted into final document. This allow you to seamlessly integrate your data analysis and visualization with your written explanations.
 
+## How to create an RMD file?
+
+To create RMD file, you can utilize any text editor of your choice. Begin by opening a new file and saving it with ".rmd" extension, signifying its R Markdown format. Markdown syntax serves as foundation for writing document's content. Markdown is a lightweight markup language that allows you to structure and format text with ease. Headers, paragraphs, lists, links and images can be effortlessly incorporated into your document, ensuring clarity and readability.
+
+One of the key advantages of R Markdown is the ability to include R code chunks directly within your document. These code chunks, enclosed within three backticks `(```)` and the letter `"r"` within curly braces `({ })`, enable you to write and execute R code seamlessly. You can perform data analysis, generate visualizations, calculate statistics and even include interactive elements. When you render RMD file, the code chunks are executed and resulting output is automatically inserted into final document, ensuring that your analysis and narrative are fully integrated.
+
+Once your RMD file is complete, you can easily render it into various formats, such as HTML, PDF or Word. Integrated development environments (IDEs) like RStudio provide a seamless experience with a "Knit" button that renders the document based on your specifications. Alternatively, you can use the `rmarkdown::render()` function in R to programmatically render the RMD file.
