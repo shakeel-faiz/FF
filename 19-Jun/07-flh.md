@@ -9,4 +9,7 @@ Lego Rock Raiders is a popular computer game released in 1999 that combine eleme
 Programs that open FLH files include
 
 - Apple QuickTime Player
+- Autodesk Animator
+- XnView
+- IrfanView
 
