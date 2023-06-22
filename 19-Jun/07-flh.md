@@ -13,3 +13,5 @@ Programs that open FLH files include
 - XnView
 - IrfanView
 
+## References
+* [FLIC (file format)](https://en.wikipedia.org/wiki/FLIC_(file_format))
