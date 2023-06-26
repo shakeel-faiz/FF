@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-26",
+  "keywords": [
+    "media files",
+    "pdb",
+    "pdb files",
+    "pdb database",
+    "pdb file format",
+    "types of pdb files",
+    "RCSB PDB",
+    "how to open pdb files",
+    "pdb file extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "What are PDB Files? Understanding PDB Files: A Crucial Tool for Structural Biology",
+  "description": "Learn about what are PDB Files? Understanding PDB Files: A Crucial Tool for Structural Biology",
+  "linktitle": "PDB",
+  "menu": {
+    "docs": {
+      "identifier": "database-pdb",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-06-26"
+}
+
 ## Understanding PDB Files: A Crucial Tool for Structural Biology
 
 In the realm of structural biology, the **Protein Data Bank (PDB)** serves as a valuable resource for scientists and researchers. PDB files, the standardized format for storing three-dimensional (3D) structures of proteins and other macromolecules, play a pivotal role in elucidating their atomic coordinates and providing insights into their function. In this article, we will delve into the world of **PDB files**, exploring their significance, structure, and the wealth of knowledge they offer to the scientific community.
