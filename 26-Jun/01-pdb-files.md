@@ -1,10 +1,10 @@
 ## Understanding PDB Files: A Crucial Tool for Structural Biology
 
-In the realm of structural biology, the **Protein Data Bank (PDB)** serves as a valuable resource for scientists and researchers. PDB files, the standardized format for storing three-dimensional (3D) structures of proteins and other macromolecules, play a pivotal role in elucidating their atomic coordinates and providing insights into their function. In this article, we will delve into the world of PDB files, exploring their significance, structure, and the wealth of knowledge they offer to the scientific community.
+In the realm of structural biology, the **Protein Data Bank (PDB)** serves as a valuable resource for scientists and researchers. PDB files, the standardized format for storing three-dimensional (3D) structures of proteins and other macromolecules, play a pivotal role in elucidating their atomic coordinates and providing insights into their function. In this article, we will delve into the world of **PDB files**, exploring their significance, structure, and the wealth of knowledge they offer to the scientific community.
 
 ## What are PDB Files?
 
-PDB files are plain text files that contain detailed information about the atomic coordinates, bond lengths, angles, and other essential data that define the 3D structure of a macromolecule. They are widely used to store and share structural data, ensuring reproducibility and facilitating collaborations among researchers globally.
+**PDB files** are plain text files that contain detailed information about the atomic coordinates, bond lengths, angles, and other essential data that define the 3D structure of a macromolecule. They are widely used to store and share structural data, ensuring reproducibility and facilitating collaborations among researchers globally.
 
 ## Structure of a PDB File:
 
@@ -19,7 +19,7 @@ A typical PDB file consists of multiple sections, each serving a specific purpos
 
 ## Significance of PDB Files:
 
-PDB files serve as a cornerstone of structural biology and offer numerous advantages:
+**PDB files** serve as a cornerstone of structural biology and offer numerous advantages:
 
 - **Structural Analysis:** PDB files enable researchers to study the 3D structure of proteins and macromolecules, providing crucial insights into their folding, function, and interactions with other molecules.
 - **Drug Discovery:** PDB files aid in the identification of potential drug targets by allowing scientists to visualize the binding sites of proteins and design molecules that can modulate their activity.
@@ -29,7 +29,7 @@ PDB files serve as a cornerstone of structural biology and offer numerous advant
 
 ## Different Types of PDB Files:
 
-PDB (Protein Data Bank) files are commonly used to store three-dimensional structural information about biomolecules, primarily proteins and nucleic acids. There are several different types of PDB files, each serving a specific purpose. Here are some of the common types:
+**PDB (Protein Data Bank) files** are commonly used to store three-dimensional structural information about biomolecules, primarily proteins and nucleic acids. There are several different types of PDB files, each serving a specific purpose. Here are some of the common types:
 
 - **Structure Determination PDB (mmCIF format):** This is the standard PDB file format used to represent experimentally determined three-dimensional structures of biomolecules. It contains information about the atomic coordinates of the atoms in the molecule, as well as metadata related to the structure determination process.
 - **Model PDB:** In some cases, multiple models or conformations of a biomolecular structure are available. Model PDB files represent an ensemble of structures, each with its own set of atomic coordinates. These files are used to represent dynamics or alternative conformations of a molecule.
@@ -45,7 +45,7 @@ PDB (Protein Data Bank) files are commonly used to store three-dimensional struc
 
 ## Importance of the PDB Database
 
-The PDB database serves as a centralized repository for 3D structural data, providing researchers with a wealth of information and insights into the intricate world of macromolecules. Its significance can be summarized as follows:
+The **PDB database** serves as a centralized repository for 3D structural data, providing researchers with a wealth of information and insights into the intricate world of macromolecules. Its significance can be summarized as follows:
 
 - **Structure-Function Relationship:** The PDB database enables researchers to uncover the relationship between the structure and function of proteins and other macromolecules. By studying the 3D atomic coordinates, researchers can gain valuable insights into the mechanisms underlying biological processes and cellular functions.
 - **Drug Discovery and Design:** The PDB database aids in the discovery and design of drugs by providing detailed information about the binding sites of proteins and their interactions with small molecules. This knowledge allows researchers to develop new therapeutic agents that target specific proteins involved in diseases.
@@ -54,7 +54,7 @@ The PDB database serves as a centralized repository for 3D structural data, prov
 
 ## Organization and Contents of the PDB Database:
 
-The PDB database is organized based on a hierarchical structure, with each entry representing a unique 3D structure. Key components of the PDB database include:
+The **PDB database** is organized based on a hierarchical structure, with each entry representing a unique 3D structure. Key components of the PDB database include:
 
 - **PDB ID and Entry Information:** Each entry in the PDB database is assigned a unique identifier known as the PDB ID. This ID is used to access and reference specific structures within the database. Entry information includes details about the deposition date, authors, experimental techniques employed, and associated publications.
 - **Atomic Coordinates and Metadata:** The core of each entry in the PDB database is the atomic coordinate section, which provides the spatial positions of every atom in the macromolecule. This section is accompanied by metadata such as B-factors (temperature factors), occupancy values, and additional experimental data.
@@ -63,7 +63,7 @@ The PDB database is organized based on a hierarchical structure, with each entry
 
 ## Accessing and Utilizing the PDB Database:
 
-Researchers can access the PDB database through various means, including the official website (www.rcsb.org), which provides a user-friendly interface for searching, browsing, and retrieving structures. Additionally, several software tools and resources, both web-based and standalone, allow for in-depth analysis, visualization, and manipulation of PDB data.
+Researchers can access the **PDB database** through various means, including the official website (www.rcsb.org), which provides a user-friendly interface for searching, browsing, and retrieving structures. Additionally, several software tools and resources, both web-based and standalone, allow for in-depth analysis, visualization, and manipulation of PDB data.
 
 These tools enable researchers to:
 
@@ -72,9 +72,9 @@ These tools enable researchers to:
 - **Analyze and Compare Structures:** Various analysis tools assist in comparing and analyzing structures, identifying conserved motifs, detecting structural similarities, and assessing structural changes between different states of a macromolecule.
 - **Retrieve Supporting Data:** Researchers can access associated experimental data, publications, and additional information related to specific structures in the PDB database.
 
-The PDB database continues to evolve and expand, keeping pace with advancements in experimental techniques and computational methods. New technologies, such as cryo-electron microscopy (cryo-EM) and integrative structural biology approaches, contribute to an increasing number of high-resolution structures being deposited in the PDB database. Furthermore, efforts are underway to enhance data integration, improve data quality, and facilitate the integration of functional and contextual information within the database.
+The **PDB database** continues to evolve and expand, keeping pace with advancements in experimental techniques and computational methods. New technologies, such as cryo-electron microscopy (cryo-EM) and integrative structural biology approaches, contribute to an increasing number of high-resolution structures being deposited in the PDB database. Furthermore, efforts are underway to enhance data integration, improve data quality, and facilitate the integration of functional and contextual information within the database.
 
-The Protein Data Bank (PDB) database stands as a cornerstone of structural biology, providing researchers with a vast collection of experimentally determined 3D structures of macromolecules. Through its wealth of data and cross-referencing capabilities, the PDB database fuels scientific discoveries, facilitates drug development, and fosters collaboration among researchers worldwide. As the field of structural biology advances, the PDB database will remain an indispensable resource, unraveling the secrets of molecular structures and catalyzing breakthroughs in various scientific disciplines.
+The **Protein Data Bank (PDB) database** stands as a cornerstone of structural biology, providing researchers with a vast collection of experimentally determined 3D structures of macromolecules. Through its wealth of data and cross-referencing capabilities, the PDB database fuels scientific discoveries, facilitates drug development, and fosters collaboration among researchers worldwide. As the field of structural biology advances, the PDB database will remain an indispensable resource, unraveling the secrets of molecular structures and catalyzing breakthroughs in various scientific disciplines.
 
 ## How to open PDB files?
 
