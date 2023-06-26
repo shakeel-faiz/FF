@@ -1,7 +1,6 @@
 {
   "date": "2023-06-26",
   "keywords": [
-    "media files",
     "pdb",
     "pdb files",
     "pdb database",
