@@ -1,6 +1,6 @@
 ## Understanding PDB Files: A Crucial Tool for Structural Biology
 
-In the realm of structural biology, the Protein Data Bank (PDB) serves as a valuable resource for scientists and researchers. PDB files, the standardized format for storing three-dimensional (3D) structures of proteins and other macromolecules, play a pivotal role in elucidating their atomic coordinates and providing insights into their function. In this article, we will delve into the world of PDB files, exploring their significance, structure, and the wealth of knowledge they offer to the scientific community.
+In the realm of structural biology, the **Protein Data Bank (PDB)** serves as a valuable resource for scientists and researchers. PDB files, the standardized format for storing three-dimensional (3D) structures of proteins and other macromolecules, play a pivotal role in elucidating their atomic coordinates and providing insights into their function. In this article, we will delve into the world of PDB files, exploring their significance, structure, and the wealth of knowledge they offer to the scientific community.
 
 ## What are PDB Files?
 
