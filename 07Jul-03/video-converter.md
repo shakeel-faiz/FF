@@ -1,3 +1,29 @@
+{
+  "date": "2023-07-03",
+  "keywords": [
+    "video converter",
+    "Free Video Converters",
+    "Convert Video to MP4 Free",
+    "Free Video Converter to MP4",
+    "Video Converter Formats"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "What is a Video Converter? The Ultimate Guide to Video Converters",
+  "description": "Learn about Video Converters, Formats, FAQS and Best Tools",
+  "linktitle": "VIDEO CONVERTER",
+  "menu": {
+    "docs": {
+      "identifier": "misc-video-converter",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-07-03"
+}
+
 ## What is a Video Converter?
 
 A video converter is a software tool that allows you to convert video files from one format to another. It enables you to change the file type, resolution, bitrate, and other parameters of a video file.
