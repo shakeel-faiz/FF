@@ -26,7 +26,7 @@
 
 ## What is a Video Converter?
 
-A video converter is a software tool that allows you to convert video files from one format to another. It enables you to change the file type, resolution, bitrate, and other parameters of a video file..
+A video converter is a software tool that allows you to convert video files from one format to another. It enables you to change the file type, resolution, bitrate, and other parameters of a video file.
 
 ## FAQs about Video Converters
 
