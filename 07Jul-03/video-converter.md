@@ -115,7 +115,7 @@ A free video converter to MP4 is a software or online tool that allows you to co
 
 Popular examples of free video converters to MP4 include HandBrake, Freemake Video Converter, Any Video Converter, Format Factory, and CloudConvert. These tools allow you to convert videos to MP4 format efficiently and conveniently, ensuring compatibility with a wide range of devices and platforms.
 
-## Wideo Converter Formats
+## Video Converter Formats
 
 Video converters support a variety of formats, allowing you to convert videos from one format to another. Here are some commonly supported video formats by video converters:
 
