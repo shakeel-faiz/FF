@@ -87,7 +87,7 @@ MPEG Streamclip is a free video converter primarily designed for Mac users. It s
 ### WinX Video Converter
 WinX Video Converter is a free video converter that provides a user-friendly interface and supports a wide range of video formats. It offers fast conversion speeds and allows you to convert videos for playback on different devices like smartphones, tablets, and gaming consoles. Additionally, it includes basic video editing features such as trimming, cropping, and adding subtitles.
 
-## Online Video Converters
+## Online Video Converters to Convert Video Online	
 
 Here are list of online video converters
 
@@ -96,4 +96,16 @@ Here are list of online video converters
 - Convertio
 - CloudConvert
 
+## Convert Video to MP4 Free
+
+You can use HandBrake (Desktop) to convert your Video to MP4 freely using the following steps.
+
+- Download and install HandBrake from the official website (https://handbrake.fr/).
+- Open HandBrake and click on the "Open Source" button to import your video file.
+- Select the destination folder where you want the converted MP4 file to be saved.
+- In the "Output Settings" section, choose "MP4" as the output format.
+- Customize the video settings if desired, such as video codec, quality, resolution, and frame rate.
+- Click on the "Start" button to begin the conversion process.
+- Wait for HandBrake to finish converting the video to MP4 format.
+- Once the conversion is complete, you can locate the converted MP4 file in the destination folder you specified.
 
