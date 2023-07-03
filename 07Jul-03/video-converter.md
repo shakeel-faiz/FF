@@ -95,9 +95,11 @@ Some of the paid video converters include:
 ## Overview of Free Video Converters
 
 - **HandBrake**
+
 HandBrake is a popular open-source video converter that supports a wide range of formats. It offers advanced features for video customization and optimization. It allows you to adjust settings like resolution, bitrate, and frame rate.
 
 - **Freemake Video Converter**
+
 Freemake Video Converter is a user-friendly software that supports various formats. It provides a simple interface and allows for basic video editing, such as trimming, merging, and adding subtitles. It also offers the ability to convert videos for specific devices like smartphones and tablets.
 
 - **Any Video Converter**
