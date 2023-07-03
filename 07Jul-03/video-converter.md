@@ -115,4 +115,37 @@ A free video converter to MP4 is a software or online tool that allows you to co
 
 Popular examples of free video converters to MP4 include HandBrake, Freemake Video Converter, Any Video Converter, Format Factory, and CloudConvert. These tools allow you to convert videos to MP4 format efficiently and conveniently, ensuring compatibility with a wide range of devices and platforms.
 
+## Wideo Converter Formats
+
+Video converters support a variety of formats, allowing you to convert videos from one format to another. Here are some commonly supported video formats by video converters:
+
+### MP4 (MPEG-4 Part 14)
+MP4 is a widely used video format that offers good quality and compression. It is compatible with most devices and platforms, making it a popular choice for video conversion.
+
+### AVI (Audio Video Interleave)
+AVI is an older video format developed by Microsoft. It provides good quality but can result in larger file sizes compared to more modern formats.
+
+### MOV (QuickTime Movie)
+MOV is a video format developed by Apple for QuickTime. It is commonly used in macOS environments and is supported by many multimedia players.
+
+### MKV (Matroska Video)
+MKV is a flexible and popular video format known for its ability to hold multiple audio, video, and subtitle tracks within a single file. It supports high-quality video and audio.
+
+### WMV (Windows Media Video)
+WMV is a video format developed by Microsoft for Windows Media Player. It is commonly used for streaming and provides good compression with reasonable quality.
+
+### FLV (Flash Video)
+FLV is a video format used for online streaming and is commonly associated with Adobe Flash Player. It offers good compression and is still used on some platforms, although it is being phased out in favor of newer formats like HTML5.
+
+### MPEG (Moving Picture Experts Group)
+MPEG is a family of video formats that includes various sub-formats like MPEG-1, MPEG-2, and MPEG-4. These formats are widely supported and used for different purposes, including DVD and Blu-ray discs, digital broadcasting, and online streaming.
+
+### WebM
+WebM is an open-source video format developed for web use. It provides efficient compression and is commonly used for HTML5 video playback on web browsers.
+
+### 3GP/3GPP
+3GP (3rd Generation Partnership Project) is a video format primarily used for multimedia messaging on mobile devices. It offers small file sizes and is optimized for mobile streaming and playback.
+
+### VOB (DVD Video Object)
+VOB is a format used for storing video and audio data on DVDs. It is commonly associated with DVD video discs and contains video streams, audio tracks, and subtitles.
 
