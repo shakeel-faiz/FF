@@ -26,7 +26,7 @@ This functionality simplifies the user experience by reducing the number of trus
 
 ## CAT Windows
 
-CAT Windows could also meant the "cat" command in the Windows command prompt (CMD), it is used to display the contents of a text file directly in the command prompt window. However, the native Windows command prompt does not include a built-in "cat" command like in Unix-based systems.
+CAT Windows could also mean the "cat" command in the Windows command prompt (CMD), it is used to display the contents of a text file directly in the command prompt window. However, the native Windows command prompt does not include a built-in "cat" command like in Unix-based systems.
 
 To achieve similar functionality in Windows, you can use the "type" command. Here's an example of how to use the "type" command in Windows CMD:
 
