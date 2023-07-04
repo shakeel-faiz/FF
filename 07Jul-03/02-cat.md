@@ -24,7 +24,7 @@ Once user has chosen to "Always trust content" from software distributor, future
 
 This functionality simplifies user experience by reducing number of trust dialog popups that appear for files from known and trusted source. By leveraging trust established through .cat file, Windows can streamline the process for installing or running software components from that particular distributor in the future.
 
-## CAT Windows
+## CAT command in Windows
 
 CAT Windows could also mean the "cat" command in Windows command prompt (CMD), it is used to display contents of text file directly in command prompt window. However, native Windows command prompt does not include a built-in "cat" command like in Unix-based systems.
 
@@ -45,3 +45,7 @@ PS C:\>cat filename.txt
 Again, replace "filename.txt" with path and name of text file you want to display.
 
 Please note that if you are working with binary files or non-textual content, using "type" or "cat" command might not provide meaningful results, as they are primarily designed for displaying text files.
+
+## What is the Windows equivalent of the Unix command cat?
+
+The "type" command in Windows is equivalent of "cat" command in Unix as mentioned above.
