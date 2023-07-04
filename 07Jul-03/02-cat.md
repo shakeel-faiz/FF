@@ -49,3 +49,8 @@ Please note that if you are working with binary files or non-textual content, us
 ## What is the Windows equivalent of the Unix command cat?
 
 The "type" command in Windows is equivalent of "cat" command in Unix as mentioned above.
+
+## What is the format of CAT file?
+
+Binary
+
