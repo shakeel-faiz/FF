@@ -24,4 +24,24 @@ Once the user has chosen to "Always trust content" from the software distributor
 
 This functionality simplifies the user experience by reducing the number of trust dialog popups that appear for files from a known and trusted source. By leveraging the trust established through the .cat file, Windows can streamline the process for installing or running software components from that particular distributor in the future.
 
+## CAT Windows
 
+CAT Windows could also meant the "cat" command in the Windows command prompt (CMD), it is used to display the contents of a text file directly in the command prompt window. However, the native Windows command prompt does not include a built-in "cat" command like in Unix-based systems.
+
+To achieve similar functionality in Windows, you can use the "type" command. Here's an example of how to use the "type" command in Windows CMD:
+
+```
+C:\>type filename.txt
+```
+
+Replace "filename.txt" with the actual path and name of the text file you want to display. The command will output the contents of the file directly in the command prompt window.
+
+Alternatively, if you are using PowerShell, it does include a "cat" alias for the "Get-Content" command. Here's an example:
+
+```
+PS C:\>cat filename.txt
+```
+
+Again, replace "filename.txt" with the path and name of the text file you want to display.
+
+Please note that if you're working with binary files or non-textual content, using the "type" or "cat" command might not provide meaningful results, as they are primarily designed for displaying text files.
