@@ -16,7 +16,7 @@ Here are some important points about Windows Catalog Files:
 - **System Integrity:** Windows relies on .cat files to maintain the integrity of its system files and components. If any files are found to have been modified or compromised, Windows may refuse to install or run them, protecting the stability and security of the operating system.
 - **Deployment and Updates:** .cat files are commonly used during the deployment and update processes of drivers, software packages, and Windows system updates. They ensure that only authentic and unmodified files are installed or updated on a Windows system.
 
-**NOTE:**
+**Note:**
 
 Windows Catalog Files (.cat) can help suppress multiple trust dialog popups for new software component downloads. When a software component is accompanied by a .cat file signed by a trusted authority, it establishes the component as coming from a trusted source.
 
