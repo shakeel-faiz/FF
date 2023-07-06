@@ -1,3 +1,31 @@
+{
+   "date":"2023-07-06",
+   "keywords":[
+      "CAT",
+      "CAT File",
+      "CAT Windows",
+      "file",
+      "cat file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"CAT - Windows Catalog File",
+   "description":"Learn about CAT format and APIs that can create and open CAT files.",
+   "linktitle":"CAT",
+   "menu":{
+      "docs":{
+         "identifier":"system-cat",
+         "parent":"system"
+      }
+   },
+   "lastmod":"2023-07-06"
+}
+
 ## What is a CAT file?
 
 A Windows Catalog File, also known as .cat file, plays crucial role in Windows operating system by ensuring integrity and authenticity of various files. Essentially, it serves as digitally signed file that contains cryptographic hash values of files it catalogs, as well as digital signature from trusted authority.
@@ -6,7 +34,7 @@ The primary purpose of .cat file is to enable verification of system files, driv
 
 ## CAT File Format - More Information
 
-Here are some important points about Windows Catalog Files:
+Here are some important information about Windows Catalog Files:
 
 - **Verification:** Windows Catalog Files are used to verify integrity and authenticity of other files, such as system files, drivers or software components.
 - **Digital Signature:** A .cat file contains digital signature from trusted authority. This signature ensures that catalog file and files it references have not been tampered with or modified since they were signed.
