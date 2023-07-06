@@ -14,7 +14,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"CAT - Windows Catalog File",
+   "title":"CAT File Format - Windows Catalog File",
    "description":"Learn about CAT format and APIs that can create and open CAT files.",
    "linktitle":"CAT",
    "menu":{
