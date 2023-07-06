@@ -1,3 +1,27 @@
+{
+  "date": "2023-07-06",
+  "keywords": [
+    "text formats",
+    "list of common text formats",
+    "types of text formats"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "Text Formats, Types and FAQs",
+  "description": "Learn about Text Formats, Types of Text Formats, List of Text Formats and FAQs",
+  "linktitle": "TEXT FORMATS",
+  "menu": {
+    "docs": {
+      "identifier": "misc-text-formats",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-07-06"
+}
+
 ## What are Text Formats?
 
 Text Formats refer to the different ways in which textual information can be structured, presented, and encoded. These formats determine the appearance, style, and organization of text, allowing it to be displayed and interpreted by both humans and computers.
