@@ -88,7 +88,7 @@ Here are some important things to know about the MPEG file format:
 
 ## MPEG vs Other Formats
 
-When comparing the MPEG file format with other video formats, several factors come into play, including compression efficiency, compatibility, features, and support. Here's a comparison of MPEG with some popular video formats:
+When comparing the MPEG file format with other video formats, several factors come into play, including compression efficiency, compatibility, features, and support. Here is a comparison of MPEG with some popular video formats:
 
 ### MPEG vs. AVI (Audio Video Interleave)
 
