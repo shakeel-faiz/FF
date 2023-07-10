@@ -6,3 +6,10 @@ While the NUT format is not as widely used or supported as some other popular vi
 
 If you have a video file in the NUT format and you need to work with it, you may need to convert it to a more widely supported format like MP4 or MKV. There are several video conversion tools available that can assist you in this process.
 
+## NUT File Format - More Information
+
+The NUT format, also known as NUT Multimedia Container, was developed by the MPlayer, FFmpeg, and Libav teams. It was designed to be a flexible multimedia container format capable of supporting various audio and video codecs as well as subtitle information.
+
+While the NUT format was developed by reputable multimedia projects, it did not gain widespread popularity and adoption compared to more established container formats like MP4, MKV, and AVI. As a result, NUT files are relatively uncommon, and support for this format may be limited in media players, video editors, and other multimedia software.
+
+If you come across a NUT file and need to work with it, you may need to convert it to a more widely supported format for better compatibility. There are various video conversion tools available that can assist you in converting NUT files to formats like MP4 or MKV.
