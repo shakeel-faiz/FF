@@ -22,7 +22,9 @@ The software supports a wide range of video formats and resolutions, including 4
 
 PowerDirector is known for its fast rendering speeds because of its efficient TrueVelocity rendering engine. This allows users to preview and export their projects quickly without sacrificing quality. Furthermore, PowerDirector provides additional features like video stabilization, color correction, and audio editing tools, allowing users to polish their videos to perfection. It also offers integrated tools for DVD and Blu-ray authoring, as well as direct sharing to popular social media platforms.
 
-## Converting PowerDirector Video Projects: How to Convert PDS to MP4?
+## Converting PowerDirector Video Projects
+
+### How to Convert PDS to MP4?
 
 To convert a CyberLink PowerDirector video project file (PDS) to the MP4 format, you will need to follow these steps:
 
@@ -36,3 +38,17 @@ To convert a CyberLink PowerDirector video project file (PDS) to the MP4 format,
 - **Wait for the Conversion:** The conversion time will depend on the size and complexity of your project. PowerDirector will provide a progress indicator, and once the conversion is complete, it will notify you.
 - **Locate the MP4 File:** Once the conversion is finished, navigate to the output folder you specified earlier. You should find the converted MP4 file there, ready for use.
 
+### How to Convert PDS to AVI?
+
+To convert a CyberLink PowerDirector video project file (PDS) to the AVI format, you will need to follow these steps:
+
+- **Open PowerDirector:** Launch the PowerDirector software on your computer.
+- **Open the PDS Project:** Go to the File menu and select "Open Project." Browse your files and locate the PDS project file you want to convert. Click on it and then click "Open" to load the project into PowerDirector.
+- **Export the Project:** Once the project is loaded, go to the File menu and select "Produce" or "Export." This will open the Export window where you can configure the export settings.
+- **Choose Output Format:** In the Export window, you'll see various options for the output format. Look for the AVI format and select it as the desired output format.
+- **Configure Video Settings:** Within the export settings, you can adjust video parameters such as resolution, frame rate, bitrate, and quality. Make sure to set these options according to your requirements.
+- **Choose Output Folder:** Specify the location on your computer where you want to save the converted AVI file. Select a destination folder by clicking on the browse button or typing in the desired path.
+- **Start the Conversion:** After configuring the export settings and output folder, click on the "Start" or "Export" button to begin the conversion process. PowerDirector will process the project and export it as an AVI file based on your specified settings.
+- **Wait for the Conversion:** The conversion time will depend on the size and complexity of your project. PowerDirector will provide a progress indicator, and once the conversion is complete, it will notify you.
+- **Locate the AVI File:** Once the conversion is finished, navigate to the output folder you specified earlier. You should find the converted AVI file there, ready for use.
+  
