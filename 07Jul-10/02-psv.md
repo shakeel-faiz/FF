@@ -30,3 +30,5 @@ Here are some important things to know about Pluralsight and its PSV (Pluralsigh
 
 - **Course Updates:** It's important to note that course content on Pluralsight is regularly updated and improved. Therefore, it's recommended to periodically check for updates to ensure you have the most up-to-date information.
 
+## References
+* [Pluralsight](https://en.wikipedia.org/wiki/Pluralsight)
