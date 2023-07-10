@@ -10,7 +10,7 @@ To access and watch Pluralsight courses, you generally need a valid Pluralsight 
 
 Pluralsight is an educational platform focused on technology learning. It offers businesses the ability to evaluate their teams' technical skills and provides a means to teach relevant business objectives. The platform offers a diverse range of educational videos, which are accessible online. However, if users wish to watch these videos offline, they have the option to download them as PSV files and utilize the Pluralsight Offline Player. The downloaded videos can be viewed on Windows and macOS using the Pluralsight Offline Player, while the Pluralsight app allows viewing on Android and iOS devices.
 
-## Exploring Pluralsight and PSV Files: Your Guide to Offline Learning and Technical Skill Development
+## Pluralsight and PSV Files
 
 Here are some important things to know about Pluralsight and its PSV (Pluralsight Video) files:
 
