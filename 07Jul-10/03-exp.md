@@ -12,7 +12,7 @@ To address circular imports, a typical approach involves utilizing a .LIB file (
 
 By utilizing the LIB file and EXP file during the linking process, the circular import dependencies can be resolved. Program A can successfully import the required elements from Program B through the import library, and Program B can export the necessary symbols to be accessed by Program A via the export file.
 
-## Purpose and Usage of EXP file in Software Development
+## Purpose and Usage of EXP files in Software Development
 
 EXP files are primarily related to software development and are used in conjunction with various programming languages and development tools. Some of the common software and tools associated with EXP files include:
 
