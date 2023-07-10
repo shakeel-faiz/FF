@@ -52,3 +52,5 @@ To convert a CyberLink PowerDirector video project file (PDS) to the AVI format,
 - **Wait for the Conversion:** The conversion time will depend on the size and complexity of your project. PowerDirector will provide a progress indicator, and once the conversion is complete, it will notify you.
 - **Locate the AVI File:** Once the conversion is finished, navigate to the output folder you specified earlier. You should find the converted AVI file there, ready for use.
   
+## References
+* [PowerDirector](https://en.wikipedia.org/wiki/PowerDirector)
