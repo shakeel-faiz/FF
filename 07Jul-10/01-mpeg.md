@@ -168,3 +168,5 @@ When comparing the MPEG file format with other video formats, several factors co
 
    MPEG and MP4 can achieve similar video quality when using comparable compression settings. However, MP4's support for more advanced video codecs allows for better quality at lower bitrates.
 
+## References
+* [MPEG-1](https://en.wikipedia.org/wiki/MPEG-1)
