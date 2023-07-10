@@ -10,25 +10,25 @@ MPEG files typically have the file extension ".mpeg" or ".mpg." They can contain
 
 There are numerous software applications available that can open and play MPEG files. Here are some popular options:
 
-1. VLC Media Player
-2. Windows Media Player
-3. QuickTime Player
-4. MPC-HC
-5. GOM Player
-6. MPlayer
-7. PotPlayer
-8. Kodi
+- VLC Media Player
+- Windows Media Player
+- QuickTime Player
+- MPC-HC
+- GOM Player
+- MPlayer
+- PotPlayer
+- Kodi
 
 ## How to convert an MPEG file?
 
 There are number of video applications including VideoLAN VLC media player, HandBrake, and Apple QuickTime Player, can convert MPEG files to other formats. For example, VLC can convert MPEG files into these formats 
 
-1. MP4
-2. AVI
-3. MKV
-4. MOV
-5. WMV
-6. FLV
+- MP4
+- AVI
+- MKV
+- MOV
+- WMV
+- FLV
 
 ## Overview of Internal Structure of MPEG Files
 
