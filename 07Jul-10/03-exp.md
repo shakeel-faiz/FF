@@ -12,6 +12,16 @@ To address circular imports, a typical approach involves utilizing a .LIB file (
 
 By utilizing the LIB file and EXP file during the linking process, the circular import dependencies can be resolved. Program A can successfully import the required elements from Program B through the import library, and Program B can export the necessary symbols to be accessed by Program A via the export file.
 
+## Purpose and Usage of EXP file in Software Development
+
+EXP files are primarily related to software development and are used in conjunction with various programming languages and development tools. Some of the common software and tools associated with EXP files include:
+
+- **Compilers:** Compiler software, such as GCC (GNU Compiler Collection) or Microsoft Visual C++, may generate EXP files as part of the compilation process. The EXP files contain symbol information that aids in linking and debugging.
+- **Linkers:** Linkers, such as GNU ld (Linker) or Microsoft Linker, utilize EXP files to resolve symbol references and establish connections between different code modules during the linking process.
+- **Integrated Development Environments (IDEs):** IDEs like Visual Studio, Eclipse, or Xcode often have built-in support for working with EXP files. They provide features for managing symbol information, debugging, and linking, making use of the EXP files behind the scenes.
+- **Debuggers:** Debugging tools like GDB (GNU Debugger) or WinDbg use EXP files to associate memory addresses with source code symbols, enabling developers to debug their programs effectively.
+- **Profilers:** Profiling tools, such as Intel VTune or Visual Studio Profiler, may utilize EXP files to map performance data to specific functions or code regions during the profiling process.
+
 ## How to open EXP file?
 
 EXP files, being symbol export files, are not typically meant to be directly opened or viewed by end-users. They are primarily used by developers and build tools during the compilation, linking, and debugging processes.
