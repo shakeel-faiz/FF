@@ -19,6 +19,17 @@ There are numerous software applications available that can open and play MPEG f
 7. PotPlayer
 8. Kodi
 
+## How to convert an MPEG file?
+
+There are number of video applications including VideoLAN VLC media player, HandBrake, and Apple QuickTime Player, can convert MPEG files to other formats. For example, VLC can convert MPEG files into these formats 
+
+1. MP4
+2. AVI
+3. MKV
+4. MOV
+5. WMV
+6. FLV
+
 ## Overview of Internal Structure of MPEG Files
 
 The internal structure of MPEG files consists of different components and data structures that organize and store video, audio, and other related information. Here is an overview of the key elements in the internal structure of MPEG files:
