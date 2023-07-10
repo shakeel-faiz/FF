@@ -19,3 +19,6 @@ EXP files, being symbol export files, are not typically meant to be directly ope
 EXP files are usually processed automatically by development tools or integrated into the build system. They serve as a reference for the compiler, linker, debugger, or profiler to resolve symbol references, associate memory addresses with source code elements, and facilitate the linking of code modules.
 
 If you are a developer working with an EXP file, you typically don't need to manually open or interact with the file itself. Instead, you would rely on development tools or programming environments that utilize the EXP file internally for their respective purposes, such as linking, debugging, or profiling.
+
+## References
+* [.Exp Files as Linker Input](https://learn.microsoft.com/en-us/cpp/build/reference/dot-exp-files-as-linker-input?view=msvc-170)
