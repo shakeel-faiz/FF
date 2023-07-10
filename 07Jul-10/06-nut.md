@@ -13,3 +13,6 @@ The NUT format, also known as NUT Multimedia Container, was developed by the MPl
 While the NUT format was developed by reputable multimedia projects, it did not gain widespread popularity and adoption compared to more established container formats like MP4, MKV, and AVI. As a result, NUT files are relatively uncommon, and support for this format may be limited in media players, video editors, and other multimedia software.
 
 If you come across a NUT file and need to work with it, you may need to convert it to a more widely supported format for better compatibility. There are various video conversion tools available that can assist you in converting NUT files to formats like MP4 or MKV.
+
+## References
+* [NUT Open Container Format](https://ffmpeg.org/~michael/nut.txt)
