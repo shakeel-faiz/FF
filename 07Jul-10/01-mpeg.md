@@ -1,3 +1,31 @@
+{
+  "date": "2023-07-12",
+  "keywords": [
+    "mpeg",
+    "mpeg file",
+    "what is an mpeg file",
+    "how to open mpeg file",
+    "file",
+    "mpeg file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPEG File Format - MPEG Video",
+  "description": "Learn about MPEG format and APIs that can create and open MPEG files.",
+  "linktitle": "MPEG",
+  "menu": {
+    "docs": {
+      "identifier": "video-mpeg",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-07-12"
+}
+
 ## What is an MPEG file?
 
 An MPEG file, also known as an MPEG video file, is a digital video file format that uses the Moving Picture Experts Group (MPEG) standards for video compression. MPEG is a widely used format for storing and transmitting video data.
