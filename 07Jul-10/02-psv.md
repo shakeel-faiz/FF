@@ -1,3 +1,30 @@
+{
+  "date": "2023-07-12",
+  "keywords": [
+    "psv",
+    "psv file",
+    "what is a psv file",
+    "file",
+    "psv file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PSV File Format - Pluralsight Video File",
+  "description": "Learn about PSV format and APIs that can create and open PSV files.",
+  "linktitle": "PSV",
+  "menu": {
+    "docs": {
+      "identifier": "video-psv",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-07-12"
+}
+
 ## What is a PSV file?
 
 A "Pluralsight Video File" (PSV) is a proprietary video file format used by the Pluralsight online learning platform. Pluralsight provides video-based courses and tutorials on various topics related to software development, IT, and creative skills.
