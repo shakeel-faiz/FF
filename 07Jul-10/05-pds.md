@@ -1,3 +1,30 @@
+{
+  "date": "2023-07-12",
+  "keywords": [
+    "pds",
+    "pds file",
+    "what is a pds file",
+    "file",
+    "pds file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDS File Format - PowerDirector Script File",
+  "description": "Learn about PDS format and APIs that can create and open PDS files.",
+  "linktitle": "PDS",
+  "menu": {
+    "docs": {
+      "identifier": "video-pds",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-07-12"
+}
+
 ## What is a PDS file?
 
 A PowerDirector Script file (PDS) is a video project file or slideshow created with CyberLink PowerDirector, a comprehensive digital video-editing program. These files serve as containers for all the necessary information to produce a video project.
