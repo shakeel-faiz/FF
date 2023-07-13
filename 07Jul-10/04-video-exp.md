@@ -1,3 +1,30 @@
+{
+  "date": "2023-07-13",
+  "keywords": [
+    "exp",
+    "exp file",
+    "what is an exp file",
+    "file",
+    "exp file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EXP File Format - DX Series Exported Video File",
+  "description": "Learn about EXP format and APIs that can create and open EXP files.",
+  "linktitle": "EXP",
+  "menu": {
+    "docs": {
+      "identifier": "video-exp",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-07-13"
+}
+
 ## What is an EXP file?
 
 The DX Series Exported Video File with ".exp" extension is a proprietary file format associated with the DX Series digital video recorders (DVRs) manufactured by certain vendors, such as DX4100 or DX4800.
