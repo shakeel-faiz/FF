@@ -1,3 +1,30 @@
+{
+  "date": "2023-07-13",
+  "keywords": [
+    "nut",
+    "nut file",
+    "what is a nut file",
+    "file",
+    "nut file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPEG File Format - NUT Video File",
+  "description": "Learn about NUT format and APIs that can create and open NUT files.",
+  "linktitle": "NUT",
+  "menu": {
+    "docs": {
+      "identifier": "video-nut",
+      "parent": "video"
+    }
+  },
+  "lastmod": "2023-07-13"
+}
+
 ## What is a NUT file?
 
 The NUT (NUT Open Container Format) is a video container format similar to AVI, ASF, and MKV. It is designed to support various audio and video codecs, as well as subtitle information. The NUT format aims to provide a flexible container for multimedia content, allowing for the inclusion of different audio and video streams within a single file. It supports features such as multiple audio tracks, multiple video tracks, and subtitles.
