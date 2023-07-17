@@ -28,3 +28,5 @@ In addition to video recording, Dedicated Micros DVR systems provide ample stora
 
 To enhance security, Dedicated Micros DVR systems incorporate motion detection algorithms, triggering recordings or event-based actions when motion is detected. Users can also receive instant event notifications through email alerts or SMS messages, keeping them informed of critical events in their monitored areas.
 
+## References
+* [NetVu](https://netvu.org.uk/)
