@@ -8,6 +8,12 @@ The .par file format is proprietary to Solid Edge and can be opened and edited u
 
 With Solid Edge, you can create, modify, and analyze complex parts using various design tools and techniques. The .par file format allows you to save your individual part designs separately, which can then be incorporated into larger assemblies or used as standalone components in different projects.
 
+## How to open PAR file?
+
+Programs that open PAR files include
+
+- Siemens Solid Edge
+
 ## Solid Edge - CAD Software Application and Key Features
 
 Solid Edge is a professional computer-aided design (CAD) software application developed by Siemens Digital Industries Software. It is used by engineers, designers, and manufacturers for 3D product design and development.
