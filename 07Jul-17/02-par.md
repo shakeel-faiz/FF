@@ -17,3 +17,18 @@ To open and use .par files, you will need specialized PAR software. Here are a f
 - **MultiPar:** MultiPar is another popular PAR software available for Windows. It supports both PAR and PAR2 file formats and provides advanced features for creating, verifying, and repairing archives. MultiPar can open .par files and perform error detection and recovery operations based on the provided parity volumes.
 
 - **MacPAR deLuxe:** MacPAR deLuxe is a PAR software designed specifically for macOS. It supports PAR and PAR2 file formats and provides similar functionality as QuickPar and MultiPar. MacPAR deLuxe can open .par files and assist in verifying archives and recovering damaged or missing files.
+
+## PAR File Format - More Information
+
+The PAR file format, commonly referred to as Parchive, is a specific file format used for creating parity data and performing error detection and recovery in file archives. The PAR file format typically consists of three types: PAR, PAR2, and PAR3.
+
+- **PAR:** The original PAR file format, also known as PAR1, was developed by the Parchive project. It includes parity data generated from the original data files. PAR files provide a basic level of error detection and recovery but have limitations in terms of error correction capabilities.
+
+- **PAR2:** PAR2 is an improved version of the PAR file format. It offers more advanced error correction capabilities and enhanced recovery features. PAR2 files are typically used for creating parity data that can recover lost or damaged files within an archive. PAR2 files provide better protection against data corruption and are widely used for file archiving purposes.
+
+- **PAR3:** PAR3 is the latest version of the PAR file format and provides further improvements in error correction and recovery. It offers even higher levels of redundancy and error correction capabilities compared to PAR2. PAR3 files are designed to provide more robust protection and recovery options for data stored in archives.
+
+Both PAR2 and PAR3 file formats are widely supported by PAR software and offer the ability to verify the integrity of files within an archive and recover lost or damaged data. PAR and PAR2 files are still commonly used, while PAR3 files are gradually gaining adoption due to their enhanced error correction capabilities.
+
+## References
+* [Parchive](https://en.wikipedia.org/wiki/Parchive)
