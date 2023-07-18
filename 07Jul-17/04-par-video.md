@@ -1,3 +1,30 @@
+{
+   "date":"2023-07-18",
+   "keywords":[
+      "PAR",
+      "PAR File",
+      "file",
+      "PAR file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"PAR File Format - Dedicated Micros DVR Recording",
+   "description":"Learn about PAR format and APIs that can create and open PAR files.",
+   "linktitle":"PAR",
+   "menu":{
+      "docs":{
+         "identifier":"video-par",
+         "parent":"video"
+      }
+   },
+   "lastmod":"2023-07-18"
+}
+
 ## What is a PAR file?
 
 The Dedicated Micros DVRs utilize a proprietary digital video format known as NetVu for recording and storing video footage. Additionally, the DVR systems utilize .par files, which are configuration files specific to Dedicated Micros DVRs. These files store settings, parameters, and configurations for the DVR system, such as camera settings, recording schedules, and network configurations.
