@@ -1,3 +1,31 @@
+{
+   "date":"2023-07-18",
+   "keywords":[
+      "PAR",
+      "PAR File",
+      "how to open a par file",
+      "file",
+      "PAR file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"PAR File Format - Parchive Index File",
+   "description":"Learn about PAR format and APIs that can create and open PAR files.",
+   "linktitle":"PAR",
+   "menu":{
+      "docs":{
+         "identifier":"compression-par",
+         "parent":"compression"
+      }
+   },
+   "lastmod":"2023-07-18"
+}
+
 ## What is a PAR file?
 
 Within Parchive (PAR) archives, a .par file refers to an index file that contains a group of parity volumes or parity blocks. This index file is used for error detection and recovery purposes when one or more files in the archive are lost or damaged.
