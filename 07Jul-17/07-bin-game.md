@@ -60,9 +60,5 @@ PlayStation emulators like PCSX, PCSX2, ePSXe, and pSX emulator can open BIN fil
 
 4. **pSX emulator:** The pSX emulator is a PlayStation emulator primarily focused on running PS1 games on a computer. It supports BIN files, including BIOS images. The pSX emulator provides accurate emulation of the PlayStation hardware, allowing users to enjoy PS1 games with authentic performance. It offers various configuration options for audio, video, and controller settings.
 
-
-
-
-
-
-
+## References
+* [PCSX2](https://en.wikipedia.org/wiki/PCSX2)
