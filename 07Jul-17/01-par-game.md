@@ -1,3 +1,30 @@
+{
+   "date":"2023-07-18",
+   "keywords":[
+      "PAR",
+      "PAR File",
+      "file",
+      "PAR file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"PAR File Format - FMS Aircraft Parameters File",
+   "description":"Learn about PAR format and APIs that can create and open PAR files.",
+   "linktitle":"PAR",
+   "menu":{
+      "docs":{
+         "identifier":"game-par",
+         "parent":"game"
+      }
+   },
+   "lastmod":"2023-07-18"
+}
+
 ## What is a PAR file?
 
 A PAR file, commonly known as an aircraft parameters file, is specifically utilized by FMS (Flying-Model-Simulator), a flight simulation game designed for Windows operating systems. Its purpose is to store crucial data regarding the geometry and physical characteristics of an airplane, including properties such as mass, center of gravity, and inertia moments. These PAR files are instrumental in the creation of customized aircraft within the game, allowing players to simulate and fly their own unique virtual aircraft with accurate and realistic physics.
