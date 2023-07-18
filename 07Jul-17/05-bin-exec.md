@@ -2,7 +2,7 @@
 
 A BIN file is an executable file on Unix-based operating systems such as Linux or FreeBSD. It holds a compiled program composed of binary code derived from source code, making it compatible with the underlying system architecture. Unix Executable BIN files can be compared to Windows .EXE files and macOS .APP files in terms of their role as executable formats.
 
-In the domain of software development for Unix systems, BIN files are commonly employed by developers to package and distribute programs. They offer a convenient means of delivering software to users, allowing for easy installation and execution. Alongside BIN files, there exist other types of Unix executables, including .ELF, .X86, .RUN, and .X86_64, each tailored to specific hardware or system requirements.
+In the domain of software development for Unix systems, BIN files are commonly employed by developers to package and distribute programs. They offer a convenient means of delivering software to users, allowing for easy installation and execution. Alongside BIN files, there exist other types of Unix executables, including [.ELF](/executable/elf/), .X86, [.RUN](/executable/run/), and .X86_64, each tailored to specific hardware or system requirements.
 
 When it comes to the internal structure of a BIN file, it consists of encoded data that the Unix operating system utilizes to identify, read, and execute the enclosed program. The system relies on specific file signatures or headers to recognize the BIN file as an executable, followed by the interpretation and execution of the binary instructions contained within.
 
