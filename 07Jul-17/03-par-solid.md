@@ -1,3 +1,31 @@
+{
+   "date":"2023-07-18",
+   "keywords":[
+      "PAR",
+      "PAR File",
+      "how to open a par file",
+      "file",
+      "PAR file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"PAR File Format - Solid Edge Part File",
+   "description":"Learn about PAR format and APIs that can create and open PAR files.",
+   "linktitle":"PAR",
+   "menu":{
+      "docs":{
+         "identifier":"cad-par",
+         "parent":"cad"
+      }
+   },
+   "lastmod":"2023-07-18"
+}
+
 ## What is a PAR file?
 
 A .par file is a file format associated with Solid Edge, a popular computer-aided design (CAD) software developed by Siemens Digital Industries Software. The .par extension stands for "Solid Edge Part File."
