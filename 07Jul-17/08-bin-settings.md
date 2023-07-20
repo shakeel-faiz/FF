@@ -1,3 +1,32 @@
+{
+   "date":"2023-07-20",
+   "keywords":[
+      "BIN",
+      "policy.bin",
+      "BlackBerry IT Policy File",
+      "BIN File",
+      "file",
+      "BIN file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"BIN File Format - BlackBerry IT Policy File",
+   "description":"Learn about BIN format and APIs that can create and open BIN files.",
+   "linktitle":"BIN",
+   "menu":{
+      "docs":{
+         "identifier":"settings-bin",
+         "parent":"settings"
+      }
+   },
+   "lastmod":"2023-07-20"
+}
+
 ## What is a BIN file?
 
 BlackBerry IT Policy (Information Technology Policy) files, also known as **policy.bin** files, are used to enforce security settings and configuration policies on BlackBerry devices. These files are typically created and deployed by administrators in an enterprise environment to ensure compliance and control over the devices.
