@@ -1,3 +1,30 @@
+{
+   "date":"2023-07-20",
+   "keywords":[
+      "BIN",
+      "BIN File",
+      "file",
+      "BIN file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"BIN File Format - MacBinary Encoded File",
+   "description":"Learn about BIN format and APIs that can create and open BIN files.",
+   "linktitle":"BIN",
+   "menu":{
+      "docs":{
+         "identifier":"compression-bin",
+         "parent":"compression"
+      }
+   },
+   "lastmod":"2023-07-20"
+}
+
 ## What is a BIN file?
 
 A BIN file, in the context of Macintosh computers, can refer to a file saved in the MacBinary format. MacBinary is a file format specifically designed for transferring Macintosh files over the internet, email, FTP, or portable media. The purpose of MacBinary is to preserve the complete file structure and attributes of Macintosh files, including both the data fork and resource fork, within a single file.
