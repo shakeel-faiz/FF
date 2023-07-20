@@ -1,3 +1,30 @@
+{
+   "date":"2023-07-20",
+   "keywords":[
+      "BIN",
+      "BIN File",
+      "file",
+      "BIN file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"BIN File Format - Unix Executable File",
+   "description":"Learn about BIN format and APIs that can create and open BIN files.",
+   "linktitle":"BIN",
+   "menu":{
+      "docs":{
+         "identifier":"executable-bin",
+         "parent":"executable"
+      }
+   },
+   "lastmod":"2023-07-20"
+}
+
 ## What is a BIN file?
 
 A BIN file is an executable file on Unix-based operating systems such as Linux or FreeBSD. It holds a compiled program composed of binary code derived from source code, making it compatible with the underlying system architecture. Unix Executable BIN files can be compared to Windows .EXE files and macOS .APP files in terms of their role as executable formats.
