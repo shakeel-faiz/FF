@@ -1,3 +1,30 @@
+{
+   "date":"2023-07-20",
+   "keywords":[
+      "BIN",
+      "BIN File",
+      "file",
+      "BIN file extension",
+      "extension",
+      "file"
+   ],
+   "author":{
+      "display_name":"Shakeel Faiz"
+   },
+   "draft":"false",
+   "toc":true,
+   "title":"BIN File Format - PSX PlayStation BIOS Image",
+   "description":"Learn about BIN format and APIs that can create and open BIN files.",
+   "linktitle":"BIN PCSX",
+   "menu":{
+      "docs":{
+         "identifier":"game-bin-pcsx",
+         "parent":"game"
+      }
+   },
+   "lastmod":"2023-07-20"
+}
+
 ## What is a BIN file?
 
 A BIN file can also refer to a BIOS file used by PCSX and various other PlayStation emulation software. BIOS stands for Basic Input/Output System, which is firmware that initializes and controls hardware components during the booting process of a computer system.
