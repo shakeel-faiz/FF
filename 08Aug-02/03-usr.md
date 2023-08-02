@@ -40,5 +40,13 @@ The above command instructs GPSBabel to read the input file "input.usr" in Lowra
 
 - **Importing/Using Converted Files:** After the conversion, you'll have your GPS data in the new format (e.g., GPX), which you can use with other GPS software or devices that support that format.
 
+## How to open USR file?
+
+Programs that open or reference USR files include
+
+- GPSBabel (Windows)
+- GPSBabel (Mac)
+- GPSBabel (Linux)
+
 ## References
 * [Lowrance Electronics](https://en.wikipedia.org/wiki/Lowrance_Electronics)
