@@ -16,6 +16,13 @@ Data can be easily imported from various sources, including spreadsheets, text f
 
 With FileMaker Pro Advanced, users can publish databases to the web or mobile devices, offering remote access and data entry options. Integration with other systems and technologies, along with powerful reporting and data analysis tools, further extends the software's capabilities. Its versatility and extensive support resources make FileMaker Pro an ideal choice for various industries and professions seeking to develop custom database solutions tailored to their specific needs.
 
+## How to open USR file?
+
+Programs that open or references USR files include
+
+- FileMaker Pro Advanced (Windows)
+- FileMaker Pro Advanced (Mac)
+
 ## References
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker)
 
