@@ -23,3 +23,6 @@ To create a SmartMusic Custom File (.usr), you need to use the SmartMusic softwa
 After installing the SmartMusic software on your computer or device and logging in with your account, you can access the extensive music library, which includes a wide range of sheet music and accompaniment tracks for various instruments and vocal parts. Choose the piece you want to work on and open it within the SmartMusic interface. 
 
 Once the original accompaniment track is displayed, you can begin customizing it to suit your preferences and learning needs. SmartMusic provides tools to adjust the tempo, transpose the music to different keys, cut measures, and modify dynamics. After making the desired customizations, you can save the changes as a .usr file by selecting the appropriate option within the software. The .usr file will then be available in your SmartMusic account or the designated storage location.
+
+## References
+- [MakeMusic](https://www.makemusic.com/)
