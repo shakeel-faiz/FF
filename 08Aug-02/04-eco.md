@@ -10,5 +10,12 @@ NetManage ECCO, also known as ECCO, was a personal information management (PIM) 
 
 However, NetManage discontinued ECCO, and the last official version was released in 1997. As a legacy format, ECCO's file format, with the ".eco" extension, might not be natively supported by modern software, necessitating third-party tools or converters for accessing existing ECCO files.
 
+## How to open ECO file?
+
+Programs that open or reference ECO files include
+
+- NetManage ECCO
+- NetManage ECCO Pro
+
 ## References
 [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
