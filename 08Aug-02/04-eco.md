@@ -1,3 +1,31 @@
+{
+  "date": "2023-08-03",
+  "keywords": [
+    "eco",
+    "eco file",
+    "what is an eco file",
+    "how to open eco file",
+    "file",
+    "eco file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USR File Format - ECCO Database File",
+  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "linktitle": "USR",
+  "menu": {
+    "docs": {
+      "identifier": "database-eco",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-08-03"
+}
+
 ## What is an ECO file?
 
 The "ECO" file format is associated with the NetManage ECCO (Enterprise Core Objects) application. ECCO was a personal information manager (PIM) and database software that allowed users to organize and manage their data in a flexible and customizable manner. It was popular during the 1990s and early 2000s.
