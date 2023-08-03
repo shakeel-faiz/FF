@@ -1,3 +1,31 @@
+{
+  "date": "2023-08-03",
+  "keywords": [
+    "usr",
+    "usr file",
+    "what is a usr file",
+    "how to open usr file",
+    "file",
+    "usr file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USR File Format - Lowrance GPS Data File",
+  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "linktitle": "USR",
+  "menu": {
+    "docs": {
+      "identifier": "gis-usr",
+      "parent": "gis"
+    }
+  },
+  "lastmod": "2023-08-03"
+}
+
 ## What is a USR file?
 
 The ".usr" file extension is also related to Lowrance GPS devices. In particular, it is used for storing GPS data in a format known as "User Data Format" (USR format) which is used by Lowrance GPS devices.
