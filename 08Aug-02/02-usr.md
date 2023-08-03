@@ -1,3 +1,31 @@
+{
+  "date": "2023-08-03",
+  "keywords": [
+    "usr",
+    "usr file",
+    "what is a usr file",
+    "how to open usr file",
+    "file",
+    "usr file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USR File Format - FileMaker Pro Database File",
+  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "linktitle": "USR",
+  "menu": {
+    "docs": {
+      "identifier": "database-usr",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-08-03"
+}
+
 ## What is a USR file?
 
 USR file is a FileMaker database file in a specialized format utilized by FileMaker Pro, a powerful software application designed for creating, organizing, and distributing databases. This file serves as a container for user-specific databases, housing data and related components in a proprietary structure unique to FileMaker.
