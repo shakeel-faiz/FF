@@ -1,3 +1,31 @@
+{
+  "date": "2023-08-03",
+  "keywords": [
+    "usr",
+    "usr file",
+    "what is a usr file",
+    "how to open usr file",
+    "file",
+    "usr file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USR File Format - SmartMusic Custom File",
+  "description": "Learn about USR format and APIs that can create and open USR files.",
+  "linktitle": "USR",
+  "menu": {
+    "docs": {
+      "identifier": "misc-usr",
+      "parent": "misc"
+    }
+  },
+  "lastmod": "2023-08-03"
+}
+
 ## What is a USR file?
 
 The SmartMusic Custom File, also known as a SmartMusic Accompaniment file or .usr file, is a proprietary file format used by the SmartMusic software developed by MakeMusic. SmartMusic is a popular music learning software that provides interactive music practice and assessment tools.
