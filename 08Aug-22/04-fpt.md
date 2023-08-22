@@ -29,4 +29,6 @@ Key features of Visual FoxPro included:
 
 Please note that Microsoft ended mainstream support for Visual FoxPro in 2007, and extended support ended in 2015. This means that while existing applications developed using FoxPro may still function, there are no official updates or security patches provided by Microsoft. Moreover, modern development trends have shifted towards web-based and cloud-based applications, and newer database management systems have emerged.
 
+## References
+* [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 
