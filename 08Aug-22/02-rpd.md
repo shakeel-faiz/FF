@@ -6,13 +6,7 @@ When it comes to using the training modules, these "RPD" files serve as reposito
 
 Please note Roleplay Designer has been **discontinued**, which means that finding official support or documentation for the "RPD" file format might be challenging. In such cases, individuals working with these files may need to explore methods like analyzing the files' content, seeking assistance from past users of the software, attempting to reverse engineer the format, or considering alternative tools to achieve their e-learning development goals. 
 
-## How to open RPD file?
-
-Programs that open or reference RPD files include
-
-- Roleplay Designer (Windows, Mac, Linux)
-
-## Roleplay Designer
+## Roleplay Designer Software
 
 Roleplay Designer is a collaborative e-learning development system used to design and build decision-based training modules.
 
@@ -22,6 +16,12 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Interscape\RoleplayDesigner
 HKEY_CURRENT_USER\SOFTWARE\RoleplayDesigner
 ```
 
+## How to open RPD file?
+
+Programs that open or reference RPD files include
+
+- Roleplay Designer (Windows, Mac, Linux)
+
 ## References
 
-* [Roleplay Designer Software](#roleplay-designer)
+* [Roleplay Designer Software](#roleplay-designer-software)
