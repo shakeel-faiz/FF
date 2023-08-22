@@ -6,7 +6,7 @@ In the iTWO context, the RPD file contains structured information related to con
 
 ## Relation with iTWO
 
-RPD file is related to iTWO which a comprehensive construction management and project control software solution developed by RIB Software SE. It's designed to streamline and optimize various aspects of construction projects, including planning, scheduling, cost management, and collaboration. The software aims to improve project efficiency, reduce costs, and enhance overall project management in the construction industry.
+RPD file is related to iTWO which is a comprehensive construction management and project control software solution developed by RIB Software SE. It's designed to streamline and optimize various aspects of construction projects, including planning, scheduling, cost management, and collaboration. The software aims to improve project efficiency, reduce costs, and enhance overall project management in the construction industry.
 
 iTWO offers a range of features and modules that cover different aspects of construction project management:
 
