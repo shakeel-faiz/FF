@@ -12,6 +12,70 @@ Programs that open or reference RPD files include
 
 - Roleplay Designer (Windows, Mac, Linux)
 
+## Roleplay Designer
+
+Roleplay Designer is a collaborative e-learning development system used to design and build decision-based training modules.
+
+**Associated Registry Keys**
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\Interscape\RoleplayDesigner
+HKEY_CURRENT_USER\SOFTWARE\RoleplayDesigner
+```
+
 ## References
 
+* [Roleplay Designer](#roleplay-designer)
 
+## a
+
+ss
+s
+
+s
+s
+s
+
+s
+s
+s
+
+s
+
+s
+s
+s
+
+s
+s
+
+sss
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+ssss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sss
