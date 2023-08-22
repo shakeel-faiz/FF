@@ -12,3 +12,21 @@ Here is how the FoxPro file structure works:
 
 If you have a FoxPro database with memo fields, you should have corresponding DBF, FPT, and possibly CDX files for each table. The FPT file contains binary data and is not meant to be opened directly with a text editor. Instead, it's accessed and managed through the FoxPro application or other compatible database tools.
 
+## Relation with FoxPro
+
+FPT file is associated with FoxPro which is a relational database management system (DBMS) that was originally developed by Fox Software and later acquired by Microsoft. It comes in different versions, with Visual FoxPro (VFP) being one of the most well-known. Visual FoxPro was a powerful and popular database management system used for developing desktop and client-server applications.
+
+Key features of Visual FoxPro included:
+
+- **Tabular Data Storage:** It allowed users to create and manage structured data in tables, with fields and records similar to other database systems.
+- **Support for Memo Fields:** Visual FoxPro had support for memo fields that could store large amounts of text or binary data.
+- **Interactive Development Environment:** It had a visual development environment where you could design forms, reports, and applications using a graphical interface.
+- **SQL Support:** Visual FoxPro supported SQL (Structured Query Language), which allowed for querying and manipulating data using standard SQL syntax.
+- **Object-Oriented Programming:** Visual FoxPro supported object-oriented programming, which made it possible to create more modular and maintainable applications.
+- **Indexing and Searching:** It provided indexing capabilities for faster searching and sorting of data.
+- **Reporting Tools:** Visual FoxPro included tools for creating and generating reports based on the data stored in the database.
+- **Compatibility:** It allowed integration with other Microsoft products and technologies.
+
+Please note that Microsoft ended mainstream support for Visual FoxPro in 2007, and extended support ended in 2015. This means that while existing applications developed using FoxPro may still function, there are no official updates or security patches provided by Microsoft. Moreover, modern development trends have shifted towards web-based and cloud-based applications, and newer database management systems have emerged.
+
+
