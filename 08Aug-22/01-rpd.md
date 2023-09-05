@@ -1,3 +1,31 @@
+{
+  "date": "2023-09-05",
+  "keywords": [
+    "rpd",
+    "rpd file",
+    "what is an rpd file",
+    "how to open rpd file",
+    "file",
+    "rpd file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RPD File Format - RPD Database File",
+  "description": "Learn about RPD format and APIs that can create and open RPD files.",
+  "linktitle": "RPD",
+  "menu": {
+    "docs": {
+      "identifier": "database-rpd",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-09-05"
+}
+
 ## What is an RPD file?
 
 RPD file format is specific to the iTWO application suite used for construction planning and engineering. An RPD file is a database file that stores a Progress ObjectStore Database. This database contains all the data for an iTWO planning project, serving as a backend storage format for the application.
