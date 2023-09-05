@@ -1,3 +1,32 @@
+{
+  "date": "2023-09-05",
+  "keywords": [
+    "rpd",
+    "rpd file",
+    "RPD Roleplay",
+    "what is an rpd file",
+    "how to open rpd file",
+    "file",
+    "rpd file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RPD File Format - Roleplay Designer Data File",
+  "description": "Learn about RPD format and APIs that can create and open RPD files.",
+  "linktitle": "RPD Roleplay",
+  "menu": {
+    "docs": {
+      "identifier": "database-rpd-roleplay",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-09-05"
+}
+
 ## What is an RPD file?
 
 An "RPD" file is a specialized data file associated with **Roleplay Designer**, a collaborative e-learning development system tailored for crafting decision-based training modules. Within this system, these files store essential information that outlines the structure of the training scenarios that have been meticulously designed. Each "RPD" file holds a blueprint of the interactive elements, branching paths, and various decision points that make up the training experience.
