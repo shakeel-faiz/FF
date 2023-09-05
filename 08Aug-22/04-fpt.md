@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-12",
+  "keywords": [
+    "fpt",
+    "fpt file",
+    "foxpro fpt file",
+    "FoxPro Table Memo",
+    "what is an fpt file",
+    "how to open fpt file",
+    "file",
+    "fpt file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FPT File Format - FoxPro Table Memo",
+  "description": "Learn about FPT FoxPro format and APIs that can create and open FPT files.",
+  "linktitle": "FPT FoxPro",
+  "menu": {
+    "docs": {
+      "identifier": "database-fpt-foxpro",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-06-12"
+}
+
 ## What is an FPT file?
 
 An "FPT" file is a file extension associated with the FoxPro database management system. In FoxPro, the FPT file contains memo fields associated with a table. Memo fields are used to store large amounts of text or binary data, such as lengthy descriptions, documents, or images, which may not fit in a regular database field.
