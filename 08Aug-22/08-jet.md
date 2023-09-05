@@ -39,5 +39,11 @@ JET databases support a variety of data types, including:
 - **Hyperlink:** For web links and email addresses.
 - **Attachment:** For storing files and attachments.
 
+## How to open JET file?
+
+Programs that open or reference JET files include
+
+- Microsoft Access 365 (Free Trial)
+
 ## References
 * [Access Database Engine](https://en.wikipedia.org/wiki/Access_Database_Engine)
