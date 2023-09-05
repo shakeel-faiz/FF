@@ -4,7 +4,7 @@ The UDB file format, which stands for "Dynamics AX User Database File," is assoc
 
 The UDB file typically includes a list of users who have access to the Dynamics AX system. It also contains information about the Component Object Model (COM) and the Application Object Server (AOS), which are integral components of the Dynamics AX architecture. COM is a technology that enables software components to communicate with each other, while AOS is responsible for handling application logic and managing client connections.
 
-Additionally, the UDb file may store details about database connections and the types of connections utilized by the software. These connections are crucial for accessing and interacting with the underlying database that stores all the business data and information managed by Microsoft Dynamics AX.
+Additionally, the UDB file may store details about database connections and the types of connections utilized by the software. These connections are crucial for accessing and interacting with the underlying database that stores all the business data and information managed by Microsoft Dynamics AX.
 
 ## Relation with Microsoft Dynamics AX
 
