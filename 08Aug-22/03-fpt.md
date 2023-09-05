@@ -1,3 +1,31 @@
+{
+  "date": "2023-09-05",
+  "keywords": [
+    "fpt",
+    "fpt file",
+    "what is an fpt file",
+    "how to open fpt file",
+    "file",
+    "fpt file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FPT File Format - FileMaker Pro Database Memo File",
+  "description": "Learn about FPT format and APIs that can create and open FPT files.",
+  "linktitle": "FPT",
+  "menu": {
+    "docs": {
+      "identifier": "database-fpt",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-09-05"
+}
+
 ## What is an FPT file?
 
 In FileMaker Pro, ".fpt" files are used to store memo comments or textual information associated with a database. These memo comments provide a way to describe the contents of the database using raw text. This is especially useful when you want to provide additional context or details about the database that might not fit within the standard database fields, which often have character limits.
