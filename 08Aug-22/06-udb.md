@@ -22,3 +22,11 @@ Key features and capabilities of Microsoft Dynamics AX/Dynamics 365 Finance and 
 
 - **Integration:** Dynamics AX supports integration with other Microsoft products and third-party applications, making it easier for organizations to connect their various systems and data sources. Seamless integration enhances data accuracy and reduces manual data entry, improving overall efficiency.
 
+## How to open UDB file?
+
+Programs that open or reference UDB files include
+
+- Microsoft Dynamics AX (Paid)
+
+## References
+- [Microsoft Dynamics 365](https://en.wikipedia.org/wiki/Microsoft_Dynamics_365)
