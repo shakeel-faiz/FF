@@ -1,3 +1,33 @@
+{
+  "date": "2023-06-12",
+  "keywords": [
+    "fpt",
+    "fpt file",
+    "Alpha Five fpt file",
+    "Alpha Five Table Memo File",
+    "what is an fpt file",
+    "how to open fpt file",
+    "file",
+    "fpt file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FPT File Format - Alpha Five Table Memo File",
+  "description": "Learn about FPT Alpha Five format and APIs that can create and open FPT files.",
+  "linktitle": "FPT Alpha Five",
+  "menu": {
+    "docs": {
+      "identifier": "database-fpt-alphafive",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-06-12"
+}
+
 ## What is an FPT file?
 
 An "Alpha Five Table Memo File" with an .fpt extension is associated with the Alpha Five database software. Alpha Five is a relational database management system that was used to create and manage databases, particularly in small to medium-sized businesses. The .fpt file format is used to store memo fields in a database table.
