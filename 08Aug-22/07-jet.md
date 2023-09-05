@@ -26,5 +26,13 @@ To make these games tick, they rely on specific game data stored in dedicated su
 
 Within these sub-directories, you'll discover one or more JET settings files. These files serve a crucial role in defining various aspects of the game, such as what text appears, which media files are used, and when these elements are displayed throughout the gameplay. Notably, all JET files are plain text files, which means that modders and enthusiasts have the opportunity to edit them. This editing capability allows for customizing the in-game content, from text and images to sounds, enabling players to personalize their gaming experience or create unique twists on the games.
 
+## How to open JET file?
+
+Since JET files are in plain text format, they can be accessed and modified using any text editing software. e.g.
+
+- Microsoft Notepad (Windows)
+- Apple TextEdit (MAC)
+- Notepad++
+
 ## References
 * [The Jackbox Party Pack](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)
