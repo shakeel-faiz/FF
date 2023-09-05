@@ -1,3 +1,31 @@
+{
+  "date": "2023-09-05",
+  "keywords": [
+    "udb",
+    "udb file",
+    "what is a udb file",
+    "how to open udb file",
+    "file",
+    "udb file extension",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "UDB File Format - Microsoft Dynamics AX User Database File",
+  "description": "Learn about UDB format and APIs that can create and open UDB files.",
+  "linktitle": "UDB",
+  "menu": {
+    "docs": {
+      "identifier": "database-udb",
+      "parent": "database"
+    }
+  },
+  "lastmod": "2023-09-05"
+}
+
 ## What is a UDB file?
 
 The UDB file format, which stands for "Dynamics AX User Database File," is associated with Microsoft AX business management software, now known as Microsoft Dynamics 365 Finance and Operations. This file format is used to store important information related to user management and system components within the software.
