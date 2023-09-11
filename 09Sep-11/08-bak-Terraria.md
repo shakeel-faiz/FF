@@ -6,7 +6,7 @@ When you back up a Terraria world, the game creates a copy of the world file wit
 
 Similarly, when you back up a Terraria character or player, the game creates a copy of the player file with a `.plr.bak` extension. The ".plr" file contains information about your character's inventory, equipment, stats, and progress in the game. The ".plr.bak" file is a safeguard against character data loss.
 
-## Terraria
+## Terraria - Video Game
 
 Terraria is a popular sandbox adventure game developed by Re-Logic. It was first released in 2011 and has since gained a massive following due to its unique blend of exploration, building, crafting, and action-packed gameplay.
 
