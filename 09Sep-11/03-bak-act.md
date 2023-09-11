@@ -8,7 +8,7 @@ Swiftpage Act! is a software application used for customer relationship manageme
 
 Within Act!, all customer-related data is stored in a dedicated database file, which can be backed up at the discretion of Act! managers and administrators. This backup is especially crucial when, for instance, a business is planning to upgrade to a new version of Act!. In such cases, the IT administrator responsible for Act! might opt to create a backup of the Act! database.
 
-These Act! database backups are saved in the form of BAK files. Typically, during the backup process, these BAK files are bundled into a .ZIP file. This ZIP archive not only contains the core Act! database backup but also includes associated Act! data elements, such as attached documents, document templates, report templates, and saved database queries. This comprehensive backup approach ensures that critical customer information and related resources are protected and readily recoverable when needed.
+These Act! database backups are saved in the form of BAK files. Typically, during the backup process, these BAK files are bundled into a [.ZIP](/compression/zip/) file. This ZIP archive not only contains the core Act! database backup but also includes associated Act! data elements, such as attached documents, document templates, report templates, and saved database queries. This comprehensive backup approach ensures that critical customer information and related resources are protected and readily recoverable when needed.
 
 ## How to open a BAK file?
 
