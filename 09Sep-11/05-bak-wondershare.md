@@ -62,7 +62,7 @@ To open a BAK file using WonderShare MobileTrans on either a Windows or Mac comp
 
 4. **Find the Restore or Import Option:** Within the MobileTrans software, locate an option that allows you to restore or import data from a backup file. This option may be labeled as "Restore," "Import," or something similar.
 
-5. **Select the BAK File:** When prompted, navigate to the directory mentioned earlier `~Users/YourUserName/Wondershare/MobileTransPro/Backup` to find and select the BAK file you want to open.
+5. **Select the BAK File:** When prompted, navigate to the directory mentioned earlier to find and select the BAK file you want to open.
 
 6. **Initiate the Restore Process:** Start the restore process. MobileTrans will begin importing the selected data from the BAK file to your connected mobile device.
 
