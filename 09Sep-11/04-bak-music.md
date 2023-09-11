@@ -30,7 +30,7 @@ MakeMusic Finale is a music notation software program developed by MakeMusic, In
 
 - **Printing and Publishing:** Users can print high-quality sheet music directly from the software, and Finale also supports PDF export for digital distribution and printing.
 
-## How to Open a BAK File
+## How to open a BAK file?
 
 To open a BAK file:
 
