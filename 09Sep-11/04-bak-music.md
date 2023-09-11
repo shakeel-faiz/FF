@@ -46,5 +46,15 @@ Once you've opened the BAK file in MakeMusic Finale:
 
 This process allows you to access and work with the contents of the BAK file using MakeMusic Finale.
 
+## How to convert a BAK file?
+
+MakeMusic Finale provides a range of export options, allowing you to convert your musical scores into different file formats. e.g.
+
+- [.MXL](/audio/mxl/) - Compressed MusicXML
+- [.WAV](/audio/wav/) - WAVE Audio
+- [.EPUB](/ebook/epub/) - Open eBook
+- [.AIFF](/audio/aiff/) - Audio Interchange File Format
+- [.MIDI](/audio/mid/) - MIDI Music Data
+
 ## References
 * [MakeMusic Finale](https://en.wikipedia.org/wiki/Finale_(scorewriter))
