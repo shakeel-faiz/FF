@@ -28,4 +28,35 @@ RESTORE DATABASE YourRestoredDatabaseName
 FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 ```
 
+## How to open BAK file in SQL Server
+
+To open and access the data stored in a ".bak" file, you typically need to restore it to a Microsoft SQL Server instance. Here are the general steps to open a ".bak" file using SQL Server Management Studio (SSMS):
+
+1. **Launch SQL Server Management Studio**: Open SSMS on your computer. You can usually find it in your Start Menu or by searching for "SQL Server Management Studio."
+
+2. **Connect to a SQL Server Instance**: In SSMS, connect to the SQL Server instance where you want to restore the database. You'll need the necessary permissions to perform this operation.
+
+3. **Restore Database**:
+
+   a. In the Object Explorer pane on the left-hand side, expand the SQL Server instance.
+
+   b. Expand the "Databases" node.
+
+   c. Right-click on "Databases" and select "Restore Database."
+
+4. **Specify Source and Destination**:
+
+   a. In the "General" page of the "Restore Database" dialog box, enter a name for the new database in the "To database" field. This will be the name of the restored database.
+
+   b. In the "Source" section, choose "Device" as the backup media type.
+
+   c. Click the "..." button next to the "Device" field to browse for the ".bak" file you want to restore.
+
+   d. Select the ".bak" file you wish to open and click "OK."
+
+5. **Restore Options**: Review and configure the restore options as needed. You can specify whether to overwrite an existing database, set recovery options, and more. Make sure to set these options according to your requirements.
+
+6. **Initiate the Restore**: Once you've configured the restore options, click the "OK" button in the "Restore Database" dialog box. SQL Server will begin the restoration process.
+
+7. **Access Restored Database**: After a successful restore, you can access the restored database in SQL Server Management Studio just like any other database. You can run queries, view tables, and work with the data within the database.
 
