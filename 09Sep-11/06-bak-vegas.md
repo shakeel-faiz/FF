@@ -34,7 +34,7 @@ Key features and capabilities of VEGAS Pro include:
 
 Programs that open VEGAS Pro BAK files include
 
-- [MAGIX VEGAS Pro 21](https://en.wikipedia.org/wiki/Vegas_Pro)
+- [MAGIX VEGAS Pro 21](https://en.wikipedia.org/wiki/Vegas_Pro) (Free Trial)
 
 ## References
 * [MAGIX VEGAS Pro](https://en.wikipedia.org/wiki/Vegas_Pro)
