@@ -30,7 +30,21 @@ MakeMusic Finale is a music notation software program developed by MakeMusic, In
 
 - **Printing and Publishing:** Users can print high-quality sheet music directly from the software, and Finale also supports PDF export for digital distribution and printing.
 
+## How to Open a BAK File
 
+To open a BAK file:
 
+1. Use MakeMusic Finale (available on both Windows and Mac).
+2. In the program's menu bar, select "File" and then choose "Open..."
+3. Locate your BAK file in the file dialog and select it to open.
 
+Once you've opened the BAK file in MakeMusic Finale:
 
+1. Go to "File" again.
+2. This time, select "Save As..."
+3. You can now save the file in its original format, typically as a normal MUS or .MUSX file.
+
+This process allows you to access and work with the contents of the BAK file using MakeMusic Finale.
+
+## References
+* [MakeMusic Finale](https://en.wikipedia.org/wiki/Finale_(scorewriter))
