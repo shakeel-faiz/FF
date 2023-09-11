@@ -2,7 +2,7 @@
 
 A BAK file, short for backup file, is a file that contains a copy of data from another file or application. BAK files are often created automatically by software programs as a safety measure to prevent data loss. They serve as a backup in case the original file becomes corrupted or accidentally deleted.
 
-### Common Uses of BAK Files
+## Common Uses of BAK Files
 
 1. **Database Backups:** Many database management systems (DBMS) create BAK files to store backup copies of their databases. These backups can be crucial for recovering data in case of a system failure or data corruption.
 
