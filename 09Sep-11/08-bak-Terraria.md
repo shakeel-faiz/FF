@@ -37,4 +37,3 @@ Terraria is available on multiple platforms, including:
 - Nintendo Switch
 - Mobile devices
 
-This wide availability makes it accessible to a broad audience. Its blend of exploration, creativity, and action has made it a beloved title among gamers of all ages.
