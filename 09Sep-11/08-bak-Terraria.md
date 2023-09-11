@@ -54,5 +54,9 @@ To recover your Re-Logic Terraria world or player profile using a BAK file, foll
 
 These steps will help you easily restore your Terraria progress using the BAK file, ensuring you can continue your adventure without any issues.
 
+Programs that open BAK files include
+
+- Re-Logic Terraria (Paid)
+
 ## References
 * [Re-Logic Terraria](https://terraria.fandom.com/wiki/Re-Logic)
