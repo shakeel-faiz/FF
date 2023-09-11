@@ -10,4 +10,33 @@ Within Act!, all customer-related data is stored in a dedicated database file, w
 
 These Act! database backups are saved in the form of BAK files. Typically, during the backup process, these BAK files are bundled into a .ZIP file. This ZIP archive not only contains the core Act! database backup but also includes associated Act! data elements, such as attached documents, document templates, report templates, and saved database queries. This comprehensive backup approach ensures that critical customer information and related resources are protected and readily recoverable when needed.
 
+## How to open BAK file?
 
+## How to Open a BAK File in Swiftpage Act!
+
+To open a BAK file in Swiftpage Act! on a Windows system, you can use Act! Diagnostics. Follow these steps:
+
+1. **Open Act! Diagnostics**:
+   - Click on the Windows Start menu.
+   - In the search bar, type `actdiag`.
+   - Press Enter to open Act! Diagnostics.
+
+2. **Access the Restore Database Tool**:
+   - Within Act! Diagnostics, navigate to the "Tools" menu.
+
+3. **Choose Restore Database**:
+   - Under the "Tools" menu, select "Restore Database."
+
+4. **Select Restore BAK File**:
+   - You'll be presented with two options:
+     - To overwrite an existing database with the data from your BAK file, choose "Restore BAK file."
+     - To add your BAK file as a new database alongside existing data, select "Restore BAK file As."
+
+5. **Follow the Prompts**:
+   - Act! Diagnostics will guide you through the process of restoring the database contained in your BAK file.
+   - You may need to specify the location of the BAK file and provide any additional settings required for the restoration.
+
+Follow these steps, and Act! Diagnostics will restore the database from your BAK file, allowing you to access the data stored within it in Swiftpage Act!
+
+## References
+* [Swift Act!](https://en.wikipedia.org/wiki/Act!_LLC)
