@@ -37,3 +37,22 @@ Terraria is available on multiple platforms, including:
 - Nintendo Switch
 - Mobile devices
 
+## How to open BAk file?
+
+**Restoring Terraria World or Player Profile from a BAK File**
+
+To recover your Re-Logic Terraria world or player profile using a BAK file, follow these steps:
+
+1. **Rename the BAK File:**
+   - Remove the ".bak" extension from the file's name. For example, if you have a file named "example.wld.bak," rename it to "example.wld" for worlds or "playername.plr" for players.
+
+2. **Move the File:**
+   - Place the renamed file in the appropriate Terraria game directory, as indicated in the game's save location on your computer.
+
+3. **Launch Terraria:**
+   - Open Terraria, and you'll find the restored world or player profile available for selection.
+
+These steps will help you easily restore your Terraria progress using the BAK file, ensuring you can continue your adventure without any issues.
+
+## References
+* [Re-Logic Terraria](https://terraria.fandom.com/wiki/Re-Logic)
