@@ -28,7 +28,7 @@ RESTORE DATABASE YourRestoredDatabaseName
 FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 ```
 
-## How to open BAK file in SQL Server
+## How to open BAK file in SQL Server?
 
 To open and access the data stored in a ".bak" file, you typically need to restore it to a Microsoft SQL Server instance. Here are the general steps to open a ".bak" file using SQL Server Management Studio (SSMS):
 
