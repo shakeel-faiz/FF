@@ -60,3 +60,5 @@ To open and access the data stored in a ".bak" file, you typically need to resto
 
 7. **Access Restored Database**: After a successful restore, you can access the restored database in SQL Server Management Studio just like any other database. You can run queries, view tables, and work with the data within the database.
 
+## References
+* [Backup and restore a SQL Server database with SSMS](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms)
