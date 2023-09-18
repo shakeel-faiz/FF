@@ -8,8 +8,6 @@ A ".bps" file extension typically refers to a Binary Patch File. These files are
 
 3. **Patch Application:** To apply a BPS patch, you'll need a patching tool. Popular patching utilities like "Floating IPS" or "Beat" allow you to apply BPS patches to the corresponding ROM file, creating a modified version of the game or software.
 
-## Softwares Linked to BPS
-
 In the following sections, we will explore the software applications associated with BPS files.
 
 ## Floating IPS
