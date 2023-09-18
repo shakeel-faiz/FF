@@ -14,7 +14,7 @@ In the following sections, we will explore the software applications associated 
 
 ## Floating IPS
 
-Floating IPS (Flips) is a popular and user-friendly utility for applying patches to ROM files in the context of ROM hacking. It is commonly used in the emulation and fan translation communities.
+Floating IPS (Flips) is a popular and user-friendly utility for applying patches to ROM files in the context of ROM hacking. It is commonly used in the emulation and fan translation communities. Some more information related to it is given below.
 
 - **Patch Application:** Floating IPS is designed to apply patch files, typically in the BPS format, to ROM files. These patches contain binary data that represent changes to the original ROM, such as translations, bug fixes, or gameplay modifications.
 
@@ -26,7 +26,7 @@ Floating IPS (Flips) is a popular and user-friendly utility for applying patches
 
 ## MultiPatch
 
-MultiPatch is another utility commonly used in the ROM hacking community, specifically for applying patches to ROM files. It is similar in function to Floating IPS but comes with its own features and interface. Some more information related to it.
+MultiPatch is another utility commonly used in the ROM hacking community, specifically for applying patches to ROM files. It is similar in function to Floating IPS but comes with its own features and interface. Some more information related to it is given below.
 
 - **Patch Application:** MultiPatch is designed to apply patches to ROM files, typically in formats like IPS, UPS, or BPS. These patches contain binary data that modify the original ROM, often for purposes like translations, bug fixes, or customizations.
 
@@ -43,3 +43,5 @@ Programs that open BPS files include
 - Floating IPS (Free) for (MAC, Windows and Linux)
 - MultiPatch (Free) for (MAC)
 
+## References
+* [Floating IPS](https://www.gamebrew.org/wiki/Floating_IPS)
