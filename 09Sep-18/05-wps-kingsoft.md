@@ -48,3 +48,6 @@ Kingsoft Writer can convert WPS files to the following formats:
 - [TXT](/word-processing/txt/)
 - [HTML](/web/html/)
 - [PDF](/pdf/)
+
+## References
+* [WPS Office](https://en.wikipedia.org/wiki/WPS_Office)
