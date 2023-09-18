@@ -24,8 +24,8 @@ Microsoft Works was a productivity software suite developed by Microsoft. It was
 
 Programs that open BPS files include
 
-- Microsoft Works  —  Discontinued
-- Microsoft Word 365
+- Microsoft Works - Discontinued (Paid)
+- Microsoft Word 365 (Free Trial)
 
 ## References
 * [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
