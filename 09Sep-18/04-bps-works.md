@@ -19,3 +19,13 @@ Microsoft Works was a productivity software suite developed by Microsoft. It was
 - **Works Word Processor Format (.WPS):** The native file format of the word processing component of Microsoft Works. .WPS files contained text, formatting, and simple graphics.
 
 - **Discontinuation:** Microsoft officially discontinued Microsoft Works in 2007 and encouraged users to switch to Microsoft Office or other alternatives.
+
+## How to open BPS file?
+
+Programs that open BPS files include
+
+- Microsoft Works  —  Discontinued
+- Microsoft Word 365
+
+## References
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
