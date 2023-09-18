@@ -4,19 +4,19 @@ A BDMV file is a type of file format used in Blu-ray Disc (BD) video discs. BDMV
 
 ## Key Components of a BDMV Directory:
 
-1. *STREAM folder*: This folder typically contains the video and audio streams of the movie. Video is usually stored in the form of M2TS (MPEG-2 Transport Stream) files, while audio may be in formats like Dolby TrueHD or DTS-HD Master Audio.
+1. **STREAM folder**: This folder typically contains the video and audio streams of the movie. Video is usually stored in the form of M2TS (MPEG-2 Transport Stream) files, while audio may be in formats like Dolby TrueHD or DTS-HD Master Audio.
 
-2. *CLIPINF folder*: This folder contains information about the individual video clips (M2TS files) on the disc.
+2. **CLIPINF folder**: This folder contains information about the individual video clips (M2TS files) on the disc.
 
-3. *PLAYLIST folder*: It contains playlist files that specify the order in which video clips should be played. Blu-ray discs often have multiple playlists for different viewing options or versions of the movie.
+3. **PLAYLIST folder**: It contains playlist files that specify the order in which video clips should be played. Blu-ray discs often have multiple playlists for different viewing options or versions of the movie.
 
-4. *AUXDATA folder*: This folder stores auxiliary data and metadata associated with the movie.
+4. **AUXDATA folder**: This folder stores auxiliary data and metadata associated with the movie.
 
-5. *BDJO folder*: It contains Java-based interactive menu structures for Blu-ray discs. These menus enable features like scene selection, special features, and more.
+5. **BDJO folder**: It contains Java-based interactive menu structures for Blu-ray discs. These menus enable features like scene selection, special features, and more.
 
-6. *JAR folder*: Java Archive files used for interactive menus and special features.
+6. **JAR folder**: Java Archive files used for interactive menus and special features.
 
-7. *INDEX.BDM and MOVIEOBJ.BDM files*: These files contain information about the disc's structure and navigation.
+7. **INDEX.BDM and MOVIEOBJ.BDM files**: These files contain information about the disc's structure and navigation.
 
 ## How to open BDMV file?
 
@@ -33,3 +33,6 @@ Programs that open BDMV files are
 - **AnyDVD HD**: AnyDVD HD is not a player but rather a tool that removes copy protection from Blu-ray discs, including BDMV files. You can then use other player software to open and play the decrypted BDMV files.
 
 - **ArcSoft TotalMedia Theatre**: This is another commercial Blu-ray player software that can handle BDMV files and provides a premium playback experience.
+
+## References
+* [Blu-ray](https://en.wikipedia.org/wiki/Blu-ray)
