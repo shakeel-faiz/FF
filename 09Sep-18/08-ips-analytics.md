@@ -40,7 +40,7 @@ Viewing IPS (iOS Analytics Data) files on your iDevice requires specialized tool
 
 - **Third-Party Tools:** There are also third-party tools like iMazing and iExplorer that can help you access and view IPS files on your iDevice. These tools provide user-friendly interfaces for exploring your device's analytics data.
 
-## How to open an IPS file
+## How to open an IPS file?
 
 Since IPS files are text based files, you can use any text editor to open them. Programs that open or reference IPS files include
 
@@ -48,5 +48,6 @@ Since IPS files are text based files, you can use any text editor to open them. 
 - Microsoft Notepad
 - iMazing
 
-
+## References
+* [iOS Device Analytics](https://www.apple.com/legal/privacy/data/en/device-analytics/)
 
