@@ -31,3 +31,12 @@ Here is a closer look at the key features and functions of SDL Translator's Work
 - **Terminology Management:** Consistent terminology is crucial in translation to ensure accuracy and clarity. SDL Translator's Workbench offers tools for managing terminology effectively. Translators can create and maintain terminology databases, also known as termbases, within the application. These termbases store approved translations for specific terms, ensuring that translators use consistent terminology throughout their projects.
 
 - **Concordance Searching:** The software allows users to perform concordance searches within the translation memory. This means you can search for specific words or phrases and see how they were translated in previous projects. This feature aids in maintaining consistency and finding the best translation for context-specific terms.
+
+## How to open WPS file?
+
+Programs that open WPS files include
+
+- SDL Translator's Workbench
+
+## References
+* [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)
