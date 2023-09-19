@@ -53,5 +53,5 @@ Programs that open IPS files include
 - IPUDecoder (Free) for (Windows, MAC, Linux)
 - QuickBMS (Free)
 
-
-
+## References
+* [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
