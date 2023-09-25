@@ -83,3 +83,15 @@ Cal3D uses several file formats for different purposes, such as storing model da
 1. **Cal3D Configuration Files (.cfg):** These plain text files serve as configuration files for Cal3D models. They contain references to various components of the model, including bone hierarchy, mesh data, materials, and animations. Configuration files help Cal3D correctly load and use the model.
 
 1. **Image Formats:** While not specific to Cal3D, image file formats like [JPEG](/image/jpeg/), [PNG](/image/png/), [BMP](/image/bmp/), or [TGA](/image/tga/) are commonly used for textures applied to Cal3D models.
+
+## How to open CFG file?
+
+Programs that open CFG files include
+
+- Cal3dViewer
+- Microsoft Notepad
+- Apple TextEdit
+- Any text editor
+
+## References
+* [CAL3D](https://github.com/mp3butcher/Cal3D)
