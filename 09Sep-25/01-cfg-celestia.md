@@ -108,3 +108,6 @@ Spacecraft "Voyager 1"
     }
 }
 ```
+
+5. **Creating Scripts:** You can write scripts in Celestia's custom scripting language to create dynamic events and animations.
+
