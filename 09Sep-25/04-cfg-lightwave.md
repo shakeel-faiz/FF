@@ -48,3 +48,11 @@ Key features and components of LightWave include:
     
 7.  **Content Creation**: LightWave users can import and export various 3D file formats, making it compatible with other 3D software. It also has features for texturing, shading, and UV mapping to enhance the appearance of 3D models.
     
+## How to open CFG file?
+
+Programs that open or reference CFG files
+
+- NewTek LightWave 3D (Free Trial) (Windows, MAC)
+
+## References
+* [LightWave 3D](https://en.wikipedia.org/wiki/LightWave_3D)
