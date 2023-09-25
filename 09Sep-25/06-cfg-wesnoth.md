@@ -13,11 +13,11 @@ It is written in a format that resembles a combination of XML and simple scripti
 [/unit]
 ```
     
-1.  **Attributes:** Within tags, you can define attributes to specify properties or values associated with the element. In the example above, "type" and "hitpoints" are attributes.
+2.  **Attributes:** Within tags, you can define attributes to specify properties or values associated with the element. In the example above, "type" and "hitpoints" are attributes.
     
-2.  **Arrays and Arrays of Arrays:** You can create arrays of data and even arrays of arrays to define lists of units, terrain types, or other game elements.
+3.  **Arrays and Arrays of Arrays:** You can create arrays of data and even arrays of arrays to define lists of units, terrain types, or other game elements.
     
-3.  **Conditional Statements:** WML supports conditional statements to control the flow of the game. For example:
+4.  **Conditional Statements:** WML supports conditional statements to control the flow of the game. For example:
 
 ```
 [if]
@@ -26,11 +26,11 @@ It is written in a format that resembles a combination of XML and simple scripti
 [/if]
 ```
     
-4.  **Loops:** You can use loops to iterate through lists of items or perform actions repeatedly.
+5.  **Loops:** You can use loops to iterate through lists of items or perform actions repeatedly.
     
-5.  **Includes:** You can include other WML files within a main WML file to organize and modularize your content.
+6.  **Includes:** You can include other WML files within a main WML file to organize and modularize your content.
     
-6.  **Event Handlers:** You can define event handlers to trigger actions when specific events occur in the game.
+7.  **Event Handlers:** You can define event handlers to trigger actions when specific events occur in the game.
     
 
 Here is a simplified example of a WML file that defines a custom unit:
