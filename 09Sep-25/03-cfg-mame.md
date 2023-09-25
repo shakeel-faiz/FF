@@ -41,3 +41,14 @@ MAME, which stands for "Multiple Arcade Machine Emulator," is a software applica
 1. **Preservation:** One of MAME's primary missions is to preserve the history of arcade gaming. By accurately emulating arcade hardware, MAME helps prevent the loss of classic games and ensures that future generations can experience them as they were originally intended.
 
 1. **Front-Ends:** Many users utilize front-end applications that provide a graphical interface to manage and launch games through MAME. These front-ends make it easier to navigate MAME's extensive library of games.
+
+## How to open CFG file?
+
+Programs that open or reference CFG files
+
+- MAME (Free) (Windows)
+- ExtraMAME (Trial)
+- MacMAME (MAC)
+
+## References
+* [MAME](https://en.wikipedia.org/wiki/MAME)
