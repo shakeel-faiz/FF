@@ -22,7 +22,7 @@ A M.U.G.E.N CFG (Configuration) file is a crucial component for creators in the 
 
 Furthermore, the CFG file allows creators to determine the game's display settings, such as screen resolution, and decide whether M.U.G.E.N should play sound effects and music during gameplay. For those well-versed in M.U.G.E.N's intricacies, this file offers the potential to tweak an array of other game-related settings to craft a unique gaming experience.
 
-By default, M.U.G.E.N's primary CFG file, known as mugen.cfg, resides in the program's data folder. While it is possible to directly edit the game's settings within this file, it is generally advisable to create a backup copy first. This precaution ensures that you can effortlessly revert M.U.G.E.N to its original settings if needed, preventing any unintended changes from disrupting your gaming experience.
+By default, M.U.G.E.N's primary CFG file, known as `mugen.cfg`, resides in the program's data folder. While it is possible to directly edit the game's settings within this file, it is generally advisable to create a backup copy first. This precaution ensures that you can effortlessly revert M.U.G.E.N to its original settings if needed, preventing any unintended changes from disrupting your gaming experience.
 
 ## M.U.G.E.N - Game Engine
 
