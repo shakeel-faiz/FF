@@ -7,3 +7,26 @@ Players and server administrators have a couple of options for applying the chan
 1.  **Manual Execution**: Users can manually execute the commands within the CFG file. This means that they enter each command one by one in the game's Developer Console. This method allows for precise control over which settings are changed and when.
     
 2.  **Automatic Execution**: Alternatively, players can opt for automatic execution. This involves placing the `.cfg` file in the appropriate game directory. Certain `.cfg` files, like `autoexec.cfg`, are executed automatically when the game starts. This ensures that the specified settings are applied without requiring manual input every time the game launches.
+
+## The Valve Source Engine
+
+The Valve Source Engine, often simply referred to as the Source Engine, is a highly versatile and widely used game engine developed by Valve Corporation. It has been the foundation for many popular video games and has powered numerous successful titles. Here are some key points about the Valve Source Engine:
+
+1.  **History**: The Source Engine was first introduced with the release of Valve's game "Counter-Strike 1.6" in 2004. Since then, it has undergone several updates and revisions, with the most recent version known as Source 2.0.
+    
+2.  **Notable Games**: The Source Engine has been utilized in a variety of critically acclaimed games, including but not limited to:
+    
+    -   "Half-Life 2" and its episodes
+    -   "Portal" and "Portal 2"
+    -   "Team Fortress 2"
+    -   "Left 4 Dead" and "Left 4 Dead 2"
+    -   "Counter-Strike: Source" and "Counter-Strike: Global Offensive"
+    -   "Dota 2"
+3.  **Features**:
+    
+    -   **Flexibility**: Source Engine is known for its flexibility, allowing developers to create a wide range of game genres, from first-person shooters to puzzle games and more.
+    -   **Physics**: It includes a robust physics engine that enables realistic object interactions and environmental effects.
+    -   **Modding Support**: The engine has strong modding support, which has led to the creation of numerous user-generated content and game mods.
+    -   **Multiplayer Capabilities**: Source Engine has been used to develop both single-player and multiplayer games, and it offers extensive networking capabilities for online gameplay.
+    
+4.  **Graphics**: Over the years, Source Engine has received graphical updates to keep up with evolving hardware capabilities. It supports advanced rendering techniques like HDR (High Dynamic Range) lighting and dynamic shadows.
