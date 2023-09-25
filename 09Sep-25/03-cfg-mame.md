@@ -1,6 +1,6 @@
 ## What is a CFG file?
 
-CFG file is an XML keyboard configuration file used by MAME arcade video game emulators. Tt is a crucial component for customizing the keyboard controls and hotkeys to suit a player's preferences. These files store mappings and settings that determine how the keyboard interacts with the emulator while playing a game. By editing this file, users can tailor their gaming experience by assigning specific keyboard keys to actions within the game, such as coin insertion, start, movement, and various other functions.
+CFG file is an XML keyboard configuration file used by MAME arcade video game emulators. It is a crucial component for customizing the keyboard controls and hotkeys to suit a player's preferences. These files store mappings and settings that determine how the keyboard interacts with the emulator while playing a game. By editing this file, users can tailor their gaming experience by assigning specific keyboard keys to actions within the game, such as coin insertion, start, movement, and various other functions.
 
 ## MAME Configuration File
 
