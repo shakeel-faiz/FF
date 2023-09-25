@@ -42,3 +42,5 @@ Programs that open or reference CFG files include
 - TextEdit
 - Any text editor
 
+## References
+* [Source (game engine)](https://en.wikipedia.org/wiki/Source_(game_engine))
