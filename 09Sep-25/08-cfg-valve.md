@@ -10,7 +10,7 @@ Players and server administrators have a couple of options for applying the chan
 
 ## The Valve Source Engine
 
-The Valve Source Engine, often simply referred to as the Source Engine, is a highly versatile and widely used game engine developed by Valve Corporation. It has been the foundation for many popular video games and has powered numerous successful titles. Here are some key points about the Valve Source Engine:
+The Valve Source Engine, often simply referred to as the **Source Engine**, is a highly versatile and widely used game engine developed by Valve Corporation. It has been the foundation for many popular video games and has powered numerous successful titles. Here are some key points about the Valve Source Engine:
 
 1.  **History**: The Source Engine was first introduced with the release of Valve's game "Counter-Strike 1.6" in 2004. Since then, it has undergone several updates and revisions, with the most recent version known as Source 2.0.
     
