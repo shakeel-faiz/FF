@@ -62,8 +62,8 @@ Citrix servers and related Citrix technologies support several file formats to e
     
     -   **.conf**: Various configuration files i.e.  may be used to define settings for Citrix components, such as configuration files for the Citrix License Server (e.g., CtxLicChk.conf).
 10.  **Citrix ADC (NetScaler) Configuration**:
-    
-    -   **.nsconfig**: Configuration files for Citrix Application Delivery Controllers (ADC), formerly known as NetScaler, store settings related to load balancing, security, and traffic management.
+
+     -   **.nsconfig:** Configuration files for Citrix Application Delivery Controllers (ADC), formerly known as NetScaler, store settings related to load balancing, security, and traffic management.
 
 ## How to open CFG file?
 
