@@ -4,7 +4,7 @@ CFG file is an XML keyboard configuration file used by MAME arcade video game em
 
 ## MAME Configuration File
 
-MAME, which stands for **Multiple Arcade Machine Emulator**, is a software application that allows you to emulate and play arcade games on your computer. MAME uses configuration files to customize its behavior and settings. These configuration files are typically located in the "cfg" folder within your MAME directory. 
+MAME, which stands for **Multiple Arcade Machine Emulator**, is a software application that allows you to emulate and play arcade games on your computer. MAME uses configuration files to customize its behavior and settings. These configuration files are typically located in the `cfg` folder within your MAME directory. 
 
 Here are the main configuration files you may encounter when setting up and configuring MAME:
 
