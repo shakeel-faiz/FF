@@ -29,7 +29,42 @@ A Citrix Server Connection File, often referred to as a CFG file, is a configura
 4.  **Connection Settings**: CFG files can contain various connection settings, such as encryption settings, session timeout values, and display options. These settings help configure the user experience and security parameters.
     
 5.  **Resource Configuration**: Depending on the configuration, the CFG file may specify which Citrix resources (applications or desktops) should be launched when the connection is established.
+
+## File Formats Used by Cal3D
+
+Citrix servers and related Citrix technologies support several file formats to enable the delivery of applications, desktops, and content to remote users. Here are some common file formats associated with Citrix server deployments:
+
+1.  **ICA (Independent Computing Architecture)**:
     
+    -   **.ica**: The ICA file is a core component of Citrix's application and desktop delivery. It contains information about the connection to a Citrix server, such as server address, port, encryption settings, and display preferences. When a user clicks on a Citrix resource, the [.ica](/misc/ica/) file is generated and used by the Citrix Receiver (or Citrix Workspace) client to establish the connection.
+2.  **Citrix Receiver (or Citrix Workspace) Packages**:
+    
+    -   **.exe**: Citrix Receiver or Citrix Workspace installation packages often come in executable format for various operating systems (e.g., [.exe](/executable/exe/) for Windows, [.dmg](/compression/dmg/) for macOS). These packages allow users to install the client software on their devices.
+3.  **Citrix Workspace App (formerly Citrix Receiver)**:
+    
+    -   **.app**: On macOS, the Citrix Workspace App is packaged as a macOS application [.app](/executable/app/) file.
+4.  **Web Browser Compatibility**:
+    
+    -   Citrix solutions can be accessed through web browsers, typically using HTML5 for web-based access. Users connect to Citrix resources via URLs without requiring specific file formats.
+5.  **Virtual Desktop Disk Images**:
+    
+    -   **.vhd, .vhdx**: Citrix XenDesktop and XenApp can deliver virtual desktops and applications using virtual hard disk [VHD](/disc-and-media/vhd/) or [VHDX](/disc-and-media/vhdx/) files.
+6.  **Resource Publishing Metadata**:
+    
+    -   **.xml**: Citrix administrators often use [XML](/web/xml/) files to define resource publishing settings, including application properties, access policies, and user assignments.
+7.  **Printer Driver Files**:
+    
+    -   Citrix environments may require specific printer driver files (e.g., .inf) to ensure proper printing functionality when using remote applications.
+8.  **User Profile Data**:
+    
+    -   **.upm**: Citrix Profile Management can store user profile data in .upm files to provide consistent user experiences across sessions and devices.
+9.  **Configuration Files**:
+    
+    -   **.conf**: Various configuration files i.e.  may be used to define settings for Citrix components, such as configuration files for the Citrix License Server (e.g., CtxLicChk.conf).
+10.  **Citrix ADC (NetScaler) Configuration**:
+    
+    -   **.nsconfig**: Configuration files for Citrix Application Delivery Controllers (ADC), formerly known as NetScaler, store settings related to load balancing, security, and traffic management.
+
 ## How to open CFG file?
 
 Programs that open or reference CFG files
