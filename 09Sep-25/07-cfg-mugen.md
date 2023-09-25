@@ -40,5 +40,15 @@ Here are some key features and aspects of M.U.G.E.N:
     
 5.  **Scripting:** Advanced users can use the built-in scripting language to create complex character behaviors, unique game mechanics, and special effects.
 
+## How to open CFG file?
+
+M.U.G.E.N CFG files are plain text documents, making them accessible with various text editors. On Windows, you can use Microsoft Notepad or WordPad, while macOS users can employ Apple TextEdit for this purpose. These editors allow users to view and modify the configuration settings within CFG files easily.
+
+Programs that open or reference CFG files
+
+- Elecbyte M.U.G.E.N
+- Notepad
+- TextEdit
+
 ## References
 * [Mugen (game engine)](https://en.wikipedia.org/wiki/Mugen_(game_engine))
