@@ -147,3 +147,6 @@ Spacecraft "Voyager 1"
 Programs that open or reference CFG files
 
 - Celestia (Free) for (Windows, Mac, Linux)
+
+## References
+* [Celestia](https://en.wikipedia.org/wiki/Celestia)
