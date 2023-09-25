@@ -14,6 +14,37 @@ Key features and aspects of Celestia include:
 
 - **Scientific Accuracy:** While Celestia is a visualization tool, it aims to represent celestial objects and phenomena as accurately as possible, based on available scientific data.
 
+## File Formats Used by Celestia
+
+Celestia utilizes various file formats for different aspects of its 3D astronomy simulation. Here are some of the key file formats employed by Celestia:
+
+1. **Configuration Files (.cel)**
+   - *Description*: Plain text files that permit users to customize Celestia's behavior, appearance, and content.
+   - *Purpose*: Customizing settings, defining locations, and specifying celestial objects.
+
+2. **3D Models and Meshes**
+   - *Formats*: .3ds, .obj, .dae, .ac
+   - *Description*: Supported 3D model file formats used for rendering celestial bodies and spacecraft.
+   - *Purpose*: Displaying 3D objects within Celestia.
+
+3. **Texture Files**
+   - *Formats*: .jpg, .png, .dds
+   - *Description*: These files provide surface textures for celestial bodies.
+   - *Purpose*: Mapping textures onto 3D models for realistic appearance.
+
+4. **Star Catalogs and Data Files**
+   - *Formats*: Custom formats, .csv, .tsv
+   - *Description*: Data files used to represent stars and other celestial objects, ensuring accurate simulation.
+   - *Purpose*: Accurate representation of celestial objects.
+
+5. **Texture Cube Maps**
+   - *Description*: Cube maps are used to simulate the appearance of distant celestial objects like galaxies.
+   - *Purpose*: Rendering distant objects with realistic textures.
+
+6. **Script Files**
+   - *Description*: These files contain custom scripts written in Celestia's scripting language.
+   - *Purpose*: Enabling users to create dynamic events and animations within Celestia's universe.
+
 ## Celestia configuration file
 
 Here is a basic overview of what you can do with a Celestia configuration file:
@@ -111,33 +142,8 @@ Spacecraft "Voyager 1"
 
 5. **Creating Scripts:** You can write scripts in Celestia's custom scripting language to create dynamic events and animations.
 
-## File Formats Used by Celestia*
+## How to open CFG file?
 
-Celestia utilizes various file formats for different aspects of its 3D astronomy simulation. Here are some of the key file formats employed by Celestia:
+Programs that open or reference CFG files
 
-1. **Configuration Files (.cel)**
-   - *Description*: Plain text files that permit users to customize Celestia's behavior, appearance, and content.
-   - *Purpose*: Customizing settings, defining locations, and specifying celestial objects.
-
-2. **3D Models and Meshes**
-   - *Formats*: .3ds, .obj, .dae, .ac
-   - *Description*: Supported 3D model file formats used for rendering celestial bodies and spacecraft.
-   - *Purpose*: Displaying 3D objects within Celestia.
-
-3. **Texture Files**
-   - *Formats*: .jpg, .png, .dds
-   - *Description*: These files provide surface textures for celestial bodies.
-   - *Purpose*: Mapping textures onto 3D models for realistic appearance.
-
-4. **Star Catalogs and Data Files**
-   - *Formats*: Custom formats, .csv, .tsv
-   - *Description*: Data files used to represent stars and other celestial objects, ensuring accurate simulation.
-   - *Purpose*: Accurate representation of celestial objects.
-
-5. **Texture Cube Maps**
-   - *Description*: Cube maps are used to simulate the appearance of distant celestial objects like galaxies.
-   - *Purpose*: Rendering distant objects with realistic textures.
-
-6. **Script Files**
-   - *Description*: These files contain custom scripts written in Celestia's scripting language.
-   - *Purpose*: Enabling users to create dynamic events and animations within Celestia's universe.
+- Celestia (Free) for (Windows, Mac, Linux)
