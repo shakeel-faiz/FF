@@ -30,3 +30,15 @@ The Valve Source Engine, often simply referred to as the Source Engine, is a hig
     -   **Multiplayer Capabilities**: Source Engine has been used to develop both single-player and multiplayer games, and it offers extensive networking capabilities for online gameplay.
     
 4.  **Graphics**: Over the years, Source Engine has received graphical updates to keep up with evolving hardware capabilities. It supports advanced rendering techniques like HDR (High Dynamic Range) lighting and dynamic shadows.
+
+## How to open CFG file?
+
+You have the option to open and modify a `.cfg` file using text editors like Microsoft Visual Studio Code or any other text editor of your choice. These text editors provide a user-friendly interface for viewing and editing the plain text commands within the `.cfg` file, allowing you to customize settings as needed.
+
+Programs that open or reference CFG files include
+
+- Microsoft Visual Studio Code
+- Notepad
+- TextEdit
+- Any text editor
+
