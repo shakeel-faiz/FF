@@ -30,7 +30,7 @@ A Citrix Server Connection File, often referred to as a CFG file, is a configura
     
 5.  **Resource Configuration**: Depending on the configuration, the CFG file may specify which Citrix resources (applications or desktops) should be launched when the connection is established.
 
-## File Formats Used by Cal3D
+## File Formats Used by Citrix
 
 Citrix servers and related Citrix technologies support several file formats to enable the delivery of applications, desktops, and content to remote users. Here are some common file formats associated with Citrix server deployments:
 
