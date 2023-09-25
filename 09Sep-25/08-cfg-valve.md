@@ -1,6 +1,6 @@
 ## What is a CFG file?
 
-CFG file in the context of Valve's Source Engine, as seen in games like Half-Life 2, serves as a configuration file. These files are used to alter various in-game settings through a list of plain text commands. These commands are typically arranged with one per line and are responsible for customizing aspects of the game.
+CFG file in the context of **Valve's Source Engine**, as seen in games like Half-Life 2, serves as a configuration file. These files are used to alter various in-game settings through a list of plain text commands. These commands are typically arranged with one per line and are responsible for customizing aspects of the game.
 
 Players and server administrators have a couple of options for applying the changes specified in a `.cfg` file:
 
