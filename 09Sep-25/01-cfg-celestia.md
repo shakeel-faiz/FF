@@ -23,17 +23,17 @@ Celestia utilizes various file formats for different aspects of its 3D astronomy
    - *Purpose*: Customizing settings, defining locations, and specifying celestial objects.
 
 2. **3D Models and Meshes**
-   - *Formats*: .3ds, .obj, .dae, .ac
+   - *Formats*: [.3ds](/3d/3ds/), [.obj](/3d/obj/), [.dae](/3d/dae/), .ac
    - *Description*: Supported 3D model file formats used for rendering celestial bodies and spacecraft.
    - *Purpose*: Displaying 3D objects within Celestia.
 
 3. **Texture Files**
-   - *Formats*: .jpg, .png, .dds
+   - *Formats*: [.jpg](/image/jpeg/), [.png](/image/png/), [.dds](/image/dds/)
    - *Description*: These files provide surface textures for celestial bodies.
    - *Purpose*: Mapping textures onto 3D models for realistic appearance.
 
 4. **Star Catalogs and Data Files**
-   - *Formats*: Custom formats, .csv, .tsv
+   - *Formats*: Custom formats, [.csv](/spreadsheet/csv/), [.tsv](/spreadsheet/tsv/)
    - *Description*: Data files used to represent stars and other celestial objects, ensuring accurate simulation.
    - *Purpose*: Accurate representation of celestial objects.
 
