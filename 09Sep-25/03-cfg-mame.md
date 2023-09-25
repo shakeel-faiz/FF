@@ -32,7 +32,7 @@ You can also configure various other settings, such as video and audio options, 
 
 ## MAME
 
-MAME, which stands for "Multiple Arcade Machine Emulator," is a software application designed to emulate and replicate the hardware of vintage arcade machines and arcade game consoles. It allows users to play a vast library of classic arcade games on modern computers and other compatible devices. MAME is an open-source project and has become the go-to emulator for preserving and enjoying the rich history of arcade gaming.
+MAME, which stands for **"Multiple Arcade Machine Emulator,"** is a software application designed to emulate and replicate the hardware of vintage arcade machines and arcade game consoles. It allows users to play a vast library of classic arcade games on modern computers and other compatible devices. MAME is an open-source project and has become the go-to emulator for preserving and enjoying the rich history of arcade gaming.
 
 1. **Emulation:** MAME's primary purpose is to accurately emulate the hardware of arcade machines, including their central processing units (CPUs), sound chips, graphics chips, and input devices. This level of accuracy ensures that the games behave as close to the original arcade experience as possible.
 
