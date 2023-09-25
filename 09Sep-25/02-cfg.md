@@ -68,18 +68,18 @@ Key features and components of Cal3D include:
 
 Cal3D uses several file formats for different purposes, such as storing model data, animations, and configuration information. Here are some of the common file formats used by Cal3D:
 
-1. Cal3D Binary Model Files (.cmf): These files store the binary representation of 3D models, including mesh geometry, bone hierarchy, and materials. CMF files are used to efficiently load and render Cal3D models in applications.
+1. **Cal3D Binary Model Files (.cmf):** These files store the binary representation of 3D models, including mesh geometry, bone hierarchy, and materials. CMF files are used to efficiently load and render Cal3D models in applications.
 
-1. Cal3D XML Model Files (.cmx): XML-based files that store the textual representation of Cal3D models. They contain information about the model's structure, animations, materials, and more. CMX files are often used for easier human-readable editing and debugging.
+1. **Cal3D XML Model Files (.cmx):** XML-based files that store the textual representation of Cal3D models. They contain information about the model's structure, animations, materials, and more. [CMX](/image/cmx/) files are often used for easier human-readable editing and debugging.
 
-1. Cal3D Animation Files (.caf): These files store animation data, including keyframes and bone transformations. CAF files are essential for defining how characters or objects should move and animate within a Cal3D model.
+1. **Cal3D Animation Files (.caf):** These files store animation data, including keyframes and bone transformations. CAF files are essential for defining how characters or objects should move and animate within a Cal3D model.
 
-1. Cal3D Morph Target Files (.crf): Used to define morph targets, which allow for facial expressions and other non-skeletal deformations of the mesh.
+1. **Cal3D Morph Target Files (.crf):** Used to define morph targets, which allow for facial expressions and other non-skeletal deformations of the mesh.
 
-1. Cal3D Material Files (.cfm): These files store material information for Cal3D models. They specify how the model's surface should be shaded, including texture references, shaders, and rendering properties.
+1. **Cal3D Material Files (.cfm):** These files store material information for Cal3D models. They specify how the model's surface should be shaded, including texture references, shaders, and rendering properties.
 
-1. Cal3D Skeleton Files (.csf): Skeleton files store information about the bone hierarchy and structure of a Cal3D model. They define how bones are connected and parented within the skeleton.
+1. **Cal3D Skeleton Files (.csf):** Skeleton files store information about the bone hierarchy and structure of a Cal3D model. They define how bones are connected and parented within the skeleton.
 
-1. Cal3D Configuration Files (.cfg): These plain text files serve as configuration files for Cal3D models. They contain references to various components of the model, including bone hierarchy, mesh data, materials, and animations. Configuration files help Cal3D correctly load and use the model.
+1. **Cal3D Configuration Files (.cfg):** These plain text files serve as configuration files for Cal3D models. They contain references to various components of the model, including bone hierarchy, mesh data, materials, and animations. Configuration files help Cal3D correctly load and use the model.
 
-1. Image Formats: While not specific to Cal3D, image file formats like JPEG, PNG, BMP, or TGA are commonly used for textures applied to Cal3D models.
+1. **Image Formats:** While not specific to Cal3D, image file formats like [JPEG](/image/jpeg/), [PNG](/image/png/), [BMP](/image/bmp/), or [TGA](/image/tga/) are commonly used for textures applied to Cal3D models.
