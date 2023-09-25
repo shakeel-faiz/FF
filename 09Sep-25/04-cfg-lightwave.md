@@ -1,6 +1,6 @@
 ## What is a CFG file?
 
-CFG is also a a LightWave Configuration File, also known as a "Preferences file". It is a vital component in the world of LightWave 3D. LightWave 3D is a versatile software application designed for both modeling and rendering, enabling users to create captivating still images and dynamic animation sequences.
+CFG is also a **LightWave Configuration File**, also known as a "Preferences file". It is a vital component in the world of LightWave 3D. LightWave 3D is a versatile software application designed for both modeling and rendering, enabling users to create captivating still images and dynamic animation sequences.
 
 The purpose of these configuration files is to store a wide range of application-specific settings and options. These settings can include preferences related to the software's interface layout, tool behavior, content directories, scripting capabilities, and even licensing information.
 
