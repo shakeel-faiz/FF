@@ -1,13 +1,13 @@
 {
-  "date": "2023-09-21",
+  "date": "2023-09-27",
   "keywords": [
-    "bps",
-    "bps file",
-    "bps virus file from spywarecops",
-    "what is a bps file",
-    "how to open bps file",
+    "cfg",
+    "cfg file",
+    "cfg celestia configuration file",
+    "what is a cfg file",
+    "how to open cfg file",
     "file",
-    "bps file extension",
+    "cfg file extension",
     "extension"
   ],
   "author": {
@@ -15,14 +15,14 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "BPS File Format - BPS Malware file from SpywareCops",
-  "description": "Learn about BPS Malware format and APIs that can create and open BPS files.",
-  "linktitle": "BPS Malware",
+  "title": "CFG File Format - CFG Celestia Configuration File",
+  "description": "Learn about CFG Celestia Configuration File format and APIs that can create and open CFG files.",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
-      "identifier": "misc-bps-malware",
-      "parent": "misc"
+      "identifier": "settings-cfg-celestia",
+      "parent": "settings"
     }
   },
-  "lastmod": "2023-09-21"
+  "lastmod": "2023-09-27"
 }
