@@ -36,3 +36,6 @@ Programs that open UPS files include
 - **Lunar IPS** (for Windows)
 - **NUPS** (for Windows)
 - **MultiPatch** (for multiple platforms)
+
+## References
+* [Lunar IPS](https://www.romhacking.net/utilities/240/)
