@@ -36,3 +36,11 @@ ChessBase uses several file formats to store and manage chess-related data. Thes
     
 8.  **CBT (ChessBase Training):** CBT files are used for creating and storing interactive chess training materials, including tutorials, lessons, and quizzes.
     
+## How to open CBZ file?
+
+Programs that open CBZ files include
+
+- **ChessBase** (Free Trial) for Windows
+
+## References
+* [ChessBase](https://en.wikipedia.org/wiki/ChessBase)
