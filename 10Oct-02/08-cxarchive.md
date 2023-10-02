@@ -14,3 +14,16 @@ Here are some key points about .CXARCHIVE files created by CrossOver:
 
 ## CodeWeavers CrossOver
 
+CrossOver is a commercial software application developed by CodeWeavers. It is designed to allow users of Mac and Linux operating systems to run Windows software and applications on their computers without the need for a Windows operating system license. CrossOver is based on the open-source Wine project, which provides a compatibility layer for running Windows applications on Unix-like systems.
+
+Here are some key features and aspects of CrossOver:
+
+1.  **Compatibility**: CrossOver aims to provide compatibility for a wide range of Windows software, including popular applications and games. Users can check the CrossOver website for a compatibility database that lists the compatibility status of specific programs.
+    
+2.  **Bottles**: CrossOver uses the concept of "bottles" to create isolated environments for running Windows software. Each bottle can have its own configuration settings, libraries, and installed applications, allowing users to keep different Windows programs separate.
+    
+3.  **No Windows License Required**: Unlike running a virtual machine with Windows, CrossOver does not require users to purchase a Windows license, which can be cost-effective for those who need to run a few Windows applications on their Mac or Linux systems.
+    
+4.  **Cross-Platform Support**: CrossOver is available for both macOS and various Linux distributions, making it a versatile solution for users on different platforms.
+    
+5.  **Wine Compatibility**: CrossOver leverages the Wine compatibility layer, which is continually developed by the Wine project and the CrossOver team to improve support for Windows applications.
