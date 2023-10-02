@@ -1,6 +1,6 @@
 ## What is a CXARCHIVE file?
 
-In the context of CrossOver, CXARCHIVE files are related to the program's functionality for running Windows programs on Mac and Linux. The .CXARCHIVE files contain the data and settings for specific "bottles," which are virtual Windows environments where Windows applications can be installed and run.
+In the context of **CrossOver**, CXARCHIVE files are related to the program's functionality for running Windows programs on Mac and Linux. The .CXARCHIVE files contain the data and settings for specific "bottles," which are virtual Windows environments where Windows applications can be installed and run.
 
 Here are some key points about .CXARCHIVE files created by CrossOver:
 
@@ -11,3 +11,6 @@ Here are some key points about .CXARCHIVE files created by CrossOver:
 3.  **Backup**: It's a good practice to regularly back up your .CXARCHIVE files, especially if you have important Windows applications installed through CrossOver. This way, you can restore them in case of accidental deletion or corruption.
     
 4.  **Restoration**: If you need to restore a bottle from a .CXARCHIVE file, you can typically do so through CrossOver's interface. 
+
+## CodeWeavers CrossOver
+
