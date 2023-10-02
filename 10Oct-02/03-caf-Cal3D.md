@@ -17,3 +17,13 @@ Here is some information about what you might find in a Cal3D Binary Animation F
 4. **Blend Weights and Poses:** In more advanced animations, .caf files may also contain information about blending different animations together and defining different poses for characters.
 
 5. **Compression:** To reduce file size and optimize performance, .caf files may employ compression techniques to store animation data efficiently.
+
+## How to open CAF file?
+
+Programs that open or reference CAF files
+
+- **Cal3dViewer** (Free) for Windows
+- **Cal3D** (Free) for Linux
+
+## References
+
