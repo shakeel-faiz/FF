@@ -1,6 +1,6 @@
 ## What is a CAF file?
 
-A .CAF file, in the context of CryENGINE, stands for "CryENGINE Character Animation File." CryENGINE is a game engine developed by Crytek, and it is known for its use in creating visually stunning and highly immersive games. **.caf** files are specifically used to store character animations within CryENGINE-powered games.
+A .CAF file, in the context of CryENGINE, stands for **"CryENGINE Character Animation File."** CryENGINE is a game engine developed by Crytek, and it is known for its use in creating visually stunning and highly immersive games. **.caf** files are specifically used to store character animations within CryENGINE-powered games.
 
 These animation files contain data about how characters or objects should move, their skeletal animations, keyframes, and various parameters needed for character animations. **.caf** files are typically created using specialized animation software compatible with CryENGINE, and they are then imported into the game engine to bring characters and objects to life with dynamic movements and actions.
 
