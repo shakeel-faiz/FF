@@ -29,3 +29,7 @@ Here are some key features and aspects of CrossOver:
 4.  **Cross-Platform Support**: CrossOver is available for both macOS and various Linux distributions, making it a versatile solution for users on different platforms.
     
 5.  **Wine Compatibility**: CrossOver leverages the Wine compatibility layer, which is continually developed by the Wine project and the CrossOver team to improve support for Windows applications.
+
+
+## References
+* [CrossOver (software)](https://en.wikipedia.org/wiki/CrossOver_(software))
