@@ -1,6 +1,6 @@
 ## What is a CS file?
 
-A .CS file is a specific file format associated with ColorSchemer Studio, a software application designed for creating color palettes. This tool is commonly used in web design, magazine layout, home decoration, and other creative endeavors where color plays a significant role. When you work with ColorSchemer Studio, it allows you to generate and store your custom color schemes.
+A .CS file is a specific file format associated with **ColorSchemer Studio**, a software application designed for creating color palettes. This tool is commonly used in web design, magazine layout, home decoration, and other creative endeavors where color plays a significant role. When you work with ColorSchemer Studio, it allows you to generate and store your custom color schemes.
 
 ## ColorSchemer Studio
 
