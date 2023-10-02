@@ -46,5 +46,15 @@ Here are some key features and aspects of the CLEO Library:
     
 4.  **Support for Multiple GTA Versions**: CLEO has versions tailored to different GTA games, including GTA III, GTA Vice City, GTA San Andreas, GTA IV, and others. This means that modders can create and share their custom scripts for different GTA titles.
 
+## How to open CS file?
+
+To open and view the contents of a CLEO .cs (Custom Script) file, you can use a text editor or code editor of your choice. Common choices include:
+
+-   **Notepad**: A simple text editor that comes pre-installed with Windows.
+-   **Notepad++**: A more feature-rich text editor designed for coding and scripting.
+-   **Visual Studio Code**: A popular, free, and highly extensible code editor.
+-   **Sublime Text**: Another code editor known for its speed and versatility.
+-   **Atom**: An open-source code editor developed by GitHub.
+
 ## References
 * [CLEO library](https://cleo.li/)
