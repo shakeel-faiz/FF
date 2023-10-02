@@ -38,11 +38,11 @@ Here's a list of some of the common file formats supported by Shotcut:
     -   and more...
 3.  **Image Formats:**
     
-    -   JPEG (JPG)
-    -   PNG
-    -   BMP
-    -   TIFF
-    -   GIF
+    -   [JPEG (JPG)](/image/jpeg/)
+    -   [PNG](/image/png/)
+    -   [BMP](/image/bmp/)
+    -   [TIFF](/image/tiff/)
+    -   [GIF](/image/gif/)
     -   and more...
 4.  **Additional Formats:**
     
@@ -60,20 +60,20 @@ Here's a list of some of the common file formats supported by Shotcut:
     -   and more...
 2.  **Audio Formats:**
     
-    -   MP3
-    -   WAV
-    -   AAC
-    -   FLAC
-    -   OGG
-    -   M4A
+    -   [MP3](/audio/mp3/)
+    -   [WAV](/audio/wav/)
+    -   [AAC](/audio/aac/)
+    -   [FLAC](/audio/flac/)
+    -   [OGG](/audio/ogg/)
+    -   [M4A](/audio/m4a/)
     -   and more...
 3.  **Image Formats:**
     
-    -   JPEG (JPG)
-    -   PNG
-    -   BMP
-    -   TIFF
-    -   GIF
+    -   [JPEG (JPG)](/image/jpeg/)
+    -   [PNG](/image/png/)
+    -   [BMP](/image/bmp/)
+    -   [TIFF](/image/tiff/)
+    -   [GIF](/image/gif/)
     -   and more...
 4.  **Custom Export Settings:**
     
