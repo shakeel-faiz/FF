@@ -37,25 +37,25 @@ CryENGINE supports various file formats for different types of game assets and d
     -   .skin: Skin file for character models.
 2.  **Texture Formats:**
     
-    -   .dds: DirectDraw Surface texture format, commonly used for textures in CryENGINE.
-    -   .tif: Tagged Image File Format for textures and images.
+    -   [.dds](/image/dds/): DirectDraw Surface texture format, commonly used for textures in CryENGINE.
+    -   [.tif](/image/tiff/): Tagged Image File Format for textures and images.
 3.  **Terrain Formats:**
     
     -   .ter: Terrain file format for heightmaps and terrain data.
-    -   .tif (for heightmaps): CryENGINE supports TIFF images for heightmap data.
+    -   [.tif](/image/tiff/) (for heightmaps): CryENGINE supports TIFF images for heightmap data.
 4.  **Audio Formats:**
     
-    -   .ogg: Ogg Vorbis audio format, commonly used for sound effects and music.
-    -   .wav: Waveform Audio File Format, another common audio format used in games.
+    -   [.ogg](/audio/ogg/): Ogg Vorbis audio format, commonly used for sound effects and music.
+    -   [.wav](/audio/wav/): Waveform Audio File Format, another common audio format used in games.
 5.  **Animation Formats:**
     
-    -   .caf: CryENGINE Character Animation File for character animations.
+    -   [.caf](/database/caf/): CryENGINE Character Animation File for character animations.
     -   .cga: Another animation format for character animations.
     -   .anim: Animation data file.
 6.  **Database and Configuration Formats:**
     
     -   .dba: Database file for storing structured game data.
-    -   .xml: Extensible Markup Language file used for configuration and data.
+    -   [.xml](/web/xml/): Extensible Markup Language file used for configuration and data.
     -   .cryproject: Project configuration file for managing CryENGINE projects.
 7.  **Material and Shader Formats:**
     
@@ -72,8 +72,8 @@ CryENGINE supports various file formats for different types of game assets and d
     -   .dpa: Particle animation file for particle effects.
 10. **Script and Code Formats:**
     
-    -   .lua: Lua scripting files for game scripting.
-    -   .cpp, .h: C++ source code files for custom game logic and plugins.
+    -   [.lua](/programming/lua/): Lua scripting files for game scripting.
+    -   [.cpp](/programming/cpp/), [.h](/programming/h/): C++ source code files for custom game logic and plugins.
 
 
 
