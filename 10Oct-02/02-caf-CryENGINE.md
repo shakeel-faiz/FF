@@ -75,5 +75,9 @@ CryENGINE supports various file formats for different types of game assets and d
     -   [.lua](/programming/lua/): Lua scripting files for game scripting.
     -   [.cpp](/programming/cpp/), [.h](/programming/h/): C++ source code files for custom game logic and plugins.
 
+## How to open CAF file?
 
+Programs that open or reference CAF files
+
+- Crytek CryENGINE SDK (Free Trial) for (Windows)
 
