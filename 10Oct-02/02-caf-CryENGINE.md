@@ -70,7 +70,10 @@ CryENGINE supports various file formats for different types of game assets and d
     
     -   .prt: Particle effect file used for creating visual effects.
     -   .dpa: Particle animation file for particle effects.
-10.  **Script and Code Formats:**
+10. **Script and Code Formats:**
     
     -   .lua: Lua scripting files for game scripting.
     -   .cpp, .h: C++ source code files for custom game logic and plugins.
+
+
+
