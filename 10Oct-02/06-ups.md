@@ -2,7 +2,7 @@
 
 A UPS file, which stands for Universal Patching System, is a type of patch file used to modify or apply changes to the data of a video game or other software. UPS files are typically used in the emulation community to apply patches or modifications to ROMs (Read-Only Memory) of old video games.
 
-## UPS Patch File Working
+## UPS Patch File
 
 Here is how a UPS patch file works:
 
