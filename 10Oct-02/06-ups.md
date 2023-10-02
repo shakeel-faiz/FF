@@ -28,3 +28,11 @@ UPS patches offer several advantages over [IPS](/game/ips/):
 ## How to apply a UPS patch?
 
 To apply a UPS patch, you'll need a UPS patching tool, such as Lunar IPS (for Windows), NUPS (for Windows), or MultiPatch (for multiple platforms), and the original ROM of the game or software you want to patch.
+
+## How to open UPS file?
+
+Programs that open UPS files include
+
+- **Lunar IPS** (for Windows)
+- **NUPS** (for Windows)
+- **MultiPatch** (for multiple platforms)
