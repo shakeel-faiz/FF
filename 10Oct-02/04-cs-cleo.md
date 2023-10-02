@@ -32,3 +32,19 @@ Here is a simple example of a CLEO .cs script that changes the weather in the ga
 // Add more code and conditions as needed
 ```
 
+## CLEO Library
+
+The **CLEO Library**, often referred to simply as "CLEO," is a popular and powerful modding framework for the Grand Theft Auto (GTA) series of video games. It allows players and modders to create and add custom scripts to GTA games, enabling them to modify gameplay, add new features, and enhance the overall gaming experience. CLEO is particularly well-known for its flexibility and ease of use in the GTA modding community.
+
+Here are some key features and aspects of the CLEO Library:
+
+1.  **Scripting Language**: CLEO introduces its scripting language, which is specific to the modding framework. The scripting language is designed to be relatively easy to understand and work with, making it accessible to both novice and experienced modders.
+    
+2.  **Custom Scripts**: With CLEO, you can create custom scripts that can perform a wide range of functions within the game world. These scripts can change in-game behavior, add new missions, introduce new vehicles or weapons, alter game physics, and much more.
+    
+3.  **Triggers and Events**: CLEO scripts can be triggered by various in-game events, player actions, or specific conditions. This allows modders to create dynamic and interactive content within the game.
+    
+4.  **Support for Multiple GTA Versions**: CLEO has versions tailored to different GTA games, including GTA III, GTA Vice City, GTA San Andreas, GTA IV, and others. This means that modders can create and share their custom scripts for different GTA titles.
+
+## References
+* [CLEO library](https://cleo.li/)
