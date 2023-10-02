@@ -60,7 +60,7 @@ For instance, if you have a CAF file that you'd like to convert to a more widely
 
 2.  **.MP3** - MP3 Audio: [MP3](/audio/mp3/) is one of the most ubiquitous audio formats, widely compatible with a vast range of devices and applications, making it an excellent choice for portability.
 
-3.  **.OGG** - [Ogg](/audio/ogg/) Vorbis Audio: Ogg Vorbis is a popular open-source audio format known for its high-quality compression, making it suitable for streaming and general audio playback.
+3.  **.OGG** - Ogg Vorbis Audio: [Ogg](/audio/ogg/) Vorbis is a popular open-source audio format known for its high-quality compression, making it suitable for streaming and general audio playback.
    
 
 Using VLC or Audacity with FFmpeg, you can quickly convert your CAF files to these formats, making them more accessible and adaptable to various audio playback and sharing scenarios."
