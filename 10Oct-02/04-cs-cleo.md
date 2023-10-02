@@ -46,6 +46,18 @@ Here are some key features and aspects of the CLEO Library:
     
 4.  **Support for Multiple GTA Versions**: CLEO has versions tailored to different GTA games, including GTA III, GTA Vice City, GTA San Andreas, GTA IV, and others. This means that modders can create and share their custom scripts for different GTA titles.
 
+## File Formats Used by CLEO Library
+
+In CLEO modding for Grand Theft Auto (GTA) games, several file formats are commonly used to create and install mods. These file formats serve various purposes, from containing the actual scripts to storing additional resources such as textures, models, or audio. Here are some of the key file formats used in CLEO modding:
+
+1.  **.cs (Custom Script)**: CLEO .cs files are custom script files written in the CLEO scripting language. These files contain the code that defines the behavior and functionality of the mod. .cs files are the core of CLEO modding and are executed by the game to implement custom features.
+    
+2.  **.csa (Custom Script Archive)**: .csa files are archives that can store multiple .cs script files. They are often used to package related scripts together for easier installation and management.
+    
+3.  **.fxt (Text Files)**: .fxt files are text files that can be used to localize or provide text translations for CLEO mods. They contain text strings that can be displayed in the game, making mods accessible to players in different languages.
+    
+4.  **.bmp, .png, .jpg (Image Formats)**: These image formats are used to store textures and images for mods. They can be used for custom skins, vehicle textures, HUD elements, and more. Depending on the game, different image formats may be preferred.
+
 ## How to open CS file?
 
 To open and view the contents of a CLEO .cs (Custom Script) file, you can use a text editor or code editor of your choice. Common choices include:
