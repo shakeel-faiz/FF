@@ -84,3 +84,6 @@ Here's a list of some of the common file formats supported by Shotcut:
 Programs that open MLT files include
 
 - **Meltytech Shotcut** (Free) for (Windows, MAC, Linux)
+
+## References
+* [Shotcut](https://en.wikipedia.org/wiki/Shotcut)
