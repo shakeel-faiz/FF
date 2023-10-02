@@ -56,7 +56,7 @@ In CLEO modding for Grand Theft Auto (GTA) games, several file formats are commo
     
 3.  **.fxt (Text Files)**: .fxt files are text files that can be used to localize or provide text translations for CLEO mods. They contain text strings that can be displayed in the game, making mods accessible to players in different languages.
     
-4.  **.bmp, .png, .jpg (Image Formats)**: These image formats are used to store textures and images for mods. They can be used for custom skins, vehicle textures, HUD elements, and more. Depending on the game, different image formats may be preferred.
+4.  **[.bmp](/image/bmp/), [.png](/image/png/), [.jpg](/image/jpeg/) (Image Formats)**: These image formats are used to store textures and images for mods. They can be used for custom skins, vehicle textures, HUD elements, and more. Depending on the game, different image formats may be preferred.
 
 ## How to open CS file?
 
