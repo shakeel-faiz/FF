@@ -17,6 +17,14 @@ Here is how a UPS patch file works:
 
 UPS patch files are popular in the emulation community because they allow users to make improvements or modifications to old games without distributing the entire game's ROM, which may be subject to copyright. Instead, users can share only the UPS patch file, which contains the changes, and users can apply it to their legally owned original ROM.
 
+UPS patches offer several advantages over [IPS](/game/ips/):
+
+1.  **No Size Limitation:** Unlike IPS patches, which are restricted to 16MB, UPS patches can be used with files of any size. This flexibility makes UPS particularly useful for larger games and software.
+    
+2.  **Bi-Directional Patching:** UPS supports bi-directional patching, which means a single UPS patch can both apply and remove changes to a game or software. This feature simplifies the process of modifying or reverting alterations, enhancing the user's experience.
+    
+3.  **CRC32 Checksums:** UPS employs CRC32 checksums as a built-in mechanism to ensure that patches are applied to the correct game or software. This checksum verification helps maintain the integrity of the patched files and prevents accidental or incorrect application of patches.
+
 ## How to apply a UPS patch?
 
 To apply a UPS patch, you'll need a UPS patching tool, such as Lunar IPS (for Windows), NUPS (for Windows), or MultiPatch (for multiple platforms), and the original ROM of the game or software you want to patch.
