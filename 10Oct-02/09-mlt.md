@@ -18,14 +18,14 @@ Here's a list of some of the common file formats supported by Shotcut:
 
 1.  **Video Formats:**
     
-    -   MP4
-    -   MOV
-    -   AVI
-    -   MKV
-    -   WebM
-    -   MPEG
-    -   FLV
-    -   WMV
+    -   [MP4](/video/mp4/)
+    -   [MOV](/video/mov/)
+    -   [AVI](/video/avi/)
+    -   [MKV](/video/mkv/)
+    -   [WebM](/video/webm/)
+    -   [MPEG](/video/mpeg/)
+    -   [FLV](/video/flv/)
+    -   [WMV](/video/wmv/)
     -   and more...
 2.  **Audio Formats:**
     
@@ -52,11 +52,11 @@ Here's a list of some of the common file formats supported by Shotcut:
 
 1.  **Video Formats:**
     
-    -   MP4 (H.264 codec)
-    -   WebM (VP9 codec)
-    -   AVI
-    -   MOV
-    -   MKV
+    -   [MP4 (H.264 codec)](/video/mp4/)
+    -   [WebM (VP9 codec)](/video/webm/)
+    -   [AVI](/video/avi/)
+    -   [MOV](/video/mov/)
+    -   [MKV](/video/mkv/)
     -   and more...
 2.  **Audio Formats:**
     
