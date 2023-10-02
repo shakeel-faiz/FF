@@ -66,4 +66,4 @@ For instance, if you have a CAF file that you'd like to convert to a more widely
 Using VLC or Audacity with FFmpeg, you can quickly convert your CAF files to these formats, making them more accessible and adaptable to various audio playback and sharing scenarios."
 
 ## References
-* [CAF format](https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html#//apple_ref/doc/uid/TP40001862-CH210-SW1)
+* [CAF format](https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)
