@@ -79,5 +79,7 @@ CryENGINE supports various file formats for different types of game assets and d
 
 Programs that open or reference CAF files
 
-- Crytek CryENGINE SDK (Free Trial) for (Windows)
+- **Crytek CryENGINE SDK** (Free Trial) for (Windows)
 
+## References
+* [CryEngine](https://en.wikipedia.org/wiki/CryEngine)
