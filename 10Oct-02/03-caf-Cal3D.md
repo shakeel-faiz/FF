@@ -26,4 +26,5 @@ Programs that open or reference CAF files
 - **Cal3D** (Free) for Linux
 
 ## References
+* [CAL3D](https://github.com/mp3butcher/Cal3D)
 
