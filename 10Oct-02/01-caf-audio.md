@@ -1,6 +1,6 @@
 ## What is a CAF file?
 
-A .CAF file, short for "Core Audio Format," is a type of audio file format developed by Apple Inc. It is designed to store audio data and is commonly used on macOS and iOS devices. Core Audio Format files can contain various types of audio data, including uncompressed audio, as well as compressed audio using codecs like AAC (Advanced Audio Coding) or Apple Lossless.
+A .CAF file, short for **Core Audio Format,** is a type of audio file format developed by Apple Inc. It is designed to store audio data and is commonly used on macOS and iOS devices. Core Audio Format files can contain various types of audio data, including uncompressed audio, as well as compressed audio using codecs like AAC (Advanced Audio Coding) or Apple Lossless.
 
 Key characteristics and features of **.caf** files include:
 
