@@ -2,6 +2,8 @@
 
 A .CAF file typically refers to a **"Cal3D Binary Animation File."** Cal3D is an open-source 3D character animation library often used in video game development and other interactive 3D applications. These ".caf" files are specifically designed to store binary animation data for characters or objects created using the Cal3D framework.
 
+CAF files play a crucial role in imparting realistic human-like movements to characters. They define animations for various actions such as walking, running, or any other dynamic actions that the character might perform. Cal3D animations can also be represented in an [XML](/web/xml/) format, using files with a ".xaf" extension. This XML representation provides an alternative way to store and manipulate the animation data within Cal3D.
+
 ## Cal3D Binary Animation File
 
 Here is some information about what you might find in a Cal3D Binary Animation File:
