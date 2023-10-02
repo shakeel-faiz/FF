@@ -23,3 +23,54 @@ Here are some key features and aspects of CryENGINE:
 6.  **Animation Tools:** CryENGINE offers tools for creating and managing character animations, including the aforementioned .caf animation files.
     
 CryENGINE has been used in the development of various popular game titles, including the "Crysis" series, "Far Cry," and "Ryse: Son of Rome," among others.
+
+## File Formats Used by CryENGINE
+
+CryENGINE supports various file formats for different types of game assets and data. Here are some common file formats associated with CryENGINE:
+
+1.  **3D Model Formats:**
+    
+    -   .cgf: CryENGINE Geometry Format for 3D models.
+    -   .chr: Character model format used for characters and NPCs.
+    -   .cga: Animation file format for character animations.
+    -   .chrparams: Character parameters file for configuring character properties.
+    -   .skin: Skin file for character models.
+2.  **Texture Formats:**
+    
+    -   .dds: DirectDraw Surface texture format, commonly used for textures in CryENGINE.
+    -   .tif: Tagged Image File Format for textures and images.
+3.  **Terrain Formats:**
+    
+    -   .ter: Terrain file format for heightmaps and terrain data.
+    -   .tif (for heightmaps): CryENGINE supports TIFF images for heightmap data.
+4.  **Audio Formats:**
+    
+    -   .ogg: Ogg Vorbis audio format, commonly used for sound effects and music.
+    -   .wav: Waveform Audio File Format, another common audio format used in games.
+5.  **Animation Formats:**
+    
+    -   .caf: CryENGINE Character Animation File for character animations.
+    -   .cga: Another animation format for character animations.
+    -   .anim: Animation data file.
+6.  **Database and Configuration Formats:**
+    
+    -   .dba: Database file for storing structured game data.
+    -   .xml: Extensible Markup Language file used for configuration and data.
+    -   .cryproject: Project configuration file for managing CryENGINE projects.
+7.  **Material and Shader Formats:**
+    
+    -   .mtl: Material file specifying material properties.
+    -   .shader: Shader file for defining shader programs.
+    -   .xml (for material and shader parameters): XML files are often used for specifying material and shader parameters.
+8.  **Level and Map Formats:**
+    
+    -   .cry: CryENGINE Level file, used for defining game levels and maps.
+    -   .cryproj: CryENGINE Project file for managing projects and levels.
+9.  **Particle Effects Formats:**
+    
+    -   .prt: Particle effect file used for creating visual effects.
+    -   .dpa: Particle animation file for particle effects.
+10.  **Script and Code Formats:**
+    
+    -   .lua: Lua scripting files for game scripting.
+    -   .cpp, .h: C++ source code files for custom game logic and plugins.
