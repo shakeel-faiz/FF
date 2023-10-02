@@ -2,6 +2,8 @@
 
 In the context of **CrossOver**, CXARCHIVE files are related to the program's functionality for running Windows programs on Mac and Linux. The .CXARCHIVE files contain the data and settings for specific "bottles," which are virtual Windows environments where Windows applications can be installed and run.
 
+## CXARCHIVE File Key Points
+
 Here are some key points about .CXARCHIVE files created by CrossOver:
 
 1.  **Purpose**: .CXARCHIVE files are used to store the data, configuration settings, and installed Windows software within a specific bottle. This allows CrossOver users to manage and organize different Windows applications separately.
