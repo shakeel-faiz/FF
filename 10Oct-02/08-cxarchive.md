@@ -30,6 +30,11 @@ Here are some key features and aspects of CrossOver:
     
 5.  **Wine Compatibility**: CrossOver leverages the Wine compatibility layer, which is continually developed by the Wine project and the CrossOver team to improve support for Windows applications.
 
+## How to open CXARCHIVE file?
+
+Programs that open CXARCHIVE files include
+
+- **CodeWeavers CrossOver** (Free Trial) for (MAC, Linux)
 
 ## References
 * [CrossOver (software)](https://en.wikipedia.org/wiki/CrossOver_(software))
