@@ -78,3 +78,9 @@ Here's a list of some of the common file formats supported by Shotcut:
 4.  **Custom Export Settings:**
     
     -   Shotcut allows you to customize export settings for video and audio, including codec options, quality, resolution, and frame rate. This flexibility lets you tailor your output to specific requirements.
+
+## How to open MLT file?
+
+Programs that open MLT files include
+
+- **Meltytech Shotcut** (Free) for (Windows, MAC, Linux)
