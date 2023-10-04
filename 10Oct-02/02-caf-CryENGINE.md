@@ -81,7 +81,8 @@ Programs that open or reference CAF files
 
 - **Crytek CryENGINE SDK** (Free Trial) for (Windows)
 
-**Subype:** Developer Files 
+**Subtype:** 
+Developer Files
 
 ## References
 * [CryEngine](https://en.wikipedia.org/wiki/CryEngine)
