@@ -31,4 +31,32 @@ CryENGINE is a powerful game engine developed by Crytek, a German video game com
 5.  **AI System**: The engine features an AI system that allows for the creation of intelligent NPCs (non-player characters) and enemy AI. Developers can script AI behavior and interactions to create challenging and immersive gameplay experiences.
        
 6.  **Scripting**: CryENGINE uses a scripting language called "Schematyc" that allows developers to create gameplay logic and interactions. Additionally, it supports C++ for more advanced programming needs.
+
+## File Formats Used by CryENGINE
+
+Here are some of the common file types associated with CryENGINE:
+
+1.  **cryproj**: CryENGINE project files. These files store project-specific settings and configurations for a particular game project.
+    
+2.  **.level**: Level files contain the 3D game world data, including terrain, objects, lighting, and other level-specific settings. Levels are a fundamental component of game design in CryENGINE.
+    
+3.  **.cgf**: Character Geometry Format. These files contain 3D model data for characters, objects, and other game assets. CGF files can include geometry, textures, and animation data.
+    
+4.  **.chrparams**: Character parameters files. These files store settings and configurations for character models and their animations.
+    
+5.  **.dds**: DirectX Texture Format. CryENGINE commonly uses DDS files to store textures, including diffuse maps, normal maps, and other texture types.
+    
+6.  **.cryshader**: CryENGINE Shader files. These files define how materials and objects are rendered in the game world, specifying shaders, material properties, and more.
+    
+7.  **.crytif**: Texture Information File. These files store additional information about textures, such as compression settings, mipmaps, and other texture-related details.
+    
+8.  **.cdf**: Character Definition File. CDF files are used to define character assets and their properties, including attachments, animation states, and character-related settings.
+    
+9.  **.dds**: CryENGINE also uses DDS (DirectDraw Surface) files for various texture maps, such as normal maps, specular maps, and diffuse maps.
+    
+10.  **.anim**: Animation files. These files store animation data for characters and objects, including keyframes, bone positions, and animation sequences.
+    
+11.  **.xml**: XML files may be used for various configurations and data definitions within CryENGINE, such as game logic, AI behavior, and more.
+    
+12.  **.pak**: PAK files are archive files used to package game assets and resources, making it more efficient for game distribution and loading.
     
