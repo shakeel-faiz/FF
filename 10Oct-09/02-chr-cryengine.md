@@ -2,6 +2,8 @@
 
 CHR file in the context of CryENGINE refers to a **CryENGINE Character File**. CryENGINE is a game engine developed by Crytek, and these files are used for storing character models and associated data for use in video games and other real-time applications.
 
+## CryENGINE Character File
+
 A CryENGINE Character File typically contains the following components:
 
 1.  **Character Model**: This is the 3D model of the character, including its geometry, textures, and animations. These models are often created using software like Autodesk Maya or Blender and then imported into CryENGINE.
