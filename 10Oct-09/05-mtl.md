@@ -35,5 +35,12 @@ MTL file are text based files, so they can be opened with any text editor includ
 - Atom
 - TextEdit (macOS)
 
+Programs that open or reference MTL files include
+
+- Adobe Photoshop 2023
+- Autodesk Maya 2023
+- MeshLab
+- Cheetah3D
+
 ## References
 * [Wavefront .obj file](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
