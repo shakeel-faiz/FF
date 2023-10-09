@@ -15,3 +15,20 @@ A CryENGINE Character File typically contains the following components:
 5.  **Physics Data**: If the character is intended to interact with the game world, the ".chr" file might include physics data such as collision shapes or constraints for ragdoll physics.
     
 6.  **Configuration Settings**: Various configuration settings related to the character's behavior in the game world, such as AI behavior or scripted events, may also be part of the ".chr" file.
+
+## CryENGINE
+
+CryENGINE is a powerful game engine developed by Crytek, a German video game company. It is known for its cutting-edge graphics capabilities and has been used to create some visually stunning and technologically advanced video games. Here are some key features and information about CryENGINE:
+
+1.  **Graphics and Rendering**: CryENGINE is renowned for its advanced graphics capabilities. It supports features like real-time global illumination, high-quality dynamic lighting and shadows, physically-based rendering (PBR), and high-resolution textures. These features contribute to creating visually stunning and realistic game worlds.
+    
+2.  **Physics Engine**: CryENGINE includes a built-in physics engine that allows for realistic interactions between objects in the game world. It supports features like rigid body physics, soft body physics, and ragdoll physics, making it suitable for creating dynamic and immersive environments.
+    
+3.  **Terrain and Vegetation**: CryENGINE provides tools for creating vast and detailed outdoor environments. It supports terrain editing, vegetation placement, and dynamic weather systems, allowing developers to create expansive and realistic outdoor settings.
+    
+4.  **Character Animation**: CryENGINE includes robust tools for character animation. It supports complex character rigs, facial animation, and a blend tree system that enables developers to create lifelike character movements and animations.
+    
+5.  **AI System**: The engine features an AI system that allows for the creation of intelligent NPCs (non-player characters) and enemy AI. Developers can script AI behavior and interactions to create challenging and immersive gameplay experiences.
+       
+6.  **Scripting**: CryENGINE uses a scripting language called "Schematyc" that allows developers to create gameplay logic and interactions. Additionally, it supports C++ for more advanced programming needs.
+    
