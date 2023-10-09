@@ -24,8 +24,8 @@ Here are a few key points about character sets:
 
 CHR files are not intended for manual opening or editing by users. Instead, they serve as configuration files that Windows programs, particularly those that interact with system fonts, can access when necessary. These programs load CHR files to retrieve information about how specific fonts should be displayed, including details about their size, style, and other attributes. Users typically do not need to interact directly with CHR files, as font management is handled by the operating system and software applications.
 
-
-
+## References
+- [Character (computing)](https://en.wikipedia.org/wiki/Character_(computing))
 
 
 
