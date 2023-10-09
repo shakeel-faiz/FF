@@ -49,3 +49,10 @@ Here are some of the file types associated with the game:
 5.  **.txt Files**: [Text files](/word-processing/txt/) are used for various in-game documents, notes, and poems that the player can encounter throughout the game. These files provide additional context and clues for the story.
     
 6.  **Monika After Story**: This is a popular fan-made mod for "Doki Doki Literature Club!" that extends the game's content. It introduces additional file types and mechanics to further interact with the character Monika.
+
+## How to open CHR file?
+
+Programs that open CHR files include
+
+- **Team Salvato Doki Doki Literature Club!** (Free) for (Windows, MAC, Linux)
+
