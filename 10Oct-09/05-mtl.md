@@ -24,4 +24,16 @@ Here is important information about MTL files:
     
 6.  **Compatibility**: ".mtl" files are widely supported by 3D modeling software and rendering engines, making it possible to transfer 3D models and their materials between different software applications.
 
+## How to open an MTL file?
 
+MTL file are text based files, so they can be opened with any text editor including 
+
+- Notepad (Windows)
+- Notepad++ (Windows)
+- Visual Studio Code
+- Sublime Text
+- Atom
+- TextEdit (macOS)
+
+## References
+* [Wavefront .obj file](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
