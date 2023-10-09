@@ -18,9 +18,7 @@ In "Doki Doki Literature Club!", there are four main characters, each represente
 
 ## Doki Doki Literature Club
 
-"Doki Doki Literature Club!" is a visual novel developed by Team Salvato. Initially released in 2017, it gained significant attention for its unique blend of psychological horror and dating simulation elements. The game was created by Dan Salvato and is available as a free download on various platforms.
-
-Here's an overview of "Doki Doki Literature Club!":
+"Doki Doki Literature Club!" is a visual novel developed by Team Salvato. Initially released in 2017, it gained significant attention for its unique blend of psychological horror and dating simulation elements. The game was created by Dan Salvato and is available as a free download on various platforms. Here is an overview of "Doki Doki Literature Club!":
 
 **Genre:** Visual Novel, Psychological Horror, Dating Simulation
 
