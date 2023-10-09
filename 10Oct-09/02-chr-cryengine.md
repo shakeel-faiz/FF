@@ -66,4 +66,5 @@ Programs that open CHR files include
 
 - **Crytek CryENGINE SDK** (Free Trial) for Windows
 
-
+## References
+- [CryEngine](https://en.wikipedia.org/wiki/CryEngine)
