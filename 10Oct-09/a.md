@@ -54,3 +54,5 @@ Programs that open CHR files include
 
 - **Team Salvato Doki Doki Literature Club!** (Free) for (Windows, MAC, Linux)
 
+## References
+* [Doki Doki Literature Club!](https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!)
