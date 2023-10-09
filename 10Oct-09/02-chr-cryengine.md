@@ -58,5 +58,12 @@ Here are some of the common file types associated with CryENGINE:
     
 11.  **.xml**: XML files may be used for various configurations and data definitions within CryENGINE, such as game logic, AI behavior, and more.
     
-12.  **.pak**: PAK files are archive files used to package game assets and resources, making it more efficient for game distribution and loading.
-    
+12.  **.pak**: [PAK files](/game/pak/) are archive files used to package game assets and resources, making it more efficient for game distribution and loading.
+
+## How to open CHR file?
+
+Programs that open CHR files include
+
+- **Crytek CryENGINE SDK** (Free Trial) for Windows
+
+
