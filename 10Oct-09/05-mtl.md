@@ -1,6 +1,6 @@
 ## What is a MTL file?
 
-MTL file, short for Material Template Library, is a companion file format used in 3D computer graphics and modeling. It is often associated with the Wavefront OBJ file format, which is a common format for storing 3D models and their associated materials and textures.
+MTL file, short for **Material Template Library**, is a companion file format used in 3D computer graphics and modeling. It is often associated with the Wavefront OBJ file format, which is a common format for storing 3D models and their associated materials and textures.
 
 ## Material Template Library
 
