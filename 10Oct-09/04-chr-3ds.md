@@ -29,3 +29,12 @@ Here are some key features and capabilities of 3ds Max:
 - [DXF](/cad/dxf/)
 - [IGS](/cad/igs/)
 - [STL](/cad/stl/) and numerous others.
+
+## How to open CHR file?
+
+Programs that open CHR files include
+
+- **Autodesk 3ds Max 2023** (Free Trial) for (Windows)
+
+## References
+* [Autodesk 3ds Max](https://en.wikipedia.org/wiki/Autodesk_3ds_Max)
