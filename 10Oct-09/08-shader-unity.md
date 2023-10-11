@@ -26,3 +26,19 @@ To work with Shader Assets in Unity, you would typically do the following:
     
 
 By using Shader Assets in Unity, you can create visually stunning and unique graphics for your games or applications.
+
+## How to open SHADER file
+
+Programs that open or reference SHADER files include
+
+- **Unity Technologies Unity** (Free) for (Windows, Mac, Linux)
+
+Besides, these files are plain text files, so you can use any text editor to view their contents. You can use
+
+- Notepad
+- Notepad++
+- Visual Studio Code
+
+## References
+* [What is Unity shader?](https://docs.unity3d.com/560/Documentation/Manual/Shaders.html)
+
