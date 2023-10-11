@@ -34,7 +34,7 @@ To use a shader in your Godot project, you would attach it to a material, which 
 
 Godot is an open-source, cross-platform game engine that allows developers to create 2D and 3D games and interactive applications. It is known for its user-friendliness, versatility, and robust set of features. Here are some key aspects and features of the Godot game engine:
 
-1.  **Open Source:** Godot is released under the MIT license, which means it's free to use and open source. Developers can access and modify the source code, making it highly customizable.
+1.  **Open Source:** Godot is released under the MIT license, which means it is free to use and open source. Developers can access and modify the source code, making it highly customizable.
     
 2.  **Cross-Platform:** Godot supports a wide range of platforms, including Windows, macOS, Linux, Android, iOS, HTML5, and more. You can develop your game on one platform and export it to multiple others.
     
