@@ -30,7 +30,7 @@ Godot provides a visual shader editor that allows you to create shaders without 
 
 To use a shader in your Godot project, you would attach it to a material, which you can then apply to a sprite, 3D model, or any other object that you want to render with the specified shader effect.
 
-## Godot game engine
+## Godot Game Engine
 
 Godot is an open-source, cross-platform game engine that allows developers to create 2D and 3D games and interactive applications. It is known for its user-friendliness, versatility, and robust set of features. Here are some key aspects and features of the Godot game engine:
 
