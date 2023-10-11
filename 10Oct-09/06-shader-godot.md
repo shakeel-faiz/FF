@@ -64,4 +64,4 @@ Programs that open or reference SHADER files include
 - **Godot Engine** (Free) for (Windows, Mac, Linux)
 
 ## References
-* [Godot (game engine)](https://en.wikipedia.org/wiki/Godot_(game_engine)]
+* [Godot (game engine)](https://en.wikipedia.org/wiki/Godot_(game_engine))
