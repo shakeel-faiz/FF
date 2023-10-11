@@ -50,3 +50,6 @@ shader shader_name
 ```
 
 In a Quake 3 engine shader file, you can define multiple shaders, each with its own set of properties and stages. These shaders are used to define the appearance of different textures and materials in the game world. The engine uses this information to render surfaces with the specified visual effects and behaviors.
+
+Shader files in the Quake 3 engine are simple text files that contain instructions for how textures and materials should appear in the game. These files can be opened and edited with a regular text editor and are typically found in the **"/scripts"** directory within a game's .PK3 package.
+
