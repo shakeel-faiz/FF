@@ -83,3 +83,5 @@ Programs that open or reference SHADER files include
 - Notepad++
 - Any text editor
 
+## References
+- [id Tech 3](https://en.wikipedia.org/wiki/Id_Tech_3)
