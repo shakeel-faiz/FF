@@ -1,6 +1,6 @@
 ## What is a CHR file?
 
-CHR files are associated with the game "Doki Doki Literature Club!" developed by Team Salvato. In the game, each character has a corresponding ".chr" file that contains information about that character. These files are used to store character data and are an integral part of the game's storyline.
+CHR files are associated with the game **"Doki Doki Literature Club!"** developed by Team Salvato. In the game, each character has a corresponding ".chr" file that contains information about that character. These files are used to store character data and are an integral part of the game's storyline.
 
 The game's narrative involves interacting with these characters and manipulating their ".chr" files to affect the game's progression. It is important to note that manipulating these files can lead to different outcomes and story branches in the game.
 
