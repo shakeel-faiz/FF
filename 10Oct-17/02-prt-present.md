@@ -54,7 +54,7 @@ However, Corel Presentations can also import and export presentations in various
 
 Programs that open PRT files include
 
-- Corel Presentations 2021 (Free Trial)
+- **Corel Presentations 2021** (Free Trial)
 
 ## References
 * [Corel Presentations](https://en.wikipedia.org/wiki/Corel_Presentations)
