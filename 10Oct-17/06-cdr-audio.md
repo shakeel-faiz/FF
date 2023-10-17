@@ -50,4 +50,7 @@ Opening a .cdr file, particularly one containing "Raw CD Audio Data," can be a b
     -   Once the image is mounted, you can access its contents as if it were a physical CD, and play or extract the audio as needed.
 
 
+## References
+* [Exact Audio Copy](https://en.wikipedia.org/wiki/Exact_Audio_Copy)
+* [Audacity](https://en.wikipedia.org/wiki/Audacity_(audio_editor))
 
