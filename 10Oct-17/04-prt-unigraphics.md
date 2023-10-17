@@ -1,6 +1,6 @@
 ## What is a PRT file?
 
-A **.PRT** file is also associated with **Unigraphics or Siemens NX**, which is a widely used computer-aided design (CAD) software. In the context of Unigraphics or Siemens NX, a ".prt" file is an Unigraphics Part File. This file format is used to save and store 3D part or component data created within the Unigraphics or Siemens NX software. It can contain detailed information about the part's geometry, dimensions, features, and other properties.
+A **.PRT** file is also associated with **Unigraphics or Siemens NX**, which is a widely used computer-aided design (CAD) software. This file format is used to save and store 3D part or component data created within the Unigraphics or Siemens NX software. It can contain detailed information about the part's geometry, dimensions, features, and other properties.
 
 ## Key Points about PRT file
 
