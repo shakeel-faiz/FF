@@ -48,3 +48,16 @@ Here are some key details specific to CDRWIN Cue Sheets:
 6.  **Burning and Ripping**: These ".cue" sheets are crucial when burning discs or ripping tracks from discs using CDRWIN. They help ensure that the final product matches the intended layout and content.
     
 7.  **Backup and Restoration**: CDRWIN users often create ".cue" sheets when making backups of their CDs or DVDs. These sheets can later be used to restore the disc's content, including track layout and timing.
+
+## How to open CUE file?
+
+CDRWIN Cue Sheets are specifically designed for the CDRWIN software, so they are typically meant to be opened and used within CDRWIN.
+
+Programs that open or reference CUE files
+
+- CDRWIN
+- Smart Projects IsoBuster
+- EZB Systems UltraISO
+
+## References
+* [CDRWIN](https://en.wikipedia.org/wiki/CDRWIN)
