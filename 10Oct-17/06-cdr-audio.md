@@ -52,5 +52,5 @@ Opening a .cdr file, particularly one containing "Raw CD Audio Data," can be a b
 
 ## References
 * [Exact Audio Copy](https://en.wikipedia.org/wiki/Exact_Audio_Copy)
-* [Audacity](https://en.wikipedia.org/wiki/Audacity_(audio_editor))
+
 
