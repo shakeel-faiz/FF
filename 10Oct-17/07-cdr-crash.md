@@ -36,5 +36,7 @@ Some key features and functionalities of the Bosch CDR System may include:
 
 Programs that open CDR files include
 
-- Bosch Crash Data Retrieval System Software
+- **Bosch Crash Data Retrieval System Software** (Windows)
 
+## References
+* [Bosch Diagnostics](https://cdr.boschdiagnostics.com/cdr/)
