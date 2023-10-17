@@ -4,6 +4,8 @@ The **.PRT** file format is associated with **Corel Presentations**, which is a 
 
 The ".prt" file extension indicates that it is a Corel Presentations template file. These templates are used as starting points for creating presentations and typically contain pre-designed slide layouts, backgrounds, fonts, and styles.
 
+## Working with .PRT file
+
 To work with a ".prt" file:
 
 1.  **Opening**: You can open ".prt" template files with Corel Presentations or Corel WordPerfect Office, provided you have the software installed on your computer.
