@@ -84,3 +84,6 @@ Unigraphics or Siemens NX supports a variety of file formats for import, export,
 Programs that open PRT files include
 
 - **Siemens NX** (Windows, MAC)
+
+## References
+* [Siemens NX](https://en.wikipedia.org/wiki/Siemens_NX)
