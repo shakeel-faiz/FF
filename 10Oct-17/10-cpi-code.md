@@ -1,6 +1,6 @@
 ## What is a CPI file?
 
-A `.cpi` file, in the context of Microsoft Windows and DOS operating systems, is typically a "Code Page Information File." These files contain information about code pages used for text encoding and character set mappings. Code pages are essential for displaying and processing text in various languages and character sets.
+A `.cpi` file, in the context of Microsoft Windows and DOS operating systems, is typically a **"Code Page Information File."** These files contain information about code pages used for text encoding and character set mappings. Code pages are essential for displaying and processing text in various languages and character sets.
 
 In the context of Windows and DOS, code pages are used to define how characters are represented and encoded in different languages and regions. These code pages determine how characters are stored in memory and displayed on the screen. Each code page has a unique identifier, and the `.cpi` files store information about these code pages, including details like character mappings and font information.
 
