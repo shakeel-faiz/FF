@@ -23,3 +23,13 @@ Let us take a closer look at Code Page Information Files (.cpi) and how they fun
 6.  **Font Information**: In addition to character mappings, these files might contain font information, specifying which fonts to use for each code page. This is important for rendering text in the appropriate style and size.
     
 7.  **Legacy Systems**: `.cpi` files were more common in older versions of MS-DOS and Windows. Modern Windows versions (such as Windows 10 and later) typically use Unicode for text encoding, which supports a wide range of characters and languages. Unicode simplifies text processing for multilingual environments and is the standard for modern software.
+
+## How to open CPI file?
+
+Opening a .CPI (Code Page Information) file is not a typical user action, and these files are generally not meant to be opened manually. They are used by the operating system to manage text encoding and character sets, and their contents are accessed and utilized automatically by the system.
+
+However, if you are interested in viewing the contents of a .CPI file for informational purposes, you can try opening it with a text editor or a hexadecimal viewer. Here is how you can attempt to open a .CPI file:
+
+1.  **Text Editor**: You can use a text editor like Notepad (on Windows) or any plain text editor on other operating systems to open and view the .CPI file. Keep in mind that the contents of .CPI files are not meant to be human-readable, and you may see a series of characters that are difficult to interpret.
+    
+2.  **Hexadecimal Viewer**: A hexadecimal viewer or hex editor can be used to open and inspect the contents of the .CPI file in its raw binary form. Hex editors provide a more detailed view of the file's data, which can be useful if you're trying to understand its structure. Examples of such software include HxD, Hex Fiend (for macOS), and 010 Editor.
