@@ -33,3 +33,6 @@ However, if you are interested in viewing the contents of a .CPI file for inform
 1.  **Text Editor**: You can use a text editor like Notepad (on Windows) or any plain text editor on other operating systems to open and view the .CPI file. Keep in mind that the contents of .CPI files are not meant to be human-readable, and you may see a series of characters that are difficult to interpret.
     
 2.  **Hexadecimal Viewer**: A hexadecimal viewer or hex editor can be used to open and inspect the contents of the .CPI file in its raw binary form. Hex editors provide a more detailed view of the file's data, which can be useful if you're trying to understand its structure. Examples of such software include HxD, Hex Fiend (for macOS), and 010 Editor.
+
+## References
+* [Code page](https://en.wikipedia.org/wiki/Code_page)
