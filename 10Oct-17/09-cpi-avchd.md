@@ -22,4 +22,22 @@ The .CPI files in AVCHD directory structures contain important information about
     
 7.  **Thumbnail Images:** Some .CPI files may contain thumbnail images or preview frames that provide a visual representation of each video clip. This is often used in software and devices to display a preview of the content.
     
+## How to open CPI file?
+
+.CPI files are typically not intended to be opened directly by users. Instead, when you use video players or editors to work with AVCHD video content stored in .MTS files, the associated .CPI file is automatically loaded if it is correctly linked to the MTS file. In other words, these .CPI files serve as important behind-the-scenes data that helps video software understand and manage the associated video clips. This linkage ensures that the software can interpret things like clip information, video and audio formats, and timestamps, making it easier for you to navigate and edit your AVCHD video content.
+
+Programs that open or reference CPI files include
+
+- **Adobe Premiere Pro 2023** (Free Trial) for (Windows, Mac)
+- **Kdenlive** (Free) for (Windows, Mac, Linux)
+
+## References
+* [Kdenlive](https://en.wikipedia.org/wiki/Kdenlive)
+
+
+
+
+
+
+
 
