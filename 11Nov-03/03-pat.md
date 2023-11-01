@@ -6,6 +6,10 @@ These ".PAT" files are commonly used in software like **Adobe Photoshop** to app
 
 These patterns are often square in shape and range in size from 8x8 pixels to 256x256 pixels. They are designed to seamlessly repeat when applied allowing them to cover a larger area with same pattern, are particularly useful for enhancing digital designs commonly employed to create textured backgrounds or to add visual interest to various elements in graphics projects.
 
+## Adobe Photoshop
+
+Adobe Photoshop is powerful and industry-standard raster graphics editing software developed by Adobe Inc. It is renowned for its extensive capabilities in image manipulation, design and digital art creation. Users can retouch and enhance photos, create intricate digital illustrations and apply wide range of visual effects. Photoshop offers broad selection of tools for selection, masking and layering as well as support for variety of file formats. Its functionality includes creating and editing patterns, brushes and gradients. Additionally, it enables precise color correction and management. Photoshop is widely used by graphic designers, photographers, digital artists and professionals across numerous creative fields for its versatility and comprehensive feature set.
+
 ## How to open PAT file?
 
 Programs that open PAT files include
