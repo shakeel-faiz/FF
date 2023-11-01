@@ -6,7 +6,7 @@ A .DVD file, in the context of MS-DOS, is driver file used to facilitate communi
 
 The purpose of MS-DOS device drivers is to provide a standardized interface for software applications to communicate with hardware devices, ensuring compatibility and proper functioning. Device drivers are often specific to the hardware they are designed for and are essential for the system to recognize and utilize the hardware correctly.
 
-## Brief History
+## History of MS-DOS
 
 MS-DOS, which stands for Microsoft Disk Operating System, was a popular operating system used in early days of personal computing. These device drivers could be preinstalled with MS-DOS or provided separately by the hardware manufacturer. Users often had to install them from a disk that came with the hardware, such as driver installation floppy disk or CD-ROM, to ensure that their hardware would work correctly with the operating system.
 
