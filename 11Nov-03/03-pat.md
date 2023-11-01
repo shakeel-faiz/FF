@@ -8,7 +8,7 @@ These patterns are often square in shape and range in size from 8x8 pixels to 25
 
 ## Adobe Photoshop
 
-Adobe Photoshop is powerful and industry-standard raster graphics editing software developed by Adobe Inc. It is renowned for its extensive capabilities in image manipulation, design and digital art creation. Users can retouch and enhance photos, create intricate digital illustrations and apply wide range of visual effects. Photoshop offers broad selection of tools for selection, masking and layering as well as support for variety of file formats. Its functionality includes creating and editing patterns, brushes and gradients. Additionally, it enables precise color correction and management. Photoshop is widely used by graphic designers, photographers, digital artists and professionals across numerous creative fields for its versatility and comprehensive feature set.
+Adobe Photoshop is powerful and industry-standard raster graphics editing software developed by Adobe Inc. is renowned for its extensive capabilities in image manipulation, design and digital art creation; users can retouch and enhance photos, create intricate digital illustrations and apply wide range of visual effects. Photoshop offers broad selection of tools for selection, masking and layering as well as support for variety of file formats. Its functionality includes creating and editing patterns, brushes and gradients. Additionally, it enables precise color correction and management. Photoshop is widely used by graphic designers, photographers, digital artists and professionals across numerous creative fields for its versatility and comprehensive feature set.
 
 ## How to open PAT file?
 
