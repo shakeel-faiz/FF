@@ -14,5 +14,11 @@ In modern computing, MS-DOS has been largely replaced by more advanced operating
 
 If you encounter .dvd files related to MS-DOS, they are likely historical artifacts and their relevance in modern computing is limited. Today, hardware drivers are typically distributed as executables, dynamic-link libraries (DLLs) or other file types specific to the operating system being used.
 
+## How to open DVD file?
+
+They are not meant to be opened by user and are used by system. Programs that open or reference DVD files include
+
+- **Microsoft MS-DOS** (Windows)
+
 ## References
 * [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
