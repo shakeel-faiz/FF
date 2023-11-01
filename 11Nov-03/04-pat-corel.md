@@ -1,6 +1,6 @@
 ## What is a PAT file?
 
-A ".PAT file is typically associated with CorelDRAW, a popular vector graphics editing software. In CorelDRAW, ".PAT" file is a "Pattern File" that contains information about patterns or textures that can be applied to objects in your design. Patterns can be used to fill objects with various repeating designs, such as stripes, dots or custom textures. These patterns are stored in ".PAT" files for easy reuse. 
+A ".PAT file is typically associated with CorelDRAW, a popular vector graphics editing software. In CorelDRAW, ".PAT" file is "Pattern File" that contains information about patterns or textures that can be applied to objects in your design. Patterns can be used to fill objects with various repeating designs, such as stripes, dots or custom textures. These patterns are stored in ".PAT" files for easy reuse. 
 
 ## How to create and use PAT files?
 
@@ -9,24 +9,24 @@ Here is how you can create and use pattern files in CorelDRAW:
 1.  Create a Pattern:
     
     -   Open CorelDRAW.
-    -   Design the pattern you want to save as a ".pat" file.
-    -   Select the object or area with the pattern.
-    -   Go to the "Object" menu and choose "Fill" to open the Fill tool.
-    -   In the Fill tool, select "Pattern fill."
-    -   Customize the pattern's properties, such as size, angle, and spacing.
-2.  Save the Pattern as a ".pat" File:
+    -   Design pattern you want to save as ".pat" file.
+    -   Select object or area with pattern.
+    -   Go to "Object" menu and choose "Fill" to open Fill tool.
+    -   In Fill tool, select "Pattern fill."
+    -   Customize pattern's properties, such as size, angle and spacing.
+2.  Save Pattern as ".pat" File:
     
-    -   After creating your pattern, you can save it as a ".pat" file for future use.
-    -   Go to the "File" menu and choose "Export" or "Save As."
-    -   Choose the file format "CorelDRAW Pattern File (*.pat)."
-    -   Specify a name for the file and choose a location to save it.
+    -   After creating your pattern, you can save it as ".pat" file for future use.
+    -   Go to "File" menu and choose "Export" or "Save As."
+    -   Choose file format "CorelDRAW Pattern File (*.pat)."
+    -   Specify name for file and choose location to save it.
 3.  Apply the Pattern:
     
-    -   To use the saved pattern in a new project or on a different object, you can import it.
-    -   Open the new project in CorelDRAW.
-    -   Go to the "Object" menu, choose "Fill," and select "Pattern fill."
-    -   Click the "Import" button and browse to the ".pat" file you saved.
-    -   Select the pattern from the imported patterns and apply it to your object.
+    -   To use saved pattern in new project or on different object, you can import it.
+    -   Open new project in CorelDRAW.
+    -   Go to "Object" menu, choose "Fill," and select "Pattern fill."
+    -   Click "Import" button and browse to ".pat" file you saved.
+    -   Select pattern from imported patterns and apply it to your object.
 
 ## PAT files for Vector Images and Page Layouts
 
