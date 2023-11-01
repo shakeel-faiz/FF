@@ -30,13 +30,13 @@ Here is how you can create and use pattern files in CorelDRAW:
 
 ## PAT files for Vector Images and Page Layouts
 
-.PAT files are specifically designed for vector images and page layout documents. They store patterns that can be seamlessly repeated within a vector-based image or a page layout, and they are often employed to apply textured backgrounds to designs. 
+.PAT files are specifically designed for vector images and page layout documents. They store patterns that can be seamlessly repeated within vector-based image or page layout and they are often employed to apply textured backgrounds to designs. 
 
-Corel CONNECT is a handy graphics content browsing tool that comes bundled with CorelDRAW Graphics Suite. It offers a package of various vector patterns that can be seamlessly integrated into your images or documents. These vector patterns are ready for use, making it convenient to enhance your designs with pre-made patterns, all within the CorelDRAW Graphics Suite environment.
+Corel CONNECT is handy graphics content browsing tool that comes bundled with CorelDRAW Graphics Suite. It offers package of various vector patterns that can be seamlessly integrated into your images or documents. These vector patterns are ready for use making it convenient to enhance your designs with pre-made patterns all within the CorelDRAW Graphics Suite environment.
 
 ## CorelDRAW Graphics Suite
 
-CorelDRAW Graphics Suite is a comprehensive software package designed for graphic design and illustration. It includes a range of powerful tools for creating vector graphics, layout design, photo editing, and typography. CorelDRAW is the centerpiece of the suite, known for its vector illustration capabilities, while other applications like Corel PHOTO-PAINT provide image editing features. The suite is widely used by professionals and creative professionals for tasks such as logo design, page layout, photo editing, and more. It offers a versatile set of features for both beginners and advanced users, making it a popular choice for a wide range of graphic design projects.
+CorelDRAW Graphics Suite is a comprehensive software package designed for graphic design and illustration. It includes range of powerful tools for creating vector graphics, layout design, photo editing and typography. CorelDRAW is the centerpiece of the suite known for its vector illustration capabilities, while other applications like Corel PHOTO-PAINT provide image editing features. The suite is widely used by professionals and creative professionals for tasks such as logo design, page layout, photo editing and more. It offers versatile set of features for both beginners and advanced users making it a popular choice for wide range of graphic design projects.
 
 ## How to open a PAT file?
 
