@@ -13,3 +13,6 @@ MS-DOS, which stands for Microsoft Disk Operating System, was a popular operatin
 In modern computing, MS-DOS has been largely replaced by more advanced operating systems like Windows and device drivers have become an integral part of these systems. While **.DVD** files might still be associated with legacy MS-DOS drivers contemporary drivers for Windows and other operating systems use different file formats and installation methods.
 
 If you encounter .dvd files related to MS-DOS, they are likely historical artifacts and their relevance in modern computing is limited. Today, hardware drivers are typically distributed as executables, dynamic-link libraries (DLLs) or other file types specific to the operating system being used.
+
+## References
+* [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
