@@ -17,3 +17,5 @@ Programs that open PAT files include
 - **Adobe Photoshop** (Windows, Mac, Linux)
 - **GIMP** (Windows, Mac, Linux)
 
+## References
+* [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop)
