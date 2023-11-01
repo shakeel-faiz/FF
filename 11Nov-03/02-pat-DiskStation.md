@@ -1,6 +1,6 @@
 ## What is a PAT file?
 
-A PAT file is commonly associated with DiskStation Manager (DSM), the operating system used by Synology Network-Attached Storage (NAS) devices. The PAT file is an installation file used to update or install the DSM on a Synology NAS.
+A PAT file is commonly associated with **DiskStation Manager (DSM)**, the operating system used by Synology Network-Attached Storage (NAS) devices. The PAT file is an installation file used to update or install the DSM on a Synology NAS.
 
 ## Usage of PAT file
 
@@ -32,7 +32,7 @@ Synology regularly releases updates and new versions of DSM to enhance security,
 
 ## How to open a PAT file
 
-To manually update DiskStation Manager, you can use a PAT file that you've downloaded from the Synology Download Center. To perform this update, follow these steps:
+To manually update DiskStation Manager, you can use a PAT file that you've downloaded from the Synology Download Center using the following steps:
 
 1. Access the DiskStation Manager Control Panel.
 2. Navigate to the "Update & Restore" section and choose "DSM Update."
