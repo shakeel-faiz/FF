@@ -36,3 +36,6 @@ Programs that open VCE files include
 
 - **Visual CertExam Suite** (Paid) for (Windows)
 - **VCEConvert.com VCE to PDF** (Paid)
+
+## References
+* [Visual CertExam Suite](https://www.avanset.com/products/visual-certexam-suite.html)
