@@ -29,3 +29,10 @@ Converting VCE files to PDF format can be useful if you want to share your exam 
 2.  **Open the VCE File in VCE Exam Simulator**: If you have access to the VCE Exam Simulator, you can open the VCE file and then use the print or export feature to save the exam as a PDF.
 
 3.  **Print to PDF**: If the VCE Exam Simulator does not have a built-in PDF export feature, you can try to print the exam to a PDF file using a virtual PDF printer. 
+
+## How to open VCE file?
+
+Programs that open VCE files include
+
+- **Visual CertExam Suite** (Paid) for (Windows)
+- **VCEConvert.com VCE to PDF** (Paid)
