@@ -6,15 +6,15 @@ Pantone is known for its **Pantone Matching System (PMS)**, which is standardize
 
 ## What INK file contains?
 
-The ".ink" file format may store data related to Pantone ink colors, such as:
+The ".ink" file format may store data related to Pantone ink colors such as:
 
-1.  **Color codes:** Pantone ink colors are identified by unique codes, and these codes are typically included in the file.
+1.  **Color codes:** Pantone ink colors are identified by unique codes and these codes are typically included in file.
     
-2.  **Color values:** The file may contain color values, such as RGB (Red, Green, Blue), CMYK (Cyan, Magenta, Yellow, Key/Black), and Lab (CIELAB) values, to specify how the color should be reproduced in different color spaces.
+2.  **Color values:** The file may contain color values such as **RGB (Red, Green, Blue)**, **CMYK (Cyan, Magenta, Yellow, Key/Black)** and **Lab (CIELAB)** values to specify how color should be reproduced in different color spaces.
     
 3.  **Color swatches:** Pantone ink colors often have corresponding swatches that designers and printers can use for reference.
     
-4.  **Color information:** Additional information about the ink color, such as its name, description, and application notes, may be included in the ".ink" file.
+4.  **Color information:** Additional information about ink color such as its name, description and application notes, may be included in ".ink" file.
 
 ## How to open INK file?
 
