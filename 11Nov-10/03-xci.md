@@ -24,11 +24,11 @@ The Nintendo Switch and XCI files are interconnected and XCI files are specific 
 
 ## How to play XCI files on Switch
 
-Playing XCI files on a Nintendo Switch typically involves using custom firmware (CFW) or a compatible homebrew loader. Here is a general outline of steps involved:
+Playing XCI files on Nintendo Switch typically involves using custom firmware (CFW) or compatible homebrew loader; here is a general outline of steps involved:
 
 1.  **Prepare Your Nintendo Switch:**
     
-    -   Ensure your Nintendo Switch is compatible with custom firmware. Check model and firmware version, as compatibility may vary.
+    -   Ensure your Nintendo Switch is compatible with custom firmware; check model and firmware version as compatibility may vary.
 2.  **Obtain Custom Firmware (CFW):**
     
     -   Install a custom firmware like **SX OS**, **Atmosphere** or other CFW of your choice. The installation process can vary depending on the CFW so follow specific instructions for the one you choose.
@@ -37,16 +37,16 @@ Playing XCI files on a Nintendo Switch typically involves using custom firmware 
     -   You will need XCI game files. These files must be legally owned or created from your own game cartridges.
 4.  **Transfer XCI Files:**
     
-    -   Transfer XCI files to your Nintendo Switch. You can do this via an SD card, USB connection or network transfer depending on your CFW and its features.
+    -   Transfer XCI files to your Nintendo Switch; you can do this via an SD card, USB connection or network transfer depending on your CFW and its features.
 5.  **Access Homebrew Launcher:**
     
     -   Access homebrew launcher on your Nintendo Switch typically via a specific button combination or software exploit.
 6.  **Run the Homebrew Software:**
     
-    -   Use homebrew application that supports playing XCI files such as "Tinfoil" or "Goldleaf." Follow the application's instructions to install and play the games.
+    -   Use homebrew application that supports playing XCI files such as "Tinfoil" or "Goldleaf.", follow the application's instructions to install and play games.
 7.  **Launch XCI Games:**
     
-    -   In homebrew software, navigate to XCI game file you want to play and select it. The software will install and run game.
+    -   In homebrew software, navigate to XCI game file you want to play and select it; the software will install and run game.
 8.  **Play the Game:**
     
     -   Once installed, you can launch and play game just like you would with a legitimate copy.
