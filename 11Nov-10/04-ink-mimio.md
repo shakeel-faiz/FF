@@ -20,6 +20,10 @@ Here are some key characteristics of .ink files in Mimio Notebook:
 
 If a teacher needs to share an .ink file with a student or another teacher who does not have access to Mimio Notebook, they can export the .ink file as a more widely compatible format, such as a [PDF](/pdf/), [HTML](/web/html/) or image files ([.JPEG](/image/jpeg/), [.PNG](/image/png/), [.GIF](/image/gif/), [.TIFF](/image/tiff/)). This way, the content can be easily shared and viewed on various devices and software applications without requiring Mimio Notebook for access. 
 
+## MimioStudio
+
+MimioStudio is an interactive software application designed for educational and collaborative purposes. It is commonly used in classrooms and meeting environments to create engaging and interactive learning materials and presentations. Within MimioStudio, users can design and deliver lessons, annotate content, and work with interactive whiteboards and other interactive technologies. This software is known for its user-friendly interface, allowing educators and presenters to easily integrate multimedia elements, draw diagrams, and create interactive quizzes. It supports various file formats and offers tools for sharing and exporting content. Overall, MimioStudio is a versatile tool that enhances the teaching and learning experience by enabling dynamic and interactive content creation and delivery.
+
 ## How to open INK file?
 
 To open an .ink file, follow these steps
