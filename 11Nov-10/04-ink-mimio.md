@@ -47,3 +47,6 @@ To convert Mimio Notebook (.ink file) to different file format, follow these ste
 - Click on Mimio Notebook's "Save" button.
 
 - In the "Save As" window that appears, find the "Save as type" dropdown menu. From this menu, choose desired file format to which you want to convert your .ink file.
+
+## References
+* [MimioStudio Educational Software](https://boxlight.com/products/apps-for-the-classroom/mimiostudio-educational-software)
