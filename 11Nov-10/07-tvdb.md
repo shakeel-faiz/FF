@@ -6,7 +6,7 @@ Apple TV devices typically interact with various online databases and services t
 
 ## Typical TVDB files
 
-These files are typical TVDB which you may find
+These files are typical TVDB files which you may find
 
 - **Application.tvbd:** Holds settings and preferences for Apple TV
 - **Library Preferences.tvdb:** Holds configurations and preferences for the library
