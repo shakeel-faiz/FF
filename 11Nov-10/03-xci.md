@@ -1,8 +1,8 @@
 ## What is an XCI file?
 
-An XCI file, also known as an **"NX Card Image"** file, is a file format used for storing **Nintendo Switch** game cartridges' data; these files are typically used in context of Nintendo Switch homebrew software, backup utilities and custom firmware (CFW) installations; contain game's ROM data and can be loaded onto Nintendo Switch using custom firmware or other tools allowing users to play games from XCI files without the need for physical game cartridges.
+An XCI file, also known as **"NX Card Image"** file, is a file format used for storing **Nintendo Switch** game cartridges' data; these files are typically used in context of Nintendo Switch homebrew software, backup utilities and custom firmware (CFW) installations; contain game's ROM data and can be loaded onto Nintendo Switch using custom firmware or other tools allowing users to play games from XCI files without the need for physical game cartridges.
 
-XCI files are specifically designed for use with Nintendo Switch gaming console. They can be played on Nintendo Switch using custom firmware called **SX OS** which can be loaded onto console using **Xecuter SX Pro tool**. SX OS enables you to play Nintendo Switch homebrew applications and XCI backup files. XCI files are encrypted and in order to use them, you need access to console's master keys. Therefore, it is recommended that you only use XCI files for games that you legally own.
+XCI files are specifically designed for use with Nintendo Switch gaming console; can be played on Nintendo Switch using custom firmware called **SX OS** which can be loaded onto console using **Xecuter SX Pro tool**. SX OS enables you to play Nintendo Switch homebrew applications and XCI backup files. XCI files are encrypted and in order to use them, you need access to console's master keys; therefore, it is recommended that you only use XCI files for games that you legally own.
 
 ## Nintendo Switch and XCI files
 
