@@ -15,3 +15,7 @@ Here are some key characteristics of .ink files in Mimio Notebook:
 4.  **Compatibility:** .ink files are designed to be compatible with Mimio Notebook software, so if you need to share these files with others, they will also need access to the same software.
     
 5.  **Editing and Playback:** You can open .ink files in Mimio Notebook to edit, annotate, or replay the interactive content.
+
+## Share an INK file
+
+If a teacher needs to share an .ink file with a student or another teacher who does not have access to Mimio Notebook, they can export the .ink file as a more widely compatible format, such as a PDF, HTML or image files (.JPEG, .PNG, .GIF, .TIFF). This way, the content can be easily shared and viewed on various devices and software applications without requiring Mimio Notebook for access. 
