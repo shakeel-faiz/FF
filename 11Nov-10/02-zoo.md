@@ -4,6 +4,8 @@ A `.zoo` file is an archive format that is used to compress and store files and 
 
 A `.zoo` file typically contains one or more files and directories that have been compressed and archived into a single file. You can create and extract `.zoo` files using various software tools that support this format. 
 
+ZOO archives have a unique feature that allows them to store multiple versions of the same file, provided each version was modified on a different date. This means that ZOO users can save and access previous iterations of a file directly from the ZOO archive. This feature enables users to revert to an earlier version of a file or compare an older version with a more recent one, offering a convenient way to manage file revisions and changes over time.
+
 ## Common operations of ZOO files
 
 Here are some common operations associated with `.zoo` files:
