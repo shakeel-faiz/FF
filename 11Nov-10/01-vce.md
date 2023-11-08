@@ -14,21 +14,21 @@ The **Visual CertExam Suite (VCE Suite)** is a software package developed by **A
 
 ## Visual CertExam Designer
 
-The **Visual CertExam Designer**, often referred to as just VCE Designer, is a component of the Visual CertExam Suite, a software package developed by Avanset for creating, editing and taking practice exams. The VCE Designer is specifically designed for creating and editing exam content within VCE files.
+The **Visual CertExam Designer**, often referred to as just VCE Designer, is component of the Visual CertExam Suite, a software package developed by Avanset for creating, editing and taking practice exams. The VCE Designer is specifically designed for creating and editing exam content within VCE files.
 
 ## Visual CertExam Manager
 
-Visual CertExam Manager, often referred to as VCE Manager, is another component of the Visual CertExam Suite developed by Avanset. VCE Manager serves as a supporting tool within the suite, and it is used for managing and organizing your collection of VCE files (exam files) and exams created with the VCE Designer.
+**Visual CertExam Manager**, often referred to as VCE Manager, is another component of Visual CertExam Suite developed by Avanset. VCE Manager serves as supporting tool within suite and it is used for managing and organizing your collection of VCE files (exam files) and exams created with VCE Designer.
 
 ## Comvert VCE to PDF
 
-Converting VCE files to PDF format can be useful if you want to share your exam content in a more widely accessible document format. However, it is important to note that VCE files are specifically designed for practice exams and are meant to be used with the Visual CertExam Suite. Converting them to PDF may not retain the interactivity or functionality of the original VCE exam but it can still be done as a static representation. Here is how you can convert a VCE file to PDF:
+Converting VCE files to PDF format can be useful if you want to share your exam content in more widely accessible document format. However, it is important to note that VCE files are specifically designed for practice exams and are meant to be used with the Visual CertExam Suite. Converting them to PDF may not retain interactivity or functionality of original VCE exam but it can still be done as a static representation. Here is how you can convert a VCE file to PDF:
 
-1.  **Use a VCE to PDF Converter**: There are third-party software tools and online services that can help you convert VCE files to PDF. These tools often require you to upload your VCE file and they will generate a PDF version for you. Some popular options include "ExamCollection," "ExamFormatter" or "VCEConvert."
+1.  **Use a VCE to PDF Converter**: There are third-party software tools and online services that can help you convert VCE files to PDF. These tools often require you to upload your VCE file and they will generate PDF version for you. Some popular options include "ExamCollection," "ExamFormatter" or "VCEConvert."
     
-2.  **Open the VCE File in VCE Exam Simulator**: If you have access to the VCE Exam Simulator, you can open the VCE file and then use the print or export feature to save the exam as a PDF.
+2.  **Open the VCE File in VCE Exam Simulator**: If you have access to VCE Exam Simulator, you can open VCE file and then use print or export feature to save the exam as [PDF](/pdf/).
 
-3.  **Print to PDF**: If the VCE Exam Simulator does not have a built-in PDF export feature, you can try to print the exam to a PDF file using a virtual PDF printer. 
+3.  **Print to PDF**: If VCE Exam Simulator does not have built-in PDF export feature, you can try to print exam to PDF file using virtual PDF printer. 
 
 ## How to open VCE file?
 
