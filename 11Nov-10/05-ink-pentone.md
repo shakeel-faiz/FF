@@ -24,3 +24,5 @@ Programs that open INK files include
 
 CorelDRAW is a vector graphics software that supports Pantone colors and provides tools for working with them.
 
+## Reference
+* [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW)
