@@ -1,6 +1,6 @@
 ## What is an INK file?
 
-The .ink file format is typically associated with **Mimio Notebook** software. Mimio Notebook is interactive whiteboard software used for creating and delivering interactive lessons and presentations in educational settings. The .ink file format is used to save files created in this software.
+The .ink file format is typically associated with **Mimio Notebook** software; Mimio Notebook is interactive whiteboard software used for creating and delivering interactive lessons and presentations in educational settings; the .ink file format is used to save files created in this software.
 
 ## Ink files in Mimio Notebook
 
