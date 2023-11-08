@@ -1,8 +1,8 @@
 ## What is an INK file?
 
-The ".ink" file format is associated with Pantone, a well-known company in the field of color matching and printing. A Pantone Reference File in the ".ink" format typically contains information about Pantone ink colors. These files are used in the printing industry to ensure accurate color reproduction and consistency.
+The ".ink" file format is associated with **Pantone**, a well-known company in field of color matching and printing. A **Pantone Reference File** in the ".ink" format typically contains information about Pantone ink colors; these files are used in printing industry to ensure accurate color reproduction and consistency.
 
-Pantone is known for its Pantone Matching System (PMS), which is a standardized color reproduction system widely used in various industries, including graphic design, printing, and manufacturing. The PMS provides a set of ink colors, each identified by a specific code, such as "PMS 185" for a specific shade of red.
+Pantone is known for its **Pantone Matching System (PMS)**, which is standardized color reproduction system widely used in various industries including graphic design, printing and manufacturing; the PMS provides set of ink colors, each identified by specific code such as "PMS 185" for specific shade of red.
 
 ## What INK file contains?
 
