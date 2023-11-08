@@ -6,7 +6,7 @@ The .ink file format is typically associated with **Mimio Notebook** software; M
 
 Here are some key characteristics of .ink files in Mimio Notebook:
 
-1.  **Interactive Content:** .ink files store interactive content such as drawings, text, images and multimedia elements, created within Mimio Notebook environment.
+1.  **Interactive Content:** .ink files store interactive content such as drawings, text, images and multimedia elements created within Mimio Notebook environment.
     
 2.  **Lesson Files:** These files are often used to save lessons, presentations or teaching materials that can be displayed and manipulated on interactive whiteboard or other devices.
     
