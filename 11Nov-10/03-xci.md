@@ -58,3 +58,6 @@ Programs that open XCI files include
 - **SciresM hactool** (Free) for (Windows, Linux)
 
 "hactool" is a command-line utility developed by SciresM for working with Nintendo Switch files, including decrypting, extracting and viewing information about various file formats used on Nintendo Switch.
+
+## References
+* [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
