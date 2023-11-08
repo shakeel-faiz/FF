@@ -32,18 +32,18 @@ To open an .ink file, follow these steps
     
 2.  Within MimioStudio, open Mimio Notebook.
     
-3.  In Mimio Notebook, click on the "Open" button.
+3.  In Mimio Notebook, click on "Open" button.
     
-4.  Navigate to the location where your .ink file is stored.
+4.  Navigate to location where your .ink file is stored.
     
 5.  Select your .ink file and click "Open."
 
 ## How to convert an INK file to other formats?
 
-To convert a Mimio Notebook (.ink file) to a different file format, follow these steps:
+To convert Mimio Notebook (.ink file) to different file format, follow these steps:
 
-- Open the .ink file in Mimio Notebook.
+- Open .ink file in Mimio Notebook.
 
 - Click on Mimio Notebook's "Save" button.
 
-- In the "Save As" window that appears, find the "Save as type" dropdown menu. From this menu, choose the desired file format to which you want to convert your .ink file.
+- In the "Save As" window that appears, find the "Save as type" dropdown menu. From this menu, choose desired file format to which you want to convert your .ink file.
