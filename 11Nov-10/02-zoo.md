@@ -26,3 +26,9 @@ Here are some common operations associated with `.zoo` files:
     
     
     `zoo l archive.zoo`
+
+## How to open a Zoo file?
+
+Programs that open ZOO files include
+
+- zoo (Free) for (Windows, Linux)
