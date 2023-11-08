@@ -6,7 +6,7 @@ XCI files are specifically designed for use with Nintendo Switch gaming console;
 
 ## Nintendo Switch and XCI files
 
-The Nintendo Switch and XCI files are interconnected and XCI files are specific file format used in context of Nintendo Switch game cartridges. Here is some more information about XCI files and how they relate to Nintendo Switch:
+The Nintendo Switch and XCI files are interconnected and XCI files are specific file format used in context of Nintendo Switch game cartridges; here is some more information about XCI files and how they relate to Nintendo Switch:
 
 1.  **XCI Files**: XCI files are file format used to store game data from Nintendo Switch game cartridges. These files contain game's code, assets and save data in format that can be loaded onto Nintendo Switch console for playing games without the need for physical cartridge.
     
@@ -20,7 +20,7 @@ The Nintendo Switch and XCI files are interconnected and XCI files are specific 
 
 ## XCI Switch Games
 
-**XCI Switch games** are game files designed for Nintendo Switch console, stored in XCI file format. These files contain entire game's code, assets and save data allowing players to enjoy games without need for physical game cartridges. To use XCI Switch games, custom firmware (CFW) like SX OS or Atmosphere is often required enabling players to run games from XCI files and potentially offering additional features and customizations. It is vital to emphasize the legal aspect of using XCI files, as playing games from XCI files you don't own can infringe on copyright and intellectual property rights, potentially leading to legal repercussions. While some users create XCI files as backups of their legitimately owned games, it is important to use XCI files responsibly and within the boundaries of law. These files are also compatible with Nintendo Switch emulators like Yuzu and Ryujinx which require decrypted XCI files to run games on a computer expanding the range of options for enjoying Nintendo Switch titles.
+**XCI Switch games** are game files designed for Nintendo Switch console, stored in XCI file format; these files contain entire game's code, assets and save data allowing players to enjoy games without need for physical game cartridges; to use XCI Switch games, custom firmware (CFW) like SX OS or Atmosphere is often required enabling players to run games from XCI files and potentially offering additional features and customizations; it is vital to emphasize legal aspect of using XCI files, as playing games from XCI files you don't own can infringe on copyright and intellectual property rights, potentially leading to legal repercussions. While some users create XCI files as backups of their legitimately owned games, it is important to use XCI files responsibly and within the boundaries of law. These files are also compatible with Nintendo Switch emulators like Yuzu and Ryujinx which require decrypted XCI files to run games on a computer expanding the range of options for enjoying Nintendo Switch titles.
 
 ## How to play XCI files on Switch
 
