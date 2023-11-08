@@ -32,3 +32,6 @@ Here are some common operations associated with `.zoo` files:
 Programs that open ZOO files include
 
 - **zoo** (Free) for (Windows, Linux)
+
+## References
+* [Zoo (file format)](https://en.wikipedia.org/wiki/Zoo_(file_format))
