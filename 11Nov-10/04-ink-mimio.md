@@ -22,7 +22,7 @@ If teacher needs to share .ink file with student or another teacher who does not
 
 ## MimioStudio
 
-MimioStudio is an interactive software application designed for educational and collaborative purposes. It is commonly used in classrooms and meeting environments to create engaging and interactive learning materials and presentations. Within MimioStudio, users can design and deliver lessons, annotate content and work with interactive whiteboards and other interactive technologies. This software is known for its user-friendly interface allowing educators and presenters to easily integrate multimedia elements, draw diagrams and create interactive quizzes. It supports various file formats and offers tools for sharing and exporting content. Overall, MimioStudio is versatile tool that enhances teaching and learning experience by enabling dynamic and interactive content creation and delivery.
+MimioStudio is an interactive software application designed for educational and collaborative purposes; is commonly used in classrooms and meeting environments to create engaging and interactive learning materials and presentations; within MimioStudio, users can design and deliver lessons, annotate content and work with interactive whiteboards and other interactive technologies; this software is known for its user-friendly interface allowing educators and presenters to easily integrate multimedia elements, draw diagrams and create interactive quizzes. It supports various file formats and offers tools for sharing and exporting content. Overall, MimioStudio is versatile tool that enhances teaching and learning experience by enabling dynamic and interactive content creation and delivery.
 
 ## How to open INK file?
 
