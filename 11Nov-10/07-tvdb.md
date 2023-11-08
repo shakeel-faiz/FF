@@ -16,8 +16,13 @@ These files are typical TVDB which you may find
 
 Apple Inc. is the developer and marketer of the digital media player and microconsole known as Apple TV. It is a little piece of hardware used in network appliances that transmits audio and video data that has been received to an external display or television. Streaming media, TV Everywhere-based services, local media sources, sports journalism, and broadcasts are among its media offerings.
 
+## How to open a TVDB file?
 
+TVDB files are not meant to be opened directly, they are used by Apple TV and are in propriety format. It may affect Apple TV to load and display your library if you edit a TVDB file.
 
+Programs that open TVDB file include
+
+- **Apple TV** included with OS (MAC, iOS)
 
 
 
