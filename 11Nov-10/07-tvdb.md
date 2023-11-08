@@ -4,6 +4,17 @@ A TVDB file is a type of database file that is associated with Apple TV. It's ty
 
 Apple TV devices typically interact with various online databases and services to provide users with access to content, such as movies, TV shows, music, and apps. These databases and services are maintained by Apple and are used to organize and deliver content to Apple TV users. However, the internal structure and file format of these databases are not typically exposed to users, and there's no standard file format known as "Apple TV Database."
 
+## Typical TVDB files
+
+These files are typical TVDB which you may find
+
+- **Application.tvbd:** Holds settings and preferences for Apple TV
+- **Library Preferences.tvdb:** Holds configurations and preferences for the library
+- **Library.tvdb:** Holds details about every video in your Apple TV collection.
+
+## Apple TV
+
+Apple Inc. is the developer and marketer of the digital media player and microconsole known as Apple TV. It is a little piece of hardware used in network appliances that transmits audio and video data that has been received to an external display or television. Streaming media, TV Everywhere-based services, local media sources, sports journalism, and broadcasts are among its media offerings.
 
 
 
