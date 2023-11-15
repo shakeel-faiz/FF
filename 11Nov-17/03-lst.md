@@ -8,3 +8,14 @@ The .lst file format does not refer to a specific standardized format; rather, i
     
 3.  **Playlists:** Some media players or applications may use .lst files as playlists. These files typically contain a list of audio or video files, specifying the order in which they should be played.
 
+## How to open LST file?
+
+Since LST files are most plain text files so they can be opened with any text editor. In case, LST files are in binary format, then text editor will not show them properly and only display the recognizable character.
+
+Programs that can open or reference LST files include
+
+- **Microsoft Notepad**
+- **Microsoft WordPad**
+- **Notepad++**
+- **Apple TextEdit**
+- Any text editor
