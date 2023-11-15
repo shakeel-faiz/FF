@@ -26,5 +26,6 @@ To open and access ESX file using desktop version of Xactimate software, navigat
 
 For users opting for online version of Xactimate software, the process involves clicking "Data Transfer" button. From there, select "Folder", click "Browse" and proceed to designate desired ESX file for opening and utilization within online platform.
 
-
+## Reference
+* [xactimate](https://www.verisk.com/insurance/products/xactimate/)
 
