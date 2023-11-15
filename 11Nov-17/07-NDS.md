@@ -1,8 +1,8 @@
 ## What is an NDS file?
 
-The ".nds" file extension is commonly associated with Nintendo DS (Dual Screen) game ROMs (Read-Only Memory). The Nintendo DS is a handheld gaming console that was released by Nintendo in 2004. ROMs are digital copies of game cartridges or discs, allowing users to play games on emulators or flashcarts.
+The ".nds" file extension is commonly associated with **Nintendo DS (Dual Screen)** game ROMs (Read-Only Memory). The Nintendo DS is a handheld gaming console that was released by Nintendo in 2004; while ROMs are digital copies of game cartridges or discs allowing users to play games on emulators or flashcarts.
 
-If you have a .nds file, it likely contains the game data for a Nintendo DS game. To play the game, you would typically use a Nintendo DS emulator on your computer or a flashcart on an actual Nintendo DS console. Emulators simulate the hardware of the original console, allowing you to play games on a different platform, while flashcarts are physical devices that allow you to load and play ROMs on the original console.
+If you have a .NDS file, it likely contains the game data for a Nintendo DS game. To play the game, you would typically use a Nintendo DS emulator on your computer or flashcart on actual Nintendo DS console. Emulators simulate hardware of original console allowing you to play games on different platform, while flashcarts are physical devices that allow you to load and play ROMs on original console.
 
 ## NDS file - More Information
 
