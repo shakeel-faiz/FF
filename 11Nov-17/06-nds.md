@@ -5,3 +5,12 @@ The .NDS file extension is commonly associated with **"Nero DiscSpan Compilation
 When you create a DiscSpan compilation in Nero Burning ROM, it divides data into smaller segments that fit on individual discs; the .nds file is created as a descriptor file that contains information about layout and spanned data across discs.
 
 If you have .nds file and corresponding disc segments, you can use Nero Burning ROM or Nero DiscSpan to restore original data. Nero DiscSpan will prompt you to insert each disc in sequence to reconstruct complete compilation.
+
+## How to open NDS file?
+
+Programs that open NDS files include
+
+- **Nero 2022** (Paid) for Windows
+
+## References
+- [Nero Burning ROM](http://nero.helpmax.net/en/nero-burning-rom/data-disc/nero-discspan-udf-compilation-and-nero-discmerge-tool/)
