@@ -28,3 +28,5 @@ Programs that open NDS files include
 - OpenEmu (Mac)
 - DraStic DS Emulator (Android).
 
+## References
+* [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS)
