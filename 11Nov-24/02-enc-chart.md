@@ -10,6 +10,10 @@ ENC files are binary files that store information in a structured manner, allowi
 
 ENC files are regularly updated by hydrographic offices to reflect changes in navigational information, ensuring that mariners have access to the most current and accurate data for their routes.
 
+## About S-57 standard
+
+The S-57 standard is an international specification for the encoding, storage, and exchange of electronic navigational charts (ENCs). It was developed by the International Hydrographic Organization (IHO) to provide a standardized format for digital charts used in Electronic Chart Display and Information Systems (ECDIS) for maritime navigation.
+
 ## How to open ENC file?
 
 To open Electronic Navigation Chart (ENC) files, you generally need specialized navigation software that supports the S-57 standard and ENC file format.
@@ -21,3 +25,6 @@ Some popular navigation software includes:
 - SeaClear
 - Transas iSailor
 - TIMEZERO
+
+## References
+* [Electronic navigational chart](https://en.wikipedia.org/wiki/Electronic_navigational_chart)
