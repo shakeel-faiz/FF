@@ -28,17 +28,21 @@ Here are some key points about GEDCOM files:
 
 To open a GED file, you generally need genealogy software that supports the GEDCOM format. Some popular genealogy software options include:
 
-- Family Tree Maker
-- Ancestry.com
-- MyHeritage
-- Gramps (free and open-source)
-- Legacy Family Tree
+- **Family Tree Maker**
+- **Ancestry.com**
+- **MyHeritage**
+- **Gramps** (free and open-source)
+- **Legacy Family Tree**
 
 Once you have chosen your genealogy software, look for an option like "Import", "Open GEDCOM" or "Import from File" in the menu or toolbar.
 
 Since GED files are saved in a text format, you can also open the files with a plain text editor e.g.
 
-- Notepad
-- Notepad++
-- Apple TextEdit
+- **Notepad**
+- **Notepad++**
+- **Apple TextEdit**
 - Any text editor
+
+## References
+* [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM)
+
