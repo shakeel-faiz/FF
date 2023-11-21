@@ -1,8 +1,8 @@
 ## What is an ENC file?
 
-An ENC file is related to Electronic Navigation Chart (ENC) which is a digital vector chart used in electronic charting systems for marine navigation. ENC files contain geospatial data, such as depth contours, navigation aids, and other information needed for safe navigation. ENC is a standardized format defined by the International Hydrographic Organization (IHO) in the S-57 standard.
+An **ENC file** is related to **Electronic Navigation Chart (ENC)** which is a digital vector chart used in electronic charting systems for marine navigation; ENC files contain geospatial data, such as depth contours, navigation aids and other information needed for safe navigation. ENC is a standardized format defined by the **International Hydrographic Organization (IHO)** in the **S-57 standard**.
 
-The S-57 standard specifies the structure and content of ENC files. These files typically have a ".enc" file extension. ENC files are used by Electronic Chart Display and Information Systems (ECDIS) on ships for navigation. ECDIS systems use ENC data to display electronic charts, providing navigators with real-time information to aid in safe and efficient navigation.
+The S-57 standard specifies the structure and content of ENC files; these files typically have ".enc" file extension. ENC files are used by **Electronic Chart Display and Information Systems (ECDIS)** on ships for navigation; ECDIS systems use ENC data to display electronic charts, providing navigators with real-time information to aid in safe and efficient navigation.
 
 ## ENC File Format - More Information
 
