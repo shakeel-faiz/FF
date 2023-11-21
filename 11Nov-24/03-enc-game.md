@@ -10,7 +10,7 @@ ESTsoft Cabal Online is a massively multiplayer online role-playing game (MMORPG
 
 ENC files are likely compressed and encoded for security reasons and modifying them could result in unintended consequences or issues with game client.
 
-The Cabal ENC Tool for Windows facilitates the decompression of ENC files, enabling users to explore their contents. Additionally, the tool offers the capability to package files into an ENC format. This functionality allows users, potentially including modders, to unpack and inspect the contents of ENC files, as well as create new ENC files by packaging specific files together.
+The **Cabal ENC Tool for Windows** facilitates decompression of ENC files, enabling users to explore their contents. Additionally, the tool offers capability to package files into an ENC format. This functionality allows users, potentially including modders, to unpack and inspect the contents of ENC files, as well as create new ENC files by packaging specific files together.
 
 ## References
 * [Cabal Online](https://en.wikipedia.org/wiki/Cabal_Online)
