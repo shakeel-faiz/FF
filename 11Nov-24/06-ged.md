@@ -14,11 +14,11 @@ For example:
 
 Here are some key points about GEDCOM files:
 
-1.  **Plain Text Format:** GEDCOM files are plain text files, which means they can be opened and viewed with any text editor. This format facilitates easy sharing and compatibility between different genealogy software applications.
+1.  **Plain Text Format:** GEDCOM files are plain text files which means they can be opened and viewed with any text editor; this format facilitates easy sharing and compatibility between different genealogy software applications.
     
-2.  **Structure:** GEDCOM files have a hierarchical structure. The data is organized into records, and each record has a specific tag that indicates the type of information it contains. For example, an individual's name might be represented by a "NAME" tag.
+2.  **Structure:** GEDCOM files have hierarchical structure; the data is organized into records and each record has specific tag that indicates type of information it contains; for example, an individual's name might be represented by "NAME" tag.
     
-3.  **Individuals and Families:** GEDCOM files typically include information about individuals, such as names, dates of birth, and places of birth. They also include details about family relationships, marriages, and other events.
+3.  **Individuals and Families:** GEDCOM files typically include information about individuals, such as names, dates of birth and places of birth; they also include details about family relationships, marriages and other events.
     
 4.  **Software Interoperability:** Since GEDCOM is a standardized format, it allows users to move their genealogical data between different genealogy software programs. This is particularly useful for users who may switch to a different software application or share their research with others.
     
