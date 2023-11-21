@@ -16,13 +16,13 @@ Here are some key points about GEDCOM files:
 
 1.  **Plain Text Format:** GEDCOM files are plain text files; which means they can be opened and viewed with any text editor; this format facilitates easy sharing and compatibility between different genealogy software applications.
     
-2.  **Structure:** GEDCOM files have hierarchical structure;  data is organized into records; each record has specific tag that indicates type of information it contains, for example, an individual's name might be represented by "NAME" tag.
+2.  **Structure:** GEDCOM files have hierarchical structure; data is organized into records; each record has specific tag that indicates type of information it contains, for example, an individual's name might be represented by "NAME" tag.
     
-3.  **Individuals and Families:** GEDCOM files typically include information about individuals, such as names, dates of birth and places of birth; they also include details about family relationships, marriages and other events.
+3.  **Individuals and Families:** GEDCOM files typically include information about individuals such as names, dates of birth and places of birth; they also include details about family relationships, marriages and other events.
     
-4.  **Software Interoperability:** Since GEDCOM is a standardized format, it allows users to move their genealogical data between different genealogy software programs. This is particularly useful for users who may switch to a different software application or share their research with others.
+4.  **Software Interoperability:** Since GEDCOM is standardized format; it allows users to move their genealogical data between different genealogy software programs; this is particularly useful for users who may switch to different software application or share their research with others.
     
-5.  **Version:** GEDCOM has gone through various versions, with each version introducing improvements and new features. The most commonly used version was GEDCOM 5.5. 
+5.  **Version:** GEDCOM has gone through various versions with each version introducing improvements and new features; the most commonly used version was GEDCOM 5.5. 
 
 ## How to open GED file?
 
