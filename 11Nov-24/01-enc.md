@@ -1,6 +1,6 @@
 ## What is an ENC file?
 
-An ENC file is a type of data file that holds encoded information, often using a proprietary or standard encoding format. The purpose of encoding is to transform data into different representation and this can serve various purposes. In many cases, ENC files are encoded to safeguard contained data, making it challenging for users to modify the information or use it in unauthorized ways. It adds a layer of protection to data.
+An ENC file is type of data file that holds encoded information, often using a proprietary or standard encoding format; the purpose of encoding is to transform data into different representation and this can serve various purposes; in many cases, ENC files are encoded to safeguard contained data, making it challenging for users to modify information or use it in unauthorized ways; it adds a layer of protection to data.
 
 There are different encoding methods and the specific one used for particular ENC file may vary. One common example is **Base64** encoding, which transforms binary data into ASCII text. This type of encoding is often employed to ensure compatibility with text-based transmission protocols.
 
@@ -8,7 +8,7 @@ While primary use of encoding in ENC files is for data protection, some ENC file
 
 ## ENC File Format - More Information
 
-The ".enc" file extension itself does not denote specific or standardized file format. Instead, it is a generic extension that could be used by various applications or systems to indicate that file has undergone some form of encoding or encryption. 
+The ".enc" file extension itself does not denote specific or standardized file format, instead it is a generic extension that could be used by various applications or systems to indicate that file has undergone some form of encoding or encryption. 
 
 Here are few possibilities for what ".enc" file might represent:
 
