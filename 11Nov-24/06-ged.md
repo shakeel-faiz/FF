@@ -1,8 +1,8 @@
 ## What is a GED file?
 
-A GEDCOM (Genealogical Data Communication) file, typically with a ".ged" extension, is a standard file format used for exchanging genealogical data between different genealogy software programs. GEDCOM files are plain text files that contain information about individuals, families, events, and other genealogical data. The purpose of GEDCOM is to provide a common format for the exchange of genealogical information.
+A GEDCOM (Genealogical Data Communication) file, typically with a ".ged" extension, is a standard file format used for exchanging genealogical data between different genealogy software programs; GEDCOM files are plain text files that contain information about individuals, families, events and other genealogical data; the purpose of GEDCOM is to provide a common format for the exchange of genealogical information.
 
-GEDCOM files typically have a ".ged" file extension. This extension is used to indicate that the file follows the GEDCOM standard for genealogical data exchange. So, when you save or export your genealogical data from a genealogy software program, the resulting file is often given a name like "yourfilename.ged."
+GEDCOM files typically have a ".ged" file extension. This extension is used to indicate that the file follows **GEDCOM standard** for genealogical data exchange; so when you save or export your genealogical data from a genealogy software program, the resulting file is often given a name like `yourfilename.ged`.
 
 For example:
 
