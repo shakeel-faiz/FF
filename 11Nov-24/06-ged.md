@@ -14,4 +14,4 @@ Here are some key points about GEDCOM files:
     
 4.  **Software Interoperability:** Since GEDCOM is a standardized format, it allows users to move their genealogical data between different genealogy software programs. This is particularly useful for users who may switch to a different software application or share their research with others.
     
-5.  **Version:** GEDCOM has gone through various versions, with each version introducing improvements and new features. The most commonly used version as of my knowledge cutoff in January 2022 was GEDCOM 5.5.
+5.  **Version:** GEDCOM has gone through various versions, with each version introducing improvements and new features. The most commonly used version as of my knowledge cutoff in January 2022 was GEDCOM 5.5. 
