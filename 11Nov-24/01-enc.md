@@ -24,5 +24,5 @@ Here are few possibilities for what ".enc" file might represent:
 
 If your ENC file has undergone encoding through standard format, you can use compatible program capable of decoding that specific format.
 
-For ENC files encoded using a proprietary format, opening it with original program that created the file might be possible. Many ENC files are not designed for direct user interaction. Instead, they serve as containers for encoded data, which a program will load as necessary during its operation. Opening such files without associated program may not yield meaningful information, as their primary purpose is to store encoded data for internal workings of a particular application or system.
+For ENC files encoded using proprietary format, opening it with original program that created the file might be possible; many ENC files are not designed for direct user interaction; instead they serve as containers for encoded data, which a program will load as necessary during its operation; opening such files without associated program may not yield meaningful information as their primary purpose is to store encoded data for internal workings of a particular application or system.
 
