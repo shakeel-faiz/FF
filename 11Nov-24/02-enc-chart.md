@@ -6,13 +6,13 @@ The S-57 standard specifies the structure and content of ENC files; these files 
 
 ## ENC File Format - More Information
 
-ENC files are binary files that store information in a structured manner, allowing for efficient storage and retrieval of navigational data. The content of ENC files includes information about coastlines, depth contours, buoys, lights, and other navigational features. The data is organized into various data layers, and each feature is represented as a vector object with associated attributes.
+**ENC files** are **binary files** that store information in structured manner, allowing for efficient storage and retrieval of navigational data; the content of ENC files includes information about coastlines, depth contours, buoys, lights and other navigational features; the data is organized into various data layers and each feature is represented as a vector object with associated attributes.
 
 ENC files are regularly updated by hydrographic offices to reflect changes in navigational information, ensuring that mariners have access to the most current and accurate data for their routes.
 
 ## About S-57 standard
 
-The S-57 standard is an international specification for the encoding, storage, and exchange of electronic navigational charts (ENCs). It was developed by the International Hydrographic Organization (IHO) to provide a standardized format for digital charts used in Electronic Chart Display and Information Systems (ECDIS) for maritime navigation.
+The **S-57 standard** is an international specification for the encoding, storage and exchange of electronic navigational charts (ENCs); it was developed by the International Hydrographic Organization (IHO) to provide a standardized format for digital charts used in Electronic Chart Display and Information Systems (ECDIS) for maritime navigation.
 
 ## How to open ENC file?
 
