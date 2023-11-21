@@ -18,7 +18,7 @@ Arduino shields, additional boards, expand functionalities, offering features li
 
 ## How to open INO file?
 
-Arduino Integrated Development Environment can be used to open INO file. But since they are plain text files, any text editor can be used to open or edit its content.
+**Arduino Integrated Development Environment** can be used to open INO file. But since they are plain text files, any text editor can be used to open or edit its content.
 
 ## References
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
