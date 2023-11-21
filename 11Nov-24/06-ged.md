@@ -14,4 +14,23 @@ Here are some key points about GEDCOM files:
     
 4.  **Software Interoperability:** Since GEDCOM is a standardized format, it allows users to move their genealogical data between different genealogy software programs. This is particularly useful for users who may switch to a different software application or share their research with others.
     
-5.  **Version:** GEDCOM has gone through various versions, with each version introducing improvements and new features. The most commonly used version as of my knowledge cutoff in January 2022 was GEDCOM 5.5. 
+5.  **Version:** GEDCOM has gone through various versions, with each version introducing improvements and new features. The most commonly used version was GEDCOM 5.5. 
+
+## How to open GED file?
+
+To open a GED file, you generally need genealogy software that supports the GEDCOM format. Some popular genealogy software options include:
+
+- Family Tree Maker
+- Ancestry.com
+- MyHeritage
+- Gramps (free and open-source)
+- Legacy Family Tree
+
+Once you have chosen your genealogy software, look for an option like "Import", "Open GEDCOM" or "Import from File" in the menu or toolbar.
+
+Since GED files are saved in a text format, you can also open the files with a plain text editor e.g.
+
+- Notepad
+- Notepad++
+- Apple TextEdit
+- Any text editor
