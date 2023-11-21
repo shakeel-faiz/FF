@@ -8,7 +8,7 @@ While the primary use of encoding in ENC files is for data protection, it is wor
 
 ## ENC File Format - More Information
 
-The ".enc" file extension itself doesn't denote a specific or standardized file format. Instead, it is a generic extension that could be used by various applications or systems to indicate that the file has undergone some form of encoding or encryption. 
+The ".enc" file extension itself does not denote a specific or standardized file format. Instead, it is a generic extension that could be used by various applications or systems to indicate that the file has undergone some form of encoding or encryption. 
 
 Here are a few possibilities for what an ".enc" file might represent:
 
