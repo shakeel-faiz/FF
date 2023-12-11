@@ -22,11 +22,11 @@ Here is an example of BibTeX entry for a book:
 
 In this example:
 
--   `@book` indicates that this is a reference to a book.
--   `knuth1984` is the citation key, a unique identifier you can use when citing this reference in your LaTeX document.
--   `author`, `title`, `publisher`, `year`, and `isbn` are the fields containing information about the book, such as the author's name, the book's title, the publisher, the publication year, and the ISBN.
+-   `@book` indicates that this is reference to book.
+-   `knuth1984` is citation key, a unique identifier you can use when citing this reference in your LaTeX document.
+-   `author`, `title`, `publisher`, `year`, and `isbn` are fields containing information about book such as author's name, book's title, publisher, publication year and ISBN.
 
-You would include this BibTeX entry in your `.bib` file, and then in your LaTeX document, you might have something like:
+You would include this BibTeX entry in your `.bib` file and then in your LaTeX document, you might have something like:
 
 ```
 \documentclass{article}
