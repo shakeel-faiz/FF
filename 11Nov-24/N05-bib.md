@@ -45,9 +45,9 @@ When you compile your LaTeX document with tool like BibTeX and then LaTeX again,
 
 ## How to open a BIB file?
 
-BIB files are typically plain text files that contain bibliographic information in BibTeX format. To open and view the contents of BIB file, you can use text editor.
+BIB files are typically plain text files that contain bibliographic information in BibTeX format; to open and view the contents of BIB file, you can use text editor.
 
-If you need to manage bibliographic references for LaTeX document, consider using specialized reference manager tool that can export to BibTeX format e.g. 
+If you need to manage bibliographic references for LaTeX document; consider using specialized reference manager tool that can export to BibTeX format e.g. 
 
 - Zotero
 - MiKTeX
