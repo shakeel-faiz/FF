@@ -1,8 +1,8 @@
 ## What is a MAX file?
 
-The **.max file extension** is associated with **Autodesk 3ds Max**, a popular 3D modeling, animation, and rendering software. The .max file is a **3ds Max Scene File**, and it contains information about the 3D scene, including the geometry, textures, lighting, cameras, and other settings.
+The **.max file extension** is associated with **Autodesk 3ds Max**, a popular 3D modeling, animation and rendering software; the .max file is **3ds Max Scene File** and it contains information about 3D scene including geometry, textures, lighting, cameras and other settings.
 
-When you save a project or scene in Autodesk 3ds Max, it is typically stored with the .max file extension. This file format allows users to save and later reopen their 3D projects to continue working on them. The .max files may become quite large, especially for complex scenes with detailed 3D models and textures.
+When you save project or scene in Autodesk 3ds Max, it is typically stored with the .max file extension; this file format allows users to save and later reopen their 3D projects to continue working on them; the .max files may become quite large, especially for complex scenes with detailed 3D models and textures.
 
 ## MAX File Format - More Information
 
