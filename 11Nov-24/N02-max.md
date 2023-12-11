@@ -16,18 +16,14 @@ To open a .max file, you'll need Autodesk 3ds Max installed on your computer. Op
 
 ## How to convert a MAX file?
 
-Autodesk 3ds Max offers the capability to convert MAX files into different formats, providing versatility for sharing and using 3D content. 
+Autodesk 3ds Max offers the capability to convert MAX files into different formats e.g.
 
-.FBX - Autodesk FBX Interchange File
-.AI - Adobe Illustrator Artwork
-.DWG - AutoCAD Drawing
-.DXF - Drawing Exchange Format
-.IGS - IGES Drawing
-.SAT - ACIS SAT 3D Model
-.STL - Stereolithography File
-
-
-
+- [.AI](/image/ai/) - Adobe Illustrator Artwork
+- [.DWG](/cad/dwg/) - AutoCAD Drawing
+- [.DXF](/cad/dxf/) - Drawing Exchange Format
+- [.FBX](/3d/fbx/) - Autodesk FBX Interchange File
+- [.IGS](/cad/iges/) - IGES Drawing
+- [.STL](/cad/stl/) - Stereolithography File
 
 
 
