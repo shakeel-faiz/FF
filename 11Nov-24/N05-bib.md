@@ -55,4 +55,6 @@ If you need to manage bibliographic references for a LaTeX document, consider us
 - JabRef
 - Bib2x
 
-- 
+## References
+- [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
+
