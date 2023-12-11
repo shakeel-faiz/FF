@@ -1,10 +1,10 @@
 ## What is a BIB file?
 
-A BIB file associated with LaTeX, a typesetting system commonly used for the production of scientific and mathematical documents, contains bibliographic information in BibTeX format. BibTeX is program and file format that works in conjunction with LaTeX to manage and format bibliographies. In this context, BIB file serves as database of references, including details such as author names, titles, publication years, and other citation-related information.
+A BIB file associated with LaTeX, a typesetting system commonly used for production of scientific and mathematical documents, contains bibliographic information in BibTeX format. BibTeX is program and file format that works in conjunction with LaTeX to manage and format bibliographies. In this context, BIB file serves as database of references, including details such as author names, titles, publication years, and other citation-related information.
 
-When working with LaTeX documents, researchers and academics use BIB files to organize their references in standardized and machine-readable format. The BIB file is referenced in the LaTeX document, and citation commands within the document are used to pull in and format the citations according to specified bibliography style.
+When working with LaTeX documents, researchers and academics use BIB files to organize their references in standardized and machine-readable format. The BIB file is referenced in LaTeX document and citation commands within document are used to pull in and format citations according to specified bibliography style.
 
-LaTeX compilers, such as MiKTeX or TeXworks, process both the LaTeX document (.TEX) and the associated BIB file to generate a fully formatted document with citations and bibliography. This separation of content and formatting enhances the efficiency and consistency of document preparation, particularly in academic and scientific writing where accurate and standardized citations are crucial.
+LaTeX compilers, such as MiKTeX or TeXworks, process both LaTeX document (.TEX) and associated BIB file to generate a fully formatted document with citations and bibliography. This separation of content and formatting enhances efficiency and consistency of document preparation, particularly in academic and scientific writing where accurate and standardized citations are crucial.
 
 ## Example of BibTeX entry
 
