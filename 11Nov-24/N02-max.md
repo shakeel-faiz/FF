@@ -6,9 +6,9 @@ When you save project or scene in Autodesk 3ds Max, it is typically stored with 
 
 ## MAX File Format - More Information
 
-Professionals in fields such as video game development, film production, television and architecture rely on Autodesk 3ds Max for crafting intricate 3D models and animations; the software employs proprietary file format known as 3ds Max scene file, denoted by ".max" extension, to encapsulate the entirety of project's contents. Once a project is saved, it becomes self-contained MAX file, housing information about scene's geometry, lighting, materials, cameras, animations and other configurations; this MAX file serves as comprehensive snapshot of the project.
+Professionals in fields such as video game development, film production, television and architecture rely on Autodesk 3ds Max for crafting intricate 3D models and animations; the software employs proprietary file format known as 3ds Max scene file, denoted by ".max" extension, to encapsulate the entirety of project's contents; once project is saved, it becomes self-contained MAX file, housing information about scene's geometry, lighting, materials, cameras, animations and other configurations; this MAX file serves as comprehensive snapshot of the project.
 
-When working in 3ds Max, users have flexibility to save their ongoing work as a MAX file. This enables them to close application and later reopen MAX file to seamlessly pick up where they left off, facilitating a fluid and iterative workflow. This approach is particularly beneficial for projects that demand collaboration or extended development timelines, allowing professionals to revisit, revise and refine their 3D creations as needed.
+When working in 3ds Max, users have flexibility to save their ongoing work as a MAX file; this enables them to close application and later reopen MAX file to seamlessly pick up where they left off, facilitating fluid and iterative workflow; this approach is particularly beneficial for projects that demand collaboration or extended development timelines, allowing professionals to revisit, revise and refine their 3D creations as needed.
 
 ## How to open a MAX file?
 
