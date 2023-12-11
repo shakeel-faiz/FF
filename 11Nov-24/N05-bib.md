@@ -4,7 +4,7 @@ A BIB file associated with LaTeX, a typesetting system commonly used for product
 
 When working with LaTeX documents, researchers and academics use BIB files to organize their references in standardized and machine-readable format; the BIB file is referenced in LaTeX document and citation commands within document are used to pull in and format citations according to specified bibliography style.
 
-LaTeX compilers, such as MiKTeX or TeXworks, process both LaTeX document (.TEX) and associated BIB file to generate a fully formatted document with citations and bibliography. This separation of content and formatting enhances efficiency and consistency of document preparation, particularly in academic and scientific writing where accurate and standardized citations are crucial.
+LaTeX compilers, such as MiKTeX or TeXworks, process both LaTeX document (.TEX) and associated BIB file to generate a fully formatted document with citations and bibliography; this separation of content and formatting enhances efficiency and consistency of document preparation, particularly in academic and scientific writing where accurate and standardized citations are crucial.
 
 ## Example of BibTeX entry
 
