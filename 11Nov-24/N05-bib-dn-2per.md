@@ -1,6 +1,6 @@
 ## What is a BIB file?
 
-A BIB file associated with LaTeX, a typesetting system commonly used for production of scientific and mathematical documents, contains bibliographic information in BibTeX format; BibTeX is program and file format that works in conjunction with LaTeX to manage and format bibliographies; in this context, BIB file serves as database of references including details such as author names, titles, publication years and other citation-related information.
+A **BIB file** associated with LaTeX, a typesetting system commonly used for production of scientific and mathematical documents, contains bibliographic information in BibTeX format; **BibTeX** is program and file format that works in conjunction with **LaTeX** to manage and format bibliographies; in this context, BIB file serves as database of references including details such as author names, titles, publication years and other citation-related information.
 
 When working with LaTeX documents, researchers and academics use BIB files to organize their references in standardized and machine-readable format; the BIB file is referenced in LaTeX document and citation commands within document are used to pull in and format citations according to specified bibliography style.
 
@@ -56,5 +56,5 @@ If you need to manage bibliographic references for LaTeX document; consider usin
 - Bib2x
 
 ## References
-- [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
+* [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
 
