@@ -2,3 +2,5 @@ ino - https://fileinfo.com/extension/ino is developer files but it is inside pro
 
 fs - https://fileinfo.com/extension/fs is developer files but it is inside programming
 
+bib - https://fileinfo.com/extension/bib is a Text file but it is inside Word Processing File
+
