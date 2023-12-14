@@ -7,7 +7,7 @@ GEDCOM files usually have ".ged" file extension; this extension is used to indic
 For example:
 
 - yourfamilytree.ged
-= john_doe_family.ged
+- john_doe_family.ged
 - ancestry_data.ged
 
 ## Key Points about GEDCOM Files
