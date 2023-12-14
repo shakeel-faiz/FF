@@ -10,7 +10,7 @@ TorrentRover is desktop application designed to streamline torrent-searching exp
 
 Programs that open TRF file include
 
-- TorrentRover (Free) for Windows
+- **TorrentRover** (Free) for Windows
 
 ## References
 - [TorrentRover](https://www.torrentrover.com/)
