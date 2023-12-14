@@ -4,3 +4,5 @@ fs - https://fileinfo.com/extension/fs is developer files but it is inside progr
 
 bib - https://fileinfo.com/extension/bib is a Text file but it is inside Word Processing File
 
+lst - https://fileinfo.com/extension/lst  is a Text file but it is inside Word Processing File
+
