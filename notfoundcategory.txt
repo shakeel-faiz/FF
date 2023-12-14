@@ -1,2 +1,4 @@
 ino - https://fileinfo.com/extension/ino is developer files but it is inside programming
 
+fs - https://fileinfo.com/extension/fs is developer files but it is inside programming
+
