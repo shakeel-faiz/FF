@@ -28,3 +28,40 @@ Let's create a basic shell script that prints a greeting message. Open a text ed
 
 echo "Hello, welcome to the world of shell scripting!"
 ```
+
+Save the file and make it executable by running the following command in the terminal:
+
+```
+chmod +x greeting.sh
+```
+
+Now, you can execute the script:
+
+```
+./greeting.sh
+```
+
+The output should be:
+
+```
+Hello, welcome to the world of shell scripting!
+```
+
+## Running Shell Scripts on Ubuntu and Linux:
+
+1.  **Make the Script Executable:** Before running a shell script, ensure it is executable. Use the `chmod` command as shown earlier.
+    
+2.  **Navigate to the Script Directory:** Open a terminal and use the `cd` command to navigate to the directory containing your shell script.
+    
+3.  **Run the Script:** Execute the script by typing `./scriptname.sh` in the terminal, replacing "scriptname" with the actual name of your script.
+    
+```
+cd path/to/script
+./greeting.sh
+``` 
+
+4.  **Using the Bash Command:** If your script begins with `#!/bin/bash` (known as a shebang), you can also run it using the `bash` command.
+
+```
+bash greeting.sh
+```
