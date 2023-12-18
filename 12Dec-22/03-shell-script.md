@@ -49,6 +49,8 @@ Hello, welcome to the world of shell scripting!
 
 ## Running Shell Scripts on Ubuntu and Linux:
 
+Now, we will discuss **how to run a .sh file in Ubuntu and Linux**.
+
 1.  **Make the Script Executable:** Before running a shell script, ensure it is executable. Use the `chmod` command as shown earlier.
     
 2.  **Navigate to the Script Directory:** Open a terminal and use the `cd` command to navigate to the directory containing your shell script.
