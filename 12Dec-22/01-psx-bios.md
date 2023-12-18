@@ -4,7 +4,7 @@ The **PSX BIOS** is Basic Input/Output System for the original **Sony PlayStatio
 
 ## PSX BIOS - More Information
 
-The PlayStation (PSX) BIOS, officially known as the SCPH-1001, is a crucial component of the original Sony PlayStation console. Here are some key points about the PSX BIOS:
+The PlayStation (PSX) BIOS, officially known as the **SCPH-1001**, is a crucial component of the original Sony PlayStation console. Here are some key points about the PSX BIOS:
 
 1.  **Functionality**: The PSX BIOS is a set of low-level programs stored on a read-only memory (ROM) chip within the PlayStation hardware. Its primary function is to initialize and control the essential hardware components of the console, such as the CPU, memory, graphics processing unit (GPU), and input/output devices.
     
@@ -16,4 +16,4 @@ The PlayStation (PSX) BIOS, officially known as the SCPH-1001, is a crucial comp
     
 5.  **Emulation**: In the context of emulators, which allow users to play PlayStation games on a computer, obtaining and using the PSX BIOS can be a legal gray area. Some emulators require users to provide their own BIOS, extracted from their personal PlayStation console. However, sharing or downloading the BIOS from the internet without permission is against the law.
     
-6.  **BIOS Files**: The PSX BIOS file is usually named "SCPH1001.BIN" or a similar variant. It's a binary file containing the machine code necessary for the BIOS functions.
+6.  **BIOS Files**: The PSX BIOS file is usually named **"SCPH1001.BIN"** or a similar variant. It's a binary file containing the machine code necessary for the BIOS functions.
