@@ -14,6 +14,15 @@ Dolphin is not just a basic emulator. It comes with extra features that make the
 
 In 2020, the Dolphin team introduced RVZ file format, a special way of compressing game files. These RVZ files can store all the important stuff from a game, like updates and extra data, in smaller files. Even though they are small, they still make games run smoothly on the Dolphin emulator.
 
+## How to open an RVZ file
+
+To open an RVZ file using the Dolphin emulator, simply open Dolphin, go to the menu bar, select "Open," and then locate and open your RVZ file.
+
+
+
+
+
+
 
 
 
