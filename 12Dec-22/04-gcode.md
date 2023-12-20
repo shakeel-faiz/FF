@@ -30,3 +30,12 @@ G2 X20 Y10 I2 J0   ; Clockwise circular interpolation
 G0 Z5          ; Rapid move to Z=5
 M5             ; Stop spindle
 ```
+
+## How to open a GCODE file?
+
+To open a G-code file, you can use various types of software depending on your needs. 
+
+If you generated the G-code for a 3D printer, you can open it using the software that came with your 3D printer or dedicated slicing software. Examples include PrusaSlicer, Cura, Simplify3D, MatterControl, or Repetier-Host. These programs often have a user-friendly interface that allows you to load and visualize the G-code.
+
+G-code files are **plain text**, so you can open them with any text editor. Common text editors include Notepad (on Windows), TextEdit (on macOS), or Gedit (on Linux). Simply right-click on the G-code file, choose "Open with," and select a text editor.
+
