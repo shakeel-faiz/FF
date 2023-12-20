@@ -16,7 +16,7 @@ The syntax of GCODE involves combination of letters and numbers; each representi
 
 ## GCODE Generation:
 
-Slicing software, such as Simplify3D and Slic3r, translates Computer-Aided Design (CAD) drawings into GCODE; CAD software is used to create 3D models, which are then exported in formats like STL; the slicing software takes these models and generates GCODE file specifying details such as layer height, printing speed, and temperature settings.
+Slicing software such as Simplify3D and Slic3r, translates Computer-Aided Design (CAD) drawings into GCODE; CAD software is used to create 3D models, which are then exported in formats like STL; the slicing software takes these models and generates GCODE file specifying details such as layer height, printing speed, and temperature settings.
 
 ## GCODE Example
 
