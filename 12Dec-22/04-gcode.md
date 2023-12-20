@@ -10,13 +10,13 @@ G-code files typically have ".nc" or ".gcode" file extension for example, "progr
 
 ## GCODE File Structure:
 
-GCODE files are plain text files with each line containing specific command; these commands range from controlling movement of machine to adjusting temperature, speed, and other parameters crucial for fabrication of an object.
+GCODE files are plain text files with each line containing specific command; these commands range from controlling movement of machine to adjusting temperature, speed and other parameters crucial for fabrication of an object.
 
-The syntax of GCODE involves combination of letters and numbers, each representing distinct action or parameter; common commands include G0 and G1 for movement, M3 and M5 for spindle control, and S and F for speed and feed rate adjustments, respectively.
+The syntax of GCODE involves combination of letters and numbers; each representing distinct action or parameter; common commands include G0 and G1 for movement, M3 and M5 for spindle control, and S and F for speed and feed rate adjustments respectively.
 
 ## GCODE Generation:
 
-Slicing software, such as Simplify3D and Slic3r, translates Computer-Aided Design (CAD) drawings into GCODE; CAD software is used to create 3D models, which are then exported in formats like STL; the slicing software takes these models and generates GCODE file, specifying details such as layer height, printing speed, and temperature settings.
+Slicing software, such as Simplify3D and Slic3r, translates Computer-Aided Design (CAD) drawings into GCODE; CAD software is used to create 3D models, which are then exported in formats like STL; the slicing software takes these models and generates GCODE file specifying details such as layer height, printing speed, and temperature settings.
 
 ## GCODE Example
 
