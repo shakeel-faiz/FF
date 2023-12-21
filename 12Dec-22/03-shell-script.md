@@ -62,7 +62,7 @@ cd path/to/script
 ./greeting.sh
 ``` 
 
-4.  **Using the Bash Command:** If your script begins with `#!/bin/bash` (known as a shebang), you can also run it using the `bash` command.
+4.  **Using the Bash Command:** If your script begins with `#!/bin/bash` (known as a **shebang**), you can also run it using the `bash` command.
 
 ```
 bash greeting.sh
