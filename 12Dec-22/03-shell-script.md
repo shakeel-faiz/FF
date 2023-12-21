@@ -1,4 +1,4 @@
-## What is Shell Scripting?
+## What is Shell Script?
 
 Shell scripting involves writing a series of commands in a plain text file, often referred to as a shell script. These scripts are executed by a shell, which is a command-line interpreter. The most common shells include 
 
