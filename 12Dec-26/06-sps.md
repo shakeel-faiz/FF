@@ -2,7 +2,7 @@
 
 The .SPS file extension is commonly associated with "SPSS Program Files" used in conjunction with **IBM SPSS (Statistical Package for Social Sciences)** software. IBM SPSS is a statistical analysis software widely used in social science and business research for tasks such as data cleaning, statistical analysis, and reporting.
 
-An .SPS file is a script or program file written in syntax language of IBM SPSS. It contains a series of commands and instructions that are executed by SPSS to perform various data manipulation and analysis tasks. These files are often used to automate repetitive tasks or to document and reproduce specific analyses. Users can create, edit, and run .SPS files within SPSS software.
+An .SPS file is a script or program file written in syntax language of IBM SPSS; it contains a series of commands and instructions that are executed by SPSS to perform various data manipulation and analysis tasks; these files are often used to automate repetitive tasks or to document and reproduce specific analyses. Users can create, edit, and run .SPS files within SPSS software.
 
 ## How to open SPS file?
 
