@@ -8,3 +8,10 @@ Pepakura Designer works with 3D models in formats such as .obj, .3ds, .dxf, and 
 
 The .pdo file includes instructions on how to cut, fold, and glue the printed paper pieces to recreate the 3D model. Each piece is labeled and numbered to guide the assembly process.
 
+## How to open a PDO file
+
+To open and view Pepakura Designer files, you'll need **Pepakura Viewer**, a free companion program to **Pepakura Designer**. The Viewer allows others to view and print the models without needing the full design software.
+
+## About Pepakura Designer
+
+Pepakura Designer is a specialized software application designed for creating paper craft models from 3D digital models. The software allows users to import 3D models in various formats, such as .obj or .3ds, and then unfolds and flattens these models into 2D patterns that can be printed on paper. These patterns, saved with a .pdo file extension, contain instructions and markings for cutting, folding, and assembling the paper pieces into a three-dimensional model. Pepakura Designer is widely used by hobbyists and enthusiasts interested in creating intricate paper models of various objects, characters, and designs. 
