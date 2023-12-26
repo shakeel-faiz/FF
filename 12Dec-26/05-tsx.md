@@ -46,3 +46,7 @@ You'll often see import statements at the beginning of the file, bringing in nec
 // Example: Import statements in a ".tsx" file
 import React from 'react';
 ```
+
+## How to open a TSX file?
+
+TSX files are plain text files so you can open them in any text editor e.g. Notepad. However, these are coding files and meant to be opened by IDE e.g. Visual Studio Code.
