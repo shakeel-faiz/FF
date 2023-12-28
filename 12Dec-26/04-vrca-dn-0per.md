@@ -14,6 +14,6 @@ The VRChat Software Development Kit (SDK) empowers users with some technical kno
 
 **VRChat avatars are often distributed using VRCA files.** These files serve as containers for necessary assets and information of user's avatar, encompassing 3D model, textures, shaders and more; while most VRChat users may not directly encounter VRCA files in their regular platform use, those who download custom avatars or access public avatars through VRChat's API may engage with these files.
 
-## How to open a VRCA file
+## How to open a VRCA file?
 
 VRCA files are not meant to be opened. However, you can use some tools e.g. uTinyRipper to extract its assets.
