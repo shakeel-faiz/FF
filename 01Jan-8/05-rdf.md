@@ -1,4 +1,4 @@
-## What is a RDF file? 
+## What is an RDF file? 
 
 An RDF file, often referred to as an RDF document, contains data represented in RDF format. The Resource Description Framework (RDF) is a standard for representing information about resources in the World Wide Web. RDF provides a common framework for expressing relationships and describing resources in a machine-readable format. RDF files typically use XML (eXtensible Markup Language) or other serialization formats like Turtle or JSON.
 
