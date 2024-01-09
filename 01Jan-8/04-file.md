@@ -8,4 +8,4 @@ If you know the format of the .file file, you can change its extension to specif
 
 Similarly, if the .file extension internal format is pdf format, then changing the .file to .pdf will let you open the file in Adobe Reader.
 
-If you do not the internal file format or its internal content, then do not try to open it because it might contain viruses. First identify the format using some file format identification tool.
+If you do not know the internal file format or its internal content, then do not try to open it because it might contain viruses. First identify the format using some file format identification tool and then open it.
