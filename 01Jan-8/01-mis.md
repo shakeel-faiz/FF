@@ -22,7 +22,7 @@ Players can create their own levels using game's level editor, and these custom 
 
 ## What are MIS Files? Management Information System
 
-Management Information System (MIS) files don't have a specific format or extension that is universally recognized. Instead, MIS refers to a system that helps organizations use technology to collect, process, store, and share information. It is like a digital tool that businesses use to keep track of things like sales, finances, and employees. MIS doesn't have its own distinct files, but data is often stored in databases and can be presented in reports or dashboards to help managers make better decisions. So, when people mention "MIS files," they could be referring to different types of data files, reports, or configurations used within the MIS software, but it's not a standard file format like ".doc" or ".pdf."
+Management Information System (MIS) files don't have a specific format or extension that is universally recognized. Instead, MIS refers to a system that helps organizations use technology to collect, process, store, and share information. It is like a digital tool that businesses use to keep track of things like sales, finances, and employees. MIS doesn't have its own distinct files, but data is often stored in databases and can be presented in reports or dashboards to help managers make better decisions. So, when people mention "MIS files," they could be referring to different types of data files, reports, or configurations used within MIS software, but it is not a standard file format like ".doc" or ".pdf."
 
 
 
