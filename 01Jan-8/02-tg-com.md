@@ -1,6 +1,6 @@
 ## What is a TG file?
 
-A **TG file** is a guitar tablature document created by **TuxGuitar**. It contains both a musical score and guitar tablature. Guitar tablature is a form of musical notation that represents the finger positions on the instrument's fretboard. 
+A **TG file** is a guitar tablature document created by **TuxGuitar**. It contains both musical score and guitar tablature. Guitar tablature is a form of musical notation that represents finger positions on instrument's fretboard. 
 
 ## About TuxGuitar
 
@@ -12,9 +12,9 @@ Key features of TuxGuitar include:
     
 2.  **Score and tablature editor:** Users can create and edit both standard musical notation and tablature for various instruments, such as guitar, bass, drums and more.
     
-3.  **MIDI playback:** TuxGuitar can play back the scores using MIDI, allowing users to listen to their compositions as they work on them.
+3.  **MIDI playback:** TuxGuitar can play back scores using MIDI, allowing users to listen to their compositions as they work on them.
     
-4.  **Import and export options:** It supports the import of files from other popular music notation software, such as Guitar Pro. Additionally, users can export their compositions to various formats, making it easy to share or collaborate with others.
+4.  **Import and export options:** It supports import of files from other popular music notation software, such as Guitar Pro. Additionally, users can export their compositions to various formats, making it easy to share or collaborate with others.
     
 5.  **Virtual keyboard and fretboard:** TuxGuitar includes virtual representations of musical instruments' keyboards and fretboards, helping users visualize and input notes more easily.
     
@@ -22,13 +22,13 @@ Key features of TuxGuitar include:
 
 ## How to open a TG file?
 
-If you have a TuxGuitar file (with a .tg extension), you can open it using the TuxGuitar software. Here are the steps:
+If you have TuxGuitar file (with .tg extension), you can open it using TuxGuitar software. Here are the steps:
 
 1.  Launch TuxGuitar on your computer.
-2.  Go to the "File" menu.
-3.  Choose "Open" from the menu options.
+2.  Go to "File" menu.
+3.  Choose "Open" from menu options.
 4.  Locate and select your TuxGuitar file (.tg).
 5.  Click "Open" to open and view your file in TuxGuitar.
 
-This process allows you to access and work with your TuxGuitar files within the TuxGuitar application.
+This process allows you to access and work with your TuxGuitar files within TuxGuitar application.
 
