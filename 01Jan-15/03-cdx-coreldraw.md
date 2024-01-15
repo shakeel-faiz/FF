@@ -12,7 +12,7 @@ The main advantage of CDX files is their smaller size, making them ideal for sha
 
 ## How to open CDX file?
 
-Programs that open CDX files include 
+CDX files can be opened by the following programs
 
 - **CorelDRAW Graphics Suite 2023** (Free Trial) for Windows
 
