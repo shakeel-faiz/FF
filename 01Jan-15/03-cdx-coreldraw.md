@@ -15,3 +15,6 @@ The main advantage of CDX files is their smaller size, making them ideal for sha
 Programs that open CDX files include 
 
 - **CorelDRAW Graphics Suite 2023** (Free Trial) for Windows
+
+## References
+* [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW)
