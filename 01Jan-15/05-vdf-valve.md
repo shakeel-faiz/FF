@@ -32,3 +32,4 @@ VDF files can be opened or referenced using the following programs.
 - Apple TextEdit
 
 ## References
+* [Source (game engine)](https://en.wikipedia.org/wiki/Source_(game_engine))
