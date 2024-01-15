@@ -6,3 +6,16 @@ CDX files are designed to store chemical structures, reactions, and related info
 
 CDX files can contain information about chemical structures, including atom and bond details, as well as additional data such as reaction arrows, text annotations, and more. CDX files preserve the editable nature of chemical structures, allowing users to open and modify the structures using ChemDraw.
 
+## About ChemDraw
+
+ChemDraw is a software tool utilized for creating, editing, and visualizing chemical structures, reactions, and related content. Widely employed by chemists, researchers, and students, ChemDraw offers a user-friendly interface and a range of features for drawing and manipulating molecular structures. This software is crucial in the field of chemistry for tasks such as designing chemical compounds, illustrating reactions, and generating chemical diagrams. It supports various file formats, including its proprietary ChemDraw Exchange (CDX) format, enhancing compatibility and ease of information exchange within the scientific community.
+
+## How to open CDX file?
+
+CDX files can be opened or referenced using the following programs
+
+- **PerkinElmer ChemDraw** (Free Trial) for (Windows, Mac)
+
+
+
+
