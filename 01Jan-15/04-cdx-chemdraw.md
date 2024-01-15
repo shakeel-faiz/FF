@@ -16,6 +16,7 @@ CDX files can be opened or referenced using the following programs
 
 - **PerkinElmer ChemDraw** (Free Trial) for (Windows, Mac)
 
-
+## References
+- [ChemDraw](https://en.wikipedia.org/wiki/ChemDraw)
 
 
