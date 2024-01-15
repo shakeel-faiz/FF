@@ -10,3 +10,8 @@ The CDX file format serves as a compressed version of the original .CDR file. Co
 
 The main advantage of CDX files is their smaller size, making them ideal for sharing through email or archiving on external storage media where space may be limited. When you need to distribute CorelDRAW drawings but want to keep file sizes manageable, opting for the CDX format can be a practical solution. It allows users to maintain the integrity of their graphical work while facilitating easier file transfer and storage management.
 
+## How to open CDX file?
+
+Programs that open CDX files include 
+
+- **CorelDRAW Graphics Suite 2023** (Free Trial) for Windows
