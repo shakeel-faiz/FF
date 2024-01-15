@@ -11,3 +11,12 @@ Alpha Five was a comprehensive software platform and integrated development envi
 A key strength of Alpha Five lay in its robust support for database integration. The platform made it significantly easier for developers to work with data-driven applications by providing seamless connectivity to various databases. This integration allowed developers to efficiently manage and manipulate data within the IDE, contributing to the platform's appeal for database-centric applications.
 
 In a notable development, Alpha Software Corporation, the entity behind Alpha Five, initiated a rebranding effort in 2013. The platform was renamed "Alpha Anywhere," signifying a continued commitment to advancing and adapting the IDE in response to the evolving landscape of web and mobile application development. The transition from Alpha Five to Alpha Anywhere marked a strategic shift in the platform's evolution, reflecting its ongoing efforts to stay at the forefront of industry trends and emerging technologies.
+
+## How to open CDX file?
+
+Programs that open CDX files include 
+
+- **Alpha Software Alpha Anywhere** (Free Trial) for Windows
+
+## References
+* [Alpha Software](https://www.alphasoftware.com/)
