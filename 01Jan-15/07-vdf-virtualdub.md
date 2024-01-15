@@ -28,3 +28,5 @@ To use a VDF file with VirtualDub on Windows, you can do either of these:
     
 2.  **Load it in VirtualDub:** Open VirtualDub, go to **Video**, then **Filters**, click **Add**, choose **Load**, and load your VDF file. This way, VirtualDub will recognize and use the features from the VDF file when you're editing or processing videos.
 
+## References
+* [VirtualDub](https://en.wikipedia.org/wiki/VirtualDub)
