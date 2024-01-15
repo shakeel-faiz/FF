@@ -16,5 +16,9 @@ Beyond its role as a database management system, Visual FoxPro featured its own 
 
 However, despite its popularity, Microsoft officially discontinued Visual FoxPro in 2007. Following this decision, no new versions or updates were released, leading many users to transition to alternative database systems and development platforms. While Visual FoxPro is no longer actively developed or supported by Microsoft, its legacy persists in some existing applications. Developers who were familiar with Visual FoxPro often underwent transitions to other technologies as the industry evolved beyond its discontinued status.
 
+## How to open CDX file?
+
+Microsoft Visual FoxPro is one of the software applications capable of opening CDX files.
+
 ## References
 * [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
