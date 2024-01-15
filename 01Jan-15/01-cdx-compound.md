@@ -6,7 +6,7 @@ There are two types of CDX files:
 
 1. **Structural CDX file:** A Structural CDX file is a specialized file used in conjunction with Microsoft Visual FoxPro, a database management program. This type of CDX file plays a crucial role in efficiently organizing and managing data within a database. One of its distinctive features is its automatic handling by Visual FoxPro – it opens and maintains itself seamlessly whenever the associated database is accessed. Moreover, a Structural CDX file necessitates exclusive access to the database, meaning only one user can work with it at a time. The file contains an index, serving as a streamlined guide for quick data retrieval, enhancing the overall efficiency of accessing and manipulating information. Essentially, a Structural CDX file ensures that the database's data is well-organized and can be efficiently retrieved when needed, making it an integral component for users of Microsoft Visual FoxPro.
 
-2. **Non-structural CDX file:** This type of file doesn't open automatically when you check the database, and it's not maintained by Visual FoxPro when new information is added. However, it doesn't need exclusive access, so multiple people can use it at the same time.
+2. **Non-structural CDX file:** This type of file does not open automatically when you check the database and it is not maintained by Visual FoxPro when new information is added. However, it does not need exclusive access, so multiple people can use it at the same time.
 
 ## About Fox Pro
 
