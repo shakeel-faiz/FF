@@ -1,28 +1,18 @@
 {
-   "date" : "2023-11-15",
-   "keywords" : [
-      "f3d",
-      "f3d file",
-      "f3d fusion 360 archive file",
-      "how to open a f3d file",
-      "file",
-      "f3d file extension",
-      "extension",
-      "file"
-   ],
-   "author" : {
-      "display_name" : "Shakeel Faiz"
-   },
-   "draft" : "false",
-   "toc" : true,
-   "title" : "F3D File - Fusion 360 Archive - What is an .f3d file and how to open it?",
-   "description" : "Learn about F3D Fusion 360 Archive file format and APIs that can create and open F3D files.",
-   "linktitle" : "F3D",
-   "menu" : {
-      "docs" : {
-         "identifier" : "3d-f3d",
-         "parent" : "3d"
-      }
-   },
-   "lastmod" : "2023-11-15"
+  "date" : "2024-01-17",
+  "author" : {
+    "display_name" : "Shakeel Faiz"
+  },
+  "draft" : "false",
+  "toc" : true,
+  "title" : "CDX File - Compound Index File - What is .cdx file and how to open it?",
+  "description" : "Learn about CDX Compound Index File and how to open it.",
+  "linktitle" : "CDX",
+  "menu" : {
+    "docs" : {
+      "identifier" : "data-cdx",
+      "parent" : "data"
+    }
+  },
+  "lastmod" : "2024-01-17"
 }
