@@ -31,3 +31,6 @@ CUBE file can be opened and referenced using the following programs.
 
 - **NWChem** (Free) for (Windows, MAC, Linux)
 
+## About NWChem
+
+NWChem is an open-source computational chemistry software designed for high-performance quantum chemistry simulations. It employs ab initio methods such as Hartree-Fock and density functional theory, supports parallel computing for efficient calculations on clusters, and finds applications in diverse scientific fields, including computational chemistry, biochemistry, and materials science. NWChem is known for its versatility, allowing researchers to study various chemical systems, and its open-source nature encourages community contributions and customization.
