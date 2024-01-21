@@ -1,10 +1,10 @@
 ## What is a CUBE file?
 
-CUBE file format, also known as Gaussian Cube file (.cube) is used in computational chemistry for storing molecular data, particularly electron density information resulting from quantum chemistry calculations. This format is commonly associated with the Gaussian software package, which is widely used for performing ab initio electronic structure calculations.
+CUBE file format, also known as Gaussian Cube file (.cube) is used in computational chemistry for storing molecular data, particularly electron density information resulting from quantum chemistry calculations. This format is commonly associated with the **Gaussian software package**, which is widely used for performing ab initio electronic structure calculations.
 
 Gaussian Cube files store three-dimensional data, typically representing electron density or other properties of molecules, obtained through quantum chemistry calculations. The file contains a header section with metadata (such as the origin, number of data points along each axis, and spacing), followed by a grid of numerical values representing the property of interest (e.g., electron density) at each grid point in space. 
 
-Gaussian Cube file (.cube) is a plain-text file with a specific structure. The header contains information about the molecular system and the data grid, and the data values are arranged in a three-dimensional grid format. Gaussian Cube files are often used to visualize molecular properties using molecular visualization software. Programs like VMD (Visual Molecular Dynamics) or PyMOL can read Gaussian Cube files to display molecular surfaces, electron density, or other calculated properties.
+Gaussian Cube file (.cube) is a plain-text file with a specific structure. The header contains information about the molecular system and the data grid, and the data values are arranged in a three-dimensional grid format. Gaussian Cube files are often used to visualize molecular properties using molecular visualization software. Programs like **VMD (Visual Molecular Dynamics)** or **PyMOL** can read Gaussian Cube files to display molecular surfaces, electron density, or other calculated properties.
 
 ## Simplified example of a Gaussian Cube file:
 
@@ -43,4 +43,6 @@ CUBE file can be opened and referenced using the following programs.
 
 - **NWChem** (Free) for (Windows, MAC, Linux)
 
+## References
+* [Gaussian Cube File Format](https://paulbourke.net/dataformats/cube/)
 
