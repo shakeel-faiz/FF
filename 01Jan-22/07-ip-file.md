@@ -23,7 +23,7 @@ IP files can be opened or referenced using the following programs
 - **Stardock IconPackager** (Free Trial) for Windows
 
 ## References
-* [iconpackager](https://www.stardock.com/products/iconpackager/)
+* [IconPackager](https://www.stardock.com/products/iconpackager/)
 
   
 
