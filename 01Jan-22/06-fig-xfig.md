@@ -10,9 +10,9 @@ Xfig is focused on creating vector graphics, which are images defined by mathema
 
 Xfig supports exporting drawings to various file formats, including EPS (Encapsulated PostScript), PDF, PNG, and others. This allows users to share their creations in different formats.
 
+## How to open FIG file?
 
+You have the option to view FIG files using WinFIG, a vector graphics editor that works across different platforms. To accomplish this, go to the menu bar in WinFIG, select "File," and then choose "Open..." In the dialog that appears, locate your FIG file, and open it to access and interact with its contents. This process allows you to seamlessly explore and work with FIG files using the WinFIG application.
 
-
-
-
-
+## References
+*[Xfig](https://en.wikipedia.org/wiki/Xfig)
