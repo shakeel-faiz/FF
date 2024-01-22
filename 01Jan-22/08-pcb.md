@@ -9,4 +9,15 @@ Here are a few common types of PCB files:
 2.  **Excellon Drill Files (.drl):** These files specify the locations and sizes of holes to be drilled on the PCB. They work in conjunction with Gerber files to provide a complete manufacturing package.
     
 3.  **PCB Design Files:** Many PCB design software tools save projects or designs with the .pcb extension. Examples include Altium Designer, Eagle, KiCad, and others. These files contain information about the placement of components, routing of traces, and other design details.
-    
+
+## How to open PCB file?
+
+PCB files can be opened using the following programs
+
+- Altium Designer
+- Autodesk EAGLE
+- KiCad
+
+## References
+* [KiCad](https://en.wikipedia.org/wiki/KiCad)
+
