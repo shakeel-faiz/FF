@@ -10,11 +10,16 @@ Xfig is focused on creating vector graphics, which are images defined by mathema
 
 Xfig supports exporting drawings to various file formats, including EPS (Encapsulated PostScript), PDF, PNG, and others. This allows users to share their creations in different formats.
 
+## About WinFIG
+
+WinFIG is a vector graphics editor for Windows that supports the FIG file format. WinFIG is designed to provide a user-friendly environment for creating and editing vector graphics. It is specifically designed for Microsoft Windows operating systems. WinFIG uses and supports the FIG file format for saving and opening drawings. FIG files can store information about various graphical elements such as shapes, text, and more. Users can use WinFIG to draw various shapes, lines, curves, text, and other graphical elements. Additionally, it may offer features for manipulating and arranging these elements within the drawing.
+
 ## How to open FIG file?
 
 FIG files can be opened or referenced using the following programs.
 
 - Xfig (Free) for Linux
+- WinFIG (Paid) for (Windows, Mac, Linux)
 
 ## References
 * [Xfig](https://en.wikipedia.org/wiki/Xfig)
