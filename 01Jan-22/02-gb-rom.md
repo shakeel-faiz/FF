@@ -22,5 +22,9 @@ You can use different Game Boy emulators, like VisualBoyAdvance, BGB, or KiGB, t
 
 GB file format can be opened or referenced using the following programs
 
-- VisualBoyAdvance (Free) for (Windows, Mac, Linux)
-- KiGB (Free)
+- **VisualBoyAdvance** (Free) for (Windows, Mac, Linux)
+- **KiGB** (Free)
+
+## References
+* [VisualBoyAdvance](https://en.wikipedia.org/wiki/VisualBoyAdvance)
+
