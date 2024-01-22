@@ -25,3 +25,20 @@ To make a FIG file using MATLAB, follow these steps:
 
 You can also save it as a FIG file using the `savefig` function. Choose a filename and provide the extension '.fig':
 
+## How to open a FIG file?
+
+To open a FIG file in MATLAB, follow these steps:
+
+1.  **Open MATLAB:** Start MATLAB on your computer.
+    
+2.  **Navigate to the "PLOTS" tab:** Click on a plot in the "PLOTS" tab, selecting the type of plot you want.
+    
+3.  **Open a FIG file:**
+    
+    -   Go to the "File" menu.
+    -   Choose "Open."
+    -   Navigate to the location where your FIG file is saved, select it, and click "Open."
+
+Alternatively, you can use the `openfig` function in MATLAB:
+
+## References
