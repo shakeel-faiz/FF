@@ -32,4 +32,4 @@ To open a VCS (vCalendar) file, you typically need a compatible calendar applica
     -   If you use an online calendar service like Google Calendar, you can often import VCS files directly through the web interface. Look for an "Import" or "Add" option.
 
 ## References
-[ssss]
+* [How to use vCalendar in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/calendaring/how-to-use-vcalendar-in-outlook)
