@@ -18,7 +18,7 @@ Here are the key features of the GenBank file format:
     
 6.  **Origin Line:** The sequence data is often terminated by an "ORIGIN" line, which indicates the beginning of the sequence and is followed by the actual nucleotide or amino acid sequence.
 
-## About DNA Baser - Software to open GB file
+## About DNA Baser Software - To open GB file
 
 DNA Baser by Heracle BioSoft is a software tool designed for DNA sequence analysis. It specializes in assembling DNA sequencing data, performing base calling, and allowing users to edit and annotate sequences. The software offers quality control features and provides a user-friendly interface for researchers and molecular biologists. It facilitates the export of results in various formats for integration with other bioinformatics tools and databases, making it a valuable tool in molecular biology and bioinformatics research.
 
