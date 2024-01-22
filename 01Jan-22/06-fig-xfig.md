@@ -18,8 +18,8 @@ WinFIG is a vector graphics editor for Windows that supports the FIG file format
 
 FIG files can be opened or referenced using the following programs.
 
-- Xfig (Free) for Linux
-- WinFIG (Paid) for (Windows, Mac, Linux)
+- **Xfig** (Free) for Linux
+- ****WinFIG** (Paid) for (Windows, Mac, Linux)
 
 ## References
 * [Xfig](https://en.wikipedia.org/wiki/Xfig)
