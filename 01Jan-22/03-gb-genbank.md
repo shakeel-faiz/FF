@@ -6,15 +6,15 @@ GB file format also known as GenBank file format is a standard plain-text format
 
 Here are key features of GenBank file format:
 
-1.  **Header Information:** The file begins with a header section that provides information about sequence and its source. This includes details such as accession number, organism, and references to literature where sequence data was published.
+1.  **Header Information:** The file begins with a header section that provides information about sequence and its source; this includes details such as accession number, organism, and references to literature where sequence data was published.
     
-2.  **Features Section:** Following the header, there is a features section that describes various features of sequence, such as genes, coding regions, regulatory elements and other important locations. Each feature is annotated with specific information, such as its location on sequence, type of feature and additional qualifiers.
+2.  **Features Section:** Following the header, there is a features section that describes various features of sequence, such as genes, coding regions, regulatory elements and other important locations; each feature is annotated with specific information, such as its location on sequence, type of feature and additional qualifiers.
     
-3.  **Sequence Data:** The actual sequence data follows features section. This section contains raw genetic information in form of nucleotide or amino acid sequences. The sequence data is typically presented in standardized format with line breaks for readability.
+3.  **Sequence Data:** The actual sequence data follows features section; this section contains raw genetic information in form of nucleotide or amino acid sequences. The sequence data is typically presented in standardized format with line breaks for readability.
     
-4.  **Format Tags:** GenBank files use specific tags and keywords to structure the information. These tags help define different sections of file and provide a standardized way for software programs to interpret and parse the data.
+4.  **Format Tags:** GenBank files use specific tags and keywords to structure the information; these tags help define different sections of file and provide a standardized way for software programs to interpret and parse the data.
     
-5.  **Annotation:** GenBank files include extensive annotations that provide information about biological significance of different regions in the sequence. This can include details about coding regions, protein products and functional annotations.
+5.  **Annotation:** GenBank files include extensive annotations that provide information about biological significance of different regions in the sequence; this can include details about coding regions, protein products and functional annotations.
     
 6.  **Origin Line:** The sequence data is often terminated by an "ORIGIN" line, which indicates beginning of sequence and is followed by actual nucleotide or amino acid sequence.
 
