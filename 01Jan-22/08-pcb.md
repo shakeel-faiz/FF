@@ -14,9 +14,9 @@ Here are a few common types of PCB files:
 
 PCB files can be opened using the following programs
 
-- Altium Designer
-- Autodesk EAGLE
-- KiCad
+- **Altium Designer**
+- **Autodesk EAGLE**
+- **KiCad**
 
 ## References
 * [KiCad](https://en.wikipedia.org/wiki/KiCad)
