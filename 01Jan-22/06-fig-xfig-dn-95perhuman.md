@@ -1,6 +1,6 @@
 ## What is a FIG file?
 
-A FIG file is a type of file associated with line drawings, and it can be generated using either Xfig or WinFIG applications. It belongs to category of vector image files, containing information about shapes, arcs, splines, arrows and text objects. In addition to these elements, users have flexibility to incorporate images, colors and patterns into their FIG drawings.
+A FIG file format is a type of file associated with line drawings, and it can be generated using either Xfig or WinFIG applications. It belongs to category of vector image files, containing information about shapes, arcs, splines, arrows and text objects. In addition to these elements, users have flexibility to incorporate images, colors and patterns into their FIG drawings.
 
 ## About Xfig
 
