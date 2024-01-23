@@ -1,6 +1,6 @@
 ## What is an IP file?
 
-An IP file format is a special type of file created by a program called IconPackager. This file is like a bundle or package of icons that you can use to change the look of your computer desktop. When you apply an IP file, it replaces many of default icons on your Windows computer with custom ones from the package. These packages can include just a few icons or even more than a hundred, giving your computer a personalized and unique appearance.
+An IP file format is a special type of file created by a program called **IconPackager**. This file is like a bundle or package of icons that you can use to change the look of your computer desktop. When you apply an IP file, it replaces many of default icons on your Windows computer with custom ones from the package. These packages can include just a few icons or even more than a hundred, giving your computer a personalized and unique appearance.
 
 ## About IconPackager
 
