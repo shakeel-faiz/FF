@@ -15,4 +15,4 @@ To open DLC file, you can use JDownloader which is a popular choice for handling
 
 ## DLC Donwloader
 
-JDownloader is a free, open-source DLC downloader that makes downloading as easy and fast as it should be. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more.
+JDownloader is a free, open-source DLC downloader that makes downloading easy and fast. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more.
