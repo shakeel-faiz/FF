@@ -16,5 +16,5 @@ To open and work with INSV files, Insta360 provides specific software tools. For
 
 ## Convert INSV file to MP4
 
-If users want to make their INSV files more widely compatible, they can export them to the .MP4 video format using Insta360 Studio. In cases where Insta360 Studio is not available, users can simply rename the file extension from .insv to .mp4 and open it as an MP4 file.
+If users want to make their INSV files more widely compatible, they can export them to the .MP4 video format using Insta360 Studio. In cases where Insta360 Studio is not available, users can simply rename the file extension from .insv to .mp4 and open it as an MP4 file using MP4 player like VLC.
 
