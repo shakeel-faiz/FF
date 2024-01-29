@@ -6,5 +6,14 @@ The encryption involves the use of keys. The DLC file contains information about
 
 JDownloader is a Java-based download management program that can process DLC files. It assists users in managing and downloading files from the internet efficiently. Users can load DLC files into JDownloader to initiate and manage the download process for the associated content.
 
+## How to open DLC file?
+
+To open DLC file, you can use JDownloader which is a popular choice for handling DLC files. Here are the list of programs that open DLC files.
+
+- JDownloader (Free) for (Windows, Mac, Linux)
+- pyLoad (Free) for (Windows, Mac, Linux, Android, iOS)
+
+
+
 
 
