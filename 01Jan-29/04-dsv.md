@@ -20,7 +20,33 @@ Converting a SAV file to a DSV file involves changing the file extension, as the
 
 Find the SAV file that you want to convert. It may be in the folder where the emulator (e.g., DeSmuME) saves its game files. Change the file extension from ".sav" to ".dsv."
 
+## DeSmuME Save Files Location
 
+The location of DeSmuME save files depends on your operating system. Here are the default save file locations for DeSmuME on different operating systems:
+
+**Windows:**
+
+On Windows, DeSmuME typically stores its save files in the following directory:
+
+```
+C:\Users\YourUsername\Documents\DeSmuME
+```
+
+**macOS**
+
+On macOS, you can find DeSmuME save files in the following directory:
+
+```
+/Users/YourUsername/Library/Application Support/DeSmuME
+```
+
+**Linux:**
+
+On Linux, the save files for DeSmuME are usually located in a directory similar to the following:
+
+```
+/home/YourUsername/.config/desmume
+```
 
 
 
