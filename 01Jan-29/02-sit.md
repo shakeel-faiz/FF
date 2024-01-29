@@ -12,6 +12,7 @@ Here are the list of SIT File Oppener.
 - **ExtractNow** (Free) for Windows
 - **The Unarchiver** (Free) for (Mac)
 
+## How to open SIT files on MAC?
 
-
+macOS includes built-in support for extracting .sit files, and you don't necessarily need additional software. Find the .sit file that you want to extract on your Mac. In most cases, you can simply double-click on the .sit file. macOS should recognize the StuffIt format and automatically use the built-in Archive Utility to extract the contents. The extracted files and folders will be placed in the same directory as the original .sit file.
 
