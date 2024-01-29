@@ -49,3 +49,10 @@ On Linux, the save files for DeSmuME are usually located in a directory similar 
 ```
 
 Please replace "YourUsername" with your actual username.
+
+## How to open DSV file?
+
+Here is the list of programs that open DSV file
+
+- **DeSmuME** (Free) for (Windows, Mac, Linux)
+
