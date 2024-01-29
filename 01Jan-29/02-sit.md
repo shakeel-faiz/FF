@@ -8,8 +8,10 @@ SIT file archives can contain one or more files and folders that have been compr
 
 Here are the list of SIT File Oppener.
 
-- Smith Micro StuffIt Expander (Free) for (Windows, Mac, iOS)
-- ExtractNow (Free) for Windows
-- The Unarchiver (Free) 
+- **Smith Micro StuffIt Expander** (Free) for (Windows, Mac, iOS)
+- **ExtractNow** (Free) for Windows
+- **The Unarchiver** (Free) for (Mac)
+
+
 
 
