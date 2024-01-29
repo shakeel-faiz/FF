@@ -1,1 +1,20 @@
 ## What is an INSV file?
+
+An INSV file is a type of file format used to store panoramic video captured by Insta360 cameras. Insta360 cameras are designed to capture immersive, panoramic video and images, allowing users to create content that provides a complete view of their surroundings. These cameras are popular among videographers, photographers, and enthusiasts who want to explore innovative ways of storytelling and capturing moments.
+
+## What does INSV file contain?
+
+The INSV file contains video data captured by an Insta360 camera.
+
+## How to open INSV file?
+
+To open and work with INSV files, Insta360 provides specific software tools. For example:
+
+-   **Insta360 Studio:** A software available for both Windows and macOS that allows users to play and edit videos captured by various Insta360 camera models such as ONE, Nano, Nano S, and Air.
+-   **Insta360 Studio 2019:** Specifically for videos captured with the ONE X or EVO models, available for both Windows and macOS.
+-   **Insta360 Player:** An application designed for Android and iOS devices that enables playback of INSV videos.
+
+## Convert INSV file to MP4
+
+If users want to make their INSV files more widely compatible, they can export them to the .MP4 video format using Insta360 Studio. In cases where Insta360 Studio is not available, users can simply rename the file extension from .insv to .mp4 and open it as an MP4 file.
+
