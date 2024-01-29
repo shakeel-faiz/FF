@@ -48,14 +48,4 @@ On Linux, the save files for DeSmuME are usually located in a directory similar 
 /home/YourUsername/.config/desmume
 ```
 
-
-
-
-
-
-
-
-
-
-
-
+Please replace "YourUsername" with your actual username.
