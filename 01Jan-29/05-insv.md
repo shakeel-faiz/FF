@@ -18,3 +18,6 @@ To open and work with INSV files, Insta360 provides specific software tools. For
 
 If users want to make their INSV files more widely compatible, they can export them to the .MP4 video format using Insta360 Studio. In cases where Insta360 Studio is not available, users can simply rename the file extension from .insv to .mp4 and open it as an MP4 file using MP4 player like VLC.
 
+## About Insta360 camera
+
+The Insta360 camera is a product offered by Insta360, a company specializing in the development of 360-degree cameras and related accessories. These cameras are designed to capture panoramic videos and images, providing users with a comprehensive view of their surroundings. The Insta360 camera is popular among content creators, photographers, and enthusiasts seeking innovative ways to capture immersive and interactive visual experiences. Insta360 cameras excel in capturing content across a full 360-degree field of view. This feature allows users to create immersive and engaging content that covers their entire environment. Insta360 offers a variety of camera models, each catering to different needs and preferences.
