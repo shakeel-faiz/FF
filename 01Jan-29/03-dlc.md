@@ -1,10 +1,10 @@
 ## What is a DLC file?
 
-A DLC file is a type of container format that is encrypted. It is designed to store downloadable content, typically associated with files that users want to download from the internet. DLC files employ a client-server encryption model. In this context, the "client" refers to the user's computer or the local software (like a download manager) that is processing the DLC file. The "server" refers to a web service that is involved in the encryption and decryption process. The links contained within the DLC file are processed locally on the user's computer. This means that the download manager (or other software) running on the user's machine is responsible for handling the download links contained in the DLC file.
+A DLC file is a type of container format that is encrypted. It is designed to store downloadable content, typically associated with files that users want to download from the internet. DLC files employ a client-server encryption model. In this context, the "client" refers to user's computer or the local software (like a download manager) that is processing the DLC file. The "server" refers to a web service that is involved in encryption and decryption process. The links contained within DLC file are processed locally on user's computer. This means that download manager (or other software) running on user's machine is responsible for handling the download links contained in DLC file.
 
-The encryption involves the use of keys. The DLC file contains information about the downloadable content and is encrypted. The keys used for encryption are distributed and recrypted by a web service. This implies that the process of encrypting and decrypting the DLC file involves communication with a web service, likely for security and authentication purposes.
+The encryption involves the use of keys. The DLC file contains information about downloadable content and is encrypted. The keys used for encryption are distributed and recrypted by a web service. This implies that the process of encrypting and decrypting DLC file involves communication with a web service, likely for security and authentication purposes.
 
-JDownloader is a Java-based download management program that can process DLC files. It assists users in managing and downloading files from the internet efficiently. Users can load DLC files into JDownloader to initiate and manage the download process for the associated content.
+JDownloader is a Java-based download management program that can process DLC files. It assists users in managing and downloading files from internet efficiently. Users can load DLC files into JDownloader to initiate and manage the download process for the associated content.
 
 ## How to open DLC file?
 
