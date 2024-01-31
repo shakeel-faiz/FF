@@ -6,19 +6,19 @@ DeSmuME players usually save their game progress in .DST files. These save state
 
 ## DSV Files vs DST Files:
 
-While .DST files are the primary choice for saving game progress, DeSmuME players can also use DSV files. DSV files specifically store a player's progress only up to their last in-game save. The motivation behind saving progress as DSV files is to facilitate the transfer of progress to another Nintendo DS emulator. The DSV format is nearly identical to the SAV format, which is used by many other emulators.
+While .DST files are primary choice for saving game progress, DeSmuME players can also use DSV files. DSV files specifically store player's progress only up to their last in-game save. The motivation behind saving progress as DSV files is to facilitate the transfer of progress to another Nintendo DS emulator. The DSV format is nearly identical to SAV format, which is used by many other emulators.
 
 ## Converting DSV to SAV
 
-Converting a DSV file to a SAV file involves changing the file extension, as the content and structure of the two file types are generally similar. Both DSV and SAV files are used to store saved game progress in emulators.
+Converting DSV file to SAV file involves changing the file extension, as content and structure of two file types are generally similar. Both DSV and SAV files are used to store saved game progress in emulators.
 
-Find the DSV file that you want to convert. It may be in the folder where DeSmuME saves its game files. Change the file extension from ".dsv" to ".sav". 
+Find DSV file that you want to convert. It may be in folder where DeSmuME saves its game files. Change the file extension from ".dsv" to ".sav". 
 
 ## Converting SAV to DSV
 
-Converting a SAV file to a DSV file involves changing the file extension, as the content and structure of the two file types are generally similar. Both DSV and SAV files are used to store saved game progress in emulators.
+Converting SAV file to DSV file involves changing the file extension, as content and structure of two file types are generally similar. Both DSV and SAV files are used to store saved game progress in emulators.
 
-Find the SAV file that you want to convert. It may be in the folder where the emulator (e.g., DeSmuME) saves its game files. Change the file extension from ".sav" to ".dsv."
+Find SAV file that you want to convert. It may be in folder where the emulator (e.g., DeSmuME) saves its game files. Change the file extension from ".sav" to ".dsv."
 
 ## DeSmuME Save Files Location
 
@@ -26,7 +26,7 @@ The location of DeSmuME save files depends on your operating system. Here are th
 
 **Windows:**
 
-On Windows, DeSmuME typically stores its save files in the following directory:
+On Windows, DeSmuME typically stores its save files in following directory:
 
 ```
 C:\Users\YourUsername\Documents\DeSmuME
@@ -34,7 +34,7 @@ C:\Users\YourUsername\Documents\DeSmuME
 
 **macOS**
 
-On macOS, you can find DeSmuME save files in the following directory:
+On macOS, you can find DeSmuME save files in following directory:
 
 ```
 /Users/YourUsername/Library/Application Support/DeSmuME
@@ -56,3 +56,5 @@ Here is the list of programs that open DSV file
 
 - **DeSmuME** (Free) for (Windows, Mac, Linux)
 
+## References
+* [DeSmuME](http://desmume.org/)
