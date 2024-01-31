@@ -15,3 +15,6 @@ FL Studio is used for various genres of music, including electronic, hip-hop, an
 Here is a list of FST file openers.
 
 - **Image-Line FL Studio** (Free Trial) for (Windows)
+
+## References
+* [FL Studio](https://en.wikipedia.org/wiki/FL_Studio)
