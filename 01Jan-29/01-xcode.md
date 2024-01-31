@@ -16,7 +16,7 @@ Key features of Xcode include:
     
 1.  **Debugger**: Integrated debugging tools to help identify and fix issues in code during development.
     
-1.  **Performance Analysis**: Tools for profiling and optimizing the performance of applications.
+1.  **Performance Analysis**: Tools for profiling and optimizing performance of applications.
 
 ## How to open an XCODE file?
 
