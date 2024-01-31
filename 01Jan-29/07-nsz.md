@@ -33,3 +33,6 @@ You can use **nsz** (tool) to decompress an NSZ archive into an NSP file.
 Programs that open NSZ files include **nsz** program that can decompress NSZ archive into NSP file. Here are the list of NSZ file openers.
 
 - **nsz** (Free) for (Windows, Mac, Linux)
+
+## References
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))
