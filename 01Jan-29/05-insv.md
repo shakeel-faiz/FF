@@ -21,3 +21,6 @@ If users want to make their INSV files more widely compatible, they can export t
 ## About Insta360 camera
 
 The Insta360 camera is a product offered by Insta360, a company specializing in the development of 360-degree cameras and related accessories. These cameras are designed to capture panoramic videos and images, providing users with a comprehensive view of their surroundings. The Insta360 camera is popular among content creators, photographers, and enthusiasts seeking innovative ways to capture immersive and interactive visual experiences. Insta360 cameras excel in capturing content across a full 360-degree field of view. This feature allows users to create immersive and engaging content that covers their entire environment. Insta360 offers a variety of camera models, each catering to different needs and preferences.
+
+## References
+* [Insta360](https://en.wikipedia.org/wiki/Insta360)
