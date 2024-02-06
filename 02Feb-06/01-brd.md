@@ -26,3 +26,19 @@ There are several software tools available for viewing ".brd" files, allowing us
     
 6.  **Online Viewer Tools**: There are also online tools available that allow you to upload and view ".brd" files directly in your web browser. One such example is the "Online Gerber Viewer" by EasyEDA, which supports viewing various PCB file formats including Gerber and ".brd".
 
+## How to open a BRD file?
+
+BRD files which are used in PCB design, can be opened in various PCB design applications. 
+
+-   **Autodesk EAGLE**: This is a cross-platform PCB design software developed by Autodesk. It supports the creation of schematic diagrams, PCB layouts, and routing of electrical connections. Users can open ".brd" files directly within Autodesk EAGLE for viewing and further editing.
+    
+-   **Altium Designer**: Altium Designer is a comprehensive PCB design software primarily for Windows operating systems. It offers a wide range of features for schematic capture, PCB layout, and design analysis. Altium Designer also supports opening ".brd" files, allowing users to import and work with designs created in other software.
+    
+-   **Open Board Viewer**: Open Board Viewer is a PCB viewing software specifically designed for Linux operating systems. It is an open-source tool that allows users to visualize PCB layouts, inspect components, and review routing details. Open Board Viewer supports opening ".brd" files, enabling users on Linux platforms to view and analyze designs created in other software.
+
+Here are the list of programs that you can use to open BRD files.
+
+- Autodesk EAGLE (Free Trial) for (Windows, Mac, Linux)
+- Altium Designer (Free Trial) for (Windows, Mac, Linux)
+- Open Board Viewer (Free) for Linux
+
