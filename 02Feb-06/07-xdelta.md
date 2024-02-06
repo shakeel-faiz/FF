@@ -81,5 +81,7 @@ To use `xdelta`, you typically need to follow these general steps:
     
 ## How to open an XDELTA file
 
-XDELTA files are not intended for direct opening. If you wish to apply an XDELTA patch to a game or another file, you have the option of using either xdelta, which is compatible across multiple platforms, or xdelta UI, specifically tailored for Windows users.
+XDELTA files are not intended for direct opening. If you wish to apply an XDELTA patch to a game or another file, you have the option of using either xdelta, which is compatible across multiple platforms, or xdelta UI, specifically designed for Windows users.
 
+## References
+* [xdelta](https://en.wikipedia.org/wiki/Xdelta)
