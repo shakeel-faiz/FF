@@ -38,7 +38,9 @@ BRD files which are used in PCB design, can be opened in various PCB design appl
 
 Here are the list of programs that you can use to open BRD files.
 
-- Autodesk EAGLE (Free Trial) for (Windows, Mac, Linux)
-- Altium Designer (Free Trial) for (Windows, Mac, Linux)
-- Open Board Viewer (Free) for Linux
+- **Autodesk EAGLE** (Free Trial) for (Windows, Mac, Linux)
+- **Altium Designer** (Free Trial) for (Windows, Mac, Linux)
+- **Open Board Viewer** (Free) for Linux
 
+## References
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))
