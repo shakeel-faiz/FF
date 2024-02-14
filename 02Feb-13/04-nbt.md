@@ -15,3 +15,6 @@ Several software tools are available for opening and editing NBT files. Here are
 - **NBTExplorer** (Free) for (Windows, Mac, Linux)
 - **NBTEdit** (Free) for Windows
 - **MCEdit** (Free) for (Windows, Linux)
+
+## References
+* [NBT format](https://minecraft.wiki/w/NBT_format)
