@@ -33,3 +33,6 @@ To open and view the contents of an `.esp` file, you typically need modding tool
     -   Skyrim also has its own official modding tool called Creation Kit.
 
 These tools allow you to view and modify the contents of `.esp` files, including adding new objects, editing existing content, adjusting settings, and more.
+
+## References
+* [Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
