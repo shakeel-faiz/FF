@@ -29,3 +29,6 @@ To open a `.uasset` file, you typically need to use the Unreal Engine Editor. Si
 5.  Double-click to open it.
 6.  Work with the asset in the editor window.
 7.  Save changes if necessary.
+
+## References
+* [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine)
