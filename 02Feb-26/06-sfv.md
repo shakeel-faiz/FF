@@ -18,7 +18,12 @@ file3.exe 98765432
 
 In this example, each line contains the name of a file followed by its checksum. The SFV file may also include additional information or metadata, but the basic structure remains the same.
 
-How to open an SFV file
+## How to open an SFV file
 
+To open and use an SFV file, you typically need a specialized SFV checker or verification tool. Here are the general steps to open and use an SFV file:
 
-
+1. Download an SFV checker program like QuickSFV or RapidCRC.
+1. Install the program and open it.
+1. Use the program to open the SFV file.
+1. The program will automatically verify the checksums and indicate any discrepancies.
+1. Review the results and take appropriate action, such as redownloading corrupted files.
