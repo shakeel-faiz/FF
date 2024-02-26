@@ -23,3 +23,8 @@ Since .pkf files are associated with Adobe Audition, the primary way to open the
 1. Navigate to the location of the .pkf file.
 1. Select the .pkf file and click "Open."
 1. The .pkf file will open in Adobe Audition, allowing you to view and edit the associated audio waveform.
+
+PKF files can be opened using the following programs
+
+- **Adobe Audition 2023** 
+- **Adobe Premiere Pro 2023**
