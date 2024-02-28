@@ -13,3 +13,6 @@ Manual pages are maintained and updated along with corresponding command's devel
 ## How to open a 1 file
 
 You can open a 1 file directly with the `man` utility, which is the standard way to view manual pages in Unix systems. Since ".1" files are plain text files containing manual pages for Unix commands, you can view and edit them with any text editor of your choice. You can use command-line text editors like Vim or Nano or graphical text editors like Gedit or Sublime Text.
+
+## References
+* [man page](https://en.wikipedia.org/wiki/Man_page)
