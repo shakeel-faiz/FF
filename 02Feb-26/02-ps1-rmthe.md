@@ -28,3 +28,6 @@ To open and execute a **.ps1 file** (PowerShell script file), you can follow the
 1. In PowerShell window, type `.\filename.ps1` (replace filename with actual name of your PS1 file) and press Enter to execute the script.
 
 You can also use a text editor such as Notepad, Notepad++, Visual Studio Code, or any other text editor of your choice to view the contents of .ps1 file. Simply right-click on the file, select "Open with", and choose your preferred text editor.
+
+## References
+* [PowerShell](https://en.wikipedia.org/wiki/PowerShell)
