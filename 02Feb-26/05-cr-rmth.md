@@ -23,11 +23,11 @@ Crystal is a statically-typed, compiled programming language with Ruby-like synt
 
 To open a CR file, you can use any text editor or integrated development environment (IDE) that supports Crystal syntax highlighting and editing. Here are some common options:
 
-1.  **Visual Studio Code**: Install the Crystal Language extension for syntax highlighting and other language features.
+1.  **Visual Studio Code**: Install Crystal Language extension for syntax highlighting and other language features.
     
-2.  **Atom**: Install the language-crystal package for Crystal language support.
+2.  **Atom**: Install language-crystal package for Crystal language support.
     
-3.  **Sublime Text**: Use the Crystal Language package for syntax highlighting and other Crystal-specific features.
+3.  **Sublime Text**: Use Crystal Language package for syntax highlighting and other Crystal-specific features.
     
 4.  **Vim**: Install a plugin like vim-crystal for Crystal syntax highlighting and editing support.
     
