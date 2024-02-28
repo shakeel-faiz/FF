@@ -27,3 +27,6 @@ To open and use an SFV file, you typically need a specialized SFV checker or ver
 1. Use the program to open the SFV file.
 1. The program will automatically verify the checksums and indicate any discrepancies.
 1. Review the results and take appropriate action, such as redownloading corrupted files.
+
+## References
+* [Simple file verification](https://en.wikipedia.org/wiki/Simple_file_verification)
