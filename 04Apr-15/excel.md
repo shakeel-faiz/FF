@@ -122,3 +122,4 @@ File formats that are supported in Excel include the following. The list is not 
 |CSV (comma delimited)|.csv|Saves a workbook as a comma-delimited text file for use on another Windows operating system, and ensures that tab characters, line breaks, and other characters are interpreted correctly. Saves only the active sheet.|
 |OpenDocument Spreadsheet|.ods|OpenDocument Spreadsheet. You can save Excel 2010 files so they can be opened in spreadsheet applications that use the OpenDocument Spreadsheet format, such as Google Docs and OpenOffice.org Calc.|
 |PDF|.pdf|Portable Document Format (PDF). This file format preserves document formatting and enables file sharing. When the PDF format file is viewed online or printed, it retains the format that you intended. Data in the file cannot be easily changed.|
+|Web Page|.htm, .html|Hypertext Markup Language (HTML).|
