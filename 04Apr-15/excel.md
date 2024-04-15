@@ -123,3 +123,7 @@ File formats that are supported in Excel include the following. The list is not 
 |OpenDocument Spreadsheet|.ods|OpenDocument Spreadsheet. You can save Excel 2010 files so they can be opened in spreadsheet applications that use the OpenDocument Spreadsheet format, such as Google Docs and OpenOffice.org Calc.|
 |PDF|.pdf|Portable Document Format (PDF). This file format preserves document formatting and enables file sharing. When the PDF format file is viewed online or printed, it retains the format that you intended. Data in the file cannot be easily changed.|
 |Web Page|.htm, .html|Hypertext Markup Language (HTML).|
+
+## Conclusion 
+
+In this article, we cover the broad and significant features and topics related to Excel. We briefly explain what Excel is and its functionality, components, terminologies, data types, and usage in different fields. We highlight a set of advanced tools and functions. Lastly, we provide information about the important file formats in which Excel can save your data. We hope this information is useful to you.
