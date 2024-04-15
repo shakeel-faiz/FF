@@ -45,7 +45,6 @@ Here is a list of the data types you can find in Microsoft Excel
   - False
  
   The above data is manipulated with logical functions that include
-
   - IF
   - AND
   - OR
