@@ -26,29 +26,26 @@ Excel is used to store, analyze and report on large amounts of data. The main us
 Here is a list of the data types you can find in Microsoft Excel
 
 - Number data
-
-  Examples of Number data include
-
-  - Whole Numbers
-  - Decimals
-  - Dates
-  - Times
-  - Phone Numbers
-  - Integers
-  - Percentages
+  - Examples of Number data include:
+    - Whole Numbers
+    - Decimals
+    - Dates
+    - Times
+    - Phone Numbers
+    - Integers
+    - Percentages
 
 - Text data
-- Logical data
 
-  Here are the values of Logical Data
-  - True
-  - False
- 
-  The above data is manipulated with logical functions that include
-  - IF
-  - AND
-  - OR
-  - NOT
+- Logical data
+  - Here are the values of Logical Data:
+    - True
+    - False
+  - The above data is manipulated with logical functions that include:
+    - IF
+    - AND
+    - OR
+    - NOT
 
 ## Excel Components and Terminologies
 
