@@ -97,3 +97,18 @@ Advanced functions provide users with advanced capabilities to analyze, manipula
 - **CHOOSE**: Return a value from a list of values based on a specified index number.
 - **DATE and TIME functions**: Perform various operations on dates and times, such as adding/subtracting days, months, or years, extracting components (e.g., year, month, day), and calculating the difference between two dates or times.
 - **TEXT functions**: Manipulate and format text strings, including functions like LEFT, RIGHT, MID, CONCAT, TEXT, and SUBSTITUTE.
+
+## What are Excel Alternatives?
+
+Here are the list of Excel competitors and alternatives 
+
+- **Google Sheets**: Google Sheets is an online cloud-based spreadsheet app similar to Microsoft Excel that lets you create and edit spreadsheets directly in your web browser and work with other people.
+
+- **Numbers**: Numbers is a spreadsheet application developed by Apple Inc. Numbers makes it easy to create organized, professional-looking spreadsheets. However, it's not available on Windows or Android.
+
+- **Apache Open Office Calc**: Apache OpenOffice Calc is a spreadsheet application included in the Apache OpenOffice suite. Calc provides users with tools for creating, editing, and analyzing spreadsheets, similar to Microsoft Excel or Google Sheets. 
+
+## File Formats supported by Excel
+
+File formats that are supported in Excel include the following
+
