@@ -29,11 +29,26 @@ Here is a list of the data types you can find in Microsoft Excel
 
   Examples of Number data include
 
-- Whole Numbers
-- Decimals
-- Dates
-- Times
-- Phone Numbers
-- Integers
-- Percentages
+  - Whole Numbers
+  - Decimals
+  - Dates
+  - Times
+  - Phone Numbers
+  - Integers
+  - Percentages
 
+- Text data
+- Logical data
+
+  Here are the values of Logical Data
+  - True
+  - False
+ 
+  The above data is manipulated with logical functions that include
+
+  - IF
+  - AND
+  - OR
+  - NOT
+
+  
