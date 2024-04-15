@@ -126,4 +126,4 @@ File formats that are supported in Excel include the following. The list is not 
 
 ## Conclusion 
 
-In this article, we cover the broad and significant features and topics related to Excel. We briefly explain what Excel is and its functionality, components, terminologies, data types, and usage in different fields. We highlight a set of advanced tools and functions. Lastly, we provide information about the important file formats in which Excel can save your data. We hope this information is useful to you.
+In this article, we covered the broad and significant features and topics related to Excel. We briefly explained what Excel is and its functionality, components, terminologies, data types, and usage in different fields. We highlighted a set of advanced tools and functions. Lastly, we provided information about the important file formats in which Excel can save your data. We hope this information is useful to you.
