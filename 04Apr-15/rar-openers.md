@@ -8,7 +8,7 @@ Here are the **7 best tools to open or extract RAR files**.
 1. 7-Zip
 1. PeaZip
 1. WinZip
-1. Unarchiver
+1. The Unarchiver
 1. Bandizip
 1. Zipware
 
@@ -22,21 +22,21 @@ First, we'll provide you with their short descriptions and download links so tha
 |2|7-Zip|Free, open-source|Windows|Free|[Download][2]|
 |3|PeaZip|Free, open-source, supports encryption|Windows/Linux|Free|[Download][3]|
 |4|WinZip|Popular, integrates with cloud services|Windows/Mac|Paid|[Download][4]|
-|5|Unarchiver|Mac application, handles various formats|Mac|Free|[Download][5]|
-|6|Bandizip|High-speed compression, encryption|Windows|Free/Paid|[Download][6]|
+|5|The Unarchiver|Mac application, handles various formats|Mac|Free|[Download][5]|
+|6|Bandizip|High-speed compression, encryption|Windows/Mac|Free/Paid|[Download][6]|
 |7|Zipware|Lightweight, supports multiple formats|Windows|Free|[Download][7]|
 
 ## 1. WinRAR
 
 This is one of the most popular and widely used tools for opening RAR files. It offers a wide range of features and supports various file formats. Additionally, it supports 128-bit and 256-bit AES encryption and has a user-friendly UI. WinRAR also supports multi-volume archives.
 
-**Download:** [WinRAR][1] (Free trial)
+**Download:** [WinRAR][1] (Free trial) for Windows
 
 ## 2. 7-Zip
 
    7-Zip is another popular unarchiving tool used to open or extract RAR files. It is free and open-source, seamlessly integrating with Windows Explorer through the context menu. Additionally, it is available in multiple languages and supports 256-bit AES encryption.
 
-   **Download:** [7-Zip][2] (Free)
+   **Download:** [7-Zip][2] (Free) for Windows
 
 ## 3. PeaZip
 
@@ -50,11 +50,17 @@ WinZip is another excellent tool for opening and extracting RAR files. It suppor
 
 **Download:** [WinZIP][4] (Free trial) for Windows and Mac
 
-## 5. Unarchiver
+## 5. The Unarchiver
 
 The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files including RAR files. It is available for MAC operating system.
 
-**Download:** [Unarchiver][5] (Free trial) for Mac
+**Download:** [Unarchiver][5] (Free) for Mac
+
+## 6. Bandizip
+
+Bandizip is another tool to open and extract RAR files and available for both Windows and Mac users. It is free for personal use and paid for commercial use. It integrates with Windows Explorer and supports AES encryption.
+
+**Download:** [Bandizip][6] (Free, Pay for commercial use) for Windows and Mac
 
 
 [1]: https://www.win-rar.com/
