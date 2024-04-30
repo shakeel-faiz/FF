@@ -34,9 +34,9 @@ This is one of the most popular and widely used tools for opening RAR files. It 
 
 ## 2. 7-Zip
 
-   7-Zip is another popular unarchiving tool used to open or extract RAR files. It is free and open-source, seamlessly integrating with Windows Explorer through the context menu. Additionally, it is available in multiple languages and supports 256-bit AES encryption.
+7-Zip is another popular unarchiving tool used to open or extract RAR files. It is free and open-source, seamlessly integrating with Windows Explorer through the context menu. Additionally, it is available in multiple languages and supports 256-bit AES encryption.
 
-   **Download:** [7-Zip][2] (Free) for Windows
+**Download:** [7-Zip][2] (Free) for Windows
 
 ## 3. PeaZip
 
@@ -62,6 +62,11 @@ Bandizip is another tool to open and extract RAR files and available for both Wi
 
 **Download:** [Bandizip][6] (Free, Pay for commercial use) for Windows and Mac
 
+## 7. Zipware
+
+Zipware is simple and free zip software for Microsoft Windows that supports opening and extracting RAR files. It is free for personal and commercial use.
+
+**Download:** [Zipware][7] (Free) for Windows
 
 [1]: https://www.win-rar.com/
 [2]: https://7-zip.org/
