@@ -74,6 +74,8 @@ In conclusion, whether you're a Windows, Mac, or Linux user, there are several e
 
 For Windows users, WinRAR, 7-Zip, PeaZip, WinZip, Bandizip, and Zipware offer user-friendly interfaces and robust features, with options for both free and paid versions depending on your requirements. Mac users can rely on The Unarchiver for easy and efficient RAR file extraction.
 
+No matter which tool you choose, rest assured that these options are reliable, efficient and widely trusted in the community. 
+
 
 [1]: https://www.win-rar.com/
 [2]: https://7-zip.org/
