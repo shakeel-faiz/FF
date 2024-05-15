@@ -168,4 +168,6 @@ Choose the MP4 format when you prioritize broad compatibility, efficient compres
 
 ## Further Reading
 
-- [What is MP4 File Format and Everything You Need to Know](https://blog.fileformat.com/video/what-is-mp4-file-format-and-everything-you-need-to-know/)
+- [What is MP4 File Format and Everything You Need to Know][1]
+
+[1]: https://blog.fileformat.com/video/what-is-mp4-file-format-and-everything-you-need-to-know/
