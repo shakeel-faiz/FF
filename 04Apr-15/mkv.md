@@ -155,3 +155,15 @@ Both MKV and MP4 formats have their strengths and weaknesses, the choice between
 
 1.  **Limited Features**: MP4 may lack some advanced features found in other container formats, such as support for multiple audio and subtitle tracks or extensive metadata capabilities.
 2.  **Less Flexibility**: Compared to more flexible formats like MKV, MP4 has a more rigid structure and may offer fewer customization options for users.
+
+## When you should choose MKV over MP4?
+
+You should choose MKV format when you require a high degree of flexibility and versatility in storing multimedia content. MKV excels in accommodating various codecs, multiple audio tracks, subtitles, and metadata within a single file, making it ideal for situations where you need to store diverse media elements with different language options or additional features. Additionally, if you value openness and prefer a format with freely available specifications that encourage innovation and compatibility across different platforms and software applications, MKV is the preferred choice. 
+
+## When you should choose MP4 over MKV?
+
+Choose the MP4 format when you prioritize broad compatibility, efficient compression, and seamless playback across various devices and platforms. MP4 is widely supported by a multitude of devices, software, and online streaming services, making it the go-to choice for sharing and streaming video content. Its efficient compression algorithms strike a balance between file size and video quality, ensuring that your videos maintain high quality while minimizing storage requirements. 
+
+## Further Reading
+
+- [What is MP4 File Format and Everything You Need to Know](https://blog.fileformat.com/video/what-is-mp4-file-format-and-everything-you-need-to-know/)
