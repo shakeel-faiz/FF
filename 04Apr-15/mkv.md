@@ -1,3 +1,5 @@
+Learn about the Matroska Multimedia Container (MKV) format, its history, features and comparison with MP4. Explore the strengths and weaknesses of MKV and MP4 and learn when to choose MKV over MP4.
+
 ## What Is MKV Format? (Matroska Video File)
 
 The MKV file format, also known as Matroska Multimedia Container, is a flexible and open standard multimedia container format. It is designed to hold numerous video, audio, picture, or subtitle tracks in a single file, making it perfect for storing movies or TV shows with multiple audio tracks, subtitles, or alternative languages.
