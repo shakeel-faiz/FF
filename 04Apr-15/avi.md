@@ -126,15 +126,16 @@ While MP4 is generally more efficient and compatible for most uses, AVI excels i
 
 MP4 should be chosen over AVI in most scenarios due to its superior compression efficiency, smaller file sizes, and broad compatibility across devices and platforms. MP4 is particularly beneficial when storage space is limited, as it significantly reduces file size without compromising quality as much as AVI. Its compatibility with nearly all modern devices, including smartphones, tablets, and smart TVs, makes MP4 ideal for widespread distribution and playback. For streaming video content online, MP4 is the preferred format because it supports streaming protocols, ensuring smoother playback experiences. Additionally, MP4's support for various codecs and its ability to include video, audio, subtitles, and images in a single file enhance its versatility. Thus, MP4 is generally the better choice for everyday video use, online streaming, sharing on social media, and scenarios where efficient storage and broad device compatibility are critical.
 
+## Further Reading
+- [MKV File Format: How it Works - MKV vs MP4][7]
+
 [1]: #what-is-avi-format
 [2]: #avi-format-key-features-and-characteristics
 [3]: #avi-format-pros-and-cons
 [4]: #avi-vs-mp4
 [5]: #when-to-use-avi-over-mp4
 [6]: #when-to-use-mp4-over-avi
-
-
-
+[7]: https://blog.fileformat.com/video/mkv-format-what-is-mkv-how-it-works-and-mkv-vs-mp4/
 
 
 
