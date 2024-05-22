@@ -1,3 +1,5 @@
+### Learn about the Audio Video Interleave (AVI) format, its key features and characteristics, pros and cons, and comparison with MP4. Discover when to choose AVI over MP4.
+
 ## What is AVI Format?
 
 AVI, which stands for Audio Video Interleave, is a video file format developed by Microsoft in 1992. It was designed to store both video and audio data within a single file, ensuring synchronized playback of audio and video. AVI files use the Resource Interchange File Format (RIFF), a general container format for multimedia data. As a native format to Microsoft Windows operating systems, AVI files can be easily opened using Windows Media Player.
