@@ -15,7 +15,7 @@ While MP4 might seem like a direct successor to MP3, the reality is more nuanced
 - [What is an MP4?][3]
 - [MP3 vs MP4: Which one is better?][4]
 - [When you should use MP3 over MP4?][5]
-- [When you should use MP4 over MP3?]6]
+- [When you should use MP4 over MP3?][6]
 
 ## What is an MP3?
 
