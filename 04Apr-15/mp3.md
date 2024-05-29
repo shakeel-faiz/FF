@@ -95,9 +95,13 @@ MP4 shines when your content involves both audio and video elements. As a contai
 
 Furthermore, MP4 supports advanced audio formats such as AAC (Advanced Audio Coding), which can provide superior sound quality compared to MP3 at similar bitrates. This makes MP4 a preferred choice for scenarios where preserving audio fidelity is paramount, such as professional audio productions or projects where sound quality is a key consideration. Additionally, MP4's support for features like subtitles, multiple audio tracks, chapters, and synchronized metadata offers greater flexibility for content creators seeking to enhance their multimedia offerings.
 
+## Further Reading
+- [AVI Format: Should You Use AVI? - AVI vs MP4][7]
+
 [1]: #what-is-an-mp3
 [2]: #are-all-mp3-files-identical-and-have-same-quaility
 [3]: #what-is-an-mp4
 [4]: #mp3-vs-mp4-which-one-is-better
 [5]: #when-you-should-use-mp3-over-mp4
 [6]: #when-you-should-use-mp4-over-mp3
+[7]: https://blog.fileformat.com/video/avi-format-what-is-avi-format-avi-vs-mp4/
