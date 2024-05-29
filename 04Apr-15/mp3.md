@@ -8,6 +8,15 @@ Despite its name suggesting a simple upgrade from MP3, the MP4 format is more co
 
 While MP4 might seem like a direct successor to MP3, the reality is more nuanced. Understanding the differences and advantages of MP4 compared to MP3 is essential for making an informed choice about which format to use
 
+## In this article
+
+- [What is an MP3?][1]
+- [Are all MP3 files identical and have same quality?][2]
+- [What is an MP4?][3]
+- [MP3 vs MP4: Which one is better?][4]
+- [When you should use MP3 over MP4?][5]
+- [When you should use MP4 over MP3?]6]
+
 ## What is an MP3?
 
 MP3 stands for MPEG-1 Audio Layer 3. It is a format designed to store audio information digitally while significantly reducing file size compared to the formats used by CDs.
@@ -22,7 +31,7 @@ As a result of lossy compression, MP3 files can be about one-tenth the size of a
 
 In short, MP3s use a clever compression technique to create smaller audio files without a noticeable loss in sound quality for most people. This efficiency made MP3 a popular format for digital music, especially when storage capacity was a major concern.
 
-## Are all MP3 files identical and have same quaility?
+## Are all MP3 files identical and have same quality?
 
 No, all MP3 files are not same and do not have same quality. They depend on these factors
 
@@ -86,3 +95,9 @@ MP4 shines when your content involves both audio and video elements. As a contai
 
 Furthermore, MP4 supports advanced audio formats such as AAC (Advanced Audio Coding), which can provide superior sound quality compared to MP3 at similar bitrates. This makes MP4 a preferred choice for scenarios where preserving audio fidelity is paramount, such as professional audio productions or projects where sound quality is a key consideration. Additionally, MP4's support for features like subtitles, multiple audio tracks, chapters, and synchronized metadata offers greater flexibility for content creators seeking to enhance their multimedia offerings.
 
+[1]: #what-is-an-mp3
+[2]: #are-all-mp3-files-identical-and-have-same-quaility
+[3]: #what-is-an-mp4
+[4]: #mp3-vs-mp4-which-one-is-better
+[5]: #when-you-should-use-mp3-over-mp4
+[6]: #when-you-should-use-mp4-over-mp3
