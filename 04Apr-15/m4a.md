@@ -11,8 +11,8 @@ M4A files are commonly used for audio files downloaded from Apple's iTunes Store
 - [What is the M4A Format?][1]
 - [M4A Format: AAC vs. ALAC][2]
 - [M4A vs MP3][3]
-- [When to Choose M4A Over MP3][4]
-- [When to choose MP3 over M4A][5]
+- [When to Choose M4A over MP3][4]
+- [When to Choose MP3 over M4A][5]
 
 ## M4A Format: AAC vs. ALAC
 
