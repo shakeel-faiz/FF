@@ -48,7 +48,7 @@ MP3 is supported by almost all audio devices, computers, and mobile devices, mak
 
 The AAC codec used in M4A is more restricted, but it's usually free to use for personal purposes. MP3 used to be subject to patents, but now it's free to use since the patents have expired. M4A also offers better support for metadata like album art, track information, and lyrics compared to MP3, which historically has had more issues with compatibility and consistency when it comes to metadata.
 
-## When to Choose M4A Over MP3
+## When to Choose M4A over MP3
 
 Choosing between M4A and MP3 formats often comes down to your specific needs and preferences. One scenario where you might prefer M4A is when you care a lot about how your music sounds. M4A files generally offer better sound quality because of the way they're compressed. This can be especially noticeable when you're listening to music at lower bitrates. So, if you're someone who's really into how your music sounds, M4A might be the better choice for you.
 
@@ -60,7 +60,7 @@ Additionally, M4A files are good at keeping track of extra information about you
 
 Lastly, if you buy a lot of music from places like iTunes, you'll probably come across M4A files quite often. They're commonly used for music downloads on platforms like these. So, if you want your music collection to stay consistent and compatible with what you're buying online, M4A is a safe bet.
 
-## When to choose MP3 over M4A
+## When to Choose MP3 over M4A
 
 Firstly, MP3 enjoys widespread compatibility across various platforms, devices, and software, making it a practical choice if you need your audio files to be playable on a wide range of devices.
 
