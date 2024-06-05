@@ -68,7 +68,11 @@ Secondly, MP3 offers flexibility in file size, which can be beneficial in situat
 
 Lastly, personal preference also plays a significant role in choosing between MP3 and M4A. If you're accustomed to working with MP3 files or prefer its characteristics over M4A, there's no inherent reason to switch formats unless the specific advantages of M4A are necessary for your particular use case.
 
-[1]: 
+[1]: #what-is-the-m4a-format
+[2]: #m4a-format-aac-vs-alac
+[3]: #m4a-vs-mp3
+[4]: #when-to-choose-m4a-over-mp3
+[5]: #when-to-choose-mp3-over-m4a
 
 
 
