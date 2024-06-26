@@ -154,6 +154,10 @@ On the other hand, WAV files maintain uncompromised audio fidelity with lossless
 
 Ultimately, podcasters should consider their specific production needs, audience expectations, and the balance between audio quality and practicality when choosing between MP3 and WAV formats. For content requiring utmost audio clarity and flexibility in editing, WAV may be preferable, whereas MP3's efficiency in distribution and playback accessibility makes it suitable for reaching a broader audience quickly and economically.
 
+## Further Reading
+
+- [What Is M4A and How Does It Compare to MP3? | M4A vs MP3][10]
+
 [1]: #wav-vs-mp3-what-podcasters-need-to-know
 [2]: #what-is-mp3
 [3]: #how-mp3-encoding-affects-audio
@@ -163,4 +167,4 @@ Ultimately, podcasters should consider their specific production needs, audience
 [7]: #advantages-of-wav-over-mp3
 [8]: #disadvantages-of-wav-over-mp3
 [9]: #conclusion
-[10]: 
+[10]: https://blog.fileformat.com/audio/what-is-m4a-and-m4a-vs-mp3/
