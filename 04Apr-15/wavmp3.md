@@ -158,9 +158,9 @@ Ultimately, podcasters should consider their specific production needs, audience
 [2]: #what-is-mp3
 [3]: #how-mp3-encoding-affects-audio
 [4]: #advantages-of-mp3-over-wav
-[5]: 
-[6]: 
-[7]: 
-[8]: 
-[9]: 
-[1]: 
+[5]: #disadvantages-of-mp3-over-wav
+[6]: #what-is-wav
+[7]: #advantages-of-wav-over-mp3
+[8]: #disadvantages-of-wav-over-mp3
+[9]: #conclusion
+[10]: 
