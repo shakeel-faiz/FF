@@ -1,3 +1,5 @@
+### Discover the OGG format, a versatile and open-source multimedia container. Learn about its use of Vorbis and Theora codecs for efficient audio and video compression, and explore its advantages over MP3 for high-quality streaming and playback.
+
 ## What is the OGG Format?
 
 OGG is a widely used format for audio files, known for being free and open to everyone. You'll recognize OGG files by their .ogg extension. They use a codec called Vorbis to compress audio data, making files smaller without losing much quality, which is more efficient than MP3 compression.
