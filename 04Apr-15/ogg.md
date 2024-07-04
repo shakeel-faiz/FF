@@ -28,6 +28,20 @@ The OGG Vorbis format refers to audio files encoded using the Vorbis codec withi
 - Widely compatible with software and media players.
 - Preferred for multimedia creation, distribution, and playback due to its technical excellence and openness.
 
+## In this article
+
+- [What is the OGG Format?][1]
+- [What is OGG Vorbis format?][2]
+- [Overview of OGG Format][3]
+- [OGG: Codecs and Metadata][4]
+- [How OGG File is Encoded][5]
+- [What's the difference between Ogg Vorbis and Ogg Theora?][6]
+- [OGG Container Format and Header Structure][7]
+- [OGG Versus MP3: Differences][8]
+- [OGG Versus MP3: Pros and Cons][9]
+- [Conclusion][10]
+
+
 ## OGG: Codecs and Metadata
 
 Ever wondered what makes OGG files so versatile? Beyond just audio, they use advanced codecs like Vorbis and include detailed metadata tags called VorbisComments. These features play a crucial role in how OGG handles different types of media content.
@@ -134,7 +148,16 @@ Here are the pros and cons of each format:
 
 In this article, we discussed various aspects related to the OGG file format, including its components, architecture, metadata, encoding process, the difference between Ogg Vorbis and Ogg Theora, and finally, compared MP3 versus OGG. The OGG container format allows for the integration of different types of multimedia content within a single file. This includes audio files compressed with Vorbis and video files compressed with Theora, along with additional information such as VorbisComments metadata, offering a comprehensive solution for multimedia storage and streaming needs.
 
-
+[1]: #what-is-the-ogg-format
+[2]: #what-is-ogg-vorbis-format
+[3]: #overview-of-ogg-format
+[4]: #ogg-codecs-and-metadata
+[5]: #how-ogg-file-is-encoded
+[6]: #whats-the-difference-between-ogg-vorbis-and-ogg-theora
+[7]: #ogg-container-format-and-header-structure
+[8]: #ogg-versus-mp3-differences
+[9]: #ogg-versus-mp3-pros-and-cons
+[10]: #conclusion
 
 
 
