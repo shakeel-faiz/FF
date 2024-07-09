@@ -45,6 +45,15 @@ Let's learn about the diverse applications of AAC.
 1. **Video Streaming**: AAC is often used as the audio codec in video streaming formats like MP4 and MKV. It ensures that the audio component of videos is delivered with high quality and efficiency.
 1. **VoIP and Video Conferencing**: AAC is used in Voice over IP (VoIP) applications and video conferencing systems to ensure clear and high-quality audio communication over network connections.
 
+## What makes AAC better than MP3?
+
+Let's explore what aspects make AAC superior to MP3.
+
+1. **Compression Efficiency**: AAC generally achieves better sound quality than MP3 at the same bit rate due to its more advanced compression algorithm. This means AAC can produce smaller file sizes without sacrificing audio quality as much as MP3.
+1. **Improved Sound Quality**: AAC typically provides clearer, more detailed sound compared to MP3, especially at lower bit rates. This is beneficial for listening to music on devices with limited storage or streaming over networks.
+1. **Support for Higher Frequencies**: AAC can encode audio signals at much higher frequencies than MP3, which can result in better reproduction of high-frequency sounds and nuances in music.
+1. **Multi-Channel Audio**: AAC supports up to 48 channels of audio, whereas MP3 supports up to two channels (stereo). This makes AAC more suitable for applications requiring multi-channel audio, such as surround sound in movies or games.
+1. **Advanced Features**: AAC supports features like improved handling of audio frequencies, better error recovery, and more efficient coding techniques compared to MP3, which contributes to its overall superiority in audio encoding.
 
 
 
