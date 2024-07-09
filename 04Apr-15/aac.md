@@ -2,7 +2,7 @@
 
 AAC (Advanced Audio Coding) is a widely used lossy digital audio compression codec developed by the Moving Picture Experts Group (MPEG). It was designed to provide better sound quality than MP3 at the same bit rate, making it a popular choice for various applications. One of its standout features is its higher sound quality compared to MP3, even at similar bit rates, which has made it a preferred choice for many users and applications. Additionally, AAC is supported by all major browsers and devices, ensuring its widespread compatibility and ease of use. AAC is capable of sampling frequencies ranging from 8Hz to 96kHz and supports up to 48 channels. It provides better compression of complex audio, such as pulses and square waves, compared to MP3.
 
-**AAC Versions**
+**AAC Versions**:
 
 AAC comes in various versions to cater to different needs. 
 
@@ -10,11 +10,11 @@ AAC-LD (Low Delay) and AAC-LC (Low Complexity) are typically used for two-way co
 
 On the other hand, AAC-HE (High Efficiency), also known as HE-AAC, is optimized for streaming audio, such as digital radio. Its design focuses on efficient audio streaming, which is essential for providing a seamless listening experience over the internet.
 
-**Compression Techniques**
+**Compression Techniques**:
 
 The compression strategies employed by AAC are integral to its efficiency. One key strategy involves discarding irrelevant signal components, which removes parts of the audio signal that are less perceptible to human ears. This process helps in maintaining audio quality while reducing the file size. Another strategy is removing redundancies in the audio signal, which further reduces file size without compromising on the quality. These strategies collectively enable AAC to deliver high-quality audio in a compact and efficient format.
 
-**Brief History and Development**
+**Brief History and Development**:
 
 AAC was introduced in 1997 as part of the MPEG-2 standard and later enhanced in the MPEG-4 standard in 1999. It was developed by a group of companies including Fraunhofer IIS, Dolby Laboratories, AT&T, Sony, and Nokia, among others. AAC quickly gained popularity due to its superior performance and versatility, becoming a widely adopted format for various applications. It's also Apple's default codec for .m4v files in the iTunes Store, ensuring audio quality and compatibility across Apple devices and software.
 
