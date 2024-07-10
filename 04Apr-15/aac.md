@@ -1,3 +1,7 @@
+AAC (Advanced Audio Coding) is a widely used lossy digital audio compression codec developed by the Moving Picture Experts Group (MPEG). It was designed to provide better sound quality than MP3 at the same bit rate, making it a popular choice for various applications. 
+
+AAC (Advanced Audio Coding) is a widely used lossy audio compression codec developed by MPEG, offering better sound quality than MP3 at the same bit rate. Supported by all major browsers and devices, AAC ensures high compatibility and superior audio compression for various applications.
+
 ## What is AAC (Advanced Audio Coding)?
 
 AAC (Advanced Audio Coding) is a widely used lossy digital audio compression codec developed by the Moving Picture Experts Group (MPEG). It was designed to provide better sound quality than MP3 at the same bit rate, making it a popular choice for various applications. One of its standout features is its higher sound quality compared to MP3, even at similar bit rates, which has made it a preferred choice for many users and applications. Additionally, AAC is supported by all major browsers and devices, ensuring its widespread compatibility and ease of use. AAC is capable of sampling frequencies ranging from 8Hz to 96kHz and supports up to 48 channels. It provides better compression of complex audio, such as pulses and square waves, compared to MP3.
