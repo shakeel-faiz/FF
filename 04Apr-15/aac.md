@@ -22,6 +22,21 @@ The compression strategies employed by AAC are integral to its efficiency. One k
 
 AAC was introduced in 1997 as part of the MPEG-2 standard and later enhanced in the MPEG-4 standard in 1999. It was developed by a group of companies including Fraunhofer IIS, Dolby Laboratories, AT&T, Sony, and Nokia, among others. AAC quickly gained popularity due to its superior performance and versatility, becoming a widely adopted format for various applications. It's also Apple's default codec for .m4v files in the iTunes Store, ensuring audio quality and compatibility across Apple devices and software.
 
+## In this article
+
+- [What is AAC (Advanced Audio Coding)?][1]
+   - AAC Versions
+   - Compression Techniques
+   - Brief History and Development
+- [Why is AAC Important?][2]
+- [How AAC works?][3]
+- [Applications of AAC][4]
+- [What makes AAC better than MP3?][5]
+- [AAC vs. Other Modern Codecs][6]
+   - AAC vs. MP3
+   - AAC vs. OGG Vorbis
+   - AAC vs. FLAC
+
 ## Why is AAC Important?
 
 AAC (Advanced Audio Coding) holds significant importance in modern audio technology due to its ability to deliver clearer and more detailed sound compared to older formats like MP3. It excels in efficiently compressing audio files without compromising quality, making it ideal for streaming services and storage purposes. AAC is widely compatible across various devices and platforms, ensuring smooth playback experiences for users everywhere. Its adoption in streaming and broadcasting ensures high-quality audio transmission over networks, enhancing the overall audio experience for listeners. Continuously evolving with improved encoding techniques, AAC remains future-ready, adapting to meet the demands of evolving technologies and user expectations in the digital age.
@@ -130,3 +145,10 @@ AAC compresses audio lossily, reducing file size with some loss in quality. FLAC
 **Comparison**:
 
 AAC offers efficient compression with good audio quality, ideal for general-purpose digital audio applications. Opus provides superior quality at lower bit rates and is optimized for real-time applications over the internet.
+
+[1]: #what-is-aac-advanced-audio-coding
+[2]: #why-is-aac-important
+[3]: #how-aac-works
+[4]: #applications-of-aac
+[5]: #what-makes-aac-better-than-mp3
+[6]: #aac-vs-other-modern-codecs
