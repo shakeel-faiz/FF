@@ -146,9 +146,13 @@ AAC compresses audio lossily, reducing file size with some loss in quality. FLAC
 
 AAC offers efficient compression with good audio quality, ideal for general-purpose digital audio applications. Opus provides superior quality at lower bit rates and is optimized for real-time applications over the internet.
 
+## Further Reading
+- [OGG Format: An In-Depth Exploration of Audio and Video][7]
+
 [1]: #what-is-aac-advanced-audio-coding
 [2]: #why-is-aac-important
 [3]: #how-aac-works
 [4]: #applications-of-aac
 [5]: #what-makes-aac-better-than-mp3
 [6]: #aac-vs-other-modern-codecs
+[7]: https://blog.fileformat.com/audio/ogg-format-in-depth-exploration-of-audio-and-video/
