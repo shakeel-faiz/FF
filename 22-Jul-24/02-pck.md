@@ -13,3 +13,7 @@ To create a PCK file in the Godot Engine, you need to go to the Project menu, se
 -   **Textures**: Images applied to models to give them detail.
 -   **Sound Effects**: Audio clips used for in-game sounds.
 -   **Music**: Background scores and other audio tracks.
+
+## How to open a PCK file
+
+You can open a PCK file using the **Godot PCK Tool**, which offers a convenient way to access and manage its contents, including game scripts, textures, and other resources. It allows you to view and list the files inside the PCK without extraction and provides the capability to insert additional files into the PCK.
