@@ -36,3 +36,6 @@ Moves are recorded using Standard Algebraic Notation (SAN), which is a turn-base
 Opening a PGN file can be done using various tools and software. Specialized chess software like ChessBase, Scid vs. PC, Arena, and Lucas Chess can open PGN files, providing a range of functionalities for analyzing and managing chess games.
 
 Since PGN files are plain text, you can also open them with any text editor. For instance, on Windows, you can use Notepad; on Mac, TextEdit; and on Linux, Gedit. Additionally, more advanced text editors like Visual Studio Code can also be used to open and edit PGN files.
+
+## References
+* [Portable Game Notation](https://en.wikipedia.org/wiki/Portable_Game_Notation)
