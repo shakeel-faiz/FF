@@ -53,3 +53,7 @@ To open a `.bsp` file, follow these steps:
 3.  **Decompilers**: Use decompiling tools (such as BSPTwoMap or Quake BSP decompilers) to convert `.bsp` files into a more editable format like `.map`. Note that compatibility may vary between different engines.
     
 4.  **Viewers**: Use map viewers or visualizers specific to the game engine, which can display the map without editing capabilities.
+
+## References
+* [Binary space partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
