@@ -14,52 +14,51 @@ In recent times, some newer tools and engines, such as Valve Hammer Editor 4, ha
 
 To open and work with a MAP file, you generally need a map editor or a text editor, depending on what you want to do. Here’s a step-by-step guide for different purposes:
 
-### 1. **Viewing or Editing MAP Files as Text**
+***Viewing or Editing MAP Files as Text***
 
 If you just want to view or edit the text content of a MAP file:
 
 -   **Use a Text Editor**: MAP files are plain text files, so you can open them with any text editor like Notepad, Notepad++, or Sublime Text.
-    -   **Steps**:
-        1.  Right-click the MAP file.
-        2.  Choose “Open with” and select your preferred text editor.
-        3.  View or edit the file as needed.
 
-### 2. **Creating or Editing MAP Files for Games**
+1.  Right-click the MAP file.
+2.  Choose “Open with” and select your preferred text editor.
+3.  View or edit the file as needed.
+
+***Creating or Editing MAP Files for Games***
 
 If you want to create or modify maps for games, you’ll need a dedicated map editor:
 
 -   **Valve Hammer Editor**: Commonly used for Quake and Half-Life maps.
     
-    -   **Steps**:
-        1.  Download and install Valve Hammer Editor.
-        2.  Open the Hammer Editor.
-        3.  Go to “File” > “Open” and select the MAP file.
-        4.  Make your changes or create new maps.
-        5.  Save or compile the file into the required format.
+1.  Download and install Valve Hammer Editor.
+1.  Open the Hammer Editor.
+1.  Go to “File” > “Open” and select the MAP file.
+1.  Make your changes or create new maps.
+1.  Save or compile the file into the required format.
+
 -   **Quake Map Editors**: For Quake-specific maps, you might use tools like GtkRadiant or QuArK.
     
-    -   **Steps**:
-        1.  Download and install the editor (e.g., GtkRadiant).
-        2.  Open the editor and load the MAP file via the “File” menu.
-        3.  Edit or view the map as needed.
-        4.  Save or compile the file for use in Quake.
+1.  Download and install the editor (e.g., GtkRadiant).
+1.  Open the editor and load the MAP file via the “File” menu.
+1.  Edit or view the map as needed.
+1.  Save or compile the file for use in Quake.
+
 -   **Torque Constructor**: For Torque Engine maps.
     
-    -   **Steps**:
-        1.  Download and install Torque Constructor.
-        2.  Open Torque Constructor.
-        3.  Load the MAP file using the “File” menu.
-        4.  Edit or convert the map as needed.
+1.  Download and install Torque Constructor.
+1.  Open Torque Constructor.
+1.  Load the MAP file using the “File” menu.
+1.  Edit or convert the map as needed.
 
-### 3. **Compiling MAP Files**
+***Compiling MAP Files***
 
 To use the MAP file in a game, you usually need to compile it into a format that the game can read, such as .BSP:
 
 -   **Use a Compiler Tool**: Many map editors include a compile feature, or you can use standalone tools.
-    -   **Steps**:
-        1.  Open your map editor.
-        2.  Load the MAP file.
-        3.  Use the compile function (usually found under “File” or “Tools” menu) to convert the MAP file into the .BSP format or another format required by the game.
+
+1.  Open your map editor.
+1.  Load the MAP file.
+1.  Use the compile function (usually found under “File” or “Tools” menu) to convert the MAP file into the .BSP format or another format required by the game.
 
 By following these steps, you can view, edit, and use MAP files for game development and modifications.
 
