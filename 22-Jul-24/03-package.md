@@ -29,3 +29,7 @@ In addition to PACKAGE files, digital art kits can also be saved in **SBKIT** or
 2.  Go to the **Home Menu**.
 3.  Select **"Import content"**.
 4.  **Choose the PACKAGE file** you want to add to your library.
+
+Programs that can open PCK file includes
+
+- **FOREVER Artisan** (Free Trial) for Windows
