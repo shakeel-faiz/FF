@@ -4,7 +4,7 @@ A PGN (Portable Game Notation) file is a plain text file format used for recordi
 
 PGN files are used by chess players and analysts to share and review game recordings. They allow users to visually replay the game and analyze the moves using various chess programs.
 
-## Key Features of a PGN File:
+## Key Features of a PGN File
 
 -   **Human-Readable Format**: The file is in plain text, making it easy to read and edit.
 -   **Game Metadata**: The beginning of a PGN file contains tag pairs specifying game details:
@@ -15,7 +15,7 @@ PGN files are used by chess players and analysts to share and review game record
     -   **Players**: The names of the players, their colors, and Elo ratings.
     -   **Result**: The outcome of the game.
 
-## Example of Metadata in PGN:
+## Example of Metadata in PGN
 
 ```
 [Event "FIDE World Championship"]
@@ -27,6 +27,12 @@ PGN files are used by chess players and analysts to share and review game record
 [Result "1-0"]
 ```
 
-## Recording Moves:
+## Recording Moves
 
 Moves are recorded using Standard Algebraic Notation (SAN), which is a turn-based list of moves. For example, `2.Nf3 Nc6` indicates that on the second turn, White moved a knight to f3, and Black moved a knight to c6.
+
+## How to Open a PGN File
+
+Opening a PGN file can be done using various tools and software. Specialized chess software like ChessBase, Scid vs. PC, Arena, and Lucas Chess can open PGN files, providing a range of functionalities for analyzing and managing chess games.
+
+Since PGN files are plain text, you can also open them with any text editor. For instance, on Windows, you can use Notepad; on Mac, TextEdit; and on Linux, Gedit. Additionally, more advanced text editors like Visual Studio Code can also be used to open and edit PGN files.
