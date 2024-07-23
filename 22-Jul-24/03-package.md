@@ -23,7 +23,7 @@ In addition to PACKAGE files, digital art kits can also be saved in **SBKIT** or
 -   **PAKIT**: A file format for digital art kits that may be used with Artisan or related programs.
 
 
-### How to open PACKAGE file
+## How to open PACKAGE file
 
 1.  Open **Artisan**.
 2.  Go to the **Home Menu**.
