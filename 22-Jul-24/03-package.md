@@ -16,7 +16,6 @@ In addition to PACKAGE files, digital art kits can also be saved in **SBKIT** or
 -   **FOREVER**: Originally known as Panstoria.
 -   **Artisan**: Based on the Storybook Creator software, which was also previously known as Panstoria.
 
-
 ## File Formats
 
 -   **PACKAGE**: The primary format used for FOREVER Artisan content.
@@ -26,7 +25,7 @@ In addition to PACKAGE files, digital art kits can also be saved in **SBKIT** or
 
 ### How to open PACKAGE file
 
-1.  **Open Artisan**.
-2.  **Go to the Home Menu**.
-3.  **Select "Import content"**.
+1.  Open **Artisan**.
+2.  Go to the **Home Menu**.
+3.  Select **"Import content"**.
 4.  **Choose the PACKAGE file** you want to add to your library.
