@@ -26,7 +26,7 @@ A `.bsp` file is organized into several sections called "lumps," which are chunk
 
 BSP files are binary files, which means they are stored in a format that is optimized for performance rather than human readability. Developers create and compile these files from `.MAP` files, which contain the raw map data. Tools such as Q3Map2 and Irrlicht are commonly used for this purpose. Additionally, id Software provides tools like GtkRadiant and DarkRadiant, which are specifically designed for creating and editing BSP files.
 
-### Use in Quake Game Engines
+## Use in Quake Game Engines
 
 Several Quake game engines utilize BSP files to handle map data:
 
@@ -35,3 +35,21 @@ Several Quake game engines utilize BSP files to handle map data:
 -   **id Tech 2 (Quake II Engine)**: Improved upon the original Quake engine with enhanced BSP features.
 -   **id Tech 3 (Quake III Arena)**: Introduced further advancements in BSP handling and rendering.
 -   **id Tech 4 (Doom 3)**: Continued the use of BSP technology with additional improvements for more complex and detailed environments.
+
+## Differences Between Quake and Source Engine BSP Files
+
+Valve’s Source engine, which powers games like _Half-Life 2_, _Left 4 Dead_, and _Team Fortress 2_, evolved from the Quake engine. As a result, it continues to use `.bsp` files for storing map data, similar to the Quake engine. However, the Source engine employs its own version of the `.bsp` format, which differs from the original Quake format. Consequently, programs designed to decompile Quake BSP files (i.e., tools that convert binary data into a human-readable format) may not be effective with Source BSP files due to differences in file structures and data formats between the two engines.
+
+The Source engine’s `.bsp` file format includes modifications and enhancements tailored to its rendering and game mechanics, making it distinct from the Quake BSP format. In Source engine games, BSP files are stored within the game’s `.GCF` (Game Cache File) archives. Notably, Source engine BSP files do not include descriptive text for the map, which was sometimes present in Quake’s BSP files. Additionally, Source engine BSP files do not contain the AI navigation files used by non-player characters (NPCs) to navigate the map; instead, these AI navigation files are typically stored separately and guide NPCs through the game environment.
+
+## How to open a BSP file
+
+To open a `.bsp` file, follow these steps:
+
+1.  **Game Engine**: Load the file directly within the game engine it was designed for. For example, use the Source engine for maps from Source games or the Quake engine for Quake maps.
+    
+2.  **Editor Tools**: Use level editors like Hammer Editor (for Source engine maps) or GtkRadiant (for Quake maps) to view and edit `.bsp` files.
+    
+3.  **Decompilers**: Use decompiling tools (such as BSPTwoMap or Quake BSP decompilers) to convert `.bsp` files into a more editable format like `.map`. Note that compatibility may vary between different engines.
+    
+4.  **Viewers**: Use map viewers or visualizers specific to the game engine, which can display the map without editing capabilities.
