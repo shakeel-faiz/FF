@@ -17,3 +17,8 @@ To create a PCK file in the Godot Engine, you need to go to the Project menu, se
 ## How to open a PCK file
 
 You can open a PCK file using the **Godot PCK Tool**, which offers a convenient way to access and manage its contents, including game scripts, textures, and other resources. It allows you to view and list the files inside the PCK without extraction and provides the capability to insert additional files into the PCK.
+
+Programs that can open PCK file includes
+
+- **Godot Engine** (Windows, Mac, Linux) (Free)
+- **Godot PCK Tool** (Windows, Mac, Linux) (Free)
