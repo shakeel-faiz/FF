@@ -1,3 +1,5 @@
+## What is an MDX file?
+
 An MDX file is a model file used in Blizzard Entertainment's game "Warcraft 3." These files contain 3D models, including meshes, textures, animations, and other data necessary for rendering characters, buildings, and other objects within the game. Here's a detailed breakdown of the MDX file format in the context of Warcraft 3:
 
 ## Structure of an MDX File
@@ -73,3 +75,5 @@ Opening an MDX file, especially for a game like Warcraft 3, usually involves usi
 -   **Blender (with MDX Import/Export plugin)**
 -   **Notepad++ (or any text editor, if converting to MDL)**
 
+## References
+* [MDX - Blizzard Entertainment](https://en.wikipedia.org/wiki/MDX)
