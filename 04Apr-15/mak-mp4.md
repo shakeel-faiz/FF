@@ -5,7 +5,7 @@ Creating an MP4 video might sound complicated, but with the right tools and a bi
 ## Why MP4?
 Before we dive into the how, let's quickly discuss the why. MP4 is one of the most widely supported video formats, making it the go-to choice for sharing videos online, on mobile devices, and across different platforms. It offers a great balance between quality and file size, thanks to the H.264 video codec and AAC audio codec.
 
-## Method 1: How to make MP4 video using a video editor
+## Method 1: How to Make an MP4 Video Using a Video Editor
 
 If you're serious about video editing, a professional video editor is your best friend. 
 
