@@ -62,7 +62,7 @@ ffmpeg -i inputfile.avi -c:v libx264 -c:a aac outputfile.mp4
 ```
 Replace `inputfile.avi` with the name of your file and `outputfile.mp4` with your desired output name.
 
-### **Final Tips**
+## **Final Tips**
 
 -   **Resolution & Bitrate:** Higher resolution and bitrate usually mean better quality but larger files. Adjust these settings based on your needs.
 -   **Compatibility:** Make sure your MP4 video will play smoothly on the devices or platforms where you intend to use it.
