@@ -9,14 +9,14 @@ Before we dive into the how, let's quickly discuss the why. MP4 is one of the mo
 
 If you're serious about video editing, a professional video editor is your best friend. 
 
-### **Video Editing Software You Might Need**
+### Video Editing Software You Might Need
 - Adobe Premiere Pro
 - Final Cut Pro
 - DaVinci Resolve
 
 These programs offer a wealth of features to help you create a polished MP4 video.
 
-### **Steps:**
+### Steps: How to Create Your MP4 Video
 
 1.  **Import Your Media:** Start by importing your video clips, audio files, and any other media you plan to use.
 2.  **Edit Your Video:** Arrange your clips on the timeline, add transitions, text, and effects. Take your time to ensure everything flows smoothly.
