@@ -5,6 +5,15 @@ Creating an MP4 video might sound complicated, but with the right tools and a bi
 ## Why MP4?
 Before we dive into the how, let's quickly discuss the why. MP4 is one of the most widely supported video formats, making it the go-to choice for sharing videos online, on mobile devices, and across different platforms. It offers a great balance between quality and file size, thanks to the H.264 video codec and AAC audio codec.
 
+## In this article
+
+- **How to Make an MP4 Video**
+   - [Method 1: Using a Video Editor][1]
+   - [Method 2: Free Software Options][2]
+   - [Method 3: Online Tools][3]
+   - [Method 4: Command Line Tools (FFmpeg)][4]
+- [Final Tips][5]
+
 ## Method 1: Using a Video Editor
 
 If you're serious about video editing, a professional video editor is your best friend. 
@@ -68,3 +77,8 @@ Replace `inputfile.avi` with the name of your file and `outputfile.mp4` with you
 -   **Compatibility:** Make sure your MP4 video will play smoothly on the devices or platforms where you intend to use it.
 -   **Practice Makes Perfect:** Don’t be afraid to experiment with different tools and settings to find what works best for you.
 
+[1]: #method-1-using-a-video-editor
+[2]: #method-2-free-software-options
+[3]: #method-3-online-tools
+[4]: #method-4-command-line-tools-ffmpeg
+[5]: #final-tips
