@@ -77,8 +77,12 @@ Replace `inputfile.avi` with the name of your file and `outputfile.mp4` with you
 -   **Compatibility:** Make sure your MP4 video will play smoothly on the devices or platforms where you intend to use it.
 -   **Practice Makes Perfect:** Don’t be afraid to experiment with different tools and settings to find what works best for you.
 
+## See Also
+- [MP3 vs. MP4: Which Is Better and What's the Difference?][6]
+
 [1]: #method-1-using-a-video-editor
 [2]: #method-2-free-software-options
 [3]: #method-3-online-tools
 [4]: #method-4-command-line-tools-ffmpeg
 [5]: #final-tips
+[6]: https://blog.fileformat.com/audio/mp3-vs-mp4/
