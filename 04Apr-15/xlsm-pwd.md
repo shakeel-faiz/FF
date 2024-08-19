@@ -34,12 +34,12 @@ Here's a step-by-step guide to using an Excel VBA password remover for XLSM file
 
 Here are some popular tools you can use to remove VBA passwords from Excel XLSM files:
 
--   [VBA Password Bypasser][1]
--   [Hex Editor (e.g., HxD)][2]
--   [Password Lastic][3]
--   [PassFab for Excel][4]
--   [Password-Find][5]
--   [John the Ripper (with a VBA-specific module)][6]
+1. [VBA Password Bypasser][1]
+2. [Hex Editor (e.g., HxD)][2]
+3. [Password Lastic][3]
+4. [PassFab for Excel][4]
+5. [Password-Find][5]
+6. [John the Ripper (with a VBA-specific module)][6]
 
 Please read a brief overview of these tools below.
 
