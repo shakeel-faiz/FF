@@ -24,7 +24,7 @@ Here's a step-by-step guide to using an Excel VBA password remover for XLSM file
     
 2.  **Use a Hex Editor**: One method to remove the password involves using a hex editor. Open your XLSM file in a hex editor and search for specific hex strings that correspond to the password. You can replace these strings with a standard hex value, effectively removing the password. This method requires some technical know-how and isn't foolproof.
     
-3.  **Password Remover Tools**: Several third-party tools are available specifically for removing VBA passwords from Excel files. These tools are usually user-friendly and do not require deep technical knowledge. Simply open the XLSM file in the tool, and it will remove the password, allowing you to access the VBA project.
+3.  **Password Remover Tools**: Several third-party tools are available specifically for removing VBA passwords from Excel files. These tools are usually user-friendly and do not require deep technical knowledge. Simply open the XLSM file in the tool, and it will remove the password, allowing you to access the VBA project. **Please read about the list of tools we provided below**.
     
 4.  **Open the Unprotected VBA Project**: Once the password is removed, open the XLSM file in Excel and access the VBA project without any restrictions. You can now edit the code, add new macros, or do whatever you need to with your VBA project.
     
