@@ -32,3 +32,74 @@ Here's a step-by-step guide to using an Excel VBA password remover for XLSM file
 
 ## Top Tools to Remove VBA Passwords in XLSM Files
 
+Here are some popular tools you can use to remove VBA passwords from Excel XLSM files:
+
+-   [VBA Password Bypasser][1]
+-   [Hex Editor (e.g., HxD)][2]
+-   [Password Lastic][3]
+-   [PassFab for Excel][4]
+-   [Password-Find][5]
+-   [John the Ripper (with a VBA-specific module)][6]
+
+Please read a brief overview of these tools below.
+
+### VBA Password Bypasser
+
+-   **Overview**: A simple tool that allows you to bypass or remove passwords from VBA projects in Excel files.
+-   **Features**:
+    -   Works with XLSM, XLS, and other Excel file formats.
+    -   Quick and easy-to-use interface.
+-   **Pros**: Fast and straightforward.
+-   **Cons**: Limited to bypassing VBA passwords; doesn’t offer additional features.
+
+### **Hex Editor (e.g., HxD)**
+
+-   **Overview**: A hex editor like HxD can be used to manually remove or bypass VBA passwords by editing the binary code of the XLSM file.
+-   **Features**:
+    -   Full control over file contents.
+    -   Can be used for various other purposes beyond password removal.
+-   **Pros**: Free and highly versatile.
+-   **Cons**: Requires technical knowledge; one wrong edit can corrupt the file.
+
+### **Password Lastic**
+
+-   **Overview**: A dedicated password recovery tool for Excel files, including VBA passwords.
+-   **Features**:
+    -   Supports a wide range of Excel versions.
+    -   Easy-to-use interface with straightforward steps.
+-   **Pros**: Supports various Excel formats and versions.
+-   **Cons**: Paid software with a limited free trial.
+
+### **PassFab for Excel**
+
+-   **Overview**: A professional tool designed to recover or remove passwords from Excel workbooks, including VBA project passwords.
+-   **Features**:
+    -   High success rate.
+    -   Supports password recovery for both workbook and VBA projects.
+-   **Pros**: User-friendly with a high success rate.
+-   **Cons**: Paid software, but offers a trial version.
+
+### **Password-Find**
+
+-   **Overview**: An online service that can remove or recover passwords from Excel files, including VBA projects.
+-   **Features**:
+    -   Online tool, so no need to install software.
+    -   Supports all Excel formats.
+-   **Pros**: Convenient and no installation required.
+-   **Cons**: Requires uploading your file, which may raise privacy concerns.
+
+### **John the Ripper (with a VBA-specific module)**
+
+-   **Overview**: A more advanced and technical tool, John the Ripper is a password-cracking software that can be extended to crack VBA passwords.
+-   **Features**:
+    -   Highly customizable and powerful.
+    -   Free and open-source.
+-   **Pros**: Extremely powerful for those familiar with it.
+-   **Cons**: Not user-friendly for beginners; requires setup and knowledge of command-line operations.
+
+[1]: https://vbapasswordbypasser.en.softonic.com/
+[2]: https://mh-nexus.de/en/hxd/
+[3]: https://www.passwordlastic.com/
+[4]: https://www.passfab.com/products/excel-password-recovery.html
+[5]: https://www.password-find.com/
+[6]: https://www.openwall.com/john/
