@@ -46,3 +46,18 @@ A JFIF file is made up of different sections called markers. Each marker starts 
 -   **Thumbnail Data:** Contains the thumbnail image, depending on the format.
 
 In a nutshell, JFIF files are structured with various markers that define everything from image details to optional thumbnails, making sure the image is displayed correctly.
+
+## How JFIF and Exif Interact and Their Compatibility Issues
+
+JFIF and Exif are both formats used for images, but they don't fully work together. This is because both want their specific section (APP0 for JFIF and APP1 for Exif) to be right after the start of the image. However, many cameras and programs just include both sections, and most image viewers can still handle it fine. But, if the software isn't well-made, it might have trouble reading the image.
+
+JFIF works fine with Adobe Photoshop’s JPEG extensions and IPTC metadata, which add extra info to images. Photoshop's extensions don't need to be the first part of the file, so they fit in with JFIF. However, Photoshop sometimes saves images in a different format (like CMYK) that doesn’t follow the JFIF rules. These files might not open correctly in web browsers or other programs that expect standard JFIF files.
+
+## JFIF: A Brief History
+
+The development of the JFIF format was led by Eric Hamilton from C-Cube Microsystems. The first version of JFIF was agreed upon in late 1991 during a meeting with around 40 representatives from different tech companies. Shortly after, a small update was made, resulting in JFIF 1.01. The most recent version, 1.02, was published on September 1, 1992, and stayed the latest for nearly 20 years.
+
+In 1996, a rule (RFC 2046) was made that said JPEG images sent over the internet should use the JFIF format, with the MIME type "image/jpeg." However, most internet programs can still decode basic JPEG images even if they're not JFIF-compliant, as long as they use common color components like Y or YCbCr.
+
+As time went on, C-Cube changed and eventually split into several companies, losing interest in maintaining the JFIF document. By 2009, to preserve it, Ecma International and the Joint Photographic Experts Group (ITU-T/ISO/IEC) took over. They officially published it in 2009 to ensure it wasn't forgotten. It was later standardized by ITU-T in 2011 and by ISO/IEC in 2013. These new versions mainly made editorial improvements, but the technical details stayed the same.
+
