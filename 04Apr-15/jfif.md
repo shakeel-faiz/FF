@@ -61,3 +61,49 @@ In 1996, a rule (RFC 2046) was made that said JPEG images sent over the internet
 
 As time went on, C-Cube changed and eventually split into several companies, losing interest in maintaining the JFIF document. By 2009, to preserve it, Ecma International and the Joint Photographic Experts Group (ITU-T/ISO/IEC) took over. They officially published it in 2009 to ensure it wasn't forgotten. It was later standardized by ITU-T in 2011 and by ISO/IEC in 2013. These new versions mainly made editorial improvements, but the technical details stayed the same.
 
+## FAQs
+
+### What is JFIF?
+
+JFIF (JPEG File Interchange Format) is a format for JPEG files that includes additional metadata to ensure compatibility across different devices and software. It doesn't affect the image quality compared to standard JPEG.
+
+### Why is my JPEG a JFIF?
+
+Your JPEG might be labeled as JFIF because JFIF is a common format for JPEG images that includes specific metadata for better compatibility. Many JPEG files use JFIF headers to ensure they display correctly across various platforms.
+
+### Is JFIF better than JPEG?
+
+There is no difference in image quality between JFIF and JPEG. JFIF is essentially a variant of JPEG with added metadata for compatibility.
+
+### How to view JFIF files on Android?
+
+1.  **Gallery Apps:** Most modern Android devices can open JFIF files directly in the default Gallery app or Google Photos.
+2.  **File Manager Apps:** Use a file manager app like Files by Google to locate and open the JFIF file.
+3.  **Image Viewer Apps:** Download third-party apps from the Google Play Store such as Photo Viewer or Xodo PDF Reader & Editor that support JFIF files.
+
+### How to open a JFIF file?
+
+1.  **Image Viewers:** Use built-in tools like Windows Photo Viewer or macOS Preview.
+2.  **Image Editors:** Software like Adobe Photoshop, GIMP, or Paint.NET can open and edit JFIF files.
+3.  **Web Browsers:** Drag and drop the JFIF file into a web browser (e.g. Chrome, Firefox) to view the image.
+4.  **Conversion Tools:** Convert the JFIF file to a more common format like JPEG or PNG using online converters or software tools.
+
+### How can I convert JFIF to JPG?
+
+1.  **Online Converters:** Use websites like Convertio or Online Convert to upload your file and select JPG as the output format.
+2.  **Image Editors:** Open the JFIF file in software like Photoshop or GIMP and save or export it as a JPG.
+3.  **Built-in Tools:** Use Windows Paint or macOS Preview to open and save the file as JPG.
+
+### How can I convert JFIF to PDF?
+
+1.  **Online Converters:** Websites like Smallpdf or ILovePDF can convert JFIF files to PDF. Upload the file and download the PDF.
+2.  **Image Editors:** Use software like Adobe Photoshop or GIMP to open the JFIF file and export or save it as a PDF.
+3.  **Built-in Tools:** On Windows, open the JFIF file in Paint and use "Microsoft Print to PDF" as the printer. On macOS, open the file in Preview and choose File > Export as PDF.
+
+### How to convert JFIF to PNG?
+
+1.  **Online Converters:** Websites like Convertio or Online Convert allow you to upload a JFIF file and choose PNG as the output format.
+2.  **Image Editing Software:** Open the JFIF file in Adobe Photoshop or GIMP and export or save it as a PNG.
+3.  **Built-in Tools:** Use Windows Paint or macOS Preview to open and save or export the file as a PNG.
+
+
