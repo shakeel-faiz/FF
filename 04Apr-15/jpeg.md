@@ -227,3 +227,6 @@ While JPEG is a popular and widely used image format, it has several drawbacks t
 -   **Limited dynamic range** and potential **posterization** in areas with gradients.
 -   **Not ideal for animation**, as it doesn’t support multiple frames like GIF.
 -   **File sizes** can become large if you aim for high-quality JPEGs.
+
+JPEG is excellent for many applications but falls short when you need high-quality editing, transparency, or precision in color and detail. In those cases, alternative formats like **PNG**, **GIF**, or **TIFF** are more appropriate.
+
