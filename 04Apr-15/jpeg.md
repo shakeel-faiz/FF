@@ -285,3 +285,39 @@ JPEG is a go-to format for many image-related tasks, but it's particularly effec
 
 In short, use JPEG for **photographs**, **web content**, and scenarios where **storage or bandwidth** is limited, and **transparency isn’t needed**.
 
+## What is the difference between JPEG and JPG? 
+
+The difference between **JPEG** and **JPG** is primarily in the name, not in the format or functionality. Both extensions represent the same image format: **Joint Photographic Experts Group (JPEG)**. Here’s a breakdown of why the two file extensions exist and how they relate to each other:
+
+1. **Origins of the Extensions**
+
+-   **.jpeg**: This is the original file extension for the JPEG format. It uses the full **".jpeg"** extension (four letters) to represent images compressed using JPEG's lossy compression algorithm.
+-   **.jpg**: The **.jpg** extension became common due to earlier versions of **Windows**, specifically the **MS-DOS 8.3** file naming convention. This convention limited file extensions to three characters, so ".jpeg" had to be shortened to ".jpg."
+
+2. **Technical Differences**
+
+-   **No technical difference**: There is no difference between **.jpeg** and **.jpg** in terms of the file format. Both extensions represent the exact same **JPEG image format**, and they function identically. The only distinction is the number of characters in the file extension.
+-   **Same compression, same format**: Whether a file is saved as ".jpg" or ".jpeg," it will use JPEG's **lossy compression** method and support the same features like 24-bit color depth, small file sizes, and no transparency.
+
+3. **Operating System Differences**
+
+-   **Windows**: As mentioned, older versions of Windows only supported **three-character file extensions**, so ".jpg" became the default extension for JPEG files on Windows systems. Even though modern operating systems can handle longer extensions, ".jpg" remains common on Windows.
+-   **MacOS and Linux**: These operating systems do not have the same three-character limit, so both **.jpeg** and **.jpg** extensions can be used without issue. However, ".jpg" is still widely used for compatibility with Windows systems.
+
+4. **Interchangeability**
+
+-   **Fully interchangeable**: You can rename a file from **.jpg to .jpeg** (or vice versa) without affecting the file itself. Image viewers, editing software, and browsers recognize both extensions as JPEG files and will open them without any problems.
+-   **Software compatibility**: Almost all software that supports one extension will support the other. For example, photo editing programs like Photoshop or GIMP, and web browsers, treat **.jpg** and **.jpeg** files identically.
+
+5. **Consistency in Modern Usage**
+
+-   **.jpg is more common**: Due to historical reasons and consistency with Windows, ".jpg" is the more widely used extension across platforms, even though there's no need to limit file extensions to three characters anymore.
+-   **.jpeg still in use**: Some systems and applications may still use ".jpeg," especially on platforms where the three-character limit was never an issue (e.g., macOS, Linux). However, ".jpg" has become the de facto standard.
+
+### Summary:
+
+-   **No technical difference**: ".jpeg" and ".jpg" are the same format; only the file extension differs.
+-   **Historical reasons**: The three-character limit in older Windows systems led to the creation of the ".jpg" extension.
+-   **Interchangeable**: You can freely change between ".jpeg" and ".jpg" without affecting the image's quality or properties.
+
+In essence, ".jpeg" and ".jpg" are just two different names for the same file type, and you can use either extension depending on your system or personal preference.
