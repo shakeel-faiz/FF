@@ -8,7 +8,7 @@ These files can also store **layers, effects, and other elements** typical of im
 2.  **Layer Support**: Similar to modern image-editing software, `.mix` files can include multiple layers, allowing for more complex compositions.
 3.  **Effects and Modifications**: Image effects and modifications applied in Microsoft Image Composer or Picture It! are saved in the `.mix` format.
 
-## How to Open or Convert `.mix` Files:
+## How to open a MIX file 
 
 Since Microsoft no longer supports these programs, it can be difficult to open `.mix` files with modern software. Here are some approaches:
 
@@ -22,8 +22,4 @@ Programs that open MIX files include
 - XNViewMP (Free) (Windows, Mac, Linux)
 
 ## References
-
-
-
-
-
+* [Microsoft Picture It!](https://en.wikipedia.org/wiki/Microsoft_Picture_It!)
