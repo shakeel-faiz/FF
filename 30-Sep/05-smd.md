@@ -74,7 +74,6 @@ version 1
         }
     }
 // }
-
 ```
 
 **How to work with SMD files**
@@ -129,3 +128,12 @@ If you are working within the Valve Source development environment:
 There are also specific tools designed for viewing SMD files:
 
 -   **SMD Viewer**: This is a simple tool specifically designed for viewing SMD files, but it may have limited functionality compared to full 3D modeling software.
+
+Programs that can open or handle SMD files include
+
+- Valve Studiomdl (Free) (Windows)
+- Notepad
+- Any Text Editor
+
+## References
+- [SMD](https://developer.valvesoftware.com/wiki/SMD)
