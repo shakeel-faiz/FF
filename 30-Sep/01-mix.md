@@ -8,6 +8,14 @@ These files can also store **layers, effects, and other elements** typical of im
 2.  **Layer Support**: Similar to modern image-editing software, `.mix` files can include multiple layers, allowing for more complex compositions.
 3.  **Effects and Modifications**: Image effects and modifications applied in Microsoft Image Composer or Picture It! are saved in the `.mix` format.
 
+## Overview of the Microsoft Image Extension (.mix) File Format
+
+-   **Name**: Microsoft Image Extension
+-   **File Extension**: .mix
+-   **Media Type**: application/octet-stream
+-   **Description**: A file format used by Microsoft to store a collection of images, often used in presentations and graphic applications.
+-   **Identification Pattern**: The specific binary signature can be used to recognize the file type (not universally available).
+
 ## How to open a MIX file 
 
 Since Microsoft no longer supports these programs, it can be difficult to open `.mix` files with modern software. Here are some approaches:
