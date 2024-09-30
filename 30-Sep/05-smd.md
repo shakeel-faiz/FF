@@ -131,8 +131,8 @@ There are also specific tools designed for viewing SMD files:
 
 Programs that can open or handle SMD files include
 
-- Valve Studiomdl (Free) (Windows)
-- Notepad
+- **Valve Studiomdl** (Free) (Windows)
+- **Notepad**
 - Any Text Editor
 
 ## References
