@@ -13,8 +13,8 @@ These files can also store **layers, effects, and other elements** typical of im
 -   **Name**: Microsoft Image Extension
 -   **File Extension**: .mix
 -   **Media Type**: application/octet-stream
--   **Description**: A file format used by Microsoft to store a collection of images, often used in presentations and graphic applications.
 -   **Identification Pattern**: The specific binary signature can be used to recognize the file type (not universally available).
+-   **Description**: A file format used by Microsoft to store a collection of images, often used in presentations and graphic applications.
 
 ## How to open a MIX file 
 
