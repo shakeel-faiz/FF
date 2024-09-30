@@ -35,3 +35,5 @@ To open or extract .gma files, you typically need specialized tools or software,
 -   **Gmad.exe**: A command-line tool that comes with Garry's Mod for extracting .gma files.
 -   **GMA Extractor**: Third-party tools that can extract the contents of .gma files for further modification or inspection.
 
+## References
+* [Garry's Mod](https://en.wikipedia.org/wiki/Garry's_Mod)
