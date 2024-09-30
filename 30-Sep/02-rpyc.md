@@ -27,3 +27,19 @@ The process of compiling `.rpy` files into RPYC files involves several steps:
 ## The Transition to RPYB Format
 
 With the release of Ren'Py version 5.3.0, the introduction of the **.RPYB** format marked a significant change in how scripts are handled. While RPYC files previously included bytecode for execution, the new RPYB format specifically stores this bytecode, allowing RPYC files to focus solely on the compiled Python script. This separation enhances the efficiency of the game engine and streamlines the compilation process.
+
+## How to open RPYC file
+
+To open an RPYC file, you can follow these methods:
+
+-   **Run in Ren'Py**: Simply run your game project in the Ren'Py engine. It will automatically use the RPYC files during execution.
+    
+-   **Decompile**: Use a decompiler tool like `renpy-decompiler` to convert the RPYC file back into a human-readable **.rpy** format. You’ll need Python installed for this:
+    
+```   
+python renpy_decompiler.py your_file.rpyc
+```
+-   If the RPYC file is part of a game package, use archive tools like WinRAR or 7-Zip to extract the contents, which may include original **.rpy** files.
+
+## References
+* [Ren'Py](https://en.wikipedia.org/wiki/Ren'Py)
