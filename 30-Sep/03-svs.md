@@ -15,7 +15,23 @@ Key characteristics of SVS files include:
 5.  **Slide Label Image**: Many SVS files also contain a slide label image that identifies the physical slide the file was created from. This helps link the digital images with their corresponding physical specimens, ensuring accurate analysis.
     
 6.  **Metadata**: SVS files can store extensive metadata about the specimen, such as identification numbers, staining methods, and other pertinent details that enhance analysis and research.
-    
+
+## Overview of the Aperio SVS File Format
+
+-   **Name**: Aperio SVS
+-   **File Extension**: .svs
+-   **Media Type**: application/octet-stream
+-   **Identification Pattern**: 49492A00 (used to recognize the file type)
+-   **Description**: A digital file format for storing scanned images of slides, primarily used in pathology.
+
+## What is Aperio ScanScope
+
+**Aperio ScanScope** is a digital slide scanner developed by Aperio Technologies, now part of Leica Biosystems. It captures high-resolution images of biological specimens on glass slides, facilitating efficient analysis in pathology and research.
+
+The scanners utilize multi-resolution imaging, saving images in the **SVS (Slide and Viewable Storage)** format, which stores multiple resolutions and associated metadata. They automate slide loading and scanning, enhancing workflow efficiency.
+
+Integrated with software like **Aperio ImageScope**, users can view and annotate slides, while telepathology capabilities allow remote sharing for collaboration. Overall, Aperio ScanScope scanners modernize pathology by transforming glass slides into accessible digital formats.
+
 ## How to open an SVS file
 
 Opening SVS files requires specialized software designed for handling digital slide images. Here are some commonly used applications that can open SVS files:
@@ -29,3 +45,10 @@ Opening SVS files requires specialized software designed for handling digital sl
 4.  **PathViewer**: A user-friendly application that supports the viewing of SVS files, PathViewer allows for easy navigation and examination of digital slides.
     
 5.  **ImageJ/Fiji**: These powerful image analysis tools can open SVS files with the appropriate plugins. They are commonly used in research for processing and analyzing scientific images.
+
+Programs that can open or handle SVS files include
+
+- **Aperio Technologies ImageScope** (Free) (Windows)
+- **OpenSlide** (Free) (Windows, Mac, Linux)
+
+## References
