@@ -41,5 +41,9 @@ python renpy_decompiler.py your_file.rpyc
 ```
 -   If the RPYC file is part of a game package, use archive tools like WinRAR or 7-Zip to extract the contents, which may include original **.rpy** files.
 
+Programs that can open or handle RPYC files include
+
+- **Ren'Py** (Free) (Windows, Mac, Linux)
+
 ## References
 * [Ren'Py](https://en.wikipedia.org/wiki/Ren'Py)
