@@ -12,6 +12,15 @@ Key characteristics of RPYC files include
     
 4.  **Deleting RPY Files**: Once the RPYC files are generated, developers can delete the original `.rpy` files if they choose, although it is generally advisable to keep them for future updates or modifications.
 
+## Overview of the .rpyc File Format
+
+-   **Name**: Ren'Py Compiled Script
+-   **File Extension**: .rpyc
+-   **Media Type**: application/octet-stream
+-   **Description**: A compiled script file used by the Ren'Py visual novel engine, containing Python code and instructions for game development.
+-   **Identification Pattern**: `rpyc` (indicates the file is a compiled Ren'Py script)
+-   **Usage**: Used to run visual novels and games created with Ren'Py, enabling efficient execution of the game's script and logic.
+
 ## How RPYC Files Work
 
 The process of compiling `.rpy` files into RPYC files involves several steps:
