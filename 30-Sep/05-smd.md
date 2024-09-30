@@ -27,20 +27,54 @@ Key features of the SMD format include
 Here’s a simplified example of what an SMD file might look like:
 
 ```
+// SMD
 version 1
-nodes
-0 "Bone" -1
-endnodes
 
-skeleton
-time 0
-0 0 0 0 0 0 0
-end
+// {
+    "mesh"
+    "my_model"
+    {
+        // Vertices
+        "vertices"
+        {
+            0  0.0 0.0 0.0
+            1  1.0 0.0 0.0
+            2  0.0 1.0 0.0
+            3  1.0 1.0 0.0
+        }
 
-triangles "my_model"
-material "my_material"
-0 0 1 0 0 1 0 1 0
-end
+        // Texture coordinates
+        "texturecoords"
+        {
+            0  0.0 0.0
+            1  1.0 0.0
+            2  0.0 1.0
+            3  1.0 1.0
+        }
+
+        // Faces
+        "triangles"
+        {
+            0 0 1 2
+            1 2 3 1
+        }
+    }
+}
+
+// Animation data
+// {
+    "animation"
+    "my_animation"
+    {
+        "keyframes"
+        {
+            0 0.0 0.0 0.0
+            1 0.5 0.0 0.0
+            2 1.0 0.0 0.0
+        }
+    }
+// }
+
 ```
 
 **How to work with SMD files**
