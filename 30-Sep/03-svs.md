@@ -16,7 +16,7 @@ Key characteristics of SVS files include:
     
 6.  **Metadata**: SVS files can store extensive metadata about the specimen, such as identification numbers, staining methods, and other pertinent details that enhance analysis and research.
     
-## How to Open an SVS File
+## How to open an SVS file
 
 Opening SVS files requires specialized software designed for handling digital slide images. Here are some commonly used applications that can open SVS files:
 
