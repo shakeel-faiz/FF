@@ -38,4 +38,10 @@ label start:
 -   **Creating Visual Novels**: Developers use `.rpy` files to write and organize their stories, making it easy to develop complex branching narratives.
 -   **Modding**: The Ren'Py community often shares `.rpy` scripts, enabling others to learn from or modify existing works.
 
+## Overview of the .rpy File Format
 
+-   **Name**: Ren'Py Script File
+-   **File Extension**: .rpy
+-   **Media Type**: `text/plain`
+-   **Description**: A plain text file used by the Ren'Py visual novel engine, containing Python-based scripting and logic for game dialogues, events, and functions.
+-   **Usage**: Used to write game scripts in Ren'Py, allowing developers to define game flow, character interactions, and other elements in visual novel games.
