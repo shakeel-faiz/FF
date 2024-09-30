@@ -18,8 +18,8 @@ Since Microsoft no longer supports these programs, it can be difficult to open `
 
 Programs that open MIX files include
 
-- Microsoft Picture It! (Discontinued)
-- XNViewMP (Free) (Windows, Mac, Linux)
+- **Microsoft Picture It!** (Discontinued)
+- **XNViewMP** (Free) (Windows, Mac, Linux)
 
 ## References
 * [Microsoft Picture It!](https://en.wikipedia.org/wiki/Microsoft_Picture_It!)
