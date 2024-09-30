@@ -52,3 +52,4 @@ Programs that can open or handle SVS files include
 - **OpenSlide** (Free) (Windows, Mac, Linux)
 
 ## References
+* [OpenSlide](https://openslide.org/)
