@@ -1,4 +1,4 @@
-### What is an SVS File?
+### What is an SVS file?
 
 An **SVS file** (Slide and Viewable Storage) is a digital slide image file commonly created by **Aperio ScanScope** slide scanners. Designed for the medical and research fields, SVS files store a series of **TIFF images** that represent various views of a specimen slide.
 
