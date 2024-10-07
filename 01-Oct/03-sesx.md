@@ -58,6 +58,10 @@ To open a `.sesx` file in Adobe Audition, follow these steps:
 3.  **Select the File**: Click on the `.sesx` file you want to open.
 4.  **Open the File**: Click the **Open** button. The session will load, and you'll see all the tracks, settings, and audio references within Adobe Audition.
 
+**Applications that can handle or utilize SESX files include**
+
+- **Adobe Audition 2023** (Free Trial) (Windows, Mac)
+
 ## What is Adobe Audition?
 
 **Adobe Audition** is a professional digital audio workstation (DAW) developed by Adobe Systems, designed for audio editing, mixing, and sound design. It offers a range of powerful tools for recording, editing, and restoring audio, making it popular among musicians, sound designers, and podcasters. Users can work with multitrack sessions, apply effects, and utilize advanced features like spectral analysis and noise reduction. Audition supports various audio formats, enabling seamless integration with other Adobe Creative Cloud applications. Its intuitive interface and extensive audio manipulation capabilities make it a go-to choice for audio professionals and enthusiasts alike.
