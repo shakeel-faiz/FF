@@ -60,7 +60,7 @@ To open a `.sesx` file in Adobe Audition, follow these steps:
 
 ## What is Adobe Audition?
 
-Adobe Audition is a professional digital audio workstation (DAW) developed by Adobe Systems, designed for audio editing, mixing, and sound design. It offers a range of powerful tools for recording, editing, and restoring audio, making it popular among musicians, sound designers, and podcasters. Users can work with multitrack sessions, apply effects, and utilize advanced features like spectral analysis and noise reduction. Audition supports various audio formats, enabling seamless integration with other Adobe Creative Cloud applications. Its intuitive interface and extensive audio manipulation capabilities make it a go-to choice for audio professionals and enthusiasts alike.
+**Adobe Audition** is a professional digital audio workstation (DAW) developed by Adobe Systems, designed for audio editing, mixing, and sound design. It offers a range of powerful tools for recording, editing, and restoring audio, making it popular among musicians, sound designers, and podcasters. Users can work with multitrack sessions, apply effects, and utilize advanced features like spectral analysis and noise reduction. Audition supports various audio formats, enabling seamless integration with other Adobe Creative Cloud applications. Its intuitive interface and extensive audio manipulation capabilities make it a go-to choice for audio professionals and enthusiasts alike.
 
 ## References
 * [Adobe Audition](https://en.wikipedia.org/wiki/Adobe_Audition)
