@@ -1,4 +1,4 @@
-## What is a SESX file?
+## What is an SESX file?
 
 An SESX file is a session file created by Adobe Audition, a powerful audio production application. Unlike traditional audio files, `.sesx` files store a multitrack audio project in an XML format. This includes essential information about mixing, effects settings, and the organization of audio tracks within the session. Importantly, `.sesx` files do not contain the actual audio data. Instead, they save the pathnames to the audio files used in your project, allowing Audition to access the audio without embedding it in the session file.
 
