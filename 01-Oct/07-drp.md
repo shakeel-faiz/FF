@@ -27,3 +27,6 @@ It's essential to remember that **DRP files only contain a project’s data and 
 ## How to open DRP file
 
 To open a **DRP file** in **DaVinci Resolve**, launch the software and go to the **Project Manager**. Click on **Import Project** and locate your DRP file on your system. Select it, and the project will load into DaVinci Resolve. Ensure that the media files (videos, audio, images) referenced in the project are accessible, as DRP files only store the project settings and timeline, not the actual media. If media files are missing, you may need to **relink** them manually by navigating to the new file paths. Make sure you’re using a compatible version of DaVinci Resolve.
+
+## References
+* [DaVinci Resolve](https://en.wikipedia.org/wiki/DaVinci_Resolve)
