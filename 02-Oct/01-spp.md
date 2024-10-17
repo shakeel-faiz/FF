@@ -1,4 +1,4 @@
-What is an SPP file?
+## What is an SPP file?
 
 The SPP file format is associated with **Serif PhotoPlus**, a discontinued photo editing software developed by Serif. Files with the `.spp` extension are **Serif PhotoPlus Picture Files**, and they store images in a proprietary format. These files often include layers, effects, and other editing information that allow users to continue editing the image without losing quality or important details.
 
@@ -11,10 +11,13 @@ The key features of SPP files include
 ## How to open SPP file
 
 -   **Serif PhotoPlus** is the native software for opening and editing `.spp` files. However, as it has been discontinued, finding the software might be difficult.
--   **Alternative Options**: There are limited options to directly open SPP files in other programs, but you may convert `.spp` files into more common formats like `.jpg` or `.png` within PhotoPlus before transitioning to another editor.
+-   **Alternative Options**: There are limited options to directly open SPP files in other programs, but you may convert `.spp` files into more common formats like [.jpg][1] or [.png][2] within PhotoPlus before transitioning to another editor.
 
 **Note:**
 If you're looking for a new photo editing tool to replace PhotoPlus, you might consider software like **GIMP** or **Adobe Photoshop**, though these programs won't directly support `.spp` files.
 
 ## References
 * [Serif PhotoPlus](https://en.wikipedia.org/wiki/Serif_PhotoPlus)
+
+[1]: https://docs.fileformat.com/image/jpeg/
+[2]: https://docs.fileformat.com/image/png/
