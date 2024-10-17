@@ -37,6 +37,10 @@ Opening a **QCP file** requires specific software, as not all media players nati
 
 You can convert QCP files to [MP3][1] or [WAV][2] formats using online converters or dedicated audio conversion software like **Audacity** (with appropriate plugins).
 
+## What is PureVoice Audio?
+
+PureVoice Audio is a technology developed by RealNetworks, primarily designed for high-quality voice communication over the internet. This audio codec optimizes voice transmission by reducing bandwidth usage while maintaining clarity and fidelity. It is often used in applications like voice-over-IP (VoIP), video conferencing, and online gaming, where clear audio is essential. PureVoice leverages compression techniques to ensure efficient data transfer, allowing for smooth and reliable voice interactions even in varying network conditions
+
 ## References
 * [QCP](https://en.wikipedia.org/wiki/QCP)
 
