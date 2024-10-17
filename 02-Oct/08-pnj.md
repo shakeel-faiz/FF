@@ -1,0 +1,3 @@
+## What is a PNJ file?
+
+PNJ stands for **Portable Network JPEG**. It is an image file format that combines the features of **JPEG** (lossy compression for smaller file sizes) and **PNG** (support for transparency). This hybrid format compresses image data using JPEG's lossy compression but stores it in a PNG container, allowing for transparency (alpha channel). The format was created by the **PNG Development Group** for use in animations within **MNG (Multiple-Image Network Graphics)** files. However, the PNJ format was eventually renamed to **JNG (JPEG Network Graphic)**, and both PNJ and JNG are rarely used today.
