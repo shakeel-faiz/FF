@@ -17,3 +17,5 @@ To open PPF files, you typically need:
 
 CorelDRAW Graphics Suite 2024 does not natively support opening `.ppf` (Picture Publisher Image File) files, as the `.ppf` format is specific to Picture Publisher. While CorelDRAW can handle various graphic formats, direct compatibility with `.ppf` is not guaranteed. If you need to use a `.ppf` file in CorelDRAW, you have a few options. First, you can convert the file using an image conversion tool to a more widely accepted format, such as JPEG or PNG, which can be opened in CorelDRAW. Alternatively, you can open the `.ppf` file in Picture Publisher and then export or save it in a format compatible with CorelDRAW.
 
+## References
+* [Micrografx Inc](https://en.wikipedia.org/wiki/Micrografx)
