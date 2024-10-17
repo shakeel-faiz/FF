@@ -35,7 +35,7 @@ Opening a **QCP file** requires specific software, as not all media players nati
 
 ## How to convert QCP file
 
-You can convert QCP files to [MP3][1] or WAV formats using online converters or dedicated audio conversion software like **Audacity** (with appropriate plugins).
+You can convert QCP files to [MP3][1] or [WAV][2] formats using online converters or dedicated audio conversion software like **Audacity** (with appropriate plugins).
 
 ## References
 * [QCP](https://en.wikipedia.org/wiki/QCP)
