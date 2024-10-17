@@ -39,4 +39,4 @@ This is how **Msinfo32.exe** related to the `.nfo` format:
     -   It can also be opened with any text editor, though it’s not formatted for easy readability outside the Msinfo32 interface.
 
 ## References
-* [.nfo](https://en.wikipedia.org/wiki/.nfo)
+* [NFO File Format](https://en.wikipedia.org/wiki/.nfo)
