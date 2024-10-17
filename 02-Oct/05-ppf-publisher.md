@@ -4,7 +4,7 @@ The PPF file format, known as the **Picture Publisher Image File**, is associate
 
 ## How to open a PPF file
 
-To open `.ppf` files, you typically need:
+To open PPF files, you typically need:
 
 1.  **Picture Publisher**: The most reliable method is to use the original Picture Publisher software.
 2.  **Conversion Tools**: Some image conversion tools may allow you to convert `.ppf` files to more common formats like JPEG or PNG.
