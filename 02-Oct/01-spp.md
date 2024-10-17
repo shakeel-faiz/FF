@@ -16,6 +16,10 @@ The key features of SPP files include
 **Note:**
 If you're looking for a new photo editing tool to replace PhotoPlus, you might consider software like **GIMP** or **Adobe Photoshop**, though these programs won't directly support `.spp` files.
 
+## What is Serif PhotoPlus?
+
+Serif PhotoPlus is a graphic design and photo editing software developed by Serif. Aimed at both beginners and professionals, it offers a user-friendly interface and a range of tools for editing and enhancing images. Features include photo retouching, color correction, special effects, and layers for complex compositions. Users can create collages, design graphics for print or web, and utilize filters to achieve artistic effects. Although it has been discontinued, PhotoPlus remains popular among hobbyists for its affordability and accessibility, making it an excellent choice for those looking to explore digital photography and graphic design.
+
 ## References
 * [Serif PhotoPlus](https://en.wikipedia.org/wiki/Serif_PhotoPlus)
 
