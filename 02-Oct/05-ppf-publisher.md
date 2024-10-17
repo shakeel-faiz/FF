@@ -7,7 +7,7 @@ The PPF file format, known as the **Picture Publisher Image File**, is associate
 To open PPF files, you typically need:
 
 1.  **Picture Publisher**: The most reliable method is to use the original Picture Publisher software.
-2.  **Conversion Tools**: Some image conversion tools may allow you to convert `.ppf` files to more common formats like JPEG or PNG.
+2.  **Conversion Tools**: Some image conversion tools may allow you to convert `.ppf` files to more common formats like [JPEG][1] or [PNG][2].
 
 ## What is Picture Publisher?
 
@@ -15,7 +15,10 @@ To open PPF files, you typically need:
 
 ## Can PPF file be opened in CorelDRAW?
 
-CorelDRAW Graphics Suite 2024 does not natively support opening `.ppf` (Picture Publisher Image File) files, as the `.ppf` format is specific to Picture Publisher. While CorelDRAW can handle various graphic formats, direct compatibility with `.ppf` is not guaranteed. If you need to use a `.ppf` file in CorelDRAW, you have a few options. First, you can convert the file using an image conversion tool to a more widely accepted format, such as JPEG or PNG, which can be opened in CorelDRAW. Alternatively, you can open the `.ppf` file in Picture Publisher and then export or save it in a format compatible with CorelDRAW.
+CorelDRAW Graphics Suite 2024 does not natively support opening `.ppf` (Picture Publisher Image File) files, as the `.ppf` format is specific to Picture Publisher. While CorelDRAW can handle various graphic formats, direct compatibility with `.ppf` is not guaranteed. If you need to use a `.ppf` file in CorelDRAW, you have a few options. First, you can convert the file using an image conversion tool to a more widely accepted format, such as [JPEG][1] or [PNG][1], which can be opened in CorelDRAW. Alternatively, you can open the `.ppf` file in Picture Publisher and then export or save it in a format compatible with CorelDRAW.
 
 ## References
 * [Micrografx Inc](https://en.wikipedia.org/wiki/Micrografx)
+
+[1]: https://docs.fileformat.com/image/jpeg/
+[2]: https://docs.fileformat.com/image/png/
