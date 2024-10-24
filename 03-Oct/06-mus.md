@@ -2,7 +2,7 @@
 
 The `.mus` file is a legacy Finale Notation File format used by the **Finale** software, a popular music notation program developed by MakeMusic. This file type is designed to store musical scores, allowing composers, arrangers, and musicians to create, edit, and print sheet music. The `.mus` format holds data such as notes, rests, tempo markings, key signatures, time signatures, and other elements of a musical score.
 
-The key Features of the `.mus` file include:
+The key features of the `.mus` file include:
 
 -   **Editable Music Notation**: Allows users to work on sheet music, making adjustments to every element of a composition.
 -   **MIDI Integration**: It can store MIDI data, enabling playback of the composition using synthesized instruments.
