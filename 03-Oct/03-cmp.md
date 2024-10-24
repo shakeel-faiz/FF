@@ -41,6 +41,3 @@ If you want to manage or modify the profile rather than just viewing it, you'll 
 -   **Step 1**: Install CMAK (if it's not already installed). On some versions of Windows, it's available as an optional feature that can be added from **Windows Features**:
     -   Open **Settings** > **Apps** > **Optional Features** > **Add a Feature**, and search for **CMAK**.
 -   **Step 2**: Once CMAK is installed, you can use it to open the `.cmp` file and make changes to the profile settings.
-
-## References
-- N/A
