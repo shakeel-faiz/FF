@@ -1,6 +1,6 @@
 ## What is a CMP file?
 
-The `.cmp` file format related to **Windows Connection Manager Profile** is used for storing connection profiles on Windows operating systems. These profiles are typically utilized by the Connection Manager to define specific settings required to establish a network connection, such as dial-up, VPN, or direct network connections.
+The `.cmp` file format is related to **Windows Connection Manager Profile** and is used for storing connection profiles on Windows operating systems. These profiles are typically utilized by the Connection Manager to define specific settings required to establish a network connection, such as dial-up, VPN, or direct network connections.
 
 A `.cmp` file typically contains:
 
