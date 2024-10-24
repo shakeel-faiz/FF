@@ -22,4 +22,23 @@ The key features of HotDocs Component Files (.cmp) include
 
 HotDocs is a document automation software that allows users to create templates for generating documents quickly and efficiently. It enables the integration of data from various sources, streamlining the process of producing customized documents such as contracts, legal forms, and reports. By using HotDocs, organizations can enhance productivity, ensure consistency, and reduce the risk of errors in document creation. Its features include reusable components, data integration, and collaborative capabilities, making it a valuable tool for businesses and legal professionals.
 
+## How to open CMP file?
 
+To open a **.cmp file** related to HotDocs, follow these steps:
+
+1.  **Install HotDocs**: Ensure that you have HotDocs installed on your computer. If you don't have it, you can download it from the official HotDocs website or your organization’s software repository.
+    
+2.  **Launch HotDocs**: Open the HotDocs application on your computer.
+    
+3.  **Open the File**:
+    
+    -   In the HotDocs main interface, navigate to the menu bar and click on **File**.
+    -   Select **Open** from the dropdown menu.
+    -   In the file dialog that appears, browse to the location of your .cmp file.
+    -   Select the .cmp file and click **Open**.
+4.  **Edit or Utilize the Component**: Once opened, you can edit the .cmp file or use it in conjunction with other templates to create documents.
+    
+5.  **Save Changes**: If you make any modifications, be sure to save your changes by going to **File** > **Save** or **Save As**.
+
+## References
+- [HotDocs](https://en.wikipedia.org/wiki/HotDocs)
