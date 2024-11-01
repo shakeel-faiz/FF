@@ -17,6 +17,10 @@ The **.pfx** file format, short for **Personal Information Exchange**, is primar
 -   **Email Encryption and Digital Signing**: Email clients like Microsoft Outlook use PFX files for secure email communication.
 -   **Code Signing**: Developers can use PFX files to sign code or software for authenticity.
 
+## What is PKCS #12?
+
+PKCS #12 (Public Key Cryptography Standards #12) is a secure container format for bundling cryptographic objects, like private keys and certificates, into a single file. Often used in SSL/TLS setups, it allows safe transport of both a certificate and its private key, usually with the `.pfx` or `.p12` extensions. PKCS #12 files are password-protected and encrypted, providing a secure way to manage sensitive information across different platforms. This format is especially popular for SSL/TLS certificates, code signing, and email security, where privacy and integrity of keys and certificates are critical for authentication and encryption.
+
 ## How to open PFX file?
 
 You can open or use PFX files in the following ways.
