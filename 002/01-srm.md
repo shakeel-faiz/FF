@@ -6,7 +6,7 @@ SRM file is a Save Data file and associated with SNES emulator. It saves the pro
 
 ## How does SRM file work?
 
-SRM file is always generated when SNES games are played on SNES emulators e.g. ZSNES or Snes9x only if the game has a save functionality. This SRM file reflects the game state. So whenever the SRM file is loaded, it takes the player back to the state where the game was saved.
+SRM file is always generated when SNES games are played on SNES emulators e.g. ZSNES or Snes9x only if the game has a save functionality. This SRM file reflects the game state. So whenever the SRM file is loaded, it takes the player back to the state where the game was previously saved.
 
 
 
