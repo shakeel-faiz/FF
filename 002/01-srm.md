@@ -10,11 +10,13 @@ An SRM file is created whenever SNES games are played on SNES emulators, such as
 
 ## How to manage SRM file?
 
-Users can load or manage SRM file by using SNES emulators e.g. ZSNES, Snes9x or RetroArch.
+Users can load or manage SRM files using SNES emulators, such as ZSNES, Snes9x, or RetroArch.
 
-SRM files can also be used for backup and transfer. Players can share their SRM files with each other so that they could share their game progress with other users.
+SRM files can also be used for backup and transfer. Players can share their SRM files with each other to share their game progress.
 
+## Why Edit or Modify SRM Files?
 
+Some advanced users modify or edit SRM files to change certain values within the game, such as lives or items. For this purpose, hex editors are commonly used. However, caution is necessary, as incorrect editing can corrupt the SRM file.
 
 
 
