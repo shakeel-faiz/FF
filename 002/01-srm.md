@@ -18,5 +18,23 @@ SRM files can also be used for backup and transfer. Players can share their SRM 
 
 Some advanced users modify or edit SRM files to change certain values within the game, such as lives or items. For this purpose, hex editors are commonly used. However, caution is necessary, as incorrect editing can corrupt the SRM file.
 
+## How to open SRM file?
 
+To open an SRM file, you typically use an SNES emulator because it contains saved game data. Here is a step-by-step guide:
+
+1.  Choose an SNES emulator that supports SRM files, such as:
+    
+    -   ZSNES
+    -   Snes9x
+    -   RetroArch
+2.  Install the emulator.
+    
+3.  Load the game ROM.
+    
+4.  Load the SRM file.
+    
+5.  Play the game.
+   
+
+Make sure the .srm file has the same name as the ROM file (except for the extension) to ensure it loads correctly. It’s a good practice to back up your .srm files regularly to prevent data loss.
 
