@@ -9,3 +9,7 @@ If you are working on project that is not yet complete, saving in PDN format ena
 ## How to open PDN file?
 
 To open a .pdn file, you'll need to use Paint.NET, as it is the only software that can fully support this format.
+
+## What is Paint.NET?
+
+Paint.NET is a free image and photo editing software for Windows. It was originally developed as a student project at Washington State University as an alternative to Microsoft Paint. From that time, it is evolving into a powerful tool having features comparable to professional editors. It supports layers, special effects and other wide range of tools for editing. It is suitable for both beginners and advanced users. It has user friendly and intuitive interface and has active community that provides plugins to expand its functionality.
