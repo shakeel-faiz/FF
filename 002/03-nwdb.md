@@ -18,32 +18,32 @@ If you come across an error when trying to open an NWDB file, it may point out t
 
 To open an .nwdb file created by Neat 5, you need to use the Neat software directly. Here's how you can do that:
 
-1. Install Neat software
+1. **Install Neat software**
 
 Make sure that you have Neat 5 installed on your computer. If you don’t have it, you can download it from the Neat website.
 
-2. Locate Neat Data folder
+2. **Locate Neat Data folder**
 
 The .nwdb files are generally stored in Neat Data folder situated within your Documents folder. The path may resemble something like this:
 
 `C:\Users\<YourUsername>\Documents\Neat Data`
 
-3. Launch Neat 5
+3. **Launch Neat 5**
 
 Open the Neat 5 application on your computer.
 
-4. Import NWDB file
+4. **Import NWDB file**
 
 If the application doesn't automatically identify and open .nwdb file
 
 - Look for option to import files. This might be under File menu or an import button.
 - Navigate to the Neat Data folder and choose .nwdb file you want to open.
 
-5. Check for Associated Files:
+5. **Check for Associated Files**
 
 Make sure that all associated files are present in Neat Data folder. An NWDB file often depends on other files (like image files and cabinet files) to work properly. If any of these are missing, it might cause errors when trying to open the database.
 
-6. Open the Application:
+6. **Open the Application**
 
 Once you import the file, you should be able to access and manage your scanned documents and metadata within the Neat interface.
 
