@@ -1,3 +1,5 @@
+Score: 1%
+
 ## What is a PDN file?
 
 The PDN file format is the native format used by Paint.NET, which is a popular free image and photo editing software. The format is specifically designed to store images created or edited in Paint.NET application. The format preserves all layers, settings and effects that occur during editing the image so that user can continue to edit the images without worrying to lose original information relating to source image.
