@@ -1,3 +1,4 @@
+score:2%
 ## What is an NWDB file?
 
 The NWDB file format is known as the Neat Database File and is associated with **Neat 5** which is a digital document management application designed to organize scanned documents, receipts, and contacts. An NWDB file is created when user scans documents using Neat software. It contains images of these scanned documents along with metadata which helps in organizing and retrieving the files.
