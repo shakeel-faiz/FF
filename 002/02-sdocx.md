@@ -4,4 +4,6 @@ The SDOCX file format is associated with Samsung Notes which is used for creatin
 
 These files are only compatible with Samsung Notes and are commonly used on Samsung Galaxy devices and allow users to keep their notes organized; SDOCX files are essentially ZIP-compressed files that contain data files for each note element such as metadata, images and other attachments. The content inside SDOCX file is structured in various folders, these folders represent specific note elements (such as text or images); for this reason, SDOCX file can contain different types of media within single note.
 
+Samsung Notes can export SDOCX files and provides users with the option to convert these files into other formats, such as PDF, Microsoft Word (DOCX), or images. This feature helps users share them easily and view them on other devices.
+
 
