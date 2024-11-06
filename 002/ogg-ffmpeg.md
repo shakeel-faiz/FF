@@ -28,3 +28,36 @@ brew install ffmpeg
 sudo apt install ffmpeg
 ```
 
+2. **Run the Conversion Command.** This way, you can create OGG file from any Audio.
+
+Once FFmpeg is installed, open your terminal (or command prompt) and navigate to the directory containing the audio file you want to convert. Use the following command to create an OGG file:
+
+```
+ffmpeg -i inputfile.mp3 outputfile.ogg
+```
+
+-   **inputfile.mp3**: Replace this with the name of the file you want to convert. FFmpeg accepts many file formats, so you could use an MP3, WAV, or even a video file.
+-   **outputfile.ogg**: Replace this with the desired name of your new OGG file.
+
+**Example**
+
+If you have a file named `song.mp3` that you want to convert to `song.ogg`, the command would look like this:
+
+```
+ffmpeg -i song.mp3 song.ogg
+```
+
+2. **Adjust the Audio Bitrate.** This is optional.
+
+If you want to control the quality of the output OGG file, you can specify a bitrate. Bitrate refers to the amount of data encoded per second of audio and affects both file size and sound quality. A higher bitrate results in better sound but larger files.
+
+For example, to set the audio bitrate to 192 kbps, use this command:
+
+```
+ffmpeg -i inputfile.mp3 -b:a 192k outputfile.ogg
+```
+
+## Conclusion
+
+By using the commands given in this blog, you can convert any audio file into an OGG file. We hope you find this article helpful and that it meets your expectations.
+
