@@ -33,3 +33,16 @@ And to clean up old or unused files, you can use this command:
 ```
 brew cleanup
 ```
+
+## What are basic commands of Homebrew?
+
+After discussing the key features and benefits of Homebrew, let’s list some basic commands that will make it easier for you to use Homebrew. These basic Homebrew commands are:
+
+-   **Install a Package**: `brew install package_name`
+-   **Uninstall a Package**: `brew uninstall package_name`
+-   **Update Homebrew**: `brew update`
+-   **Upgrade Installed Packages**: `brew upgrade`
+-   **List Installed Packages**: `brew list`
+-   **Search for a Package**: `brew search package_name`
+  
+
