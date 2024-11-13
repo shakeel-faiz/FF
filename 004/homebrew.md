@@ -14,3 +14,5 @@ brew install git
 
 When you install software, it often has multiple dependencies that also need to be installed. However, Homebrew automatically handles this task for you. It not only installs the software but also installs its dependencies, reducing the chance of errors and making the process much easier.
 
+Homebrew is both customizable and extensible. When it comes to customization, Homebrew allows users to create custom "taps," which are additional repositories providing access to more software packages. Additionally, users can create their own "formulas," which are essentially installation scripts for software that isn’t available in the official Homebrew repository.
+
