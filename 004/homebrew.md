@@ -1,3 +1,5 @@
+In this blog, we’ll give you a brief introduction to Homebrew, a software package management tool. After reading this, you’ll learn a lot about Homebrew and be able to benefit from using it.
+
 ## What is Homebrew?
 
 Homebrew is a software package management tool that is free and open source. Using this software package, it is easy to install software on Apple OS, macOS, and Linux OS. It is called Homebrew because it is "home-made," meaning it was developed by hobbyists and enthusiasts rather than large companies or official developers. Homebrew was developed by Max Howell, but over time, it became popular within the Ruby on Rails community.
