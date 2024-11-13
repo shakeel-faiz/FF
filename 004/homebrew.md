@@ -6,13 +6,30 @@ The goal of Homebrew is to simplify the process of installing, updating, and man
 
 ## What are the key features and benefits of Homebrew?
 
-You can easily install or manage software through Homebrew. You just need to use a simple command, and through it, you can install, uninstall, or upgrade software packages. For example, if you want to install Git, you can use the following command to install Git.
+You can **easily install or manage software** through Homebrew. You just need to use a simple command, and through it, you can install, uninstall, or upgrade software packages. For example, if you want to install Git, you can use the following command to install Git.
 
 ```
 brew install git
 ```
 
-When you install software, it often has multiple dependencies that also need to be installed. However, Homebrew automatically handles this task for you. It not only installs the software but also installs its dependencies, reducing the chance of errors and making the process much easier.
+When you install software, it often has **multiple dependencies** that also need to be installed. However, Homebrew automatically handles this task for you. It not only installs the software but also installs its dependencies, reducing the chance of errors and making the process much easier.
 
-Homebrew is both customizable and extensible. When it comes to customization, Homebrew allows users to create custom "taps," which are additional repositories providing access to more software packages. Additionally, users can create their own "formulas," which are essentially installation scripts for software that isn’t available in the official Homebrew repository.
+Homebrew is both **customizable and extensible**. When it comes to customization, Homebrew allows users to create custom "taps," which are additional repositories providing access to more software packages. Additionally, users can create their own "formulas," which are essentially installation scripts for software that isn’t available in the official Homebrew repository.
 
+Homebrew's installation packages are quickly available, and it automatically installs the **latest updates**. If users want to ensure they have the latest version of Homebrew and its packages, they can use this specific command to update Homebrew with the latest changes.
+
+```
+brew update
+```
+
+Uninstalling software in Homebrew is just as easy as installing it. To uninstall a software package, you can use the following command:
+
+```
+brew uninstall package_name
+```
+
+And to clean up old or unused files, you can use this command:
+
+```
+brew cleanup
+```
