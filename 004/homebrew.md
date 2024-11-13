@@ -83,5 +83,41 @@ brew tap user/repository
 
 Bottles are precompiled binaries of software packages. When available, they save time by skipping the compilation process and allowing you to install software faster.
 
+## What are some advanced Homebrew commands?
+
+1. **Pinning Packages**
+
+If you don't want a specific package to be updated when you run `brew upgrade`, you can pin it.
+
+```
+brew pin package_name
+```
+
+2. **Version Management**
+
+Homebrew allows you to install specific versions of software if multiple versions are available. Some packages also let you install alternative versions (e.g. Python 2 and Python 3).
+
+```
+brew install package_name@version
+```
+
+3. **Viewing Package Info**
+
+You can get detailed information about a package’s dependencies, installation path and more.
+
+```
+brew info package_name
+```
+
+4. **Running Services**
+
+Homebrew includes functionality for starting and stopping services which is helpful for applications like MySQL or PostgreSQL that need to run continuously.
+
+```
+brew services start package_name
+brew services stop package_name
+```
+
+
 
 [1]: https://brew.sh/
