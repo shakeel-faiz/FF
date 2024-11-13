@@ -1,4 +1,4 @@
-In this blog, we’ll give you a brief introduction to Homebrew, a software package management tool. After reading this, you’ll learn a lot about Homebrew and be able to benefit from using it.
+In this blog, we'll give you a brief introduction to Homebrew, a software package management tool. After reading this, you’ll learn a lot about Homebrew and be able to benefit from using it.
 
 ## What is Homebrew?
 
@@ -120,6 +120,9 @@ brew services start package_name
 brew services stop package_name
 ```
 
+## Conclusion
 
+In this blog, we provided you with a basic introduction to Homebrew and shared some commonly used commands. We hope that after reading this article, you’re now quite familiar with Homebrew and ready to use it with ease. If you have any questions about Homebrew, feel free to ask them in [our forum][2]. Stay connected and stay happy!
 
 [1]: https://brew.sh/
+[2]: https://forum.fileformat.com/
