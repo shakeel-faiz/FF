@@ -16,3 +16,13 @@ Data refers to raw facts, figures or information that can be processed, analyzed
 
 For example, a list of temperatures recorded throughout the day is data and once analyzed, it can provide useful information like daily weather patterns. Data can be structured (organized in tables or databases) or unstructured (such as text or multimedia files).
 
+## What are different Types of Databases?
+
+- **Relational Databases**: Data is stored in structured tables, and relationships between tables are established through keys. Example: **MySQL**, **PostgreSQL**.
+    
+- **NoSQL Databases**: These are used for unstructured data like text, images, and videos. Examples include **MongoDB** and **Cassandra**.
+    
+- **Cloud Databases**: These databases are hosted on cloud platforms and offer scalability, flexibility, and remote access. Examples include **Amazon RDS** and **Google Cloud SQL**.
+    
+- **Distributed Databases**: In a distributed database, data is stored across multiple physical locations, allowing for improved fault tolerance and performance. Example: **Google Spanner**.
+
