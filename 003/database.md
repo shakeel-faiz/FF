@@ -53,3 +53,12 @@ There are several types of databases each designed for specific needs:
 ## What is Data Warehouse?
 
 A **data warehouse** is a specialized system designed to store and manage large amounts of historical data from multiple sources. It consolidates data from various operational databases and external sources into a single, centralized repository often structured in a way that supports complex queries and data analysis. Data warehouses are optimized for read-heavy operations such as reporting and business intelligence (BI) tasks. They use techniques like data cleaning, transformation and integration to ensure high-quality, consistent data for decision-making and strategic insights. Examples of data warehousing tools include **Amazon Redshift**, **Snowflake** and **Google BigQuery**.
+
+## What is OLTP Database?
+
+An **OLTP (Online Transaction Processing)** database is designed to manage real-time transactional data. It supports a high volume of short, frequent transactions such as order processing, banking transactions and inventory updates. OLTP databases prioritize speed, accuracy and data integrity, handling tasks like inserting, updating and deleting records. They are typically used in systems requiring real-time data entry and retrieval. Examples of OLTP systems include banking applications, e-commerce websites and airline reservation systems.
+
+## What is database as a service (DBaaS)?
+
+**DBaaS (Database as a Service)** is a cloud-based service that provides managed database solutions over the internet. With DBaaS, users can access, manage and scale databases without having to worry about the underlying hardware, software or database administration tasks. It offers flexibility, scalability and automation for tasks like backups, updates and security. Popular DBaaS providers include **Amazon RDS**, **Google Cloud SQL** and **Microsoft Azure SQL Database**.
+
