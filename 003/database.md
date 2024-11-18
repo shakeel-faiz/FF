@@ -6,7 +6,7 @@ Data in a database is organized in tables, files or other structures which makes
 
 A **Database Management System (DBMS)** is a software that helps manage and interact with databases. It ensures that data is stored, retrieved, and updated effectively. Examples of DBMS include MySQL, Oracle, PostgreSQL and Microsoft SQL Server.
 
-Databases ensure that data is consistent, accurate and accessible by enforcing rules, such as relationships between data elements (e.g. using primary keys and foreign keys).
+Databases ensure that data is consistent, accurate and accessible by enforcing rules such as relationships between data elements (e.g. using primary keys and foreign keys).
 
 Databases allow for efficient data retrieval using **SQL (Structured Query Language)** which is a language designed to query and manipulate relational databases.
 
