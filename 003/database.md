@@ -62,3 +62,7 @@ An **OLTP (Online Transaction Processing)** database is designed to manage real-
 
 **DBaaS (Database as a Service)** is a cloud-based service that provides managed database solutions over the internet. With DBaaS, users can access, manage and scale databases without having to worry about the underlying hardware, software or database administration tasks. It offers flexibility, scalability and automation for tasks like backups, updates and security. Popular DBaaS providers include **Amazon RDS**, **Google Cloud SQL** and **Microsoft Azure SQL Database**.
 
+## What is DBMS?
+
+A **DBMS (Database Management System)** is software that facilitates the creation, management and manipulation of databases. It provides a systematic way to store, retrieve and organize data, ensuring efficient access and control. A DBMS handles tasks such as data security, integrity, backup and concurrency. It allows users and applications to interact with databases using a variety of programming languages or query languages like SQL. Examples of DBMS include **MySQL**, **Oracle**, **Microsoft SQL Server** and **MongoDB**.
+
