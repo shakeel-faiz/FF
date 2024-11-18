@@ -16,7 +16,7 @@ Data refers to raw facts, figures or information that can be processed, analyzed
 
 For example, a list of temperatures recorded throughout the day is data and once analyzed, it can provide useful information like daily weather patterns. Data can be structured (organized in tables or databases) or unstructured (such as text or multimedia files).
 
-## What are Different Types of Databases?
+## What are Categories of Databases?
 
 - **Relational Databases**: A relational database is a type of database that stores data in tables with rows and columns. It uses structured query language (SQL) to manage and retrieve data based on relationships between tables. Example: **MySQL**, **PostgreSQL**.
     
@@ -34,3 +34,22 @@ Databases are used across various fields to store, manage and retrieve data such
 -   **Retail**: For tracking products, sales, and customer data.
 -   **Healthcare**: For storing patient information and medical records.
 -   **Education**: For managing student data, course details, and grades.
+
+## What are Types of Databases?
+
+There are several types of databases each designed for specific needs:
+
+1.  **Relational Databases (RDBMS)**: Use tables with rows and columns to store data and support SQL for querying. Examples: MySQL, PostgreSQL, Oracle.
+2.  **NoSQL Databases**: Designed for unstructured or semi-structured data, offering flexibility in data storage. Examples: MongoDB, Cassandra, Redis.
+3.  **In-Memory Databases**: Store data primarily in RAM for faster access. Examples: Redis, Memcached.
+4.  **Graph Databases**: Store data in graph structures with nodes, edges, and properties. Examples: Neo4j, ArangoDB.
+5.  **Object-Oriented Databases**: Store data in the form of objects, similar to how they are represented in object-oriented programming. Examples: ObjectDB, db4o.
+6.  **Columnar Databases**: Organize data in columns rather than rows, optimizing for read-heavy operations. Examples: Apache Cassandra, HBase.
+7.  **Document-Oriented Databases**: Store data as documents, typically in JSON or BSON format. Examples: MongoDB, CouchDB.
+8.  **Time-Series Databases**: Optimized for storing and querying time-stamped data. Examples: InfluxDB, TimescaleDB.
+9.  **Key-Value Databases**: Store data as key-value pairs, ideal for fast lookups. Examples: Redis, DynamoDB.
+10.  **Distributed Databases**: Data is distributed across multiple physical locations to ensure high availability and fault tolerance. Examples: Apache Cassandra, Google Spanner.
+
+## What is Data Warehouse?
+
+A **data warehouse** is a specialized system designed to store and manage large amounts of historical data from multiple sources. It consolidates data from various operational databases and external sources into a single, centralized repository often structured in a way that supports complex queries and data analysis. Data warehouses are optimized for read-heavy operations such as reporting and business intelligence (BI) tasks. They use techniques like data cleaning, transformation and integration to ensure high-quality, consistent data for decision-making and strategic insights. Examples of data warehousing tools include **Amazon Redshift**, **Snowflake** and **Google BigQuery**.
