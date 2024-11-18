@@ -20,7 +20,7 @@ For example, a list of temperatures recorded throughout the day is data and once
 
 - **Relational Databases**: A relational database is a type of database that stores data in tables with rows and columns. It uses structured query language (SQL) to manage and retrieve data based on relationships between tables. Example: **MySQL**, **PostgreSQL**.
     
-- **NoSQL Databases**: A NoSQL database is a non-relational database that stores data in a flexible, scalable way, often using key-value pairs, documents,or graphs. It is designed to handle large volumes of unstructured or semi-structured data like text, images and videos. Examples include **MongoDB** and **Cassandra**.
+- **NoSQL Databases**: A NoSQL database is a non-relational database that stores data in a flexible, scalable way, often using key-value pairs, documents or graphs. It is designed to handle large volumes of unstructured or semi-structured data like text, images and videos. Examples include **MongoDB** and **Cassandra**.
     
 - **Cloud Databases**: These databases are hosted on cloud platforms and offer scalability, flexibility, and remote access. Examples include **Amazon RDS** and **Google Cloud SQL**.
     
