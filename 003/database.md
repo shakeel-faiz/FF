@@ -66,3 +66,6 @@ An **OLTP (Online Transaction Processing)** database is designed to manage real-
 
 A **DBMS (Database Management System)** is software that facilitates the creation, management and manipulation of databases. It provides a systematic way to store, retrieve and organize data, ensuring efficient access and control. A DBMS handles tasks such as data security, integrity, backup and concurrency. It allows users and applications to interact with databases using a variety of programming languages or query languages like SQL. Examples of DBMS include **MySQL**, **Oracle**, **Microsoft SQL Server** and **MongoDB**.
 
+## What is RDBMS?
+
+An **RDBMS (Relational Database Management System)** is a type of database management system that stores data in structured tables, using rows and columns. It follows the relational model where data is organized into relations (tables) that can be linked using primary and foreign keys. RDBMS supports SQL (Structured Query Language) for querying and managing data, ensuring data integrity, consistency and security. Popular RDBMS examples include **MySQL**, **PostgreSQL**, **Oracle**, and **Microsoft SQL Server**.
