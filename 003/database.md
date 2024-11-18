@@ -10,5 +10,9 @@ Databases ensure that data is consistent, accurate and accessible by enforcing r
 
 Databases allow for efficient data retrieval using **SQL (Structured Query Language)** which is a language designed to query and manipulate relational databases.
 
+## What is Data?
 
+Data refers to raw facts, figures or information that can be processed, analyzed or stored. It can exist in many forms such as numbers, text, images or even sounds and is often used to describe attributes, properties or measurements of things. Data is typically the starting point for information when processed or analyzed to reveal meaning or insights. 
+
+For example, a list of temperatures recorded throughout the day is data and once analyzed, it can provide useful information like daily weather patterns. Data can be structured (organized in tables or databases) or unstructured (such as text or multimedia files).
 
