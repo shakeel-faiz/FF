@@ -48,7 +48,7 @@ When talking about DBMS, a question that comes to mind is what components does a
 
 - **Database Manager**. Manages the overall operation of the DBMS, including tasks like transaction management, [concurrency control][8], and enforcing database integrity.
 
-- **Transaction Manager**. Ensures that database transactions are executed reliably and follow the ACID (Atomicity, Consistency, Isolation, Durability) properties. It coordinates rollbacks and commits for data consistency.
+- **Transaction Manager**. Ensures that database transactions are executed reliably and follow the [ACID][9] (Atomicity, Consistency, Isolation, Durability) properties. It coordinates rollbacks and commits for data consistency.
 
 - **Storage Manager**. Manages the physical storage of data on disk, including how data is stored, indexed, and retrieved. It ensures data is efficiently stored and allows for fast access.
 
@@ -99,3 +99,4 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [6]: https://en.wikipedia.org/wiki/Relational_database
 [7]: https://en.wikipedia.org/wiki/Database_administration
 [8]: https://en.wikipedia.org/wiki/Concurrency_control
+[9]: https://en.wikipedia.org/wiki/ACID
