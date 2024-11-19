@@ -70,7 +70,7 @@ Now, we will briefly tell you about some types of DBMS. There are several types 
 
 - **NoSQL DBMS**. Designed to handle unstructured, semi-structured or large volumes of data that doesn't fit well into tables. It's highly scalable and flexible. Examples: [MongoDB][21], [Cassandra][22], Redis.
 
-- **NewSQL DBMS**. A modern version of RDBMS designed to provide the scalability and flexibility of NoSQL systems while maintaining the traditional relational structure. Example: Google Spanner, CockroachDB.
+- **NewSQL DBMS**. A modern version of RDBMS designed to provide the scalability and flexibility of NoSQL systems while maintaining the traditional relational structure. Example: [Google Spanner][23], [CockroachDB][24].
 
 ## What are the popular DBMS (Database Managment Systems)?
 
@@ -113,3 +113,5 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [20]: https://en.wikipedia.org/wiki/ObjectDB
 [21]: https://en.wikipedia.org/wiki/MongoDB
 [22]: https://en.wikipedia.org/wiki/Apache_Cassandra
+[23]: https://en.wikipedia.org/wiki/Spanner_(database)
+[24]: https://en.wikipedia.org/wiki/CockroachDB
