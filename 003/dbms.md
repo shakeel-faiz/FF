@@ -38,7 +38,21 @@ You might wonder what a DBMS does and what its functions are. Earlier, we briefl
 
 When talking about DBMS, a question that comes to mind is what components does a DBMS have and how does it work? A Database Management System (DBMS) consists of several key components that work together to manage and interact with the data. The main components are:
 
+- **Database Engine**. The core component that manages the storage, retrieval, and manipulation of data. It ensures that data is organized, stored, and accessible efficiently.
 
+- **Database Schema**. The structure that defines the organization of the database, including tables, views, relationships, indexes, and constraints. It provides a blueprint for how the data is organized and accessed.
+
+- **Query Processor**. Responsible for interpreting and executing database queries (often written in SQL). It translates high-level queries into low-level operations to retrieve or modify data efficiently.
+
+- **Database Manager**. Manages the overall operation of the DBMS, including tasks like transaction management, concurrency control, and enforcing database integrity.
+
+- **Transaction Manager**. Ensures that database transactions are executed reliably and follow the ACID (Atomicity, Consistency, Isolation, Durability) properties. It coordinates rollbacks and commits for data consistency.
+
+- **Storage Manager**. Manages the physical storage of data on disk, including how data is stored, indexed, and retrieved. It ensures data is efficiently stored and allows for fast access.
+
+- **Security and Authorization Manager**. Handles user authentication and access control, ensuring that only authorized users can perform specific operations on the database.
+
+- **Backup and Recovery Manager**. Manages backup processes to safeguard against data loss and enables recovery of the database to a consistent state in case of failure.
 
 
 
