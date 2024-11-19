@@ -101,4 +101,4 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [8]: https://en.wikipedia.org/wiki/Concurrency_control
 [9]: https://en.wikipedia.org/wiki/ACID
 [10]: https://en.wikipedia.org/wiki/NoSQL
-[11}: https://en.wikipedia.org/wiki/Database_transaction
+[11]: https://en.wikipedia.org/wiki/Database_transaction
