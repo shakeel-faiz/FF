@@ -2,7 +2,7 @@
 
 A Database Management System (DBMS) is software that allows users to create, manage and interact with [databases][2]. It provides a structured way to store, retrieve and manipulate data efficiently, ensuring that data remains organized, accessible and secure. With a DBMS, users can perform various operations like adding, updating, deleting and querying data often without needing to know the underlying complexities of data storage.
 
-**DBMS Key Functions**
+***DBMS Key Functions***
 
 The key functions of a DBMS encompass several critical aspects of [data management][3]. Firstly, a DBMS provides an organized framework for data storage, ensuring that information is systematically stored for easy access. In relational databases, for instance, data is organized into tables, making it straightforward to locate and manage.
 
