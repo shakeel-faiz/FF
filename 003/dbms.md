@@ -15,7 +15,9 @@ Finally, a DBMS supports data backup and recovery, ensuring that data can be res
 There are different types of DBMS e.g.
 
 - **Relational DBMS (RDBMS)**: These DBMS deals with relational databases. They organize the data in the form of tables and their relationships. Prominent RDBMS are MySQL, PostgreSQL and Oracle.
+
 - **NoSQL DBMS**: NoSQL stands for "Not Only SQL". NoSQL DBMS deals non-tabular data. These DBMS are more flexible in handling large volumes of unstructured data, like MongoDB and Cassandra.
+
 - **Hierarchical and Network DBMS**: Such DBMS store data in tree-like or graph structures.
 
 ## What does a DBMS do?
