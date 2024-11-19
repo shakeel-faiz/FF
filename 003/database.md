@@ -1,10 +1,10 @@
 ## What is Database?
 
-A database is an organized collection of data commonly stored and processed by a computer system. It is designed to store, retrieve and manipulate large amounts of structured or unstructured data. Databases are commonly used in various applications such as businesses, banks, schools, websites and more where data needs to be organized and accessed quickly.
+A database is an organized collection of [data][1] commonly stored and processed by a computer system. It is designed to store, retrieve and manipulate large amounts of structured or unstructured data. Databases are commonly used in various applications such as businesses, banks, schools, websites and more where data needs to be organized and accessed quickly.
 
 Data in a database is organized in tables, files or other structures which makes it easier to manage and access.
 
-A **Database Management System (DBMS)** is a software that helps manage and interact with databases. It ensures that data is stored, retrieved, and updated effectively. Examples of DBMS include MySQL, Oracle, PostgreSQL and Microsoft SQL Server.
+A **Database Management System (DBMS)** is a [software][2] that helps manage and interact with databases. It ensures that data is stored, retrieved, and updated effectively. Examples of DBMS include MySQL, Oracle, PostgreSQL and Microsoft SQL Server.
 
 Databases ensure that data is consistent, accurate and accessible by enforcing rules such as relationships between data elements (e.g. using primary keys and foreign keys).
 
@@ -18,7 +18,7 @@ For example, a list of temperatures recorded throughout the day is data and once
 
 ## What are Categories of Databases?
 
-- **Relational Databases**: A relational database is a type of database that stores data in tables with rows and columns. It uses structured query language (SQL) to manage and retrieve data based on relationships between tables. Example: **MySQL**, **PostgreSQL**.
+- **Relational Databases**: A [relational database][3] is a type of database that stores data in tables with rows and columns. It uses structured query language (SQL) to manage and retrieve data based on relationships between tables. Example: **MySQL**, **PostgreSQL**.
     
 - **NoSQL Databases**: A NoSQL database is a non-relational database that stores data in a flexible, scalable way, often using key-value pairs, documents or graphs. It is designed to handle large volumes of unstructured or semi-structured data like text, images and videos. Examples include **MongoDB** and **Cassandra**.
     
@@ -52,15 +52,15 @@ There are several types of databases each designed for specific needs:
 
 ## What is Data Warehouse?
 
-A **data warehouse** is a specialized system designed to store and manage large amounts of historical data from multiple sources. It consolidates data from various operational databases and external sources into a single, centralized repository often structured in a way that supports complex queries and data analysis. Data warehouses are optimized for read-heavy operations such as reporting and business intelligence (BI) tasks. They use techniques like data cleaning, transformation and integration to ensure high-quality, consistent data for decision-making and strategic insights. Examples of data warehousing tools include **Amazon Redshift**, **Snowflake** and **Google BigQuery**.
+A **data warehouse** is a specialized system designed to store and manage large amounts of historical data from multiple sources. It consolidates data from various operational databases and external sources into a single, centralized repository often structured in a way that supports complex queries and data analysis. [Data warehouses][6] are optimized for read-heavy operations such as reporting and business intelligence (BI) tasks. They use techniques like data cleaning, transformation and integration to ensure high-quality, consistent data for decision-making and strategic insights. Examples of data warehousing tools include **Amazon Redshift**, **Snowflake** and **Google BigQuery**.
 
 ## What is OLTP Database?
 
-An **OLTP (Online Transaction Processing)** database is designed to manage real-time transactional data. It supports a high volume of short, frequent transactions such as order processing, banking transactions and inventory updates. OLTP databases prioritize speed, accuracy and data integrity, handling tasks like inserting, updating and deleting records. They are typically used in systems requiring real-time data entry and retrieval. Examples of OLTP systems include banking applications, e-commerce websites and airline reservation systems.
+An **OLTP (Online Transaction Processing)** database is designed to manage real-time transactional data. It supports a high volume of short, frequent transactions such as order processing, banking transactions and inventory updates. [OLTP databases][5] prioritize speed, accuracy and data integrity, handling tasks like inserting, updating and deleting records. They are typically used in systems requiring real-time data entry and retrieval. Examples of OLTP systems include banking applications, e-commerce websites and airline reservation systems.
 
 ## What is database as a service (DBaaS)?
 
-**DBaaS (Database as a Service)** is a cloud-based service that provides managed database solutions over the internet. With DBaaS, users can access, manage and scale databases without having to worry about the underlying hardware, software or database administration tasks. It offers flexibility, scalability and automation for tasks like backups, updates and security. Popular DBaaS providers include **Amazon RDS**, **Google Cloud SQL** and **Microsoft Azure SQL Database**.
+**DBaaS (Database as a Service)** is a cloud-based service that provides managed database solutions over the internet. With [DBaaS][7], users can access, manage and scale databases without having to worry about the underlying hardware, software or database administration tasks. It offers flexibility, scalability and automation for tasks like backups, updates and security. Popular DBaaS providers include **Amazon RDS**, **Google Cloud SQL** and **Microsoft Azure SQL Database**.
 
 ## What is DBMS?
 
@@ -72,11 +72,11 @@ An **RDBMS (Relational Database Management System)** is a type of database manag
 
 ## What is the difference between a Database and a Data Warehouse?
 
-A database is used for day-to-day operations and transactions while a data warehouse is used for storing and analyzing large volumes of historical data. Data warehouses are optimized for read-heavy operations like business intelligence and reporting.
+A database is used for day-to-day operations and transactions while a [data warehouse][6] is used for storing and analyzing large volumes of historical data. Data warehouses are optimized for read-heavy operations like business intelligence and reporting.
 
 ## What is ACID compliance in databases?
 
-ACID stands for Atomicity, Consistency, Isolation and Durability, which are four properties that ensure reliable processing of database transactions. These properties help ensure that the database remains accurate and stable even in the case of failures or crashes.
+[ACID][4] stands for Atomicity, Consistency, Isolation and Durability, which are four properties that ensure reliable processing of database transactions. These properties help ensure that the database remains accurate and stable even in the case of failures or crashes.
 
 ## Brief History of Database
 
@@ -89,3 +89,11 @@ The 1990s saw the rise of **NoSQL databases**, which emerged in response to the 
 As the internet and cloud computing grew in the 2000s, the demand for flexible and scalable data storage solutions increased. **Cloud-based databases**, like **Amazon RDS**, enabled businesses to store and manage data remotely, reducing costs and increasing accessibility. Additionally, the era saw the rise of **big data** technologies, which were designed to handle petabytes of data from sources like sensors, social media, and financial markets.
 
 In the 2010s, the database landscape continued to evolve with specialized technologies such as **graph databases** (e.g., **Neo4j**) and **in-memory databases** (e.g., **Redis**), which were optimized for specific use cases like analyzing relationships between data points and performing real-time analytics. Today, databases play a central role in nearly every industry, powering everything from transactional systems to advanced analytics and machine learning applications.
+
+[1]: https://en.wikipedia.org/wiki/Data
+[2]: https://en.wikipedia.org/wiki/Software
+[3]: https://en.wikipedia.org/wiki/Relational_database
+[4]: https://en.wikipedia.org/wiki/ACID
+[5]: https://en.wikipedia.org/wiki/Online_transaction_processing
+[6]: https://en.wikipedia.org/wiki/Data_warehouse
+[7]: https://en.wikipedia.org/wiki/Cloud_database
