@@ -1,20 +1,20 @@
 ## What is a database management system (DBMS)?
 
-A Database Management System (DBMS) is software that allows users to create, manage and interact with databases. It provides a structured way to store, retrieve and manipulate data efficiently, ensuring that data remains organized, accessible and secure. With a DBMS, users can perform various operations like adding, updating, deleting and querying data often without needing to know the underlying complexities of data storage.
+A Database Management System (DBMS) is software that allows users to create, manage and interact with [databases][2]. It provides a structured way to store, retrieve and manipulate data efficiently, ensuring that data remains organized, accessible and secure. With a DBMS, users can perform various operations like adding, updating, deleting and querying data often without needing to know the underlying complexities of data storage.
 
 **DBMS Key Functions**
 
-The key functions of a DBMS encompass several critical aspects of data management. Firstly, a DBMS provides an organized framework for data storage, ensuring that information is systematically stored for easy access. In relational databases, for instance, data is organized into tables, making it straightforward to locate and manage.
+The key functions of a DBMS encompass several critical aspects of [data management][3]. Firstly, a DBMS provides an organized framework for data storage, ensuring that information is systematically stored for easy access. In relational databases, for instance, data is organized into tables, making it straightforward to locate and manage.
 
-Secondly, DBMS facilitates efficient data retrieval, enabling users to perform quick searches and queries using languages like SQL (Structured Query Language). Additionally, it supports data manipulation, allowing users to add, update, or delete records as needed, making data management highly adaptable.
+Secondly, DBMS facilitates efficient [data retrieval][4], enabling users to perform quick searches and queries using languages like SQL (Structured Query Language). Additionally, it supports data manipulation, allowing users to add, update, or delete records as needed, making data management highly adaptable.
 
-Another essential function of a DBMS is data security and access control. It helps protect sensitive information by managing user permissions and preventing unauthorized access. Furthermore, DBMS maintains data integrity by enforcing rules that uphold data accuracy and consistency, preserving reliable information across the database.
+Another essential function of a DBMS is [data security][5] and access control. It helps protect sensitive information by managing user permissions and preventing unauthorized access. Furthermore, DBMS maintains data integrity by enforcing rules that uphold data accuracy and consistency, preserving reliable information across the database.
 
 Finally, a DBMS supports data backup and recovery, ensuring that data can be restored in case of unexpected loss or system failure. These functions make DBMS a comprehensive solution for efficient and secure data management.
 
 There are different types of DBMS e.g.
 
-- **Relational DBMS (RDBMS)**: These DBMS deals with relational databases. They organize the data in the form of tables and their relationships. Prominent RDBMS are MySQL, PostgreSQL and Oracle.
+- **Relational DBMS (RDBMS)**: These DBMS deals with [relational databases][6]. They organize the data in the form of tables and their relationships. Prominent RDBMS are MySQL, PostgreSQL and Oracle.
 
 - **NoSQL DBMS**: NoSQL stands for "Not Only SQL". NoSQL DBMS deals non-tabular data. These DBMS are more flexible in handling large volumes of unstructured data, like MongoDB and Cassandra.
 
@@ -92,19 +92,8 @@ Here are 10 popular DBMS (Database Management Systems):
 In this article, we discussed DBMS, its key functions, its components and finally its types. We hope that after reading this, many of your questions regarding DBMS have been answered. If you have any specific questions that were not addressed, feel free to ask them in [our forum][1]. Keep reading and stay connected.
 
 [1]: https://forum.fileformat.com/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[2]: https://en.wikipedia.org/wiki/Database
+[3]: https://en.wikipedia.org/wiki/Data_management
+[4]: https://en.wikipedia.org/wiki/Data_retrieval
+[5]: https://en.wikipedia.org/wiki/Data_security
+[6]: https://en.wikipedia.org/wiki/Relational_database
