@@ -20,7 +20,9 @@ There are different types of DBMS e.g.
 
 ## What does a DBMS do?
 
-You might wonder what a DBMS does and what its functions are. A **Database Management System (DBMS)** is responsible for managing and organizing data in a structured way, allowing users to interact with databases efficiently. The following are common functions that a DBMS performs:
+You might wonder what a DBMS does and what its functions are. Earlier, we briefly discussed the key functions of DBMS. We will now shed more light on them. 
+
+A **Database Management System (DBMS)** is responsible for managing and organizing data in a structured way, allowing users to interact with databases efficiently. The following are common functions that a DBMS performs:
 
 - **Administration Tasks**. DBMS supports various administration tasks. These tasks include user access and security management, backup and recovery, performance monitoring and tuning, data integrity and consistency, change management, transaction management, automated rollbacks and restarts, logging and auditing, and concurrency control.
 
