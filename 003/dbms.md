@@ -72,6 +72,21 @@ Now, we will briefly tell you about some types of DBMS. There are several types 
 
 - **NewSQL DBMS**. A modern version of RDBMS designed to provide the scalability and flexibility of NoSQL systems while maintaining the traditional relational structure. Example: Google Spanner, CockroachDB.
 
+## What are the popular DBMS (Database Managment Systems)?
+
+Here are 10 popular DBMS (Database Management Systems):
+
+1.  **Oracle Database**
+2.  **MySQL**
+3.  **Microsoft SQL Server**
+4.  **PostgreSQL**
+5.  **SQLite**
+6.  **MongoDB**
+7.  **IBM Db2**
+8.  **MariaDB**
+9.  **Cassandra**
+10.  **Amazon Aurora**
+
 ## Conclusion
 
 In this article, we discussed DBMS, its key functions, its components and finally its types. We hope that after reading this, many of your questions regarding DBMS have been answered. If you have any specific questions that were not addressed, feel free to ask them in [our forum][1]. Keep reading and stay connected.
