@@ -26,7 +26,7 @@ You might wonder what a DBMS does and what its functions are. Earlier, we briefl
 
 - **Administration Tasks**. DBMS supports various [administration tasks][7]. These tasks include user access and security management, backup and recovery, performance monitoring and tuning, data integrity and consistency, change management, transaction management, automated rollbacks and restarts, logging and auditing, and [concurrency control][8].
 
-- **Data Storage, Organization, Retrieval, and Manipulation**. A DBMS stores data in an organized manner, usually in tables, which makes it easier to retrieve and manage. Data is stored in a way that supports easy access, modification and deletion. It allows users to retrieve data using queries. For relational databases, this typically means using SQL (Structured Query Language) to request specific information from the database. DBMS enables users to insert, update or delete data. It provides tools to modify records in the database, ensuring data is up-to-date and accurate.
+- **Data Storage, Organization, Retrieval, and Manipulation**. A DBMS stores data in an organized manner, usually in [tables][14], which makes it easier to retrieve and manage. Data is stored in a way that supports easy access, modification and deletion. It allows users to retrieve data using queries. For relational databases, this typically means using SQL (Structured Query Language) to request specific information from the database. DBMS enables users to insert, update or delete data. It provides tools to modify records in the database, ensuring data is up-to-date and accurate.
 
 - **Data Security and Data Integrity**. A DBMS provides security features like **user authentication** and **access control**, ensuring that only authorized users can perform certain actions (like viewing or modifying sensitive data). It can also encrypt data to protect it from unauthorized access. It enforces **data integrity** by applying rules, such as ensuring that all data entered into the database is valid (e.g. numbers where numbers should be, no missing fields, etc.). This includes maintaining relationships between tables (in relational DBMS) and ensuring data consistency.
 
@@ -42,7 +42,7 @@ When talking about DBMS, a question that comes to mind is what components does a
 
 - **Database Engine**. The core component that manages the storage, retrieval, and manipulation of data. It ensures that data is organized, stored, and accessible efficiently.
 
-- **Database Schema**. The structure that defines the organization of the database, including tables, views, relationships, indexes, and constraints. It provides a blueprint for how the data is organized and accessed.
+- **Database Schema**. The structure that defines the organization of the database, including [tables][14], views, relationships, indexes, and constraints. It provides a blueprint for how the data is organized and accessed.
 
 - **Query Processor**. Responsible for interpreting and executing database queries (often written in SQL). It translates high-level queries into low-level operations to retrieve or modify data efficiently.
 
@@ -60,15 +60,15 @@ When talking about DBMS, a question that comes to mind is what components does a
 
 Now, we will briefly tell you about some types of DBMS. There are several types of Database Management Systems (DBMS), each designed to meet specific needs. The main types are:
 
-- **Hierarchical DBMS**. Organizes data in a tree-like structure with parent-child relationships. Data is stored in records connected through links. Example: IBM’s Information Management System (IMS).
+- **Hierarchical DBMS**. Organizes data in a tree-like structure with parent-child relationships. Data is stored in records connected through links. Example: [IBM’s Information Management System (IMS)][12].
 
-- **Network DBMS**. Similar to the hierarchical model, but allows more complex relationships with multiple parent-child links, forming a graph-like structure. Example: Integrated Data Store (IDS).
+- **Network DBMS**. Similar to the hierarchical model, but allows more complex relationships with multiple parent-child links, forming a graph-like structure. Example: [Integrated Data Store (IDS)][13].
 
-- **Relational DBMS (RDBMS)**. Organizes data into tables (relations) with rows and columns, allowing complex queries and relationships through keys. This is the most common DBMS type. Examples: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
+- **Relational DBMS (RDBMS)**. Organizes data into tables (relations) with rows and columns, allowing complex queries and relationships through keys. This is the most common DBMS type. Examples: [MySQL][15], [PostgreSQL][16], [Oracle][17], [Microsoft SQL Server][18].
 
-- **Object-Oriented DBMS (OODBMS)**. Stores data as objects, similar to how object-oriented programming works. It integrates database capabilities with object-oriented programming languages. Example: db4o, ObjectDB.
+- **Object-Oriented DBMS (OODBMS)**. Stores data as objects, similar to how object-oriented programming works. It integrates database capabilities with object-oriented programming languages. Example: [db4o][19], [ObjectDB][20].
 
-- **NoSQL DBMS**. Designed to handle unstructured, semi-structured or large volumes of data that doesn't fit well into tables. It's highly scalable and flexible. Examples: MongoDB, Cassandra, Redis.
+- **NoSQL DBMS**. Designed to handle unstructured, semi-structured or large volumes of data that doesn't fit well into tables. It's highly scalable and flexible. Examples: [MongoDB][21], [Cassandra][22], Redis.
 
 - **NewSQL DBMS**. A modern version of RDBMS designed to provide the scalability and flexibility of NoSQL systems while maintaining the traditional relational structure. Example: Google Spanner, CockroachDB.
 
@@ -102,3 +102,14 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [9]: https://en.wikipedia.org/wiki/ACID
 [10]: https://en.wikipedia.org/wiki/NoSQL
 [11]: https://en.wikipedia.org/wiki/Database_transaction
+[12]: https://en.wikipedia.org/wiki/IBM_Information_Management_System
+[13]: https://en.wikipedia.org/wiki/Integrated_Data_Store
+[14]: https://en.wikipedia.org/wiki/Table_(database)
+[15]: https://en.wikipedia.org/wiki/MySQL
+[16]: https://en.wikipedia.org/wiki/PostgreSQL
+[17]: https://en.wikipedia.org/wiki/Oracle_Database
+[18]: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+[19]: https://en.wikipedia.org/wiki/Db4o
+[20]: https://en.wikipedia.org/wiki/ObjectDB
+[21]: https://en.wikipedia.org/wiki/MongoDB
+[22]: https://en.wikipedia.org/wiki/Apache_Cassandra
