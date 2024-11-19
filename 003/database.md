@@ -1,3 +1,5 @@
+In this blog, we will discuss databases and common questions that come to mind about them. We'll cover topics like what data is, the categories and types of databases, what a data warehouse is, the history of databases and more. Let's move forward!
+
 ## What is Database?
 
 A database is an organized collection of [data][1] commonly stored and processed by a computer system. It is designed to store, retrieve and manipulate large amounts of structured or unstructured data. Databases are commonly used in various applications such as businesses, banks, schools, websites and more where data needs to be organized and accessed quickly.
