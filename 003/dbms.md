@@ -54,6 +54,31 @@ When talking about DBMS, a question that comes to mind is what components does a
 
 - **Backup and Recovery Manager**. Manages backup processes to safeguard against data loss and enables recovery of the database to a consistent state in case of failure.
 
+## What are types of DBMS?
+
+Now, we will briefly tell you about some types of DBMS. There are several types of Database Management Systems (DBMS), each designed to meet specific needs. The main types are:
+
+- **Hierarchical DBMS**. Organizes data in a tree-like structure with parent-child relationships. Data is stored in records connected through links. Example: IBM’s Information Management System (IMS).
+
+- **Network DBMS**. Similar to the hierarchical model, but allows more complex relationships with multiple parent-child links, forming a graph-like structure. Example: Integrated Data Store (IDS).
+
+- **Relational DBMS (RDBMS)**. Organizes data into tables (relations) with rows and columns, allowing complex queries and relationships through keys. This is the most common DBMS type. Examples: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
+
+- **Object-Oriented DBMS (OODBMS)**. Stores data as objects, similar to how object-oriented programming works. It integrates database capabilities with object-oriented programming languages. Example: db4o, ObjectDB.
+
+- **NoSQL DBMS**. Designed to handle unstructured, semi-structured or large volumes of data that doesn't fit well into tables. It's highly scalable and flexible. Examples: MongoDB, Cassandra, Redis.
+
+- **NewSQL DBMS**. A modern version of RDBMS designed to provide the scalability and flexibility of NoSQL systems while maintaining the traditional relational structure. Example: Google Spanner, CockroachDB.
+
+## Conclusion
+
+In this article, we discussed DBMS, its key functions, its components and finally its types. We hope that after reading this, many of your questions regarding DBMS have been answered. If you have any specific questions that were not addressed, feel free to ask them in [our forum][1]. Keep reading and stay connected.
+
+[1]: https://forum.fileformat.com/
+
+
+
+
 
 
 
