@@ -90,6 +90,10 @@ As the internet and cloud computing grew in the 2000s, the demand for flexible a
 
 In the 2010s, the database landscape continued to evolve with specialized technologies such as **graph databases** (e.g., **Neo4j**) and **in-memory databases** (e.g., **Redis**), which were optimized for specific use cases like analyzing relationships between data points and performing real-time analytics. Today, databases play a central role in nearly every industry, powering everything from transactional systems to advanced analytics and machine learning applications.
 
+## Conclusion
+
+In this article, we briefly discussed databases and related terminology. We covered different categories and types of databases and explored various questions that a typical user might have about databases. Hopefully, after reading this article, you’ll have gained more information about databases. Take care and stay connected.
+
 [1]: https://en.wikipedia.org/wiki/Data
 [2]: https://en.wikipedia.org/wiki/Software
 [3]: https://en.wikipedia.org/wiki/Relational_database
