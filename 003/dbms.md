@@ -1,6 +1,6 @@
 ## What is a database management system (DBMS)?
 
-A Database Management System (DBMS) is software that allows users to create, manage and interact with [databases][2]. It provides a structured way to store, retrieve and manipulate data efficiently, ensuring that data remains organized, accessible and secure. With a DBMS, users can perform various operations like adding, updating, deleting and querying data often without needing to know the underlying complexities of data storage.
+A **Database Management System (DBMS)** is software that allows users to create, manage and interact with [databases][2]. It provides a structured way to store, retrieve and manipulate data efficiently, ensuring that data remains organized, accessible and secure. With a DBMS, users can perform various operations like adding, updating, deleting and querying data often without needing to know the underlying complexities of data storage.
 
 ***DBMS Key Functions***
 
