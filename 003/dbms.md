@@ -16,7 +16,7 @@ There are different types of DBMS e.g.
 
 - **Relational DBMS (RDBMS)**: These DBMS deals with [relational databases][6]. They organize the data in the form of tables and their relationships. Prominent RDBMS are MySQL, PostgreSQL and Oracle.
 
-- **NoSQL DBMS**: NoSQL stands for "Not Only SQL". NoSQL DBMS deals non-tabular data. These DBMS are more flexible in handling large volumes of unstructured data, like MongoDB and Cassandra.
+- **NoSQL DBMS**: NoSQL stands for "Not Only SQL". [NoSQL][10] DBMS deals non-tabular data. These DBMS are more flexible in handling large volumes of unstructured data, like MongoDB and Cassandra.
 
 - **Hierarchical and Network DBMS**: Such DBMS store data in tree-like or graph structures.
 
@@ -34,7 +34,7 @@ You might wonder what a DBMS does and what its functions are. Earlier, we briefl
 
 - **Backup and Recovery**. A DBMS often has **backup** and **recovery** features to protect data in case of hardware failure, human error or other disasters. It helps restore the database to a previous consistent state after an issue.
 
-- **Transaction Management**. It supports **transactions**, which are groups of operations that are treated as a single unit. If any part of a transaction fails, the entire transaction is rolled back to ensure the database remains in a consistent state (often using **ACID** properties: Atomicity, Consistency, Isolation, Durability).
+- **Transaction Management**. It supports [**transactions**][11], which are groups of operations that are treated as a single unit. If any part of a transaction fails, the entire transaction is rolled back to ensure the database remains in a consistent state (often using **ACID** properties: Atomicity, Consistency, Isolation, Durability).
 
 ## What are components of DBMS?
 
@@ -100,3 +100,5 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [7]: https://en.wikipedia.org/wiki/Database_administration
 [8]: https://en.wikipedia.org/wiki/Concurrency_control
 [9]: https://en.wikipedia.org/wiki/ACID
+[10]: https://en.wikipedia.org/wiki/NoSQL
+[11}: https://en.wikipedia.org/wiki/Database_transaction
