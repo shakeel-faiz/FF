@@ -24,7 +24,7 @@ There are different types of DBMS e.g.
 
 You might wonder what a DBMS does and what its functions are. Earlier, we briefly discussed the key functions of DBMS. We will now shed more light on them. A **Database Management System (DBMS)** is responsible for managing and organizing data in a structured way, allowing users to interact with databases efficiently. The following are common functions that a DBMS performs:
 
-- **Administration Tasks**. DBMS supports various administration tasks. These tasks include user access and security management, backup and recovery, performance monitoring and tuning, data integrity and consistency, change management, transaction management, automated rollbacks and restarts, logging and auditing, and concurrency control.
+- **Administration Tasks**. DBMS supports various [administration tasks][7]. These tasks include user access and security management, backup and recovery, performance monitoring and tuning, data integrity and consistency, change management, transaction management, automated rollbacks and restarts, logging and auditing, and [concurrency control][8].
 
 - **Data Storage, Organization, Retrieval, and Manipulation**. A DBMS stores data in an organized manner, usually in tables, which makes it easier to retrieve and manage. Data is stored in a way that supports easy access, modification and deletion. It allows users to retrieve data using queries. For relational databases, this typically means using SQL (Structured Query Language) to request specific information from the database. DBMS enables users to insert, update or delete data. It provides tools to modify records in the database, ensuring data is up-to-date and accurate.
 
@@ -46,7 +46,7 @@ When talking about DBMS, a question that comes to mind is what components does a
 
 - **Query Processor**. Responsible for interpreting and executing database queries (often written in SQL). It translates high-level queries into low-level operations to retrieve or modify data efficiently.
 
-- **Database Manager**. Manages the overall operation of the DBMS, including tasks like transaction management, concurrency control, and enforcing database integrity.
+- **Database Manager**. Manages the overall operation of the DBMS, including tasks like transaction management, [concurrency control][8], and enforcing database integrity.
 
 - **Transaction Manager**. Ensures that database transactions are executed reliably and follow the ACID (Atomicity, Consistency, Isolation, Durability) properties. It coordinates rollbacks and commits for data consistency.
 
@@ -97,3 +97,5 @@ In this article, we discussed DBMS, its key functions, its components and finall
 [4]: https://en.wikipedia.org/wiki/Data_retrieval
 [5]: https://en.wikipedia.org/wiki/Data_security
 [6]: https://en.wikipedia.org/wiki/Relational_database
+[7]: https://en.wikipedia.org/wiki/Database_administration
+[8]: https://en.wikipedia.org/wiki/Concurrency_control
