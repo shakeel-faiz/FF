@@ -169,3 +169,9 @@ Software can be classified into these categories.
 
 -   Protects systems from threats like malware or hacking.
 -   **Examples**: Firewalls, anti-virus programs.
+
+## Fun Facts About Software
+
+-   **First Software**: The term "software" was coined by John Tukey in 1958.
+-   **Most Used OS**: Windows holds a significant market share for PCs, while Android leads in mobile.
+-   **Lines of Code**: The Google search engine consists of over 2 billion lines of code!
