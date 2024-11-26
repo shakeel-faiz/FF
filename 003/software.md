@@ -69,7 +69,7 @@ There are different ways to categorize software. Here, we are categorizing it ba
 
 ## How Software is Made?
 
-Software development follows a structured process called the **Software Development Life Cycle (SDLC)**:
+Software is developed through a process known as the **Software Development Life Cycle (SDLC)**, which includes the following phases:
 
 1.  **Planning**: Identify goals, resources and requirements.
 2.  **Design**: Plan the architecture and user experience (UX).
@@ -80,12 +80,16 @@ Software development follows a structured process called the **Software Developm
   
 ## What are Benefits of Software?
 
+Software provides various benefits, some of which are as follows:
+
 -   **Automation**: Reduces manual effort by automating tasks.
 -   **Efficiency**: Speeds up processes, like accounting or communication.
 -   **Customization**: Can be tailored for specific industries, like medical software.
 -   **Scalability**: Easily upgraded to handle more users or data as a business grows.
 
 ## What is the Future of Software?
+
+The future of software is shaped by emerging technologies and evolving user needs. Some of these emerging technologies include:
 
 -   **Artificial Intelligence (AI)**:
     
