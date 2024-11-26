@@ -136,6 +136,8 @@ Software can be classified into these categories.
 
 ## What are some Concepts in Modern Software?
 
+There are various concepts related to modern software. The prominent ones include:
+
 **Virtualization**
 
 -   Software creates virtual versions of hardware or operating systems.
