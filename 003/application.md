@@ -57,19 +57,19 @@ Apps can be  **native**  (built for a specific platform, like iOS or Android) or
 
 **Business applications**  are software tools designed to help businesses manage their operations, streamline workflows, and improve efficiency. Here’s a list of common business applications:
 
-1.  **Enterprise Resource Planning (ERP) Software**  – Integrates core business processes (e.g. SAP, Oracle ERP, Microsoft Dynamics).
-2.  **Customer Relationship Management (CRM) Software**  – Manages customer interactions and sales pipelines (e.g. Salesforce, HubSpot, Zoho CRM).
-3.  **Accounting Software**  – Manages financial transactions, budgeting, and reporting (e.g. QuickBooks, Xero, FreshBooks).
-4.  **Project Management Software**  – Organizes tasks, schedules, and collaboration (e.g. Trello, Asana, Monday.com).
-5.  **Inventory Management Software**  – Tracks inventory levels, orders, and supply chain (e.g. TradeGecko, NetSuite, Fishbowl).
-6.  **Human Resources Management (HRM) Software**  – Manages employee data, payroll, and performance (e.g. ADP, Workday, BambooHR).
-7.  **Collaboration Software**  – Facilitates team communication and document sharing (e.g. Microsoft Teams, Slack, Google Workspace).
-8.  **Email Marketing Software**  – Helps businesses manage and automate email marketing campaigns (e.g. Mailchimp, Constant Contact, SendGrid).
-9.  **Point of Sale (POS) Systems**  – Handles sales transactions, inventory, and customer data in retail environments (e.g. Square, Shopify POS, Lightspeed).
-10.  **Document Management Software**  – Manages and stores documents electronically (e.g. DocuSign, Dropbox Business, SharePoint).
-11.  **Time Tracking Software**  – Tracks employee work hours and productivity (e.g. Toggl, Clockify, Harvest).
+1.  **Enterprise Resource Planning (ERP) Software**  – Integrates core business processes (e.g. SAP, [Oracle ERP][12], [Microsoft Dynamics][13]).
+2.  **Customer Relationship Management (CRM) Software**  – Manages customer interactions and sales pipelines (e.g. [Salesforce][14], HubSpot, Zoho CRM).
+3.  **Accounting Software**  – Manages financial transactions, budgeting, and reporting (e.g. [QuickBooks][15], Xero, FreshBooks).
+4.  **Project Management Software**  – Organizes tasks, schedules, and collaboration (e.g. [Trello][16], Asana, Monday.com).
+5.  **Inventory Management Software**  – Tracks inventory levels, orders, and supply chain (e.g. [TradeGecko][17], NetSuite, Fishbowl).
+6.  **Human Resources Management (HRM) Software**  – Manages employee data, payroll, and performance (e.g. ADP, Workday, [BambooHR][18]).
+7.  **Collaboration Software**  – Facilitates team communication and document sharing (e.g. Microsoft Teams, Slack, [Google Workspace][19]).
+8.  **Email Marketing Software**  – Helps businesses manage and automate email marketing campaigns (e.g. [Mailchimp][20], Constant Contact, SendGrid).
+9.  **Point of Sale (POS) Systems**  – Handles sales transactions, inventory, and customer data in retail environments (e.g. Square, [Shopify POS][21], Lightspeed).
+10.  **Document Management Software**  – Manages and stores documents electronically (e.g. [DocuSign][22], [Dropbox Business][23], SharePoint).
+11.  **Time Tracking Software**  – Tracks employee work hours and productivity (e.g. [Toggl][24], Clockify, Harvest).
 12.  **Supply Chain Management Software**  – Manages the movement of goods and materials (e.g. SAP SCM, Oracle SCM Cloud, Kinaxis RapidResponse).
-13.  **Business Intelligence (BI) Software**  – Analyzes business data and provides insights (e.g. Tableau, Power BI, QlikView).
+13.  **Business Intelligence (BI) Software**  – Analyzes business data and provides insights (e.g. Tableau, [Power BI][25], QlikView).
 
 ## Types of Software Applications Based on Software Licensing
 
@@ -102,3 +102,18 @@ The types of software applications based on licensing refer to the distribution 
 [9]: https://en.wikipedia.org/wiki/Google_Play
 [10]: https://en.wikipedia.org/wiki/App_Store_(Apple)
 [11]: https://blog.fileformat.com/word-processing/what-is-google-docs/
+
+[12]: https://en.wikipedia.org/wiki/Oracle_Cloud_Enterprise_Resource_Planning
+[13]: https://en.wikipedia.org/wiki/Microsoft_Dynamics_365
+[14]: https://en.wikipedia.org/wiki/Salesforce
+[15]: https://en.wikipedia.org/wiki/QuickBooks
+[16]: https://en.wikipedia.org/wiki/Trello
+[17]: https://en.wikipedia.org/wiki/TradeGecko
+[18]: https://en.wikipedia.org/wiki/BambooHR
+[19]: https://en.wikipedia.org/wiki/Google_Workspace
+[20]: https://en.wikipedia.org/wiki/Mailchimp
+[21]: https://www.shopify.com/pos
+[22]: https://en.wikipedia.org/wiki/Docusign
+[23]: https://en.wikipedia.org/wiki/Dropbox
+[24]: https://toggl.com/
+[25]: https://en.wikipedia.org/wiki/Microsoft_Power_BI
