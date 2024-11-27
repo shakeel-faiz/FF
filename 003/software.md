@@ -52,19 +52,19 @@ There are different ways to categorize software. Here, we are categorizing it ba
 
 -   **Proprietary Software**:
     
-    -   Created by companies and sold for profit.
+    -   Proprietary Software are created by companies and sold for profit.
     -   Example: Microsoft Office.
 -   **Open-Source Software**:
     
-    -   Free to use and modify, with the source code publicly available.
+    -   Open-Source Software are free to use and modify, with the source code publicly available.
     -   Example: Linux, VLC Media Player.
 -   **Freeware**:
     
-    -   Software that is completely free to use but often without source code access.
+    -   Freeware software is completely free to use but often without source code access.
     -   Example: Adobe Acrobat Reader.
 -   **Shareware**:
     
-    -   Distributed for free initially but may require payment for continued use or full functionality.
+    -   Shareware Software is distributed for free initially but may require payment for continued use or full functionality.
     -   Example: WinRAR.
 
 ## How Software is Made?
