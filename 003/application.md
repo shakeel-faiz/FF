@@ -69,6 +69,26 @@ Apps can be  **native**  (built for a specific platform, like iOS or Android) or
 12.  **Supply Chain Management Software**  – Manages the movement of goods and materials (e.g., SAP SCM, Oracle SCM Cloud, Kinaxis RapidResponse).
 13.  **Business Intelligence (BI) Software**  – Analyzes business data and provides insights (e.g., Tableau, Power BI, QlikView).
 
+## Types of Software Applications Based on Software Licensing
+
+The types of software applications based on licensing refer to the distribution methods and the rights given to users. Here are the main types:
+
+1.  **Freeware**: Software that is completely free to use but the source code is not available for modification or redistribution. Examples:  **Adobe Acrobat Reader**,  **Google Chrome**.
+    
+2.  **Open-Source Software**: Software whose source code is made publicly available, allowing users to view, modify, and distribute it. Often free to use. Examples:  **Linux**,  **Mozilla Firefox**,  **GIMP**.
+    
+3.  **Shareware**: Software that is distributed for free with limited functionality or for a trial period. After the trial ends, the user must pay to continue using the full version. Examples:  **WinRAR**,  **Adobe Photoshop**  (trial versions).
+    
+4.  **Freemium**: Software that is free to use with basic features, but users must pay for premium features or advanced functionality. Examples:  **Spotify**,  **Dropbox**.
+    
+5.  **Commercial Software**: Software that is sold to users for a price and is usually fully proprietary. Users typically cannot access or modify the source code. Examples:  **Microsoft Office**,  **AutoCAD**.
+    
+6.  **Public Domain Software**: Software that has no copyright restrictions and is freely available to the public for use, modification, and distribution. Examples:  **Public domain games**  or older software released for free by developers.
+    
+7.  **Subscription Software**: Software that is offered on a subscription basis, where users pay recurring fees for access. The subscription can include updates and support. Examples:  **Microsoft 365**,  **Adobe Creative Cloud**.
+
+
+
 
 
 
