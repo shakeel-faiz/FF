@@ -159,22 +159,22 @@ Emerging trends in software include the integration of advanced technologies, su
 
 **Artificial Intelligence (AI) & Machine Learning (ML)**
 
--   With Artificial Intelligence (AI) & Machine Learning (ML), Software is becoming capable of learning and improving over time.
+-   With [Artificial Intelligence (AI)][24] & [Machine Learning (ML)][39], Software is becoming capable of learning and improving over time.
 -   **Examples**: Chatbots, recommendation engines (Netflix, Amazon).
 
 **Blockchain Technology**
 
--   With Blockchain Technology, decentralized software are being used for secure transactions.
+-   With [Blockchain Technology][40], decentralized software are being used for secure transactions.
 -   **Applications**: Cryptocurrencies, supply chain tracking.
 
 **AR/VR (Augmented and Virtual Reality)**
 
--   AR (Augmented Reality) and VR (Virtual Reality) are immersive technologies that blend the digital and physical worlds in different ways, enhancing user experiences.
+-   [AR (Augmented Reality)][41] and [VR (Virtual Reality)][43] are immersive technologies that blend the digital and physical worlds in different ways, enhancing user experiences.
 -   **Applications**: Gaming (Oculus), training simulations.
 
 **Cybersecurity Software**
 
--   Cybersecurity Software protects systems from threats like malware or hacking.
+-   [Cybersecurity Software][42] protects systems from threats like malware or hacking.
 -   **Examples**: Firewalls, anti-virus programs.
 
 ## Fun Facts About Software
@@ -223,3 +223,8 @@ Here are a few fun facts about software that you might like to know.
 [36]: https://en.wikipedia.org/wiki/Middleware
 [37]: https://en.wikipedia.org/wiki/Virtualization
 [38]: https://en.wikipedia.org/wiki/Software_as_a_service
+[39]: https://en.wikipedia.org/wiki/Machine_learning
+[40]: https://en.wikipedia.org/wiki/Blockchain
+[41]: https://en.wikipedia.org/wiki/Augmented_reality
+[42]: https://en.wikipedia.org/wiki/Computer_security_software
+[43]: https://en.wikipedia.org/wiki/Virtual_reality
