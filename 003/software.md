@@ -43,7 +43,7 @@ Software can be broken into smaller components that work together:
 
 4.  **APIs (Application Programming Interfaces)**:
     
-    -   These allow different pieces of software to communicate with each other.
+    -   [APIs][14] allow different pieces of software to communicate with each other.
     -   Example: An app that shows weather data pulls it from a weather service API.
   
 ## What are Categories of Software?
@@ -52,19 +52,19 @@ There are different ways to categorize software. Here, we are categorizing it ba
 
 -   **Proprietary Software**:
     
-    -   Proprietary Software are created by companies and sold for profit.
+    -   [Proprietary Software][15] are created by companies and sold for profit.
     -   Example: Microsoft Office.
 -   **Open-Source Software**:
     
-    -   Open-Source Software are free to use and modify, with the source code publicly available.
+    -   [Open-Source Software][16] are free to use and modify, with the source code publicly available.
     -   Example: Linux, VLC Media Player.
 -   **Freeware**:
     
-    -   Freeware software is completely free to use but often without source code access.
+    -   [Freeware software][17] is completely free to use but often without source code access.
     -   Example: Adobe Acrobat Reader.
 -   **Shareware**:
     
-    -   Shareware Software is distributed for free initially but may require payment for continued use or full functionality.
+    -   [Shareware Software][18] is distributed for free initially but may require payment for continued use or full functionality.
     -   Example: WinRAR.
 
 ## How Software is Made?
@@ -199,3 +199,8 @@ Here are a few fun facts about software that you might like to know.
 [11]: https://en.wikipedia.org/wiki/Front-end_web_development
 [12]: https://blog.fileformat.com/software/what-is-database/
 [13]: https://en.wikipedia.org/wiki/Server_(computing)
+[14]: https://en.wikipedia.org/wiki/API
+[15]: https://en.wikipedia.org/wiki/Proprietary_software
+[16]: https://en.wikipedia.org/wiki/Open-source_software
+[17]: https://en.wikipedia.org/wiki/Freeware
+[18]: https://en.wikipedia.org/wiki/Shareware
