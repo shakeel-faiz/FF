@@ -1,4 +1,11 @@
-## What is Application Software?
+In this blog, we will discuss what application software is. We will list down different types and categories of application software and explain the difference between application software and apps. Let's get started.
+
+
+
+
+
+
+## What is Application Software? 
 
 **Application software** refers to programs designed to perform specific tasks for users. Unlike system software, which manages and operates computer hardware, application software focuses on helping users complete tasks like writing documents, browsing the internet or editing videos. It acts as a bridge between the computer system and the user, enabling them to interact effectively with technology.
 
@@ -86,9 +93,6 @@ The types of software applications based on licensing refer to the distribution 
 6.  **Public Domain Software**: Software that has no copyright restrictions and is freely available to the public for use, modification, and distribution. Examples:  **Public domain games**  or older software released for free by developers.
     
 7.  **Subscription Software**: Software that is offered on a subscription basis, where users pay recurring fees for access. The subscription can include updates and support. Examples:  **Microsoft 365**,  **Adobe Creative Cloud**.
-
-
-
 
 
 
