@@ -140,18 +140,17 @@ There are various concepts related to modern software. The prominent ones includ
 
 **Virtualization**
 
--   Software creates virtual versions of hardware or operating systems.
+-   In [Virtualization][37], Software creates virtual versions of hardware or operating systems.
 -   **Example**: Virtual machines like VMware, Docker.
 
 **SaaS (Software as a Service)**
 
--   Software delivered over the internet, often on a subscription basis.
+-   With [SaaS][38], Software is delivered over the internet, often on a subscription basis.
 -   **Examples**: Gmail, Dropbox, Slack.
 
 **Open Source Software**
 
--   Code is publicly available for anyone to use, modify, and distribute.
--   **Advantages**: Transparency, community-driven development.
+-   In [Open Source Software][16], code is publicly available for anyone to use, modify and distribute. Open Source Software fosters transparency and is driven by community development.
 -   **Examples**: Linux, Apache.
 
 ## What are some Emerging Trends in Software?
@@ -222,3 +221,5 @@ Here are a few fun facts about software that you might like to know.
 [34]: https://en.wikipedia.org/wiki/Application_software
 [35]: https://en.wikipedia.org/wiki/Programming_tool
 [36]: https://en.wikipedia.org/wiki/Middleware
+[37]: https://en.wikipedia.org/wiki/Virtualization
+[38]: https://en.wikipedia.org/wiki/Software_as_a_service
