@@ -69,14 +69,14 @@ There are different ways to categorize software. Here, we are categorizing it ba
 
 ## How Software is Made?
 
-Software is developed through a process known as the **Software Development Life Cycle (SDLC)**, which includes the following phases:
+Software is developed through a process known as the [**Software Development Life Cycle (SDLC)**][19], which includes the following phases:
 
 1.  **Planning**: Identify goals, resources and requirements.
-2.  **Design**: Plan the architecture and user experience (UX).
-3.  **Development**: Write the actual code using programming languages.
+2.  **Design**: Plan the [architecture][20] and [user experience (UX)][21].
+3.  **Development**: Write the actual code using [programming languages][22].
 4.  **Testing**: Debug and test the software for issues.
 5.  **Deployment**: Release the software to users.
-6.  **Maintenance**: Update, fix bugs and add new features over time.
+6.  **Maintenance**: Update, [fix bugs][23] and add new features over time.
   
 ## What are Benefits of Software?
 
@@ -204,3 +204,8 @@ Here are a few fun facts about software that you might like to know.
 [16]: https://en.wikipedia.org/wiki/Open-source_software
 [17]: https://en.wikipedia.org/wiki/Freeware
 [18]: https://en.wikipedia.org/wiki/Shareware
+[19]: https://en.wikipedia.org/wiki/Systems_development_life_cycle
+[20]: https://en.wikipedia.org/wiki/Architecture
+[21]: https://en.wikipedia.org/wiki/User_experience
+[22]: https://en.wikipedia.org/wiki/Programming_language
+[23]: https://en.wikipedia.org/wiki/Software_bug
