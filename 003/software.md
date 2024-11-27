@@ -187,7 +187,7 @@ Here are a few fun facts about software that you might like to know.
 
 ## Conclusion
 
-In this article, we explained what software is, the different types of software, emerging trends and technologies in software, how software works, how it is developed, and some fun facts about it. Hopefully, after reading this article, you have gained good knowledge, and most of your questions related to software have been answered. If you have any unanswered questions, feel free to ask in our forum. Stay connected, and have a great day!
+In this article, we explained what software is, the different types of software, emerging trends and technologies in software, how software works, how it is developed, and some fun facts about it. Hopefully, after reading this article, you have gained good knowledge, and most of your questions related to software have been answered. If you have any unanswered questions, feel free to ask in [our forum][44]. Stay connected, and have a great day!
 
 [1]: https://en.wikipedia.org/wiki/Computer_hardware
 [2]: https://en.wikipedia.org/wiki/Word_processor
@@ -232,4 +232,4 @@ In this article, we explained what software is, the different types of software,
 [41]: https://en.wikipedia.org/wiki/Augmented_reality
 [42]: https://en.wikipedia.org/wiki/Computer_security_software
 [43]: https://en.wikipedia.org/wiki/Virtual_reality
-[44]
+[44]: https://forum.fileformat.com/
