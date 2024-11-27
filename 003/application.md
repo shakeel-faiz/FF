@@ -89,7 +89,9 @@ The types of software applications based on licensing refer to the distribution 
     
 7.  **Subscription Software**: Software that is offered on a subscription basis, where users pay recurring fees for access. The subscription can include updates and support. Examples:  **Microsoft 365**,  **Adobe Creative Cloud**.
 
+## Conclusion
 
+In this article, we discussed what application software is and how it differs from system software. We also explained the difference between application software and apps and listed software applications based on different categories. Hopefully, this article has cleared up any confusion you may have had about application software. If you have any questions, please feel free to ask them in [our forum][26].
 
 [1]: https://en.wikipedia.org/wiki/System_software
 [2]: https://en.wikipedia.org/wiki/Microsoft_Word
@@ -102,7 +104,6 @@ The types of software applications based on licensing refer to the distribution 
 [9]: https://en.wikipedia.org/wiki/Google_Play
 [10]: https://en.wikipedia.org/wiki/App_Store_(Apple)
 [11]: https://blog.fileformat.com/word-processing/what-is-google-docs/
-
 [12]: https://en.wikipedia.org/wiki/Oracle_Cloud_Enterprise_Resource_Planning
 [13]: https://en.wikipedia.org/wiki/Microsoft_Dynamics_365
 [14]: https://en.wikipedia.org/wiki/Salesforce
@@ -117,3 +118,4 @@ The types of software applications based on licensing refer to the distribution 
 [23]: https://en.wikipedia.org/wiki/Dropbox
 [24]: https://toggl.com/
 [25]: https://en.wikipedia.org/wiki/Microsoft_Power_BI
+[26]: https://forum.fileformat.com/
