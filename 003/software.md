@@ -1,3 +1,5 @@
+In this blog, we will explain what software is, its different types and categories, how software is evolving for the future, how it works, and how it is developed. So, let's get started!
+
 ## What is a Software?
 
 Software is a set of instructions, programs or data that a computer uses to perform specific tasks. Unlike [hardware][1], which refers to the physical components of a computer, software is intangible and exists as code or digital information. Software tells the hardware what to do and how to do it.
