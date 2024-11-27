@@ -112,12 +112,12 @@ The future of software is shaped by emerging technologies and evolving user need
 
 Software can be classified into these categories. 
 
-**System Software**: It manages and operates the hardware, providing a foundation for application software. e.g.
+**System Software**: System Software manages and operates the hardware, providing a foundation for application software. e.g.
 -   Operating Systems: Windows, macOS, Linux, Android.
 -   Utilities: Antivirus programs, disk management tools.
 -   Drivers: Software that allows hardware like printers or keyboards to communicate with the system.
 
-**Application Software**: It is designed for end-users to perform specific tasks.
+**Application Software**: Application Software is designed for end-users to perform specific tasks.
 -   Productivity Tools: Microsoft Word, Excel.
 -   Entertainment: Spotify, Netflix.
 -   Gaming: FIFA, Call of Duty.
@@ -125,12 +125,12 @@ Software can be classified into these categories.
 -   Web Applications: Run in browsers (e.g., Google Docs).
 -   Mobile Applications: Built for smartphones (e.g., TikTok).
 
-**Development Tools**: It helps developers create software.
+**Development Tools**: Development Tools helps developers create software.
 -   Text Editors: VS Code, Sublime Text.
 -   IDEs (Integrated Development Environments): Eclipse, IntelliJ IDEA.
 -   Version Control Systems: Git, GitHub.
 
-**Middleware**: It acts as a bridge between different systems or applications, enabling them to work together.
+**Middleware**: Middleware acts as a bridge between different systems or applications, enabling them to work together.
 -   API Gateways: Facilitate communication between backend services.
 -   Database Middleware: Manages data access.
 
