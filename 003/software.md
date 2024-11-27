@@ -125,7 +125,7 @@ Software can be classified into these categories.
 -   Web Applications: Run in browsers (e.g., Google Docs).
 -   Mobile Applications: Built for smartphones (e.g., TikTok).
 
-**Development Tools**: Development Tools helps developers create software.
+**Development Tools**: Development Tools help developers create software.
 -   Text Editors: VS Code, Sublime Text.
 -   IDEs (Integrated Development Environments): Eclipse, IntelliJ IDEA.
 -   Version Control Systems: Git, GitHub.
