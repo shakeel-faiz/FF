@@ -6,9 +6,9 @@ Application software is created to carry out specific user tasks, unlike softwar
 
 Application software is task-specific, meaning each program is developed to perform a particular function, such as word processing, gaming or financial analysis. Designed with end-users in mind, application software typically features user-friendly interfaces. Many applications also allow users to customize settings to suit their specific needs.
 
-## What are Types of Application Software?
+## What are Examples of Application Software?
 
-Here, we list some types of application software you might encounter.
+Here, we list some types and examples of application software you might encounter.
 
 - **Productivity Software**:  Helps users complete tasks like writing, calculating and planning. Examples: Microsoft Word, Google Sheets.
 
