@@ -75,19 +75,19 @@ Apps can be  **native**  (built for a specific platform, like iOS or Android) or
 
 The types of software applications based on licensing refer to the distribution methods and the rights given to users. Here are the main types:
 
-1.  **Freeware**: Software that is completely free to use but the source code is not available for modification or redistribution. Examples:  **Adobe Acrobat Reader**,  **Google Chrome**.
+1.  **Freeware**: Software that is [completely free to use][27] but the source code is not available for modification or redistribution. Examples:  **Adobe Acrobat Reader**,  **Google Chrome**.
     
-2.  **Open-Source Software**: Software whose source code is made publicly available, allowing users to view, modify, and distribute it. Often free to use. Examples:  **Linux**,  **Mozilla Firefox**,  **GIMP**.
+2.  **Open-Source Software**: Software whose [source code is made publicly available][28], allowing users to view, modify, and distribute it. Often free to use. Examples:  **Linux**,  **Mozilla Firefox**,  **GIMP**.
     
-3.  **Shareware**: Software that is distributed for free with limited functionality or for a trial period. After the trial ends, the user must pay to continue using the full version. Examples:  **WinRAR**,  **Adobe Photoshop**  (trial versions).
+3.  **Shareware**: Software that is [distributed for free with limited functionality][29] or for a trial period. After the trial ends, the user must pay to continue using the full version. Examples:  **WinRAR**,  **Adobe Photoshop**  (trial versions).
     
-4.  **Freemium**: Software that is free to use with basic features, but users must pay for premium features or advanced functionality. Examples:  **Spotify**,  **Dropbox**.
+4.  **Freemium**: Software that is [free to use with basic features][30], but users must pay for premium features or advanced functionality. Examples:  **Spotify**,  **Dropbox**.
     
 5.  **Commercial Software**: Software that is sold to users for a price and is usually fully proprietary. Users typically cannot access or modify the source code. Examples:  **Microsoft Office**,  **AutoCAD**.
     
-6.  **Public Domain Software**: Software that has no copyright restrictions and is freely available to the public for use, modification, and distribution. Examples:  **Public domain games**  or older software released for free by developers.
+6.  **Public Domain Software**: Software that has no copyright restrictions and is [freely available to the public for use][31], modification, and distribution. Examples:  **Public domain games**  or older software released for free by developers.
     
-7.  **Subscription Software**: Software that is offered on a subscription basis, where users pay recurring fees for access. The subscription can include updates and support. Examples:  **Microsoft 365**,  **Adobe Creative Cloud**.
+7.  **Subscription Software**: Software that is offered on a [subscription basis][32], where users pay recurring fees for access. The subscription can include updates and support. Examples:  **Microsoft 365**,  **Adobe Creative Cloud**.
 
 ## Conclusion
 
@@ -119,3 +119,9 @@ In this article, we discussed what application software is and how it differs fr
 [24]: https://toggl.com/
 [25]: https://en.wikipedia.org/wiki/Microsoft_Power_BI
 [26]: https://forum.fileformat.com/
+[27]: https://en.wikipedia.org/wiki/Freeware
+[28]: https://en.wikipedia.org/wiki/Open_source
+[29]: https://en.wikipedia.org/wiki/Shareware
+[30]: https://en.wikipedia.org/wiki/Freemium
+[31]: https://en.wikipedia.org/wiki/Public-domain_software
+[32]: https://en.wikipedia.org/wiki/Subscription_business_model
