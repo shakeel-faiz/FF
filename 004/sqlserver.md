@@ -36,17 +36,17 @@ Each SQL Server version comes with multiple editions, catering to different use 
 
 Microsoft SQL Server comes in several editions, each designed for specific use cases and targeting different users.
 
-- **SQL Server Enterprise Edition** is designed for large organizations and mission-critical applications. It provides advanced features like high availability through Always On Availability Groups, robust security with Transparent Data Encryption and Always Encrypted, and extensive business intelligence (BI) tools. With its support for high scalability and performance tuning, the Enterprise Edition is ideal for large-scale, Internet-facing applications or complex workloads that demand exceptional reliability and performance.
+- **SQL Server Enterprise Edition** is designed for large organizations and mission-critical applications. It provides advanced features like high availability through Always On Availability Groups, robust security with Transparent Data Encryption and Always Encrypted, and extensive [business intelligence (BI) tools][7]. With its support for high scalability and performance tuning, the Enterprise Edition is ideal for large-scale, Internet-facing applications or complex workloads that demand exceptional reliability and performance.
 
 - **SQL Server Standard Edition** caters to medium-sized businesses and less complex workloads. While it offers core database functionalities and basic reporting tools, it lacks some of the advanced features available in the Enterprise Edition. Nevertheless, it strikes a balance between cost and functionality, making it suitable for applications that require moderate scalability and reliability without the expense of a premium solution.
 
-- **SQL Server Web Edition** is specifically optimized for web hosting and web-based applications. This edition offers essential database management capabilities at a lower cost, making it an affordable solution for web service providers or developers building lightweight web applications. It is designed to handle small to medium-sized web workloads efficiently without the need for advanced features.
+- **SQL Server Web Edition** is specifically optimized for [web hosting][8] and web-based applications. This edition offers essential database management capabilities at a lower cost, making it an affordable solution for web service providers or developers building lightweight web applications. It is designed to handle small to medium-sized web workloads efficiently without the need for advanced features.
 
 - **SQL Server Express Edition** is a free, entry-level version ideal for small-scale applications, learners and developers. With a maximum database size of 10 GB, it is perfect for small projects, personal use or testing environments. While limited in scalability and advanced features, the Express Edition offers a cost-free way to explore SQL Server or develop lightweight applications.
 
 - **SQL Server Developer Edition** provides developers with access to the full capabilities of the Enterprise Edition for non-production use. It is an excellent choice for building and testing applications, as it includes all the features needed to simulate a production environment. This edition is free and is intended for development and testing purposes only, not for deployment in live systems.
 
-- **SQL Server Azure Edition** delivers fully managed, cloud-based database services, enabling businesses to embrace cloud computing. These editions provide flexibility with pay-as-you-go pricing, elastic scalability and advanced disaster recovery options. Whether for hosting small applications or enterprise-scale databases, Azure editions integrate seamlessly with Microsoft's cloud ecosystem.
+- **SQL Server Azure Edition** delivers fully managed, cloud-based database services, enabling businesses to embrace cloud computing. These editions provide flexibility with pay-as-you-go pricing, elastic scalability and advanced disaster recovery options. Whether for hosting small applications or enterprise-scale databases, [Azure][9] editions integrate seamlessly with Microsoft's cloud ecosystem.
 
 - **SQL Server Compact Edition** was a lightweight database engine designed for mobile and desktop applications. With its small footprint, it allowed developers to include a database with minimal resource requirements. However, it has been deprecated and is no longer actively developed by Microsoft.
 
@@ -56,27 +56,27 @@ Microsoft SQL Server consists of several components and tools that work together
 
 - **SQL Server Database Engine**: The core component of SQL Server, the **Database Engine**, is responsible for managing data storage, processing queries and handling transactions. It allows users to interact with databases, store data and retrieve it efficiently. The engine also ensures data integrity, security and concurrency control.
 
-- **SQL Server Management Studio (SSMS)**: **SSMS** is a graphical tool that provides a user-friendly interface for managing SQL Server instances and databases. It allows database administrators (DBAs) and developers to:
+- **SQL Server Management Studio (SSMS)**: [SSMS][10] is a graphical tool that provides a user-friendly interface for managing SQL Server instances and databases. It allows database administrators (DBAs) and developers to:
    - Write and execute SQL queries.
    - Create and manage database objects (tables, views, stored procedures, etc.).
    - Configure security settings.
    - Monitor database performance and troubleshoot issues. SSMS is one of the most commonly used tools for SQL Server management.
  
-- **SQL Server Reporting Services (SSRS)**: **SSRS** is a tool used to design, deploy, and manage reports. It allows users to create highly interactive and customized reports based on data stored in SQL Server databases. Reports can be rendered in various formats (HTML, PDF, Excel) and can be published for web access or scheduled for automatic delivery.
+- **SQL Server Reporting Services (SSRS)**: [SSRS][11] is a tool used to design, deploy, and manage reports. It allows users to create highly interactive and customized reports based on data stored in SQL Server databases. Reports can be rendered in various formats (HTML, PDF, Excel) and can be published for web access or scheduled for automatic delivery.
 
-- **SQL Server Integration Services (SSIS)**: **SSIS** is a tool for data integration and transformation. It is used to extract data from various sources (e.g., other databases, flat files), transform the data (e.g., cleaning, aggregating, merging), and load it into target systems (e.g., SQL Server databases, data warehouses). SSIS is often used for ETL (Extract, Transform, Load) processes and large-scale data migrations.
+- **SQL Server Integration Services (SSIS)**: [SSIS][12] is a tool for data integration and transformation. It is used to extract data from various sources (e.g., other databases, flat files), transform the data (e.g., cleaning, aggregating, merging), and load it into target systems (e.g., SQL Server databases, data warehouses). SSIS is often used for ETL (Extract, Transform, Load) processes and large-scale data migrations.
 
-- **SQL Server Analysis Services (SSAS)**: **SSAS** is a tool designed for online analytical processing (OLAP) and data mining. It allows users to create multidimensional databases (cubes) for analyzing large volumes of data. SSAS enables advanced analytics and supports the creation of complex analytical models that provide business intelligence (BI) insights.
+- **SQL Server Analysis Services (SSAS)**: [SSAS][15] is a tool designed for online analytical processing (OLAP) and data mining. It allows users to create multidimensional databases (cubes) for analyzing large volumes of data. SSAS enables advanced analytics and supports the creation of complex analytical models that provide business intelligence (BI) insights.
 
 - **SQL Server Profiler**: **SQL Server Profiler** is a tool used to trace and analyze SQL Server events. It helps DBAs and developers capture SQL Server activity in real time, monitor performance, and troubleshoot issues. Profiler can track queries, stored procedures, login events and other SQL Server operations to identify bottlenecks or errors.
 
-- **SQL Server Agent**: **SQL Server Agent** is a job scheduler used to automate administrative tasks such as database backups, database maintenance and running scheduled jobs. It is an essential tool for automating repetitive tasks in a SQL Server environment, ensuring that they occur at specified times without manual intervention.
+- **SQL Server Agent**: [SQL Server Agent][14] is a job scheduler used to automate administrative tasks such as database backups, database maintenance and running scheduled jobs. It is an essential tool for automating repetitive tasks in a SQL Server environment, ensuring that they occur at specified times without manual intervention.
 
 - **SQL Server Configuration Manager**: This tool is used to manage the configuration settings of SQL Server instances. It allows administrators to configure services (e.g., SQL Server, SQL Server Agent), manage network protocols, and set startup options. SQL Server Configuration Manager is essential for managing server-level settings and ensuring that SQL Server is running optimally.
 
 - **SQL Server Data Tools (SSDT)**: SSDT is an integrated development environment (IDE) used to design, develop, and deploy SQL Server databases and BI solutions. It provides tools for database schema design, querying, debugging and deployment. SSDT is especially useful for developers who need to work with database objects directly from Visual Studio.
 
-- **Full-Text Search**: SQL Server includes **Full-Text Search** capabilities that allow users to perform advanced searching on text-based data stored in SQL Server. It enables searching for words or phrases within documents and text columns in databases, which is useful for applications that require more complex search functionality than simple keyword matching.
+- **Full-Text Search**: SQL Server includes [Full-Text Search][13] capabilities that allow users to perform advanced searching on text-based data stored in SQL Server. It enables searching for words or phrases within documents and text columns in databases, which is useful for applications that require more complex search functionality than simple keyword matching.
 
 
 [1]: https://blog.fileformat.com/software/what-is-database-managment-system-dbms/
@@ -85,3 +85,12 @@ Microsoft SQL Server consists of several components and tools that work together
 [4]: https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services
 [5]: https://en.wikipedia.org/wiki/Microsoft_SQL_Server_Master_Data_Services
 [6]: https://en.wikipedia.org/wiki/Docker_(software)
+[7]: https://en.wikipedia.org/wiki/Business_intelligence_software
+[8]: https://en.wikipedia.org/wiki/Web_hosting_service
+[9]: https://en.wikipedia.org/wiki/Microsoft_Azure
+[10]: https://en.wikipedia.org/wiki/SQL_Server_Management_Studio
+[11]: https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services
+[12]: https://en.wikipedia.org/wiki/SQL_Server_Integration_Services
+[13]: https://en.wikipedia.org/wiki/Full-text_search
+[14]: https://en.wikipedia.org/wiki/SQL_Server_Agent
+[15]: https://en.wikipedia.org/wiki/Microsoft_Analysis_Services
