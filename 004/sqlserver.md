@@ -26,9 +26,27 @@ Microsoft SQL Server has been released in various versions over the years, each 
 - **SQL Server 2019** (2019) - Introduced Big Data Clusters, intelligent query processing and support for UTF-8.
 - **SQL Server 2022** (2022) - Cloud connectivity enhancements, Azure Synapse Link integration and ledger for blockchain.
 
-Each SQL Server version comes with multiple editions, catering to different use cases and budgets. These editions are listed below
+Each SQL Server version comes with multiple editions, catering to different use cases and budgets. More on it later...
 
 -   **SQL Server Express**: Free, lightweight edition for small-scale applications.
 -   **SQL Server Developer**: Free edition for development and testing.
 -   **SQL Server Web Edition**: Cost-effective solution for web hosting.
+
+## What are SQL Server Editions?
+
+Microsoft SQL Server comes in several editions, each designed for specific use cases and targeting different users.
+
+- **SQL Server Enterprise Edition** is designed for large organizations and mission-critical applications. It provides advanced features like high availability through Always On Availability Groups, robust security with Transparent Data Encryption and Always Encrypted, and extensive business intelligence (BI) tools. With its support for high scalability and performance tuning, the Enterprise Edition is ideal for large-scale, Internet-facing applications or complex workloads that demand exceptional reliability and performance.
+
+- **SQL Server Standard Edition** caters to medium-sized businesses and less complex workloads. While it offers core database functionalities and basic reporting tools, it lacks some of the advanced features available in the Enterprise Edition. Nevertheless, it strikes a balance between cost and functionality, making it suitable for applications that require moderate scalability and reliability without the expense of a premium solution.
+
+- **SQL Server Web Edition** is specifically optimized for web hosting and web-based applications. This edition offers essential database management capabilities at a lower cost, making it an affordable solution for web service providers or developers building lightweight web applications. It is designed to handle small to medium-sized web workloads efficiently without the need for advanced features.
+
+- **SQL Server Express Edition** is a free, entry-level version ideal for small-scale applications, learners and developers. With a maximum database size of 10 GB, it is perfect for small projects, personal use or testing environments. While limited in scalability and advanced features, the Express Edition offers a cost-free way to explore SQL Server or develop lightweight applications.
+
+- **SQL Server Developer Edition** provides developers with access to the full capabilities of the Enterprise Edition for non-production use. It is an excellent choice for building and testing applications, as it includes all the features needed to simulate a production environment. This edition is free and is intended for development and testing purposes only, not for deployment in live systems.
+
+- **SQL Server Azure Edition** delivers fully managed, cloud-based database services, enabling businesses to embrace cloud computing. These editions provide flexibility with pay-as-you-go pricing, elastic scalability and advanced disaster recovery options. Whether for hosting small applications or enterprise-scale databases, Azure editions integrate seamlessly with Microsoft's cloud ecosystem.
+
+- **SQL Server Compact Edition** was a lightweight database engine designed for mobile and desktop applications. With its small footprint, it allowed developers to include a database with minimal resource requirements. However, it has been deprecated and is no longer actively developed by Microsoft.
 
