@@ -78,6 +78,9 @@ Microsoft SQL Server consists of several components and tools that work together
 
 - **Full-Text Search**: SQL Server includes [Full-Text Search][13] capabilities that allow users to perform advanced searching on text-based data stored in SQL Server. It enables searching for words or phrases within documents and text columns in databases, which is useful for applications that require more complex search functionality than simple keyword matching.
 
+## Conclusion
+
+Microsoft SQL Server is a broad topic, and a lot can be written about it. However, in this article, we have kept it brief and discussed only the major aspects. After reading this, you should have an understanding of what SQL Server is, its versions and editions, and its important components and tools. We hope this has added to your knowledge about SQL Server. If you have any questions, feel free to ask them in [our forums][16]. Keep reading and stay connected.
 
 [1]: https://blog.fileformat.com/software/what-is-database-managment-system-dbms/
 [2]: https://en.wikipedia.org/wiki/SQL
@@ -94,3 +97,4 @@ Microsoft SQL Server consists of several components and tools that work together
 [13]: https://en.wikipedia.org/wiki/Full-text_search
 [14]: https://en.wikipedia.org/wiki/SQL_Server_Agent
 [15]: https://en.wikipedia.org/wiki/Microsoft_Analysis_Services
+[16]: https://forum.fileformat.com/
