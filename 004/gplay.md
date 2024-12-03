@@ -55,7 +55,5 @@ Some of the features of Google Play include:
 
 Besides, developers can publish their apps on the Google Play Store by registering for a **Google Play Console** account. They can upload their APKs (Android Package files), set pricing, and manage app updates. Google Play also provides developers with tools to monitor app performance, user feedback, and revenue generation.
 
-Google Play also offers content management features that make it easier for users to manage their purchases. With the **Manage Devices** feature, users can view and control which devices have access to their purchased content. They can easily remove devices or reassign purchases as needed. Additionally, **Purchase History** helps users keep track of all their transactions, from app purchases to subscriptions and media downloads. This feature ensures that users can re-download apps or media without incurring additional charges, providing a seamless experience for managing content across devices.
-
 Google Play is integrated with the user's Google Account, meaning purchases, media, and app data are linked to the account. This makes it easier to switch devices or recover data after a device reset, as long as the Google account is linked to the new device.
 
