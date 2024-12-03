@@ -28,8 +28,6 @@ Microsoft SQL Server has been released in various versions over the years, each 
 
 Each SQL Server version comes with multiple editions, catering to different use cases and budgets. These editions are listed below
 
-**Specialized Editions**
-
 -   **SQL Server Express**: Free, lightweight edition for small-scale applications.
 -   **SQL Server Developer**: Free edition for development and testing.
 -   **SQL Server Web Edition**: Cost-effective solution for web hosting.
