@@ -1,3 +1,5 @@
+In this blog, we will discuss a few questions about Microsoft SQL Server, such as what SQL Server is, and what its versions, editions, and components are. Let's get started.
+
 ## What is Microsoft SQL Server?
 
 Microsoft SQL Server is a robust [relational database management system (RDBMS)][1] developed by Microsoft to efficiently store and manage data. It uses [Structured Query Language (SQL)][2] to handle data in a structured format, enabling software applications to retrieve, update and manage information seamlessly. Acting as a database server, it supports both local and network-based connectivity, allowing applications to interact with data stored on the same machine or across a network, including the Internet. 
