@@ -95,27 +95,27 @@ The main interface of Google Play is divided into several key sections, making i
 
 2. **Content Management**
 
--   **My Apps & Games**: This section contains all the apps, games, and updates that users have downloaded or purchased. It allows users to:
-    -   Update existing apps.
-    -   Reinstall apps on new or reset devices.
-    -   Manage subscriptions.
-    -   Track app usage and data.
--   **My Library**: A section where users can view all their purchased content, such as apps, movies, TV shows, books, and music, across all Google Play services.
+- **My Apps & Games**: This section contains all the apps, games, and updates that users have downloaded or purchased. It allows users to:
+   - Update existing apps.
+   - Reinstall apps on new or reset devices.
+   - Manage subscriptions.
+   - Track app usage and data.
+- **My Library**: A section where users can view all their purchased content, such as apps, movies, TV shows, books, and music, across all Google Play services.
 
 3. **Payment & Subscriptions**
 
--   **Payment Methods**: Google Play supports a variety of payment methods, including credit/debit cards, PayPal, Google Play balance, and carrier billing (on some devices).
--   **Subscriptions**: Users can subscribe to services like Google Play Music, YouTube Premium, Google Play Pass (which offers ad-free and premium apps and games), and digital magazines/newspapers.
+- **Payment Methods**: Google Play supports a variety of payment methods, including credit/debit cards, PayPal, Google Play balance, and carrier billing (on some devices).
+- **Subscriptions**: Users can subscribe to services like Google Play Music, YouTube Premium, Google Play Pass (which offers ad-free and premium apps and games), and digital magazines/newspapers.
 
 4. **Google Play Services**
 
--   **Google Play Services** is an essential component that ensures the proper functioning of many Android apps and services, including syncing data, providing push notifications, and integrating with Google accounts.
+- **Google Play Services** is an essential component that ensures the proper functioning of many Android apps and services, including syncing data, providing push notifications, and integrating with Google accounts.
 
 5. **Google Play for Developers**
 
--   **Google Play Console**: This is where developers manage their apps. It includes tools for:
-    -   Uploading and publishing apps to Google Play.
-    -   Managing app details, such as descriptions, screenshots, and updates.
-    -   Viewing app performance and user feedback.
-    -   Setting pricing and distributing apps globally.
-    -   Analyzing revenue and usage data.
+- **Google Play Console**: This is where developers manage their apps. It includes tools for:
+   - Uploading and publishing apps to Google Play.
+   - Managing app details, such as descriptions, screenshots, and updates.
+   - Viewing app performance and user feedback.
+   - Setting pricing and distributing apps globally.
+   - Analyzing revenue and usage data.
