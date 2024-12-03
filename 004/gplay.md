@@ -17,3 +17,5 @@ Google Play offers both free and paid apps. Some apps use a freemium model, wher
 Users can download apps directly from the Google Play Store app on their Android devices or use a web browser to access the Play Store and install apps on their devices.
 
 The primary role of Google Play is to act as the official app store for Android devices, providing users with access to a wide variety of apps, games, and other digital content, as well as offering services for purchasing and downloading media like music, books, and movies.
+
+As of 2016, Google Play had exceeded 82 billion app downloads, highlighting its vast popularity. By 2017, the platform hosted more than 3.5 million apps. 
