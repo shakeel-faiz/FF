@@ -1,3 +1,5 @@
+In this blog article, we will provide information about what MOV is, its relationship with QuickTime, and how it became the basis for MP4. Let's get started.
+
 ## What is MOV?
 
 The QuickTime File Format (QTFF) is a file format used natively by the QuickTime framework. It has three file extensions.
