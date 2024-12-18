@@ -72,9 +72,40 @@ The framework supports the following file types and codecs
 - Graphics Interchange Format (GIF)
 - JPEG 2000
 
+## **QuickTime Player 7 and QuickTime Pro**
 
+-   **Basic vs. Pro Features**:
+    
+    -   The **Basic Version** of QuickTime Player 7 was limited to simple playback functions, such as watching videos.
+    -   To access advanced features, users needed to purchase a **QuickTime Pro license key** from Apple.
+    -   Apple's professional software, like **Final Cut Studio** and **Logic Studio**, used to include the Pro license at no additional cost.
+-   **Pro Keys and Compatibility**:
+    
+    -   A Pro license key was specific to the **major version** of QuickTime it was purchased for, such as QuickTime 7.
+    -   No additional software installation was required—entering the key instantly unlocked the Pro features.
+-   **End of Pro Sales**:
+    
+    -   In mid-2016, Apple discontinued the sale of QuickTime Pro registration keys. However, QuickTime 7 is still available for download.
 
+### Features of QuickTime Pro
 
+The Pro version unlocked several advanced features, including:
 
+**Editing Features**:
 
-Audio File Formats 
+-   The ability to cut, copy, and paste video clips.
+-   Merging separate audio and video tracks.
+-   Arranging video on a virtual canvas, with options to crop or rotate footage.
+
+**Exporting Videos**:
+
+-   QuickTime Pro allowed users to save or export videos using any codec supported by the software.
+-   Presets were available for exporting to devices like iPod, Apple TV, and iPhone.
+
+**Saving Web Videos**:
+
+-   Pro users could save videos embedded in web browsers directly to their hard drives.
+-   Two options were available for saving:
+    -   _Save as source_: Downloads the video in its original format (not limited to .MOV).
+    -   _Save as QuickTime movie_: Converts the video into a .MOV format, regardless of its original format.
+
