@@ -74,3 +74,6 @@ Some formats based on the ISO Base Media File Format include:
 -   **3GP** (used in mobile phones)
 -   **Motion JPEG 2000** (used in high-quality video systems)
 
+## Conclusion
+
+In this article, we learned that MOV is a file format related to the QuickTime framework developed by Apple, how it works and how it became the basis for other notable formats like MP4, as well as other ISO formats like 3GP. Hopefully, this has increased your knowledge of the MOV file format. Let us know what you think, and feel free to ask any questions in our forum.
