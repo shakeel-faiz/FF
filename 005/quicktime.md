@@ -2,7 +2,7 @@ In this blog article, we will discuss what QuickTime is and provide other releva
 
 ## What is QuickTime?
 
-QuickTime is a multimedia architecture developed by [Apple][1]. It supports various functions such as playing, streaming, encoding and transcoding digital media, including video, audio and images. It also includes QuickTime Player, a built-in media player application for [macOS][2], which was previously available for Windows as well.
+QuickTime is a multimedia architecture developed by [Apple][1]. It supports various functions such as playing, streaming, encoding and transcoding digital media, including video, audio and images. It also includes QuickTime Player, a built-in media player application for [macOS][2], which was previously available for [Windows][6] as well.
 
 QuickTime was introduced in **1991**, at a time when playing digital videos directly on a computer was groundbreaking.
 
@@ -40,7 +40,7 @@ Over time, **QuickTime’s relevance decreased**:
 
 -   **Free on macOS**: QuickTime Player is free to use on macOS.
 -   **Other Applications Using QuickTime**: Some media players and apps rely on the QuickTime framework for extra features. For example:
-    -   **iTunes**: Can export audio in multiple formats like WAV, AIFF, MP3, AAC, and Apple Lossless.
+    -   **iTunes**: Can export audio in multiple formats like [WAV][7], [AIFF][8], [MP3][9], [AAC][10], and Apple Lossless.
 -   **Full-Screen Playback**:
     -   Older versions of QuickTime required a Pro license for full-screen playback.
     -   Since **QuickTime 7.2**, full-screen mode has been available in the free version.
@@ -52,27 +52,27 @@ The framework supports the following file types and codecs
 
 ### Audio
 
-- Advanced Audio Coding (AAC)
-- MPEG-1 Audio Layer 3 (MP3)
-- FLAC
-- Waveform Audio File Format (WAV)
-- Apple Lossless (ALAC)
+- [Advanced Audio Coding (AAC)][10]
+- [MPEG-1 Audio Layer 3 (MP3)][9]
+- [FLAC][11]
+- [Waveform Audio File Format (WAV)][7]
+- [Apple Lossless (ALAC)][12]
 
 ### Video
 
-- H.264/MPEG-4 AVC
-- H.265/HEVC
-- QuickTime Movie (MOV)
-- MPEG-4 Part 2
-- Audio Video Interleave (AVI)
+- [H.264/MPEG-4 AVC][13]
+- [H.265/HEVC][14]
+- [QuickTime Movie (MOV)][15]
+- [MPEG-4 Part 2][16]
+- [Audio Video Interleave (AVI)][17]
 
 ## Image
 
-- JPEG
-- Portable Network Graphics (PNG)
-- TIFF
-- Graphics Interchange Format (GIF)
-- JPEG 2000
+- [JPEG][18]
+- [Portable Network Graphics (PNG)][19]
+- [TIFF][20]
+- [Graphics Interchange Format (GIF)][21]
+- [JPEG 2000][22]
 
 ## **QuickTime Player 7 and QuickTime Pro**
 
@@ -120,3 +120,20 @@ After reading this article, you will understand what QuickTime is, what QuickTim
 [3]: https://en.wikipedia.org/wiki/Microsoft_Windows
 [4]: https://en.wikipedia.org/wiki/Myst
 [5]: https://en.wikipedia.org/wiki/Xplora1
+[6]: https://en.wikipedia.org/wiki/Microsoft_Windows
+[7]: https://docs.fileformat.com/audio/wav/
+[8]: https://docs.fileformat.com/audio/aiff/
+[9]: https://docs.fileformat.com/audio/mp3/
+[10]: https://docs.fileformat.com/audio/aac/
+[11]: https://docs.fileformat.com/audio/flac/
+[12]: https://docs.fileformat.com/audio/alac/
+[13]: https://en.wikipedia.org/wiki/Advanced_Video_Coding
+[14]: https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding
+[15]: https://docs.fileformat.com/video/mov/
+[16]: https://docs.fileformat.com/video/mjpeg/
+[17]: https://docs.fileformat.com/video/avi/
+[18]: https://docs.fileformat.com/image/jpeg/
+[19]: https://docs.fileformat.com/image/png/
+[20]: https://docs.fileformat.com/image/tiff/
+[21]: https://docs.fileformat.com/image/gif/
+[22]: https://docs.fileformat.com/image/jp2/
