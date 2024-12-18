@@ -109,7 +109,7 @@ The Pro version unlocked several advanced features, including:
 -   Pro users could save videos embedded in web browsers directly to their hard drives.
 -   Two options were available for saving:
     -   _Save as source_: Downloads the video in its original format (not limited to .MOV).
-    -   _Save as QuickTime movie_: Converts the video into a .MOV format, regardless of its original format.
+    -   _Save as QuickTime movie_: Converts the video into a [.MOV format][15], regardless of its original format.
 
 ## Conclusion
 
