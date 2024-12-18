@@ -45,3 +45,28 @@ However, MP4 is more widely adopted as an international standard, which gives it
 
 On the software side, MP4 is supported by most DirectShow and Video for Windows codec packs, whereas QuickTime File Format (QTFF) is not as widely supported. As a result, MP4 is often the more versatile choice, especially when it comes to playback across different platforms.
 
+## QuickTime as the Basis for MPEG-4
+ 
+The QuickTime file format was officially recognized by the International Organization for Standardization (ISO) as the foundation for the MPEG-4 file format. This means that many components of the QuickTime format were integrated into the creation of the MPEG-4 standard.
+
+In 2001, ISO published the QuickTime file format specification, which became the basis for the MPEG-4 file format specification.
+
+**MP4's Creation**:  
+The MP4 (.mp4) file format was introduced in 2001 as an updated version of the MPEG-4 Part 1: Systems specification from 1999 (ISO/IEC 14496-1:2001).
+
+MP4 was developed to provide a standardized way to store multimedia content, such as video and audio, ensuring compatibility across various platforms and devices.
+
+**Revisions to MP4**:  
+In 2003, the MP4 file format was revised and replaced by MPEG-4 Part 14: MP4 File Format (ISO/IEC 14496-14:2003).
+
+This revision refined the original MP4 format, providing clearer guidelines on how multimedia content should be stored in the file format. The MPEG-4 Part 14 specification also improved the handling of audio and video streams within the MP4 container.
+
+**ISO Base Media File Format**
+
+The MP4 file format was generalized into the ISO Base Media File Format, which defines a basic structure for time-based media files like video and audio. This format also became the foundation for other multimedia formats.
+
+Some formats based on the ISO Base Media File Format include:
+
+-   **3GP** (used in mobile phones)
+-   **Motion JPEG 2000** (used in high-quality video systems)
+
