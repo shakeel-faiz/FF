@@ -22,3 +22,24 @@ Over time, **QuickTime’s relevance decreased**:
         -   Used the newer **AVFoundation framework** instead of the older QuickTime framework.
         -   Dropped support for plug-ins and advanced editing (only basic trimming remained).
 -   By **macOS Catalina** (2019), support for all 32-bit apps (including QuickTime 7 and QTKit) was removed.
+
+## QuickTime on macOS and Windows
+
+-   **For macOS**: QuickTime is bundled with the operating system, meaning it comes pre-installed.
+-   **For Windows**: QuickTime was available as a standalone download and was also included with Apple’s iTunes (up until iTunes version 10.5).
+    -   **Support Discontinued**: Apple no longer updates QuickTime for Windows, so any security vulnerabilities (like hacks) won't be fixed.
+    -   **Security Risks**: When Apple stopped supporting the Windows version, two serious vulnerabilities were found by Trend Micro. These vulnerabilities could allow hackers to run harmful programs. Trend Micro advised Windows users to uninstall QuickTime to avoid risks.
+
+## QuickTime SDK (Software Development Kit)
+
+-   Developers can access the **QuickTime SDK** to build applications using the QuickTime framework. However, an **Apple Developer Connection (ADC) subscription** is required to access the SDK.
+
+## QuickTime Features
+
+-   **Free on macOS**: QuickTime Player is free to use on macOS.
+-   **Other Applications Using QuickTime**: Some media players and apps rely on the QuickTime framework for extra features. For example:
+    -   **iTunes**: Can export audio in multiple formats like WAV, AIFF, MP3, AAC, and Apple Lossless.
+-   **Full-Screen Playback**:
+    -   Older versions of QuickTime required a Pro license for full-screen playback.
+    -   Since **QuickTime 7.2**, full-screen mode has been available in the free version.
+    -   macOS users can also create simple scripts (using **AppleScript**) to play videos in full-screen mode.
