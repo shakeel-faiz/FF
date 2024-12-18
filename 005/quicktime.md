@@ -117,7 +117,7 @@ After reading this article, you will understand what QuickTime is, what QuickTim
 
 [1]: https://en.wikipedia.org/wiki/Apple_Inc.
 [2]: https://en.wikipedia.org/wiki/MacOS
-[3]: https://en.wikipedia.org/wiki/Microsoft_Windows
+[3]: https://en.wikipedia.org/wiki/Virtual_reality
 [4]: https://en.wikipedia.org/wiki/Myst
 [5]: https://en.wikipedia.org/wiki/Xplora1
 [6]: https://en.wikipedia.org/wiki/Microsoft_Windows
