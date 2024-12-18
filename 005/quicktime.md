@@ -43,3 +43,38 @@ Over time, **QuickTime’s relevance decreased**:
     -   Older versions of QuickTime required a Pro license for full-screen playback.
     -   Since **QuickTime 7.2**, full-screen mode has been available in the free version.
     -   macOS users can also create simple scripts (using **AppleScript**) to play videos in full-screen mode.
+
+## QuickTime Supported File Types
+
+The framework supports the following file types and codecs
+
+### Audio
+
+- Advanced Audio Coding (AAC)
+- MPEG-1 Audio Layer 3 (MP3)
+- FLAC
+- Waveform Audio File Format (WAV)
+- Apple Lossless (ALAC)
+
+### Video
+
+- H.264/MPEG-4 AVC
+- H.265/HEVC
+- QuickTime Movie (MOV)
+- MPEG-4 Part 2
+- Audio Video Interleave (AVI)
+
+## Image
+
+- JPEG
+- Portable Network Graphics (PNG)
+- TIFF
+- Graphics Interchange Format (GIF)
+- JPEG 2000
+
+
+
+
+
+
+Audio File Formats 
