@@ -36,9 +36,11 @@ One of QuickTime's strengths is **editing flexibility**. The format allows the m
 ## QuickTime (.MOV) vs. MP4 Containers
 
 **Interchangeability**:  
+
 QuickTime and MP4 containers are quite similar, as both support the same MPEG-4 formats, including video and audio codecs. In a QuickTime-exclusive environment, meaning a system or software that only uses QuickTime, you can often interchange QuickTime (.mov) files and MP4 files without major issues, as they both rely on the same MPEG-4 codecs.
 
 **MP4's Broader Support**:  
+
 However, MP4 is more widely adopted as an international standard, which gives it broader compatibility, particularly with hardware devices. For example, devices like the PlayStation Portable (PSP) and many DVD players support MP4 files natively.
 
 On the software side, MP4 is supported by most DirectShow and Video for Windows codec packs, whereas QuickTime File Format (QTFF) is not as widely supported. As a result, MP4 is often the more versatile choice, especially when it comes to playback across different platforms.
