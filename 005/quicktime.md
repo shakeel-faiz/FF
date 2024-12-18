@@ -1,3 +1,5 @@
+In this blog article, we will discuss what QuickTime is and provide other relevant information about it. Let's get started.
+
 ## What is QuickTime?
 
 QuickTime is a multimedia architecture developed by Apple. It supports various functions such as playing, streaming, encoding and transcoding digital media, including video, audio and images. It also includes QuickTime Player, a built-in media player application for macOS, which was previously available for Windows as well.
@@ -108,4 +110,8 @@ The Pro version unlocked several advanced features, including:
 -   Two options were available for saving:
     -   _Save as source_: Downloads the video in its original format (not limited to .MOV).
     -   _Save as QuickTime movie_: Converts the video into a .MOV format, regardless of its original format.
+
+## Conclusion
+
+After reading this article, you will understand what QuickTime is, what QuickTime Player is, the supported file formats, a brief history, and when it was discontinued. Hopefully, this article has expanded your knowledge and answered any questions you may have about QuickTime. Keep reading and stay connected.
 
