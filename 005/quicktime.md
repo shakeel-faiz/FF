@@ -8,7 +8,7 @@ QuickTime was introduced in **1991**, at a time when playing digital videos dire
 
 QuickTime had some impressive capabilities. It supported advanced media types, like panoramic images through QuickTime [VR][3], and even Adobe Flash content. Plus, you could expand its functionality by adding new codecs through plug-ins, like Perian.
 
-QuickTime played a significant role in the history of multimedia. During the 1990s, it became a standard in the industry, extensively used in websites, applications, video games, and professional filmmaking. It contributed to innovations, being instrumental in creating iconic video games like [_Myst_][4] and [_Xplora1_][oooooooooooooo], and served as the exclusive platform for distributing movie trailers, including _Star Wars_. Moreover, the QuickTime File Format (MOV) laid the groundwork for the MPEG-4 standard, which remains a key format in use today.
+QuickTime played a significant role in the history of multimedia. During the 1990s, it became a standard in the industry, extensively used in websites, applications, video games, and professional filmmaking. It contributed to innovations, being instrumental in creating iconic video games like [_Myst_][4] and [_Xplora1_][5], and served as the exclusive platform for distributing movie trailers, including _Star Wars_. Moreover, the QuickTime File Format (MOV) laid the groundwork for the MPEG-4 standard, which remains a key format in use today.
 
 ## What Happened to QuickTime?
 
