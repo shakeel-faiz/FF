@@ -4,19 +4,19 @@ In this blog article, we will provide information about what MOV is, its relatio
 
 The QuickTime File Format (QTFF) is a file format used natively by the QuickTime framework. It has three file extensions.
 
-- Mov
+- [Mov][1]
 - Movie
-- QT
+- [QT][2]
 
 It is a type of container format that can hold audio, video and text.
 
-The **.MOV** file format is a multimedia container file format used by **QuickTime**, Apple's framework for handling video, audio and other multimedia content. It stores audio, video and text (such as subtitles) in a single file, and can support multiple tracks, making it versatile for various media types.
+The **.MOV** file format is a multimedia container file format used by **QuickTime**, Apple's framework for handling video, audio and other multimedia content. It stores [audio][3], [video][4] and text (such as subtitles) in a single file, and can support multiple tracks, making it versatile for various media types.
 
 MOV files can use different codecs to compress and store media, allowing for high-quality playback. It is commonly used for video editing and professional media production, and is compatible with both macOS and Windows platforms when QuickTime or compatible software is installed.
 
 ## QuickTime File Format (.MOV) Overview
 
-QuickTime is a **multimedia container format**. This means it can store different types of media (like audio, video, and text) in a single file. Here's how it works:
+QuickTime is a **multimedia container format**. This means it can store different types of media (like [audio][3], [video][4], and text) in a single file. Here's how it works:
 
 1.  **Tracks**:  
     QuickTime file can contain multiple **tracks**, with each track dedicated to a specific type of data. For example, one track may store video, another may store audio, and another may store subtitles.
@@ -39,13 +39,13 @@ One of QuickTime's strengths is **editing flexibility**. The format allows the m
 
 **Interchangeability**:  
 
-QuickTime and MP4 containers are quite similar, as both support the same MPEG-4 formats, including video and audio codecs. In a QuickTime-exclusive environment, meaning a system or software that only uses QuickTime, you can often interchange QuickTime (.mov) files and MP4 files without major issues, as they both rely on the same MPEG-4 codecs.
+[QuickTime][1] and [MP4][5] containers are quite similar, as both support the same MPEG-4 formats, including video and audio codecs. In a QuickTime-exclusive environment, meaning a system or software that only uses QuickTime, you can often interchange QuickTime ([.mov][1]) files and MP4 files without major issues, as they both rely on the same [MPEG-4 codecs][5].
 
 **MP4's Broader Support**:  
 
 However, MP4 is more widely adopted as an international standard, which gives it broader compatibility, particularly with hardware devices. For example, devices like the PlayStation Portable (PSP) and many DVD players support MP4 files natively.
 
-On the software side, MP4 is supported by most DirectShow and Video for Windows codec packs, whereas QuickTime File Format (QTFF) is not as widely supported. As a result, MP4 is often the more versatile choice, especially when it comes to playback across different platforms.
+On the software side, MP4 is supported by most DirectShow and Video for Windows codec packs, whereas QuickTime File Format (QTFF) is not as widely supported. As a result, [MP4][5] is often the more versatile choice, especially when it comes to playback across different platforms.
 
 ## QuickTime as the Basis for MPEG-4
  
@@ -55,7 +55,7 @@ In 2001, ISO published the QuickTime file format specification, which became the
 
 **MP4's Creation**:  
 
-The MP4 (.mp4) file format was introduced in 2001 as an updated version of the MPEG-4 Part 1: Systems specification from 1999 (ISO/IEC 14496-1:2001).
+The [MP4 (.mp4) file format][5] was introduced in 2001 as an updated version of the MPEG-4 Part 1: Systems specification from 1999 (ISO/IEC 14496-1:2001).
 
 MP4 was developed to provide a standardized way to store multimedia content, such as video and audio, ensuring compatibility across various platforms and devices.
 
@@ -71,9 +71,16 @@ The MP4 file format was generalized into the ISO Base Media File Format, which d
 
 Some formats based on the ISO Base Media File Format include:
 
--   **3GP** (used in mobile phones)
+-   [**3GP**][6] (used in mobile phones)
 -   **Motion JPEG 2000** (used in high-quality video systems)
 
 ## Conclusion
 
 In this article, we learned that MOV is a file format related to the QuickTime framework developed by Apple, how it works and how it became the basis for other notable formats like MP4, as well as other ISO formats like 3GP. Hopefully, this has increased your knowledge of the MOV file format. Let us know what you think, and feel free to ask any questions in our forum.
+
+[1]: https://docs.fileformat.com/video/mov/
+[2]: https://docs.fileformat.com/video/qt/
+[3]: https://docs.fileformat.com/audio/
+[4]: https://docs.fileformat.com/video/
+[5]: https://docs.fileformat.com/video/mp4/
+[6]: https://docs.fileformat.com/video/3gp/
