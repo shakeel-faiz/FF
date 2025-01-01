@@ -97,8 +97,10 @@ You can use any PDF, but for the sake of running and testing this code, we used 
 - page_2.jpg
 - page_3.jpg
 
+![page_1.jpg](https://raw.githubusercontent.com/shakeel-faiz/InputOutputDocs/master/python-convert-pdf-to-image/output-images/page_1.jpg)
 
 
+https://raw.githubusercontent.com/shakeel-faiz/InputOutputDocs/master/python-convert-pdf-to-image/output-images/page_1.jpg
 
 
 ---
