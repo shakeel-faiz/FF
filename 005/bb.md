@@ -1,4 +1,4 @@
-# Batch Change File Encoding to UTF-8: A Comprehensive Guide
+# Batch Change File Encoding to UTF-8
 
 Converting file encoding to UTF-8 is crucial for ensuring compatibility and consistency across various platforms. When dealing with multiple files, manually converting each one can be tedious. This guide will show you how to batch change file encoding to UTF-8 efficiently using different tools and methods.
 
