@@ -31,5 +31,7 @@ I was assigned these products to work on.
    - Used ChatGPT and Gemini to gather detailed information, generate comprehensive outlines, work on keyword-to-content mapping, craft catchy and SEO-friendly titles, and create relevant images.
    - Used commercial tools such as Keywords Anywhere, Ahrefs, and Semrush.
 
-## Traffic Review
+## Traffic Review - Docs and Blog
+
+
 
