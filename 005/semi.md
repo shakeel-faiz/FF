@@ -33,5 +33,9 @@ I was assigned these products to work on.
 
 ## Traffic Review - Docs and Blog
 
+**Metric Reference Report**: [Semiannual fileformat.com Organic Traffic – Historic – January 2025](https://indieorganicmetrics.wordpress.com/2025/01/03/semiannual-fileformat-com-organic-traffic-historic-january-2025/)
+
+|sss|sss|
+
 
 
