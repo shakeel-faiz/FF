@@ -27,3 +27,6 @@ I was assigned these products to work on.
    - Fixed broken links and added redirects for 404 errors in both Docs and Blogs.
    - Removed multiple H1 headings from all the Docs articles.
    - Added optimized alt tags to the Docs articles.
+- AI and Tools Usage
+   - Used ChatGPT and Gemini to gather detailed information, generate comprehensive outlines, work on keyword-to-content mapping, craft catchy and SEO-friendly titles, and create relevant images.
+   - Used commercial tools such as Keywords Anywhere, Ahrefs, and Semrush.
