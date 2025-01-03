@@ -6,7 +6,11 @@ I was assigned these products to work on.
 
 ## Tasks Accomplished on Docs, Blogs and Quora
 
-- Added and optimized over 86 articles with updated content, keywords, and meta descriptions.
+- Added and optimized over 86 articles.
+   - Looked into and took steps to improve the quality of the articles and their search engine ranking by updating the information.
+   - Incorporated relevant keywords, meta descriptions, and optimized headings to improve visibility in search engines.
+   - Organized the content into clear sections with headings and numbered lists for better readability.
+   - Connected related articles within the content to keep users engaged and improve site navigation.
 - Added and optimized 28 blog articles.
   - Wrote new posts and updated existing articles.
   - Incorporated keywords, meta descriptions, and worked on to improve their rankings.
@@ -19,4 +23,7 @@ I was assigned these products to work on.
    - Created Quora blog posts in the File Format Primer.
    - Stayed active in relevant topics and engaged in the latest discussions.
    - Subtly promoted the blog or products by offering value through informative answers.
-
+- Others
+   - Fixed broken links and added redirects for 404 errors in both Docs and Blogs.
+   - Removed multiple H1 headings from all the Docs articles.
+   - Added optimized alt tags to the Docs articles.
