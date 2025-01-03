@@ -40,5 +40,51 @@ I was assigned these products to work on.
 |---|---|
 |aa|bbb|
 
+## Analysis of Traffic Decline
+
+I wanted to share an update regarding the recent traffic trends and provide insights into what may have contributed to the decline
+
+1. **Impact of Google Core Algorithms:**
+
+   The existing articles that were previously driving traffic have experienced a significant drop, largely due to changes in Google’s core algorithms. This has had a notable impact on overall performance.
+
+1. **Effect of Google Generative AI:**
+
+   The introduction and prominence of Google Generative AI have also played a role in reducing traffic to our site. People get answers directly through Google without visiting the actual sites, and they also get answers from ChatGPT.
+
+1. **New Articles' Performance:**
+
+   The recently published articles did not achieve high rankings on the first page of search results. While the selected keywords had good search volumes, they were highly competitive, which affected visibility and performance. The reason we aren't ranking on the top page or first page, combined with the competition, is preventing us from driving more traffic.
+
+1. **Challenges with AI-Generated Content:**
+
+   One challenge with AI-generated content is that some of it may not have met Google's expectations for uniqueness or depth, which could explain why it hasn’t ranked well. I want to clarify that I didn’t rely solely on ChatGPT to write the content; I used it as a tool while applying my own skills to ensure the content is unique and valuable. I’ve been refining the content to align with SEO best practices and improve rankings.
+
+1. **Keywords and Competition:**
+
+   Articles targeting keywords with low search volume saw minimal searches, while those targeting high-volume keywords faced tough competition.
+
+1. **Translated Articles' Performance:**
+
+   Translated articles on Docs that previously contributed significantly to traffic have shown a decrease, resulting in approximately a 105k drop.
+
+1. **Article-Specific Traffic Loss:**
+
+   Three key articles have collectively experienced a 47k loss compared to their earlier performance.
 
 
+1. **Overall Impact:**
+
+   English-language traffic has seen a decline of around 159k.
+
+While these challenges are substantial, I believe the primary factors are external—such as Google’s algorithm changes—since approximately 80% of the impacted articles were not modified recently.
+
+## Proposed Actions and Next Steps:
+
+I am actively analyzing the situation to identify areas of improvement and opportunities to regain our traffic. Steps include:
+
+- Revisiting and optimizing high-potential articles to align with Google’s latest ranking criteria.
+- Enhancing content depth and uniqueness, especially for competitive keywords.
+- Diversifying traffic sources to reduce reliance on specific algorithms.
+
+I am committed to turning this around and would welcome your guidance or suggestions as we move forward.
