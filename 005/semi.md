@@ -15,6 +15,7 @@ I was assigned these products to work on.
   - Wrote new posts and updated existing articles.
   - Incorporated keywords, meta descriptions, and worked on to improve their rankings.
   - Structured the content, added images, and improved their readability.
+  - Added FAQs based on "People also ask" and GSC queries.
   - Responded to forum queries and shared posts on social media.
   - Used Google Search Console (GSC) and Google Analytics to track traffic and refine strategies.
 
