@@ -58,3 +58,22 @@ I want to bring some traffic to my blog, how should i select keyword from keywor
 Answer: bring some traffic to my blog.md
 
 ```
+
+Q8
+
+```
+I have a keyword
+
+
+difference between mkv and mp4
+
+but my article has 36 keywords and it is not ranking at all, because it covers lots of section and it is quite lengthy
+
+if I write another article which is short and concise and target just a single keyword 
+
+difference between mkv and mp4
+
+will it be beneficial. How should i proceed and what things i should keep in mind
+
+Answer: short artice difference between mkv and mp4
+```
