@@ -41,3 +41,11 @@ Oct 2024 - 9,900
 Nov 2024 - 9,900
 Dec 2024 - 9,900	-6%
 ```
+
+Q6
+
+```
+but it will be very long article, users don't read such a lengthy article, how should i proceed
+
+
+```
