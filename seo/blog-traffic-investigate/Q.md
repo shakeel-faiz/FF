@@ -49,3 +49,12 @@ but it will be very long article, users don't read such a lengthy article, how s
 
 
 ```
+
+Q7
+
+```
+I want to bring some traffic to my blog, how should i select keyword from keywords anywhere and convert it to blog, should i select one keyword or many keyword, I also don't know how to convert keywords into article
+
+Answer: bring some traffic to my blog.md
+
+```
