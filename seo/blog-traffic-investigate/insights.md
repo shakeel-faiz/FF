@@ -1,3 +1,5 @@
+Question: please give me insights and how should i investigate it 
+
 This image seems to represent performance data from Google Search Console. Here's how you can interpret the metrics and investigate further:
 
 ### Key Metrics:
