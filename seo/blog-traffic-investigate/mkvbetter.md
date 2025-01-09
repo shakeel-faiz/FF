@@ -1,10 +1,10 @@
 ## **Introduction**
 
-When it comes to video formats, MKV and MP4 are two of the most popular choices. Both are widely used and offer distinct features, but how do they compare? Is MKV better than MP4? The answer depends on your specific needs, such as quality, compatibility, and file size. Let’s dive into the details to help you make an informed decision.
+When it comes to video formats, [MKV and MP4][1] are two of the most popular choices. Both are widely used and offer distinct features, but how do they compare? Is MKV better than MP4? The answer depends on your specific needs, such as quality, compatibility, and file size. Let’s dive into the details to help you make an informed decision.
 
 ## **What Is MKV?**
 
-MKV, short for Matroska Video, is a free and open-source multimedia container format. It’s designed to hold multiple video, audio, subtitle, and metadata tracks in a single file. MKV is highly versatile and often used for high-quality video files, such as Blu-ray rips or videos with multiple subtitle options.
+MKV, short for Matroska Video, is a free and open-source [multimedia container format][3]. It’s designed to hold multiple video, audio, subtitle, and metadata tracks in a single file. MKV is highly versatile and often used for high-quality video files, such as Blu-ray rips or videos with multiple subtitle options.
 
 ## **What Is MP4?**
 
@@ -13,7 +13,7 @@ MP4, or MPEG-4 Part 14, is a standard multimedia container format. It’s widely
 ## **MKV vs. MP4: Comparison**
 
 1. **Compatibility**
-   - **MP4**: Works on nearly all devices, including smartphones, tablets, and smart TVs. It’s supported by popular media players like VLC, Windows Media Player, and QuickTime.
+   - **MP4**: Works on nearly all devices, including smartphones, tablets, and smart TVs. It’s supported by popular media players like VLC, Windows Media Player, and [QuickTime][2].
    - **MKV**: While MKV is compatible with many modern devices, some older devices and players may require additional codecs or software to play MKV files.
 
 2. **File Size and Compression**
@@ -42,3 +42,12 @@ Choosing between MKV and MP4 depends on your priorities:
 
 So, is MKV better than MP4? The answer depends on your use case. MKV excels in quality, versatility, and advanced features, making it great for professional or personal video archives. On the other hand, MP4’s universal compatibility and smaller file sizes make it the ideal choice for streaming and sharing. Evaluate your needs to pick the format that’s best for you!
 
+## See Also
+- [MKV File Format: How it Works - MKV vs MP4][1]
+- [What is MP4 File Format and Everything You Need to Know][4]
+
+
+[1]: https://blog.fileformat.com/video/mkv-format-what-is-mkv-how-it-works-and-mkv-vs-mp4/
+[2]: https://blog.fileformat.com/software/what-is-quicktime/
+[3]: https://blog.fileformat.com/video/what-is-mkv-container/
+[4]: https://blog.fileformat.com/video/what-is-mp4-file-format-and-everything-you-need-to-know/
