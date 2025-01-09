@@ -8,7 +8,7 @@ When selecting a video format, [**MP4**][2] and [**MKV**][1] are two of the most
 
 ## **1. What is the primary purpose of MP4 and MKV?**  
 - **MP4** is primarily used for efficient video compression, supporting video, audio, and subtitles in a widely compatible format. It’s ideal for streaming, sharing, and general video playback.  
-- [**MKV** is a flexible container format][3] designed to store high-quality video, multiple audio tracks, subtitles, and other data. It’s great for high-definition video storage and complex media files.
+- **MKV** is a flexible [container format][3] designed to store high-quality video, multiple audio tracks, subtitles, and other data. It’s great for high-definition video storage and complex media files.
 
 ## **2. Which format is more widely supported across devices and platforms?**  
 **MP4** is more widely supported across devices, platforms, and media players, making it the go-to choice for compatibility. **MKV** has limited support on some devices but works well with media players like VLC.
