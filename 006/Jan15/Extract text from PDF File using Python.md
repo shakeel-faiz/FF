@@ -1,3 +1,5 @@
+This article will show you how to extract text from a PDF in Python using popular libraries like PyPDF and PyMuPDF. It will also provide sample code, sample files, and the output.
+
 ## Extract Text from PDF File Using Python
 
 In this article, we will let you know how to extract text from PDF file using Python. 
