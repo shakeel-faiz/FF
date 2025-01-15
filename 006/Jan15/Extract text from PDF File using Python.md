@@ -106,11 +106,9 @@ pip install pymupdf
 
 ### Sample Code to Extract Text from PDF using PyMuPDF
 
+We used the same pdf as used before
+
 **sample.pdf** - [Download Link][1] (This sample PDF will be used in the code, but you can certainly use your own PDF.)
-
-**screenshot of sample.pdf**
-
-![Sample Input PDF Screenshot][2]
 
 ### Code
 
