@@ -1,4 +1,4 @@
-## Extract text from PDF File using Python
+## Extract Text from PDF File Using Python
 
 In this article, we will let you know how to extract text from PDF file using Python. 
 
