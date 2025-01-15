@@ -33,7 +33,56 @@ pip install pypdf
 
 ![Sample Input PDF Screenshot][2]
 
+## Code
 
+```
+from pypdf import PdfReader
+
+# Specify the PDF file path
+pdf_file_path = "sample.pdf"
+
+# Create a PDF reader object
+reader = PdfReader(pdf_file_path)
+
+# Initialize a variable to store the extracted text
+extracted_text = ""
+
+# Iterate through the pages and extract text
+for page in reader.pages:
+    extracted_text += page.extract_text()
+
+# Print the extracted text
+print("Extracted Text:")
+print(extracted_text)
+```
+
+## Output
+
+```
+Extracted Text:
+This is a sample pdf. Page 1
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  This is sample pdf. Page 2
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+software like Aldus PageMaker including versions of Lorem Ipsum.
+  This is sample pdf. Page 3
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+software like Aldus PageMaker including versions of Lorem Ipsum.
+```
 
 [1]: https://github.com/shakeel-faiz/InputOutputDocs/raw/master/python-convert-pdf-to-image/sample.pdf
 [2]: https://raw.githubusercontent.com/shakeel-faiz/InputOutputDocs/master/python-convert-pdf-to-image/sample-input-pdf-screenshot.png
