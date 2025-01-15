@@ -27,9 +27,13 @@ pip install pypdf
 
 ## Sample Code to Extract Text from PDF using pypdf
 
-**sample.pdf** - Download Link (This sample PDF will be used in the code, but you can certainly use your own PDF.)
+**sample.pdf** - [Download Link][1] (This sample PDF will be used in the code, but you can certainly use your own PDF.)
+
+**screenshot of sample.pdf**
+
+![Sample Input PDF Screenshot][2]
 
 
 
-
-
+[1]: https://github.com/shakeel-faiz/InputOutputDocs/raw/master/python-convert-pdf-to-image/sample.pdf
+[2]: https://raw.githubusercontent.com/shakeel-faiz/InputOutputDocs/master/python-convert-pdf-to-image/sample-input-pdf-screenshot.png
