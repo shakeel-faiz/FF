@@ -6,8 +6,8 @@ PDF stands for **Portable Document Format** is a popular digital document format
 
 To extract text from a PDF file using Python, these libraries are commonly used. We will show you how to extract text from a PDF using both of them.
 
-1. **pypdf**
-1. **PyMuPDF**
+1. [**pypdf**][3]
+1. [**PyMuPDF**][4]
 
 ## How to Extract Text from a PDF File Using pypdf in Python
 
@@ -177,5 +177,15 @@ software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ```
 
+## See Also
+
+- [Python PDF to Image Conversion: Step-by-Step Guide][5]
+- [Batch change file encoding to UTF-8][6]
+
+
 [1]: https://github.com/shakeel-faiz/InputOutputDocs/raw/master/python-convert-pdf-to-image/sample.pdf
 [2]: https://raw.githubusercontent.com/shakeel-faiz/InputOutputDocs/master/python-convert-pdf-to-image/sample-input-pdf-screenshot.png
+[3]: https://pypi.org/project/pypdf/
+[4]: https://pypi.org/project/PyMuPDF/
+[5]: https://blog.fileformat.com/programming/how-to-convert-pdf-to-image-in-python/
+[6]: https://blog.fileformat.com/programming/batch-change-file-encoding-to-utf8/
