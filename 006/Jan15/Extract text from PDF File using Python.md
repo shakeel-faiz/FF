@@ -35,6 +35,8 @@ pip install pypdf
 
 ### Code
 
+Here is a sample code snippet for extracting text from PDF using pypdf.
+
 ```
 from pypdf import PdfReader
 
@@ -57,6 +59,8 @@ print(extracted_text)
 ```
 
 ### Output
+
+Here is the output of the sample code provided above.
 
 ```
 Extracted Text:
@@ -82,6 +86,97 @@ and scrambled it to make a type specimen book. It has survived not only five cen
 into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
 release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
 software like Aldus PageMaker including versions of Lorem Ipsum.
+```
+
+## How to Extract Text from a PDF File Using PyMuPDF in Python
+
+Here are the steps.
+
+1. Install PyMuPDF
+2. Run the code given in this article
+3. See the output
+
+### Install PyMuPDF
+
+Install **PyMuPDF**, also known as **fitz**, using the following command.
+
+```
+pip install pymupdf
+```
+
+### Sample Code to Extract Text from PDF using PyMuPDF
+
+**sample.pdf** - [Download Link][1] (This sample PDF will be used in the code, but you can certainly use your own PDF.)
+
+**screenshot of sample.pdf**
+
+![Sample Input PDF Screenshot][2]
+
+### Code
+
+Here is a sample code snippet for extracting text from PDF using PyMuPDF.
+
+```
+import fitz  # PyMuPDF library
+
+# Specify the PDF file path
+pdf_file_path = "sample.pdf"
+
+# Open the PDF file
+pdf_document = fitz.open(pdf_file_path)
+
+# Initialize a variable to store the extracted text
+extracted_text = ""
+
+# Iterate through all the pages and extract text
+for page_number in range(len(pdf_document)):
+    page = pdf_document[page_number]  # Get the page
+    extracted_text += page.get_text()  # Extract text from the page
+
+# Close the PDF file
+pdf_document.close()
+
+# Print the extracted text
+print("Extracted Text using PyMuPDF:")
+print(extracted_text)
+```
+
+### Output
+
+Here is the output of the sample code provided above.
+
+```
+Extracted Text using PyMuPDF:
+This is a sample pdf. Page 1 
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
+the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop  
+publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+This is sample pdf. Page 2
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
+the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+This is sample pdf. Page 3
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been 
+the
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+software like Aldus PageMaker including versions of Lorem Ipsum.
+
 ```
 
 [1]: https://github.com/shakeel-faiz/InputOutputDocs/raw/master/python-convert-pdf-to-image/sample.pdf
