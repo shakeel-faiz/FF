@@ -54,7 +54,7 @@ for page in reader.pages:
     extracted_text += page.extract_text()
 
 # Print the extracted text
-print("Extracted Text:")
+print("Extracted Text using pypdf:")
 print(extracted_text)
 ```
 
@@ -63,7 +63,7 @@ print(extracted_text)
 Here is the output of the sample code provided above.
 
 ```
-Extracted Text:
+Extracted Text using pypdf:
 This is a sample pdf. Page 1
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
