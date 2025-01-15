@@ -25,7 +25,7 @@ You can install **pypdf** using the following command
 pip install pypdf
 ```
 
-## Sample Code to Extract Text from PDF using pypdf
+### Sample Code to Extract Text from PDF using pypdf
 
 **sample.pdf** - [Download Link][1] (This sample PDF will be used in the code, but you can certainly use your own PDF.)
 
@@ -33,7 +33,7 @@ pip install pypdf
 
 ![Sample Input PDF Screenshot][2]
 
-## Code
+### Code
 
 ```
 from pypdf import PdfReader
@@ -56,7 +56,7 @@ print("Extracted Text:")
 print(extracted_text)
 ```
 
-## Output
+### Output
 
 ```
 Extracted Text:
