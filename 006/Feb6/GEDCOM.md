@@ -1,7 +1,7 @@
 GEDCOM and FamilySearch
 
 ## **What is GEDCOM?**
-GEDCOM (**Genealogical Data Communication**) is an **open file format** designed for **storing, exchanging, and sharing genealogical data** (family tree information). It is widely used in genealogy software and websites, making it easier to **transfer** family tree data between different platforms.
+[GEDCOM][1] (**Genealogical Data Communication**) is an **open file format** designed for **storing, exchanging, and sharing genealogical data** (family tree information). It is widely used in genealogy software and websites, making it easier to **transfer** family tree data between different platforms.
 
 ## **Who Developed GEDCOM?**
 GEDCOM was created by **The Church of Jesus Christ of Latter-day Saints (LDS Church)**, which operates **FamilySearch**—a major genealogy research organization. Their goal was to simplify genealogy data management and allow better **research collaboration**.
@@ -16,8 +16,8 @@ GEDCOM was created by **The Church of Jesus Christ of Latter-day Saints (LDS Chu
 - These records are **linked** using metadata, ensuring proper connections between family members.
 
 ## **GEDCOM Versions & Industry Standards**
-- The latest official version is **GEDCOM 7.0**, released in **2021**.
-- However, **GEDCOM 5.5.1 (from 1999, finalized in 2019)** remains the **most widely used standard**.
+- The latest official version is [**GEDCOM 7.0**][1], released in **2021**.
+- However, [**GEDCOM 5.5.1][2] (from 1999, finalized in 2019)** remains the **most widely used standard**.
 - Because GEDCOM 5.5.1 had limitations, some genealogy software developers created **custom extensions** like **GEDCOM 5.5 EL (Extended Locations)** to improve it.
 
 ## **Adoption of GEDCOM 7.0**
@@ -246,3 +246,7 @@ Here's a simple example of a **GEDCOM file** and an explanation of its structure
 - **Names in Slashes**: Names in GEDCOM are often enclosed in slashes, such as **John /Doe/**, which differentiates the surname from the given name.
 
 This is a basic GEDCOM file, but more complex files can include detailed events (like marriages, deaths), sources (e.g., census records), and multimedia references.
+
+[1]: https://gedcom.io/specifications/FamilySearchGEDCOMv7.html
+[2]: https://gedcom.io/specifications/ged551.pdf
+
