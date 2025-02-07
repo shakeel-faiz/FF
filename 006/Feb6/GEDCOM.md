@@ -17,12 +17,12 @@ GEDCOM was created by **The Church of Jesus Christ of Latter-day Saints (LDS Chu
 
 ## **GEDCOM Versions & Industry Standards**
 - The latest official version is [**GEDCOM 7.0**][1], released in **2021**.
-- However, [**GEDCOM 5.5.1][2] (from 1999, finalized in 2019)** remains the **most widely used standard**.
+- However, [**GEDCOM 5.5.1**][2] (from 1999, finalized in 2019)** remains the **most widely used standard**.
 - Because GEDCOM 5.5.1 had limitations, some genealogy software developers created **custom extensions** like **GEDCOM 5.5 EL (Extended Locations)** to improve it.
 
 ## **Adoption of GEDCOM 7.0**
-- **FamilySearch** planned to support GEDCOM 7.0 by **Q3 2022**.
-- **Ancestry.com** has also shown interest in adopting it but has not provided a firm implementation date.
+- [**FamilySearch**][3]* planned to support GEDCOM 7.0 by **Q3 2022**.
+- [**Ancestry.com**][4] has also shown interest in adopting it but has not provided a firm implementation date.
 
 ## **Why is GEDCOM Important?**
 1. **Cross-Platform Compatibility** – Allows users to move their family tree data between different genealogy websites and software.
@@ -48,7 +48,7 @@ GEDCOM uses a **lineage-linked data model** to organize **family relationships**
 
 ### **Evolution of Gender Representation in GEDCOM**  
 - Initially, the GEDCOM model was designed assuming a **heteronormative family structure**, where a **male (HUSB) and female (WIFE) have children (CHIL)**.  
-- The **GEDCOM 7.0 specification** clarifies that these terms **do not** imply gender roles or biological parenthood.  
+- The [**GEDCOM 7.0 specification**][1] clarifies that these terms **do not** imply gender roles or biological parenthood.  
 - The updated specification allows for:  
   - **Same-sex couples**  
   - **Adoption, fostering, and cohabitation**  
@@ -66,7 +66,7 @@ GEDCOM uses a **lineage-linked data model** to organize **family relationships**
 A **GEDCOM file** consists of **three main sections**: the **header**, the **records**, and the **trailer**. Each section plays a specific role in organizing genealogical data, and the structure of the file is highly organized to ensure that relationships between individuals and families are clear and standardized.
 
 ### **1. Header Section**  
-- The **header section** marks the start of the GEDCOM file and includes important **metadata** about the file itself, such as its version (e.g., GEDCOM 7.0) and any special settings or configurations for the file.  
+- The **header section** marks the start of the GEDCOM file and includes important **metadata** about the file itself, such as its version (e.g., [GEDCOM 7.0][1]) and any special settings or configurations for the file.  
 - This section is represented by the **HEAD** record.
 
 ### **2. Records Section**  
@@ -249,4 +249,5 @@ This is a basic GEDCOM file, but more complex files can include detailed events 
 
 [1]: https://gedcom.io/specifications/FamilySearchGEDCOMv7.html
 [2]: https://gedcom.io/specifications/ged551.pdf
-
+[3]: https://www.familysearch.org/en/gedcom/
+[4]: https://www.ancestry.com/
