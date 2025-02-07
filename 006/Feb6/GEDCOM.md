@@ -99,8 +99,8 @@ Each of these records is structured hierarchically, with different **level numbe
 
 ### **Validation and Quality Control**
 - Since GEDCOM files need to be well-structured for proper use and transfer, there are tools to **validate** them for errors.
-  - **PhpGedView Project**: Includes a GEDCOM validator for checking the structure.
-  - **The Windows GEDCOM Validator**: A standalone tool for GEDCOM validation.
+  - [**PhpGedView Project**][5]: Includes a GEDCOM validator for checking the structure.
+  - [**The Windows GEDCOM Validator**][6]: A standalone tool for GEDCOM validation.
   - **Gedcheck**: The older validation tool, previously used by the LDS Church.
 
 ### **Challenges with GEDCOM Compatibility**  
@@ -251,3 +251,5 @@ This is a basic GEDCOM file, but more complex files can include detailed events 
 [2]: https://gedcom.io/specifications/ged551.pdf
 [3]: https://www.familysearch.org/en/gedcom/
 [4]: https://www.ancestry.com/
+[5]: http://www.phpgedview.net/
+[6]: https://chronoplexsoftware.com/gedcomvalidator/
