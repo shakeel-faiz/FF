@@ -120,7 +120,10 @@ PostScript offered various font formats. Adobe's high-quality Type 1 fonts were 
   - Designed for **Asian (CJK) character sets** with **large encoding spaces**.  
   - Could use **Type 1 or Type 2** for different font structures.  
 
-### **Font Format Evolution**  
+### **Font Format Evolution**
+
+Apple created TrueType fonts to compete with Adobe's fonts. This made Adobe share how their fonts worked.  Later, Adobe and Microsoft joined together to make OpenType fonts, which combined the best of both and became the standard font format we use today.
+
 - **TrueType (1991):**  
   - Developed by **Apple** as a competitor to Adobe’s system.  
   - Forced Adobe to **publish the Type 1 spec** for public use.  
