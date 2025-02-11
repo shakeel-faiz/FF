@@ -89,3 +89,41 @@ PostScript has evolved through different levels, each improving functionality, p
 - Unlike traditional printer control languages, **PostScript is a full programming language**, allowing **precise document rendering**.  
 - **On-the-fly rasterization**: PostScript defines everything (including text) using **straight lines and Bézier curves**, allowing smooth **scaling, rotation, and transformations**.  
 - PostScript interpreters, called **Raster Image Processors (RIPs)**, convert instructions into dots needed for final output.
+
+## PostScript Font Handling  
+
+### PostScript Font System
+- Uses **graphics primitives** to define **scalable** glyphs.  
+- **Font hinting** ensures high-quality rendering, even at **low resolutions**.  
+- Fonts were stored in specialized **Type formats** with different capabilities.  
+
+### **PostScript Font Types**  
+- **Type 1 Font (T1):**  
+  - Proprietary **compressed & encrypted** font format by Adobe.  
+  - Used for **high-quality, hinted fonts**.  
+  - Adobe initially licensed Type 1 technology for a fee.  
+
+- **Type 3 Font (T3):**  
+  - Allowed **full PostScript features**, but lacked **standardized hinting**.  
+  - Used by those who couldn't license Type 1 technology.  
+
+- **Type 2 Font (T2) & Compact Font Format (CFF):**  
+  - Reduced **font file size** for efficiency.  
+  - Became the basis for **OpenType fonts**.  
+
+- **CID-Keyed Fonts:**  
+  - Designed for **Asian (CJK) character sets** with **large encoding spaces**.  
+  - Could use **Type 1 or Type 2** for different font structures.  
+
+### **Font Format Evolution**  
+- **TrueType (1991):**  
+  - Developed by **Apple** as a competitor to Adobe’s system.  
+  - Forced Adobe to **publish the Type 1 spec** for public use.  
+
+- **OpenType (Late 1990s):**  
+  - Jointly developed by **Adobe & Microsoft**.  
+  - **Unified Type 1 and TrueType** functionality.  
+  - Became the industry standard for modern fonts.  
+
+### **End of Type 1 Support**  
+- Adobe officially **ended support for Type 1 fonts in January 2023** in favor of **OpenType**.
