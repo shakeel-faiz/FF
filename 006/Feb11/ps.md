@@ -46,3 +46,33 @@ Adobe’s breakthrough in **font rendering and hinting** made PostScript viable 
 During the **1980s and 1990s**, PostScript was widely used in **laser printers**, but its **high processing power and memory requirements** made it expensive. As **printers became cheaper** and **computers more powerful**, software-based solutions replaced hardware PostScript processing. By **2001**, most low-end printers dropped PostScript support in favor of **inkjet technology** and **software rendering**.  
 
 However, PostScript remains dominant in **high-end professional printers**, where it **offloads rendering from the computer to the printer**, improving performance. Additionally, **PDF (Portable Document Format)**—a direct descendant of PostScript—has become the **standard for electronic document distribution**.  
+
+## PostScript Levels 
+
+PostScript has evolved through different levels, each improving functionality, performance, and efficiency. There are **three major levels**:  
+
+### **1. PostScript Level 1 (1984)**  
+- The original version, released by **Adobe** in **1984**.  
+- Provided **device-independent** page descriptions for text, graphics, and images.  
+- Allowed precise control over typography and layout.  
+- Used in the **first PostScript printers**, including the **Apple LaserWriter**.  
+- **Limitations:**  
+  - Lacked **color support** (only grayscale).  
+  - **Slow processing** on complex graphics.  
+  - **No built-in image compression**, leading to large file sizes.  
+
+### **2. PostScript Level 2 (1991)**  
+- Improved **performance** and **memory efficiency**.  
+- Added support for **color printing** (CMYK and spot colors).  
+- Introduced **data compression** to reduce file sizes.  
+- Enabled **improved font handling** (Type 1 and Type 3 fonts).  
+- Introduced **Pattern, Forms, and Composite Fonts** for better text rendering.  
+- **Faster processing** of complex graphics compared to Level 1.  
+
+### **3. PostScript 3 (1997)**  
+- **Major upgrade** with **more efficient rendering**.  
+- **Enhanced color management** with ICC profiles.  
+- **Improved support for high-resolution printing** (beyond 2400 dpi).  
+- **Better font handling**, including support for **Multiple Master fonts**.  
+- **More transparency and shading effects** (better graphics rendering).  
+- **Replaced by PDF-based workflows** in modern publishing but still used in high-end printers.  
