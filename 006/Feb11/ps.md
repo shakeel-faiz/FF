@@ -75,7 +75,10 @@ PostScript Level 2 (1991) boosted performance, added color printing, compressed 
 - Introduced **Pattern, Forms, and Composite Fonts** for better text rendering.  
 - **Faster processing** of complex graphics compared to Level 1.  
 
-### **3. PostScript 3 (1997)**  
+### **3. PostScript 3 (1997)**
+
+PostScript 3 (1997) was a major update with faster rendering, better color, support for very high-resolution printing, improved fonts, and enhanced graphics effects. While now less common, it's still used in some high-end printing.
+
 - **Major upgrade** with **more efficient rendering**.  
 - **Enhanced color management** with ICC profiles.  
 - **Improved support for high-resolution printing** (beyond 2400 dpi).  
