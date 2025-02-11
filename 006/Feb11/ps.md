@@ -51,7 +51,10 @@ However, PostScript remains dominant in **high-end professional printers**, wher
 
 PostScript has evolved through different levels, each improving functionality, performance, and efficiency. There are **three major levels**:  
 
-### **1. PostScript Level 1 (1984)**  
+### **1. PostScript Level 1 (1984)**
+
+The original PostScript (Level 1, released in 1984) let users precisely control page layout with text, graphics, and images, and was used in early laser printers. However, it was limited to grayscale, processed complex graphics slowly, and produced large files due to a lack of image compression.
+
 - The original version, released by **Adobe** in **1984**.  
 - Provided **device-independent** page descriptions for text, graphics, and images.  
 - Allowed precise control over typography and layout.  
@@ -61,7 +64,10 @@ PostScript has evolved through different levels, each improving functionality, p
   - **Slow processing** on complex graphics.  
   - **No built-in image compression**, leading to large file sizes.  
 
-### **2. PostScript Level 2 (1991)**  
+### **2. PostScript Level 2 (1991)**
+
+PostScript Level 2 (1991) boosted performance, added color printing, compressed files, improved fonts, and sped up complex graphics processing.
+
 - Improved **performance** and **memory efficiency**.  
 - Added support for **color printing** (CMYK and spot colors).  
 - Introduced **data compression** to reduce file sizes.  
