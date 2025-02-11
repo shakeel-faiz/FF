@@ -76,3 +76,16 @@ PostScript has evolved through different levels, each improving functionality, p
 - **Better font handling**, including support for **Multiple Master fonts**.  
 - **More transparency and shading effects** (better graphics rendering).  
 - **Replaced by PDF-based workflows** in modern publishing but still used in high-end printers.  
+## PostScript in Printing
+
+### Before PostScript:
+- Early printers printed only **text characters**, usually in **ASCII**, with fixed glyphs (e.g., typewriter keys, metal bands, or optical plates).  
+- **Dot matrix printers** introduced selectable fonts and custom glyph uploads, along with basic **raster graphics** via escape sequences, but required **specific drivers for each printer model**.  
+- **Vector graphics** were handled by **plotters** (e.g., HPGL-based), but these were **slow, expensive, and limited to graphics**.  
+
+### PostScript Printing:
+- **Laser printers** combined the strengths of dot matrix printers and plotters, enabling **high-quality text and graphics on the same page**.  
+- **PostScript unified printing control** with a **single, device-independent language** that worked across different printers and software.  
+- Unlike traditional printer control languages, **PostScript is a full programming language**, allowing **precise document rendering**.  
+- **On-the-fly rasterization**: PostScript defines everything (including text) using **straight lines and Bézier curves**, allowing smooth **scaling, rotation, and transformations**.  
+- PostScript interpreters, called **Raster Image Processors (RIPs)**, convert instructions into dots needed for final output.
