@@ -30,3 +30,19 @@ Being **Turing complete** means PostScript can, in theory, perform any computati
 - Developed by **Adobe Systems** between **1982 and 1984**.
 - Created by **John Warnock, Charles Geschke, Doug Brotz, Ed Taft, and Bill Paxton**.
 - The latest version, **PostScript 3**, was released in **1997** and added better performance, color management, and image compression.
+
+## PostScript History  
+
+PostScript's origins trace back to **1976**, when **John Gaffney** at **Evans & Sutherland** developed concepts for a page description language while working on a graphics database. Around the same time, **Xerox PARC** was developing **laser printers** and needed a standard for defining page images. They first created the **Press format**, later evolving into **Interpress** in 1978, developed by **John Gaffney and Martin Newell**.  
+
+In **1982**, **John Warnock and Chuck Geschke** left Xerox PARC and co-founded **Adobe Systems**, where they, along with **Doug Brotz, Ed Taft, and Bill Paxton**, developed **PostScript** as a simpler alternative to Interpress. It was released commercially in **1984**.  
+
+### **Apple’s Role in PostScript's Success**  
+In **1983**, **Steve Jobs** saw PostScript’s potential for the **Macintosh** and licensed it from Adobe for **$1.5 million**, plus **$2.5 million for 20% of Adobe’s shares**. He also attempted, unsuccessfully, to buy Adobe. Apple and Adobe then worked together to optimize PostScript for **Apple's LaserWriter printer**—launched in **1985**—which played a crucial role in the **desktop publishing revolution**.  
+
+Adobe’s breakthrough in **font rendering and hinting** made PostScript viable even on lower-resolution **300-dpi Canon laser printers**. Adobe did not patent this technology to keep it a trade secret.  
+
+### **PostScript’s Decline and Legacy**  
+During the **1980s and 1990s**, PostScript was widely used in **laser printers**, but its **high processing power and memory requirements** made it expensive. As **printers became cheaper** and **computers more powerful**, software-based solutions replaced hardware PostScript processing. By **2001**, most low-end printers dropped PostScript support in favor of **inkjet technology** and **software rendering**.  
+
+However, PostScript remains dominant in **high-end professional printers**, where it **offloads rendering from the computer to the printer**, improving performance. Additionally, **PDF (Portable Document Format)**—a direct descendant of PostScript—has become the **standard for electronic document distribution**.  
