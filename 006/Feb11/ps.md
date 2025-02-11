@@ -92,12 +92,17 @@ PostScript has evolved through different levels, each improving functionality, p
 
 ## PostScript Font Handling  
 
+PostScript's font system uses basic graphic shapes to create scalable glyphs, allowing fonts to be resized without losing quality. Font hinting is used to ensure that fonts remain clear and legible even at small sizes or low resolutions. PostScript fonts are stored in various specialized "Type" formats, each offering different capabilities.
+
 ### PostScript Font System
 - Uses **graphics primitives** to define **scalable** glyphs.  
 - **Font hinting** ensures high-quality rendering, even at **low resolutions**.  
 - Fonts were stored in specialized **Type formats** with different capabilities.  
 
-### **PostScript Font Types**  
+### **PostScript Font Types**
+
+PostScript offered various font formats. Adobe's high-quality Type 1 fonts were initially licensed, while Type 3 fonts, lacking standard hinting, were used by others. Type 2 and CFF formats reduced file sizes and paved the way for OpenType. CID-Keyed fonts supported large Asian character sets and could use either Type 1 or Type 2 structures.
+
 - **Type 1 Font (T1):**  
   - Proprietary **compressed & encrypted** font format by Adobe.  
   - Used for **high-quality, hinted fonts**.  
