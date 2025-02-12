@@ -200,3 +200,30 @@ showpage
 You can save this as **hello.ps** and open it with a **PostScript viewer** (e.g., **GSview**, **Ghostscript**) or send it to a **PostScript printer**.
 
 ### add screenshot here
+
+## List of Software to Render PostScript
+
+### **PostScript Viewers & Interpreters**  
+1. **Ghostscript** (Open-source) – Popular interpreter for PostScript and PDF.  
+2. **GSview** – GUI frontend for Ghostscript.  
+3. **MuPDF** – Lightweight viewer supporting PostScript and PDFs.  
+4. **Xpdf** – Open-source PDF viewer with some PostScript support.  
+5. **Evince** – GNOME document viewer that can handle PostScript files.  
+6. **Okular** – KDE document viewer with PostScript support.  
+7. **Apple Preview** – Built-in macOS viewer supporting PostScript & PDF.  
+
+### **PostScript Printers & Rasterizers**  
+8. **Adobe Acrobat Distiller** – Converts PostScript to high-quality PDFs.  
+9. **CUPS (Common Unix Printing System)** – Handles PostScript printing on Unix/Linux.  
+10. **PPR (Printer Production Release)** – PostScript spooler & renderer.  
+
+### **Vector Graphics & DTP Software**  
+11. **Adobe Illustrator** – Can open & edit PostScript files.  
+12. **CorelDRAW** – Supports PostScript for vector graphics.  
+13. **Scribus** – Open-source desktop publishing software with PostScript support.  
+14. **Inkscape** – Can import/export PostScript (via Ghostscript).  
+
+### **Command-Line & Conversion Tools**  
+15. **ps2pdf** (part of Ghostscript) – Converts PostScript to PDF.  
+16. **pstopdf** (macOS command-line tool) – Converts PostScript to PDF.  
+17. **ImageMagick** – Can render PostScript files into images.  
