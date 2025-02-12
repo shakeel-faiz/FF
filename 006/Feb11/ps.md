@@ -4,7 +4,7 @@
 
 ## Explanation of PostScript (PS)
 
-PostScript (PS) is both a **page description language (PDL)** and a **programming language** that is **dynamically typed** and **stack-based**. Here’s what that means:
+PostScript (PS) is both a [**page description language (PDL)**][1] and a **programming language** that is [**dynamically typed**][2] and [**stack-based**][3]. Here’s what that means:
 
 ### **1. What is a Page Description Language (PDL)?**
 A page description language defines how graphics and text appear on a printed page or screen. PostScript is used in **printers, publishing software, and digital typesetting** to accurately render fonts, images, and layouts.
@@ -24,7 +24,7 @@ PostScript does not require explicit type definitions. Variables can hold differ
 PostScript is mainly used for **desktop publishing and electronic publishing**, meaning it helps create and print high-quality documents with precise control over fonts, layout, and graphics.
 
 ### **5. Turing Complete Language**
-Being **Turing complete** means PostScript can, in theory, perform any computation given enough memory and time. This means it can be used for general programming tasks, not just printing.
+Being [**Turing complete**][4] means PostScript can, in theory, perform any computation given enough memory and time. This means it can be used for general programming tasks, not just printing.
 
 ### **6. History and Development**
 - Developed by **Adobe Systems** between **1982 and 1984**.
@@ -227,3 +227,8 @@ You can save this as **hello.ps** and open it with a **PostScript viewer** (e.g.
 15. **ps2pdf** (part of Ghostscript) – Converts PostScript to PDF.  
 16. **pstopdf** (macOS command-line tool) – Converts PostScript to PDF.  
 17. **ImageMagick** – Can render PostScript files into images.  
+
+[1]: https://en.wikipedia.org/wiki/Page_description_language
+[2]: https://en.wikipedia.org/wiki/Dynamic_programming_language
+[3]: https://en.wikipedia.org/wiki/Stack-oriented_programming
+[4]: https://en.wikipedia.org/wiki/Turing_completeness
