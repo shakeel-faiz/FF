@@ -75,6 +75,8 @@ public class ReadXML {
 ### 3. Using JavaScript (Browser)
 JavaScript’s `DOMParser` can parse XML.
 
+This JavaScript code uses the `DOMParser` to parse an XML string (`xmlString`). It extracts the `<title>` element from the parsed XML document and logs its text content (`"XML Guide"`) to the console. This is useful for handling XML data in JavaScript.
+
 ```javascript
 let xmlString = `<?xml version="1.0"?><books><book><title>XML Guide</title></book></books>`;
 let parser = new DOMParser();
