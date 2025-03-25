@@ -27,6 +27,8 @@ An XML file consists of elements, attributes, and hierarchical data. Here's a si
 ### 1. Using Python
 Python’s `xml.etree.ElementTree` module allows easy XML parsing.
 
+This Python script uses `xml.etree.ElementTree` to parse an XML file (`books.xml`). It retrieves all `<book>` elements, extracts their `<title>`, `<author>`, and `<price>` values, and prints them. This allows for easy reading of structured XML data.
+
 ```python
 import xml.etree.ElementTree as ET
 
