@@ -88,6 +88,8 @@ console.log(xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue);
 
 ### 1. Editing with Python
 
+This Python script uses `xml.etree.ElementTree` to parse and modify an XML file (`books.xml`). It finds a `<book>` element with an `id` of `"1"` and updates its `<price>` value to `"24.99"`, then saves the changes back to the file.
+
 ```python
 import xml.etree.ElementTree as ET
 
@@ -102,6 +104,8 @@ tree.write('books.xml')
 ```
 
 ### 2. Editing with Java
+
+This Java program edits an XML file (`books.xml`) using the DOM parser. It loads and normalizes the document, locates the `<book>` element with `id="1"`, updates its `<price>` value to `"24.99"`, and saves the changes back to the file using a `Transformer`.
 
 ```java
 import javax.xml.parsers.*;
@@ -140,6 +144,8 @@ public class EditXML {
 ```
 
 ### 3. Editing with JavaScript
+
+This JavaScript code parses an XML string using `DOMParser`, finds the `<book>` element with `id="1"`, updates its `<price>` value to `"24.99"`, and then converts the modified XML back to a string using `XMLSerializer`. Finally, it logs the updated XML.
 
 ```javascript
 let xmlString = `<?xml version="1.0"?><books><book id="1"><title>XML Guide</title><price>29.99</price></book></books>`;
