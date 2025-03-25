@@ -43,6 +43,8 @@ for book in root.findall('book'):
 ### 2. Using Java
 Java provides `javax.xml.parsers` for XML handling.
 
+This Java program reads and parses an XML file (`books.xml`) using the DOM Parser. It first loads and normalizes the XML document, then retrieves all `<book>` elements. Inside a loop, it extracts and prints the text content of each `<title>` tag. This allows reading book titles from an XML file efficiently.
+
 ```java
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
