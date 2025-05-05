@@ -5,7 +5,7 @@
 
 If you're looking for **sample files to download** for testing, development, or automation workflows, this resource hub gives you instant access to high-quality, realistic documents. Each **sample download file** is crafted to help developers, QA engineers, and learners validate features without creating dummy content from scratch.
 
-Whether you need a simple spreadsheet or a complex PDF, you’ll find the right file to download here — no registration, no friction.
+From basic spreadsheets to detailed PDFs, everything you need is available for download — no sign-ups, no hassle.
 
 ## Download PDF Test Files
 
