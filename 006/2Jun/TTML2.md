@@ -66,6 +66,36 @@ TTML2 has been adopted and supported by various organizations and standards bodi
 
 These contributors have played significant roles in the development and implementation of TTML2 .
 
+## How to open TTML2 file?
+
+You can open and view a TTML2 file using different tools, depending on whether you want to read the text, edit the content, or display it as subtitles. TTML2 files are **XML-based**, so they can be opened in any text or XML editor, but to **play or test** them as subtitles, you need compatible tools.
+
+### To View or Edit
+
+Use any **text editor**:
+
+* **Windows**: Notepad or Notepad++
+* **Mac/Linux**: TextEdit or VS Code
+
+Just **right-click the file** → **Open with** → choose your editor.
+
+### To Play as Subtitles (with video)
+
+TTML2 is not supported by most media players directly.
+You need to **convert it to [SRT][4]** or **WebVTT** using tools like:
+
+* **Subtitle Edit** (free app for Windows)
+
+### To Use on a Website
+
+Use it in a `<video>` tag like this:
+
+```html
+<track src="captions.ttml" kind="subtitles" label="English" srclang="en">
+```
+
+> Note: Most browsers don’t support TTML directly. Convert to **WebVTT** for better compatibility.
+
 ## Reference
 
 For an in-depth understanding and technical details, you can refer to the full TTML2 specification:
@@ -75,3 +105,4 @@ For an in-depth understanding and technical details, you can refer to the full T
 [1]: https://www.loc.gov/preservation/digital/formats/fdd/fdd000588.shtml
 [2]: https://www.w3.org/news/2018/ttml1-3rd-ttml2-ttml-imsc1-are-w3c-recommendations/
 [3]: https://www.w3.org/TR/2018/REC-ttml2-20181108/
+[4]: https://docs.fileformat.com/video/srt/
