@@ -28,7 +28,7 @@ A typical TTML2 document consists of:
     * `<metadata>`: Includes document-level metadata such as title and copyright.
     * `<styling>`: Defines style specifications.
     * `<layout>`: Specifies layout regions.
-  * `<body>`: Contains the timed text content, referencing styles and layouts.([The Library of Congress][2], [W3C][4])
+  * `<body>`: Contains the timed text content, referencing styles and layouts.
 
 ### Example:
 
