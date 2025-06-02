@@ -30,7 +30,7 @@ A typical TTML2 document consists of:
     * `<layout>`: Specifies layout regions.
   * `<body>`: Contains the timed text content, referencing styles and layouts.
 
-### Example:
+e.g.
 
 ```xml
 <tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
@@ -42,6 +42,40 @@ A typical TTML2 document consists of:
   <body/>
 </tt>
 ```
+
+### Example:
+
+Here's a simple example of a **TTML2** file:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling"
+    xml:lang="en">
+  <head>
+    <styling>
+      <style xml:id="s1" tts:fontSize="16px" tts:color="white" tts:backgroundColor="black"/>
+    </styling>
+    <layout>
+      <region xml:id="bottom" tts:origin="10% 80%" tts:extent="80% 10%"/>
+    </layout>
+  </head>
+  <body region="bottom">
+    <div>
+      <p begin="00:00:01.000" end="00:00:04.000" style="s1">
+        Hello, this is an example of TTML2 subtitles.
+      </p>
+      <p begin="00:00:05.000" end="00:00:08.000" style="s1">
+        These captions are timed and styled.
+      </p>
+    </div>
+  </body>
+</tt>
+```
+
+* `<p begin="..." end="...">`: Shows the subtitle text with timing.
+* `<style>` and `<region>`: Define how and where the text appears.
+* `<tt>`: Root element of the TTML2 document.
 
 ## Changes from TTML1
 
