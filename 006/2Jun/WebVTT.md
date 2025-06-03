@@ -145,3 +145,6 @@ For better formatting, preview, and syncing:
 1. Create a simple HTML file with a `<video>` and `<track>` tag.
 2. Open the HTML file in a browser to view the video with subtitles.
 
+## References
+
+- [WebVTT: The Web Video Text Tracks Format](https://www.w3.org/TR/webvtt1/)
