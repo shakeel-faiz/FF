@@ -116,7 +116,7 @@ Just **right-click the file** → **Open with** → choose your editor.
 ### To Play as Subtitles (with video)
 
 TTML2 is not supported by most media players directly.
-You need to **convert it to [SRT][4]** or **WebVTT** using tools like:
+You need to **convert it to [SRT][4]** or [**WebVTT**][5] using tools like:
 
 * **Subtitle Edit** (free app for Windows)
 
@@ -140,3 +140,4 @@ For an in-depth understanding and technical details, you can refer to the full T
 [2]: https://www.w3.org/news/2018/ttml1-3rd-ttml2-ttml-imsc1-are-w3c-recommendations/
 [3]: https://www.w3.org/TR/2018/REC-ttml2-20181108/
 [4]: https://docs.fileformat.com/video/srt/
+[5]: https://docs.fileformat.com/video/webvtt/
