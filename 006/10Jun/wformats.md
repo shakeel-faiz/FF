@@ -21,50 +21,59 @@ Let’s dive into the full list.
 * **Description:** Legacy format used in Microsoft Word versions before 2007.
 * **Use Case:** For compatibility with older software.
 * **Note:** Larger file sizes, lacks support for modern features.
+* **Read About**: [DOC][1]
 
 ### 2. **.docx** – Word Document (Open XML)
 
 * **Description:** The current standard Word document format.
 * **Use Case:** Everyday document editing, sharing, and collaboration.
 * **Note:** Smaller files, supports images, charts, SmartArt, etc.
+* **Read About**: [DOCX][2]
 
 ### 3. **.dot** – Word 97–2003 Template
 
 * **Description:** Template format for creating consistent documents in older Word versions.
 * **Use Case:** Reusable formats for Word 97–2003.
+* **Read About**: [DOT][3]
 
 ### 4. **.dotx** – Word Template (Open XML)
 
 * **Description:** A modern Word template format without macros.
 * **Use Case:** Standard templates for resumes, invoices, etc.
 * **Note:** Doesn’t allow macro execution.
+* **Read About**: [DOTX][4]
 
 ### 5. **.dotm** – Word Macro-Enabled Template
 
 * **Description:** Template format that includes macros (VBA scripts).
 * **Use Case:** Automating repetitive tasks with templates.
 * **Note:** Used in organizations and advanced setups.
+* **Read About**: [DOTM][5]
 
 ### 6. **.docm** – Word Macro-Enabled Document
 
 * **Description:** Like .docx but supports embedded macros.
 * **Use Case:** Advanced Word documents requiring automation.
 * **Security Tip:** Always check macro-enabled files for safety.
+* **Read About**: [DOCM][6]
 
 ### 7. **.rtf** – Rich Text Format
 
 * **Description:** Cross-platform text format with basic formatting.
 * **Use Case:** Transferring formatted text between different systems.
+* **Read About**: [RTF][7]
 
 ### 8. **.txt** – Plain Text
 
 * **Description:** Unformatted text file.
 * **Use Case:** Notes, code, or when no formatting is needed.
+* **Read About**: [TXT][8]
 
 ### 9. **.xml** – Word XML Document
 
 * **Description:** A structured XML version of a Word document.
 * **Use Case:** Data processing, integrations, or custom formatting workflows.
+* **Read About**: [XML][9]
 
 ### 10. **.pdf** – Portable Document Format
 
@@ -117,3 +126,13 @@ Here’s a quick reference guide:
 There’s more to Word than just saving as `.docx`. By understanding the full range of **Microsoft Word file formats**, you can make smarter choices when creating, sharing, or archiving your documents. Whether you’re a power user or just want better compatibility across devices, knowing the right format for the job can save time and reduce frustration.
 
 Looking to convert or work with specific formats? Microsoft Word offers **Save As** and **Export** options to easily switch between formats depending on your need.
+
+[1]: https://docs.fileformat.com/word-processing/doc/
+[2]: https://docs.fileformat.com/word-processing/docx/
+[3]: https://docs.fileformat.com/word-processing/dot/
+[4]: https://docs.fileformat.com/word-processing/dotx/
+[5]: https://docs.fileformat.com/word-processing/dotm/
+[6]: https://docs.fileformat.com/word-processing/docm/
+[7]: https://docs.fileformat.com/word-processing/rtf/
+[8]: https://docs.fileformat.com/word-processing/txt/
+[9]: https://docs.fileformat.com/web/xml/
