@@ -79,31 +79,37 @@ Let’s dive into the full list.
 
 * **Description:** Fixed-layout format ideal for sharing and printing.
 * **Use Case:** Finalized documents like resumes, reports, and eBooks.
+* **Read About**: [PDF][10]
 
 ### 11. **.xps** – XML Paper Specification
 
 * **Description:** Microsoft’s alternative to PDF.
 * **Use Case:** Rarely used; may appear in legacy document archives.
+* **Read About**: [XPS][11]
 
 ### 12. **.odt** – OpenDocument Text
 
 * **Description:** An open-source document format used by LibreOffice and OpenOffice.
 * **Use Case:** Interoperability with non-Microsoft office suites.
+* **Read About**: [ODT][12]
 
 ### 13. **.htm / .html** – Web Page
 
 * **Description:** Document saved as a web page.
 * **Use Case:** Publishing documents online as HTML content.
+* **Read About**: [HTML][13]
 
 ### 14. **.mht / .mhtml** – Single File Web Page
 
 * **Description:** Archive format for saving a web page and its resources in one file.
 * **Use Case:** Offline viewing of web content.
+* **Read About**: [MHTML][14]
 
 ### 15. **.wps** – Microsoft Works Document (Legacy)
 
 * **Description:** Used by the now-discontinued Microsoft Works.
 * **Use Case:** Accessing or converting very old files.
+* **Read About**: [WPS][15]
 
 ## Which Microsoft Word File Format Should You Use?
 
@@ -136,3 +142,9 @@ Looking to convert or work with specific formats? Microsoft Word offers **Save A
 [7]: https://docs.fileformat.com/word-processing/rtf/
 [8]: https://docs.fileformat.com/word-processing/txt/
 [9]: https://docs.fileformat.com/web/xml/
+[10]: https://docs.fileformat.com/pdf/
+[11]: https://docs.fileformat.com/page-description-language/xps/
+[12]: https://docs.fileformat.com/word-processing/odt/
+[13]: https://docs.fileformat.com/web/html/
+[14]: https://docs.fileformat.com/web/mhtml/
+[15]: https://docs.fileformat.com/word-processing/wps/
