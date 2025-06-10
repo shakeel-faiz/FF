@@ -115,3 +115,5 @@ Here’s a quick reference guide:
 ## Conclusion
 
 There’s more to Word than just saving as `.docx`. By understanding the full range of **Microsoft Word file formats**, you can make smarter choices when creating, sharing, or archiving your documents. Whether you’re a power user or just want better compatibility across devices, knowing the right format for the job can save time and reduce frustration.
+
+Looking to convert or work with specific formats? Microsoft Word offers **Save As** and **Export** options to easily switch between formats depending on your need.
