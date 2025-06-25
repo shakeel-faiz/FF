@@ -46,7 +46,7 @@ FDF is especially useful in business environments where:
 
 It’s not something most people use directly, but it works quietly behind the scenes in many automated document workflows.
 
-### Final Thoughts
+## Final Thoughts
 
 So, **what is the difference between PDF and FDF?** In short:
 
