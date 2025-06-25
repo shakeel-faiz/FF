@@ -16,3 +16,16 @@ Think of a PDF as a _final product_—something you print, share, sign, or store
 
 In simpler terms, an FDF is like a list of answers that belong to a quiz, but **not the quiz itself**.
 
+## So, what’s the actual difference between a PDF and an FDF?
+
+Here’s a quick side-by-side comparison of PDF and FDF.
+
+| Feature                   | PDF                                           | FDF                                        |
+| ------------------------- | --------------------------------------------- | ------------------------------------------ |
+| **Full Document Content** | Yes                                         | No                                       |
+| **Form Fields**           | Can contain                                 | Stores only form data                    |
+| **Size**                  | Usually large (includes text, images, layout) | Very small (just data)                     |
+| **Used For**              | Viewing, printing, sharing documents          | Exchanging or submitting form responses    |
+| **Can be Opened Alone**   | Yes                                         | Not useful without the related PDF form |
+| **File Extension**        | `.pdf`                                        | `.fdf`                                     |
+
