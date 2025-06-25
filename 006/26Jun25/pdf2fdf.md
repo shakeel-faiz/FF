@@ -111,9 +111,11 @@ Converting a PDF to FDF can be incredibly helpful if you want to:
 ## FAQ
 
 **Q: Can I extract FDF from a scanned PDF?**
+
 A: No, FDF requires **fillable forms**. A scanned PDF is just an image and doesn’t contain form data.
 
 **Q: Is FDF the same as XFDF?**
+
 A: Not exactly. XFDF is the XML version of FDF. It's more modern and web-friendly.
 
 ---
