@@ -1,3 +1,5 @@
+Learn what FDF (Forms Data Format) is used for and how it works with PDF forms. Discover how it helps export, import, and manage form data efficiently—without altering the original PDF.
+
 ## What is FDF Used For? Understanding the Purpose of Forms Data Format
 
 Have you ever filled out a PDF form—maybe a job application, a tax form, or a survey—and wondered where all your typed-in data actually goes? That’s where **FDF**, or **Forms Data Format**, quietly steps in. While most people are familiar with PDFs, far fewer have heard of FDF. Yet, it plays a vital behind-the-scenes role when it comes to handling form data.
