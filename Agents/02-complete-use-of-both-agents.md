@@ -53,6 +53,7 @@ user.initiate_chat(
 
 The above code is now evolved to use the latest version of autogen
 
+```
 import asyncio
 from autogen_agentchat.agents import AssistantAgent, UserProxyAgent
 from autogen_ext.models.openai import OpenAIChatCompletionClient
@@ -95,3 +96,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+```
