@@ -1,5 +1,7 @@
-Reference
-https://medium.com/@ashutoshsharmaengg/getting-started-with-langgraph-a-beginners-guide-to-building-intelligent-workflows-67eeee0899d0
+## Reference:
+[Code Article][codeartice]
+
+[codeartice]: https://medium.com/@ashutoshsharmaengg/getting-started-with-langgraph-a-beginners-guide-to-building-intelligent-workflows-67eeee0899d0
 
 ## Most Recent Code
 
