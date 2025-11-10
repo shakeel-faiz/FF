@@ -1,6 +1,6 @@
 ## Most Recent Code
 
-```
+```python
 # file: langgraph_conversational_agent.py
 import operator
 from typing import Annotated, TypedDict, List
