@@ -185,6 +185,199 @@ if __name__ == "__main__":
 
 ---
 
+
+## New Code with Critique Workflow
+
+```python
+# ai_blog_publisher_v1_loop.py
+"""
+LangChain v1 Example: Autonomous Blog Agent with critique loop.
+
+Steps:
+1. Research topic via web search
+2. Generate blog post (LLM)
+3. Critique quality; if score < threshold, revise and re-critique
+4. Publish to GitHub
+
+Requirements:
+    pip install langchain openai python-dotenv PyGithub serpapi
+
+Env vars:
+    OPENAI_API_KEY, SERPAPI_API_KEY, GITHUB_TOKEN, GITHUB_REPO, GITHUB_BLOG_PATH
+"""
+
+import os, datetime, json, textwrap
+from typing import Dict, List, Optional
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# ---------------- LangChain v1 imports ----------------
+from langchain.chat_models import init_chat_model
+from langchain.messages import HumanMessage
+from langchain.tools import tool
+from langchain.agents import create_agent
+from github import Github
+
+# ---------------- Config ----------------
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_REPO = os.getenv("GITHUB_REPO")
+GITHUB_BLOG_PATH = os.getenv("GITHUB_BLOG_PATH", "content/posts/")
+
+# ---------------- LLM ----------------
+llm = init_chat_model("gpt-4o-mini", openai_api_key=OPENAI_API_KEY, temperature=0.2)
+
+# ---------------- TOOLS ----------------
+@tool
+def web_search(query: str, max_results: int = 5) -> List[Dict[str, str]]:
+    """Perform web search and return list of {title, snippet, link}."""
+    if not SERPAPI_API_KEY:
+        return []
+    from langchain.utilities import SerpAPIWrapper
+    serp = SerpAPIWrapper(serpapi_api_key=SERPAPI_API_KEY)
+    raw = serp.results(query)
+    organic = raw.get("organic_results") or []
+    return [
+        {"title": r.get("title", ""), "snippet": r.get("snippet", ""), "link": r.get("link", "")}
+        for r in organic[:max_results]
+    ]
+
+
+@tool
+def generate_blog(topic: str, research_notes: str, style: str = "informal but professional", word_count: int = 800) -> str:
+    """Generate a Markdown blog post based on topic and research notes."""
+    prompt = f"""
+You are a skilled blog writer.
+Write a post about "{topic}" using this research:
+{research_notes}
+
+Guidelines:
+- Tone: {style}
+- 3–6 subheadings, intro, TL;DR, and conclusion
+- Around {word_count} words
+- End with 3 suggested tags and a slug
+Return Markdown only.
+"""
+    return llm.invoke([HumanMessage(prompt)]).text
+
+
+@tool
+def critique_blog(markdown: str) -> Dict:
+    """Critique Markdown post for clarity, accuracy, and quality. Return JSON with score and suggestions."""
+    prompt = f"""
+You are an expert editor. Critique the following Markdown post.
+Return JSON with fields:
+{{"score": int(1-100), "issues": [list of short strings], "suggested_changes": "text of proposed improvements"}}.
+Post:
+{markdown}
+"""
+    resp = llm.invoke([HumanMessage(prompt)]).text
+    try:
+        return json.loads(resp[resp.find("{"):])
+    except Exception:
+        return {"score": 60, "issues": ["Could not parse critique output"], "suggested_changes": resp}
+
+
+@tool
+def publish_to_github(title: str, markdown: str) -> Dict:
+    """Publish Markdown file to GitHub repo."""
+    if not (GITHUB_TOKEN and GITHUB_REPO):
+        raise RuntimeError("Missing GitHub credentials")
+    gh = Github(GITHUB_TOKEN)
+    repo = gh.get_repo(GITHUB_REPO)
+    date_str = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+    slug = title.lower().strip().replace(" ", "-").replace("/", "-")
+    filename = f"{GITHUB_BLOG_PATH}{date_str}-{slug}.md"
+    frontmatter = textwrap.dedent(f"""
+    ---
+    title: "{title}"
+    date: {date_str}
+    slug: {slug}
+    draft: false
+    ---
+    """).lstrip()
+    content = frontmatter + "\n" + markdown
+    repo.create_file(filename, f"chore: add post {title}", content)
+    return {"status": "published", "path": filename}
+
+
+# ---------------- AGENT CREATION ----------------
+agent = create_agent(
+    model=llm,
+    tools=[web_search, generate_blog, critique_blog, publish_to_github],
+    system_prompt="You are a multi-step blog publishing agent. Use tools logically: research → generate → critique → (revise if needed) → publish."
+)
+
+
+# ---------------- LOOP ORCHESTRATION ----------------
+def run_blog_workflow(topic: str, style: str = "informal but professional", word_count: int = 800, threshold: int = 75, max_loops: int = 2):
+    """Execute agent steps with critique loop."""
+    # Step 1: Research
+    research = agent.invoke({"messages": [HumanMessage(f"Search for current info about {topic}. Use web_search.")]})
+    notes = str(research)
+
+    # Step 2: Generate
+    gen = agent.invoke({"messages": [HumanMessage(f"Generate a blog post on {topic} using the research below:\n{notes}") ]})
+    post = gen["messages"][-1].content if "messages" in gen else str(gen)
+
+    # Step 3: Critique & loop
+    for i in range(max_loops):
+        crit = agent.invoke({"messages": [HumanMessage(f"Critique this blog post:\n{post}\nUse critique_blog.")]})
+        try:
+            crit_data = json.loads(crit["messages"][-1].content)
+        except Exception:
+            crit_data = {"score": 60, "suggested_changes": crit["messages"][-1].content}
+
+        score = crit_data.get("score", 60)
+        print(f"[Loop {i+1}] Critique score: {score}")
+
+        if score >= threshold:
+            print("[✓] Quality acceptable. Proceeding to publish.")
+            break
+
+        # Re-generate / revise
+        print("[✎] Rewriting with editor suggestions...")
+        suggested = crit_data.get("suggested_changes", "")
+        regen = agent.invoke({"messages": [HumanMessage(
+            f"Revise this post on {topic} considering these editor suggestions:\n{suggested}\nHere is the previous version:\n{post}"
+        )]})
+        post = regen["messages"][-1].content if "messages" in regen else str(regen)
+    else:
+        print("[⚠] Max critique loops reached; publishing last version.")
+
+    # Step 4: Publish
+    title = extract_title(post) or topic
+    publish = agent.invoke({"messages": [HumanMessage(f"Publish this blog post titled '{title}' with publish_to_github. Content:\n{post}")]})
+    return {"title": title, "final_post": post, "publish_result": str(publish)}
+
+
+def extract_title(md: str) -> Optional[str]:
+    for line in md.splitlines():
+        if line.startswith("# "):
+            return line[2:].strip()
+    return None
+
+
+# ---------------- MAIN ----------------
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="LangChain v1 blog agent with critique loop")
+    parser.add_argument("--query", required=True, help="Topic to research and write about")
+    parser.add_argument("--style", default="informal but professional")
+    parser.add_argument("--word_count", type=int, default=800)
+    parser.add_argument("--threshold", type=int, default=75)
+    parser.add_argument("--max_loops", type=int, default=2)
+    args = parser.parse_args()
+
+    result = run_blog_workflow(args.query, args.style, args.word_count, args.threshold, args.max_loops)
+    print(json.dumps(result, indent=2))
+
+```
+
+
+
 If you like, I can **adapt this script fully for your workflow** (research → generate → critique → publish) *and* include a full **LangGraph orchestration version** side-by-side (since v1 supports both). Would you like that?
 
 [1]: https://docs.langchain.com/oss/python/releases/langchain-v1?utm_source=chatgpt.com "What's new in v1 - Docs by LangChain"
