@@ -1,0 +1,46 @@
+```
+(.venv) D:\WorkDesktop\python-projects\10-nov-important\main-agent>uv pip install -U langchain
+
+Resolved 32 packages in 5.40s
+Prepared 32 packages in 1m 14s
+░░░░░░░░░░░░░░░░░░░░ [0/32] Installing wheels...                                                                        warning: Failed to hardlink files; falling back to full copy. This may lead to degraded performance.
+         If the cache and target directories are on different filesystems, hardlinking may not be supported.
+         If this is intentional, set `export UV_LINK_MODE=copy` or use `--link-mode=copy` to suppress this warning.
+Installed 32 packages in 1.11s
+ + annotated-types==0.7.0
+ + anyio==4.11.0
+ + certifi==2025.11.12
+ + charset-normalizer==3.4.4
+ + h11==0.16.0
+ + httpcore==1.0.9
+ + httpx==0.28.1
+ + idna==3.11
+ + jsonpatch==1.33
+ + jsonpointer==3.0.0
+ + langchain==1.0.8
+ + langchain-core==1.0.6
+ + langgraph==1.0.3
+ + langgraph-checkpoint==3.0.1
+ + langgraph-prebuilt==1.0.4
+ + langgraph-sdk==0.2.9
+ + langsmith==0.4.43
+ + orjson==3.11.4
+ + ormsgpack==1.12.0
+ + packaging==25.0
+ + pydantic==2.12.4
+ + pydantic-core==2.41.5
+ + pyyaml==6.0.3
+ + requests==2.32.5
+ + requests-toolbelt==1.0.0
+ + sniffio==1.3.1
+ + tenacity==9.1.2
+ + typing-extensions==4.15.0
+ + typing-inspection==0.4.2
+ + urllib3==2.5.0
+ + xxhash==3.6.0
+ + zstandard==0.25.0
+```
+
+
+
+
