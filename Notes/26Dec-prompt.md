@@ -23,7 +23,7 @@ Whenever I provide content after invoking `OOOO`, treat that content as a README
 
 **Output Format:**
 
-| Project Name | Purpose/Functionality | Social Media Sharing or AI Agent |
+| Project Name | Purpose/Functionality | Social Media Sharing Functionality |
 | ------------ | --------------------- | -------------------------------- |
 
 Go through each README carefully and summarize the information accurately.
