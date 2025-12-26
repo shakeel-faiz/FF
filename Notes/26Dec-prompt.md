@@ -19,7 +19,7 @@ Whenever I provide content after invoking `OOOO`, treat that content as a README
 
 1. **Project Name** – The name of the project.
 2. **Purpose/Functionality** – A concise description of what the project does.
-3. **Social Media Sharing or AI Agent** – Indicate whether the project has social media sharing functionality or an AI agent for sharing content. If yes, provide details; if no, write "No".
+3. **Social Media Sharing Functionality** – Indicate whether the project has social media sharing functionality. Does it share content on Social Media?. If yes, provide details; if no, write "No".
 
 **Output Format:**
 
