@@ -10,7 +10,7 @@ When reading any paragraph:
 6. If NO → attribute / method / event
 
 ## Class Diagram (PlantUML)
-```
+```PlantUML
 @startuml
 abstract class Sensor {
   +readValue()
