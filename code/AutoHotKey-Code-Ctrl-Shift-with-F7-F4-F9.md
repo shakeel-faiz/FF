@@ -48,3 +48,16 @@
 #SuspendExempt False
 
 ```
+
+## For Drag and Drop
+using ctrl+insert and ctrl+delete
+
+```
+#Requires AutoHotkey v2.0
+
+; Press Insert to lock the left mouse click down (Drag)
+^Insert::Click "Down"
+
+; Press Delete to release the left mouse click (Drop)
+^Delete::Click "Up"
+```
