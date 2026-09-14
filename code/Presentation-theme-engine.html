@@ -1,0 +1,172 @@
+
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Core Slide Canvas Architecture - Theme Engine</title>
+  
+  <style>
+    /* ==========================================================================
+       ENTERPRISE DESIGN TOKENS (UI/UX Slide Engine Config)
+       ========================================================================== */
+    :root {
+      /* Presentation Workspace - Light Variant */
+      --canvas-bg-main: #f4f5f7;
+      --canvas-bg-workspace: #ffffff;
+      --slide-border: #e2e8f0;
+      
+      /* Typography Tokens */
+      --text-main-title: #0f172a;
+      --text-sub-content: #475569;
+      
+      /* Core Action Controls */
+      --action-primary: #2563eb;
+      --action-hover: #1d4ed8;
+      --action-text: #ffffff;
+      
+      --engine-transition-latency: 0.25s;
+    }
+
+    [data-theme="dark"] {
+      /* Presentation Workspace - Dark Variant (Aspose Canvas Sync) */
+      --canvas-bg-main: #0b0f19;
+      --canvas-bg-workspace: #1e293b;
+      --slide-border: #334155;
+      
+      --text-main-title: #f8fafc;
+      --text-sub-content: #94a3b8;
+      
+      --action-primary: #3b82f6;
+      --action-hover: #60a5fa;
+    }
+
+    /* ==========================================================================
+       WORKSPACE LAYOUT & OBJECT ARCHITECTURE
+       ========================================================================== */
+    body {
+      background-color: var(--canvas-bg-main);
+      color: var(--text-main-title);
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      margin: 0;
+      padding: 1.5rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      box-sizing: border-box;
+      transition: background-color var(--engine-transition-latency) ease;
+    }
+
+    /* Presentation Canvas Mockup Container */
+    .slide-canvas-container {
+      background-color: var(--canvas-bg-workspace);
+      border: 1px solid var(--slide-border);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-width: 480px;
+      width: 100%;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05);
+      transition: background-color var(--engine-transition-latency) ease, border-color var(--engine-transition-latency) ease;
+    }
+
+    .slide-canvas__header {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .slide-canvas__meta {
+      color: var(--text-sub-content);
+      line-height: 1.6;
+      margin-bottom: 2rem;
+      font-size: 0.95rem;
+    }
+
+    /* System Control Button */
+    .ctrl-action-trigger {
+      background-color: var(--action-primary);
+      color: var(--action-text);
+      border: none;
+      padding: 0.85rem 1.75rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9rem;
+      width: 100%;
+      letter-spacing: 0.01em;
+      transition: background-color var(--engine-transition-latency) ease, opacity var(--engine-transition-latency) ease;
+    }
+
+    .ctrl-action-trigger:hover {
+      background-color: var(--action-hover);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Mockup Interface for AI Slide Generator Workspace -->
+  <main class="slide-canvas-container">
+    <h1 class="slide-canvas__header">AI Presentation Workspace</h1>
+    <p class="slide-canvas__meta">
+      This runtime environment previews the system interface configuration. Use the controller below to simulate workspace environment changes (Light/Dark Engine States) for the Aspose.Slides export simulator.
+    </p>
+    <button id="uiEngineStateToggle" class="ctrl-action-trigger" aria-label="Toggle Workspace Interface State">
+      Initialize Dark Workspace State
+    </button>
+  </main>
+
+  <!-- ==========================================================================
+       WORKSPACE CONTROLLER & CORE TRANSFORMS
+       ========================================================================== */ -->
+  <script>
+    (() => {
+      'use strict';
+
+      // Design System Configuration Space
+      const STORAGE_KEY_THEME = 'app_workspace_theme_state';
+      const ATTR_THEME = 'data-theme';
+
+      document.addEventListener('DOMContentLoaded', () => {
+        const uiToggleControl = document.getElementById('uiEngineStateToggle');
+        const rootContext = document.documentElement;
+
+        if (!uiToggleControl) return;
+
+        // Establish core runtime preferences
+        const persistedState = localStorage.getItem(STORAGE_KEY_THEME);
+        const systemOsDarkMatch = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        const runtimeInitialState = persistedState || (systemOsDarkMatch ? 'dark' : 'light');
+        
+        // Execute initial state injection
+        applyRuntimeThemeState(runtimeInitialState);
+
+        // Core UI Interactivity Event
+        uiToggleControl.addEventListener('click', () => {
+          const activeState = rootContext.getAttribute(ATTR_THEME);
+          const targetedState = activeState === 'dark' ? 'light' : 'dark';
+          applyRuntimeThemeState(targetedState);
+        });
+
+        /**
+         * Orchestrates the visual state updates across the document layout context
+         * @param {string} themeStateTarget - Explicit target state ('light' | 'dark')
+         */
+        function applyRuntimeThemeState(themeStateTarget) {
+          rootContext.setAttribute(ATTR_THEME, themeStateTarget);
+          localStorage.setItem(STORAGE_KEY_THEME, themeStateTarget);
+          
+          // Update control layout tracking text dynamically
+          uiToggleControl.textContent = themeStateTarget === 'dark' 
+            ? 'Initialize Light Workspace State' 
+            : 'Initialize Dark Workspace State';
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
+
