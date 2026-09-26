@@ -20,6 +20,10 @@ function Set-GitCommitDateById2 ($id, $dt) {
 Set-GitCommitDateById2 "935b186f357ce15cd256c0eb6343956ccc618014" "2026-09-21T09:11:21"
 ```
 
+**Note: Instead of giving full commit id, you can also give first 5 digits**
+```
+Set-GitCommitDateById2 "935b1" "2026-09-21T09:11:21"
+```
 
 # GitLab Tested Workflow - OutDated
 
