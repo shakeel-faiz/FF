@@ -1,4 +1,27 @@
-# GitLab Tested Workflow
+# GitLab Tested Workflow - Upgraded
+
+Just give the commit id of the grandest parent and all will be done automatically
+
+```
+function Set-GitCommitDateById2 ($id, $dt) {
+    # Date ko sahi format mein lana
+    $formattedDate = (Get-Date $dt).ToString("yyyy-MM-dd HH:mm:ss")
+    # Pura Commit Hash nikalna
+    $fullCommitId = (git rev-parse $id).Trim()
+
+    # Sirf filter-branch ke andar hi env variables ka istemal karein
+    git filter-branch --env-filter "if [ `$GIT_COMMIT = '$fullCommitId' ]; then export GIT_AUTHOR_DATE='$formattedDate'; export GIT_COMMITTER_DATE='$formattedDate'; fi" --force
+
+    # Purana backup clear karna taake agli baar error na aaye
+    git update-ref -d refs/original/refs/heads/master 2>$null
+    Write-Host "Kamyabi se date badal gayi hai!" -ForegroundColor Green
+}
+
+Set-GitCommitDateById2 "935b186f357ce15cd256c0eb6343956ccc618014" "2026-09-21T09:11:21"
+```
+
+
+# GitLab Tested Workflow - OutDated
 
 Always commit like this with past dates
 
